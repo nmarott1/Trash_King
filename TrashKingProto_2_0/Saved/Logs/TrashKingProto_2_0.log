@@ -858,3 +858,1535 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.10.22-22.29.06:133][245]AssetCheck: New page: Asset Save: multiple assets
 [2020.10.22-22.29.06:133][245]LogContentValidation: Display: Validating World /Game/Levels/ApartmentComplex.ApartmentComplex
 [2020.10.22-22.29.06:133][245]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/ApartmentComplex_BuiltData.ApartmentComplex_BuiltData
+[2020.10.22-22.29.34:937][709]SourceControl: fatal: E:/Program Files/Epic Games/UE_4.25/Engine/Content: 'E:/Program Files/Epic Games/UE_4.25/Engine/Content' is outside repository at 'E:/Unreal Projects/Trash_King'
+[2020.10.22-22.29.34:937][709]SourceControl: fatal: E:/Program Files/Epic Games/UE_4.25/Engine/Plugins/2D/Paper2D/Content: 'E:/Program Files/Epic Games/UE_4.25/Engine/Plugins/2D/Paper2D/Content' is outside repository at 'E:/Unreal Projects/Trash_King'
+[2020.10.22-22.29.34:937][709]SourceControl: fatal: E:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Developer/AnimationSharing/Content: 'E:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Developer/AnimationSharing/Content' is outside repository at 'E:/Unreal Projects/Trash_King'
+[2020.10.22-22.29.34:937][709]SourceControl: fatal: E:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Editor/GeometryMode/Content: 'E:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Editor/GeometryMode/Content' is outside repository at 'E:/Unreal Projects/Trash_King'
+[2020.10.22-22.29.34:937][709]SourceControl: fatal: E:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Enterprise/DatasmithContent/Content: 'E:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Enterprise/DatasmithContent/Content' is outside repository at 'E:/Unreal Projects/Trash_King'
+[2020.10.22-22.29.34:937][709]SourceControl: fatal: E:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Experimental/ChaosClothEditor/Content: 'E:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Experimental/ChaosClothEditor/Content' is outside repository at 'E:/Unreal Projects/Trash_King'
+[2020.10.22-22.29.34:937][709]SourceControl: fatal: E:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Experimental/ChaosNiagara/Content: 'E:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Experimental/ChaosNiagara/Content' is outside repository at 'E:/Unreal Projects/Trash_King'
+[2020.10.22-22.29.34:937][709]SourceControl: fatal: E:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Experimental/ChaosSolverPlugin/Content: 'E:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Experimental/ChaosSolverPlugin/Content' is outside repository at 'E:/Unreal Projects/Trash_King'
+[2020.10.22-22.29.34:937][709]SourceControl: fatal: E:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content: 'E:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content' is outside repository at 'E:/Unreal Projects/Trash_King'
+[2020.10.22-22.29.34:937][709]SourceControl: fatal: E:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Experimental/GeometryProcessing/Content: 'E:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Experimental/GeometryProcessing/Content' is outside repository at 'E:/Unreal Projects/Trash_King'
+[2020.10.22-22.29.34:938][709]SourceControl: fatal: E:/Program Files/Epic Games/UE_4.25/Engine/Plugins/FX/Niagara/Content: 'E:/Program Files/Epic Games/UE_4.25/Engine/Plugins/FX/Niagara/Content' is outside repository at 'E:/Unreal Projects/Trash_King'
+[2020.10.22-22.29.34:938][709]SourceControl: fatal: E:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Lumin/MagicLeap/Content: 'E:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Lumin/MagicLeap/Content' is outside repository at 'E:/Unreal Projects/Trash_King'
+[2020.10.22-22.29.34:938][709]SourceControl: fatal: E:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content: 'E:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content' is outside repository at 'E:/Unreal Projects/Trash_King'
+[2020.10.22-22.29.34:938][709]SourceControl: fatal: E:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Media/MediaCompositing/Content: 'E:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Media/MediaCompositing/Content' is outside repository at 'E:/Unreal Projects/Trash_King'
+[2020.10.22-22.29.34:938][709]SourceControl: fatal: E:/Program Files/Epic Games/UE_4.25/Engine/Plugins/MovieScene/MovieRenderPipeline/Content: 'E:/Program Files/Epic Games/UE_4.25/Engine/Plugins/MovieScene/MovieRenderPipeline/Content' is outside repository at 'E:/Unreal Projects/Trash_King'
+[2020.10.22-22.29.34:938][709]SourceControl: fatal: E:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Runtime/Oculus/OculusVR/Content: 'E:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Runtime/Oculus/OculusVR/Content' is outside repository at 'E:/Unreal Projects/Trash_King'
+[2020.10.22-22.29.34:938][709]SourceControl: fatal: E:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Runtime/PostSplashScreen/Content: 'E:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Runtime/PostSplashScreen/Content' is outside repository at 'E:/Unreal Projects/Trash_King'
+[2020.10.22-22.29.34:938][709]SourceControl: fatal: E:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Runtime/Steam/SteamVR/Content: 'E:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Runtime/Steam/SteamVR/Content' is outside repository at 'E:/Unreal Projects/Trash_King'
+[2020.10.22-22.29.35:019][709]EditorErrors: Warning: No assets to check in!
+[2020.10.22-22.29.47:226][108]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2020.10.22-22.29.47:284][108]LogSavePackage: Moving '../../../../../../Unreal Projects/Trash_King/TrashKingProto_2_0/Saved/ApartmentComplexDF4EC936424AE47943D5ECBE99A6F1BE.tmp' to '../../../../../../Unreal Projects/Trash_King/TrashKingProto_2_0/Content/Levels/ApartmentComplex.umap'
+[2020.10.22-22.29.47:363][108]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/ApartmentComplex_BuiltData" FILE="../../../../../../Unreal Projects/Trash_King/TrashKingProto_2_0/Content/Levels/ApartmentComplex_BuiltData.uasset" SILENT=true
+[2020.10.22-22.29.47:386][108]LogSavePackage: Moving '../../../../../../Unreal Projects/Trash_King/TrashKingProto_2_0/Saved/ApartmentComplex_BuiltData91A1035E492C8CD9087718BB63E34511.tmp' to '../../../../../../Unreal Projects/Trash_King/TrashKingProto_2_0/Content/Levels/ApartmentComplex_BuiltData.uasset'
+[2020.10.22-22.29.47:393][108]AssetCheck: New page: Asset Save: multiple assets
+[2020.10.22-22.29.47:393][108]LogContentValidation: Display: Validating World /Game/Levels/ApartmentComplex.ApartmentComplex
+[2020.10.22-22.29.47:393][108]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/ApartmentComplex_BuiltData.ApartmentComplex_BuiltData
+[2020.10.22-22.31.21:430][259]SourceControl: fatal: E:/Program Files/Epic Games/UE_4.25/Engine/Content: 'E:/Program Files/Epic Games/UE_4.25/Engine/Content' is outside repository at 'E:/Unreal Projects/Trash_King'
+[2020.10.22-22.31.21:430][259]SourceControl: fatal: E:/Program Files/Epic Games/UE_4.25/Engine/Plugins/2D/Paper2D/Content: 'E:/Program Files/Epic Games/UE_4.25/Engine/Plugins/2D/Paper2D/Content' is outside repository at 'E:/Unreal Projects/Trash_King'
+[2020.10.22-22.31.21:430][259]SourceControl: fatal: E:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Developer/AnimationSharing/Content: 'E:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Developer/AnimationSharing/Content' is outside repository at 'E:/Unreal Projects/Trash_King'
+[2020.10.22-22.31.21:430][259]SourceControl: fatal: E:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Editor/GeometryMode/Content: 'E:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Editor/GeometryMode/Content' is outside repository at 'E:/Unreal Projects/Trash_King'
+[2020.10.22-22.31.21:430][259]SourceControl: fatal: E:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Enterprise/DatasmithContent/Content: 'E:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Enterprise/DatasmithContent/Content' is outside repository at 'E:/Unreal Projects/Trash_King'
+[2020.10.22-22.31.21:430][259]SourceControl: fatal: E:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Experimental/ChaosClothEditor/Content: 'E:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Experimental/ChaosClothEditor/Content' is outside repository at 'E:/Unreal Projects/Trash_King'
+[2020.10.22-22.31.21:430][259]SourceControl: fatal: E:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Experimental/ChaosNiagara/Content: 'E:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Experimental/ChaosNiagara/Content' is outside repository at 'E:/Unreal Projects/Trash_King'
+[2020.10.22-22.31.21:430][259]SourceControl: fatal: E:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Experimental/ChaosSolverPlugin/Content: 'E:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Experimental/ChaosSolverPlugin/Content' is outside repository at 'E:/Unreal Projects/Trash_King'
+[2020.10.22-22.31.21:430][259]SourceControl: fatal: E:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content: 'E:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content' is outside repository at 'E:/Unreal Projects/Trash_King'
+[2020.10.22-22.31.21:430][259]SourceControl: fatal: E:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Experimental/GeometryProcessing/Content: 'E:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Experimental/GeometryProcessing/Content' is outside repository at 'E:/Unreal Projects/Trash_King'
+[2020.10.22-22.31.21:430][259]SourceControl: fatal: E:/Program Files/Epic Games/UE_4.25/Engine/Plugins/FX/Niagara/Content: 'E:/Program Files/Epic Games/UE_4.25/Engine/Plugins/FX/Niagara/Content' is outside repository at 'E:/Unreal Projects/Trash_King'
+[2020.10.22-22.31.21:430][259]SourceControl: fatal: E:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Lumin/MagicLeap/Content: 'E:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Lumin/MagicLeap/Content' is outside repository at 'E:/Unreal Projects/Trash_King'
+[2020.10.22-22.31.21:430][259]SourceControl: fatal: E:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content: 'E:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content' is outside repository at 'E:/Unreal Projects/Trash_King'
+[2020.10.22-22.31.21:430][259]SourceControl: fatal: E:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Media/MediaCompositing/Content: 'E:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Media/MediaCompositing/Content' is outside repository at 'E:/Unreal Projects/Trash_King'
+[2020.10.22-22.31.21:430][259]SourceControl: fatal: E:/Program Files/Epic Games/UE_4.25/Engine/Plugins/MovieScene/MovieRenderPipeline/Content: 'E:/Program Files/Epic Games/UE_4.25/Engine/Plugins/MovieScene/MovieRenderPipeline/Content' is outside repository at 'E:/Unreal Projects/Trash_King'
+[2020.10.22-22.31.21:430][259]SourceControl: fatal: E:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Runtime/Oculus/OculusVR/Content: 'E:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Runtime/Oculus/OculusVR/Content' is outside repository at 'E:/Unreal Projects/Trash_King'
+[2020.10.22-22.31.21:430][259]SourceControl: fatal: E:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Runtime/PostSplashScreen/Content: 'E:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Runtime/PostSplashScreen/Content' is outside repository at 'E:/Unreal Projects/Trash_King'
+[2020.10.22-22.31.21:430][259]SourceControl: fatal: E:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Runtime/Steam/SteamVR/Content: 'E:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Runtime/Steam/SteamVR/Content' is outside repository at 'E:/Unreal Projects/Trash_King'
+[2020.10.22-22.31.23:837][259]LogSlate: Window 'Save Content' being destroyed
+[2020.10.22-22.31.23:934][259]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2020.10.22-22.31.23:993][259]LogSavePackage: Moving '../../../../../../Unreal Projects/Trash_King/TrashKingProto_2_0/Saved/ApartmentComplexA7862613477311E73E0159B7CC0072FC.tmp' to '../../../../../../Unreal Projects/Trash_King/TrashKingProto_2_0/Content/Levels/ApartmentComplex.umap'
+[2020.10.22-22.31.24:018][259]LogFileHelpers: Saving map 'ApartmentComplex' took 0.094
+[2020.10.22-22.31.24:019][259]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/ApartmentComplex_BuiltData" FILE="../../../../../../Unreal Projects/Trash_King/TrashKingProto_2_0/Content/Levels/ApartmentComplex_BuiltData.uasset" SILENT=true
+[2020.10.22-22.31.24:045][259]LogSavePackage: Moving '../../../../../../Unreal Projects/Trash_King/TrashKingProto_2_0/Saved/ApartmentComplex_BuiltData45FD0C63426CFA5A1D4901AFB56C292C.tmp' to '../../../../../../Unreal Projects/Trash_King/TrashKingProto_2_0/Content/Levels/ApartmentComplex_BuiltData.uasset'
+[2020.10.22-22.31.31:469][259]LogSlate: Window 'Submit Files' being destroyed
+[2020.10.22-22.31.32:103][259]LogSourceControl: commit successful: [master 8d825ff] Fixed roof
+[2020.10.22-22.31.32:137][259]SourceControl: [master 8d825ff] Fixed roof
+[2020.10.22-22.31.32:137][259]SourceControl:  2 files changed, 0 insertions(+), 0 deletions(-)
+[2020.10.22-22.31.32:142][259]SourceControl: Commited [master 8d825ff] Fixed roof.
+[2020.10.22-22.31.32:177][260]AssetCheck: New page: Asset Save: multiple assets
+[2020.10.22-22.31.32:177][260]LogContentValidation: Display: Validating World /Game/Levels/ApartmentComplex.ApartmentComplex
+[2020.10.22-22.31.32:177][260]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/ApartmentComplex_BuiltData.ApartmentComplex_BuiltData
+[2020.10.22-22.34.51:577][885]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Campground" FILE="../../../../../../Unreal Projects/Trash_King/TrashKingProto_2_0/Content/Levels/Campground.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.10.22-22.34.51:592][885]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2020.10.22-22.34.51:646][885]LogSavePackage: Moving '../../../../../../Unreal Projects/Trash_King/TrashKingProto_2_0/Saved/CampgroundC6C3FAD845A006F4B12C46A6C84816B0.tmp' to '../../../../../../Unreal Projects/Trash_King/TrashKingProto_2_0/Content/Levels/Campground.umap'
+[2020.10.22-22.34.51:796][885]LogFileHelpers: Saving map 'Campground' took 0.220
+[2020.10.22-22.34.51:947][885]AssetCheck: New page: Asset Save: Campground
+[2020.10.22-22.34.51:947][885]LogContentValidation: Display: Validating World /Game/Levels/Campground.Campground
+[2020.10.22-22.34.55:016][244]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/Campground.Campground
+[2020.10.22-22.34.55:026][244]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2020.10.22-22.34.55:028][244]Cmd: MAP LOAD FILE="../../../../../../Unreal Projects/Trash_King/TrashKingProto_2_0/Content/Levels/Campground.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.10.22-22.34.55:028][244]LightingResults: New page: Lighting Build
+[2020.10.22-22.34.55:028][244]LoadErrors: New page: Loading map: Campground.umap
+[2020.10.22-22.34.55:063][244]LogWorld: UWorld::CleanupWorld for ApartmentComplex, bSessionEnded=true, bCleanupResources=true
+[2020.10.22-22.34.55:063][244]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.22-22.34.55:063][244]MapCheck: New page: Map Check
+[2020.10.22-22.34.55:063][244]LightingResults: New page: Lighting Build
+[2020.10.22-22.34.55:074][244]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000002123BD4DF80), frame # 185244
+[2020.10.22-22.34.55:074][244]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000021252A79800), frame # 185244
+[2020.10.22-22.34.55:075][244]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2020.10.22-22.34.55:080][244]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.10.22-22.34.55:080][244]LogAIModule: Creating AISystem for world Campground
+[2020.10.22-22.34.55:080][244]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000002124F27F000), frame # 185244
+[2020.10.22-22.34.55:080][244]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000021232829800), frame # 185244
+[2020.10.22-22.34.55:093][244]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2020.10.22-22.34.55:117][244]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.10.22-22.34.55:117][244]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.07ms to complete.
+[2020.10.22-22.34.55:117][244]LogFileHelpers: Loading map 'Campground' took 0.089
+[2020.10.22-22.34.58:136][589]Cmd: DELETE
+[2020.10.22-22.34.58:136][589]Cmd: ACTOR DELETE
+[2020.10.22-22.34.58:142][589]LogEditorActor: Deleted Actor: Brush
+[2020.10.22-22.34.58:150][589]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2020.10.22-22.34.58:176][589]LogEditorActor: Deleted 1 Actors (0.039 secs)
+[2020.10.22-22.34.58:989][683]Cmd: DELETE
+[2020.10.22-22.34.58:989][683]Cmd: ACTOR DELETE
+[2020.10.22-22.34.58:994][683]LogEditorActor: Deleted Actor: Brush
+[2020.10.22-22.34.59:003][683]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2020.10.22-22.34.59:026][683]LogEditorActor: Deleted 1 Actors (0.037 secs)
+[2020.10.22-22.34.59:757][768]Cmd: DELETE
+[2020.10.22-22.34.59:757][768]Cmd: ACTOR DELETE
+[2020.10.22-22.34.59:761][768]LogEditorActor: Deleted Actor: Brush
+[2020.10.22-22.34.59:770][768]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2020.10.22-22.34.59:791][768]LogEditorActor: Deleted 1 Actors (0.035 secs)
+[2020.10.22-22.35.11:308][135]Cmd: DELETE
+[2020.10.22-22.35.11:308][135]Cmd: ACTOR DELETE
+[2020.10.22-22.35.11:313][135]LogEditorActor: Deleted Actor: Brush
+[2020.10.22-22.35.11:313][135]LogEditorActor: Deleted Actor: Brush
+[2020.10.22-22.35.11:313][135]LogEditorActor: Deleted Actor: Brush
+[2020.10.22-22.35.11:315][135]LogEditorActor: Deleted Actor: Brush
+[2020.10.22-22.35.11:315][135]LogEditorActor: Deleted Actor: Brush
+[2020.10.22-22.35.11:315][135]LogEditorActor: Deleted Actor: Brush
+[2020.10.22-22.35.11:315][135]LogEditorActor: Deleted Actor: Brush
+[2020.10.22-22.35.11:315][135]LogEditorActor: Deleted Actor: Brush
+[2020.10.22-22.35.11:315][135]LogEditorActor: Deleted Actor: Brush
+[2020.10.22-22.35.11:315][135]LogEditorActor: Deleted Actor: Brush
+[2020.10.22-22.35.11:315][135]LogEditorActor: Deleted Actor: Brush
+[2020.10.22-22.35.11:315][135]LogEditorActor: Deleted Actor: Brush
+[2020.10.22-22.35.11:315][135]LogEditorActor: Deleted Actor: Brush
+[2020.10.22-22.35.11:315][135]LogEditorActor: Deleted Actor: Brush
+[2020.10.22-22.35.11:315][135]LogEditorActor: Deleted Actor: Brush
+[2020.10.22-22.35.11:315][135]LogEditorActor: Deleted Actor: Brush
+[2020.10.22-22.35.11:316][135]LogEditorActor: Deleted Actor: Brush
+[2020.10.22-22.35.11:316][135]LogEditorActor: Deleted Actor: Brush
+[2020.10.22-22.35.11:324][135]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2020.10.22-22.35.11:343][135]LogEditorActor: Deleted 18 Actors (0.036 secs)
+[2020.10.22-22.35.13:199][348]Cmd: DELETE
+[2020.10.22-22.35.13:199][348]Cmd: ACTOR DELETE
+[2020.10.22-22.35.13:203][348]LogEditorActor: Deleted Actor: Brush
+[2020.10.22-22.35.13:212][348]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2020.10.22-22.35.13:228][348]LogEditorActor: Deleted 1 Actors (0.028 secs)
+[2020.10.22-22.35.15:601][629]Cmd: DELETE
+[2020.10.22-22.35.15:601][629]Cmd: ACTOR DELETE
+[2020.10.22-22.35.15:605][629]LogEditorActor: Deleted Actor: Brush
+[2020.10.22-22.35.15:614][629]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2020.10.22-22.35.15:629][629]LogEditorActor: Deleted 1 Actors (0.029 secs)
+[2020.10.22-22.35.16:335][712]Cmd: DELETE
+[2020.10.22-22.35.16:335][712]Cmd: ACTOR DELETE
+[2020.10.22-22.35.16:339][712]LogEditorActor: Deleted Actor: Brush
+[2020.10.22-22.35.16:348][712]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2020.10.22-22.35.16:365][712]LogEditorActor: Deleted 1 Actors (0.030 secs)
+[2020.10.22-22.35.17:064][794]Cmd: DELETE
+[2020.10.22-22.35.17:064][794]Cmd: ACTOR DELETE
+[2020.10.22-22.35.17:068][794]LogEditorActor: Deleted Actor: Brush
+[2020.10.22-22.35.17:077][794]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2020.10.22-22.35.17:091][794]LogEditorActor: Deleted 1 Actors (0.027 secs)
+[2020.10.22-22.35.21:376][303]Cmd: DELETE
+[2020.10.22-22.35.21:376][303]Cmd: ACTOR DELETE
+[2020.10.22-22.35.21:381][303]LogEditorActor: Deleted Actor: Brush
+[2020.10.22-22.35.21:381][303]LogEditorActor: Deleted Actor: Brush
+[2020.10.22-22.35.21:381][303]LogEditorActor: Deleted Actor: Brush
+[2020.10.22-22.35.21:382][303]LogEditorActor: Deleted Actor: Brush
+[2020.10.22-22.35.21:383][303]LogEditorActor: Deleted Actor: Brush
+[2020.10.22-22.35.21:383][303]LogEditorActor: Deleted Actor: Brush
+[2020.10.22-22.35.21:383][303]LogEditorActor: Deleted Actor: Brush
+[2020.10.22-22.35.21:383][303]LogEditorActor: Deleted Actor: Brush
+[2020.10.22-22.35.21:383][303]LogEditorActor: Deleted Actor: Brush
+[2020.10.22-22.35.21:383][303]LogEditorActor: Deleted Actor: Brush
+[2020.10.22-22.35.21:383][303]LogEditorActor: Deleted Actor: Brush
+[2020.10.22-22.35.21:383][303]LogEditorActor: Deleted Actor: Brush
+[2020.10.22-22.35.21:383][303]LogEditorActor: Deleted Actor: Brush
+[2020.10.22-22.35.21:383][303]LogEditorActor: Deleted Actor: Brush
+[2020.10.22-22.35.21:392][303]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2020.10.22-22.35.21:404][303]LogEditorActor: Deleted 14 Actors (0.028 secs)
+[2020.10.22-22.35.24:402][656]Cmd: DELETE
+[2020.10.22-22.35.24:402][656]Cmd: ACTOR DELETE
+[2020.10.22-22.35.24:405][656]LogEditorActor: Deleted Actor: Brush
+[2020.10.22-22.35.24:414][656]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2020.10.22-22.35.24:426][656]LogEditorActor: Deleted 1 Actors (0.024 secs)
+[2020.10.22-22.35.25:960][834]Cmd: DELETE
+[2020.10.22-22.35.25:960][834]Cmd: ACTOR DELETE
+[2020.10.22-22.35.25:964][834]LogEditorActor: Deleted Actor: Brush
+[2020.10.22-22.35.25:972][834]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2020.10.22-22.35.25:984][834]LogEditorActor: Deleted 1 Actors (0.024 secs)
+[2020.10.22-22.35.29:977][289]Cmd: DELETE
+[2020.10.22-22.35.29:978][289]Cmd: ACTOR DELETE
+[2020.10.22-22.35.29:981][289]LogEditorActor: Deleted Actor: Brush
+[2020.10.22-22.35.29:990][289]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2020.10.22-22.35.30:002][289]LogEditorActor: Deleted 1 Actors (0.024 secs)
+[2020.10.22-22.35.35:470][937]Cmd: DELETE
+[2020.10.22-22.35.35:470][937]Cmd: ACTOR DELETE
+[2020.10.22-22.35.35:475][937]LogEditorActor: Deleted Actor: Brush
+[2020.10.22-22.35.35:475][937]LogEditorActor: Deleted Actor: Brush
+[2020.10.22-22.35.35:475][937]LogEditorActor: Deleted Actor: Brush
+[2020.10.22-22.35.35:476][937]LogEditorActor: Deleted Actor: Brush
+[2020.10.22-22.35.35:476][937]LogEditorActor: Deleted Actor: Brush
+[2020.10.22-22.35.35:476][937]LogEditorActor: Deleted Actor: Brush
+[2020.10.22-22.35.35:476][937]LogEditorActor: Deleted Actor: Brush
+[2020.10.22-22.35.35:476][937]LogEditorActor: Deleted Actor: Brush
+[2020.10.22-22.35.35:476][937]LogEditorActor: Deleted Actor: Brush
+[2020.10.22-22.35.35:476][937]LogEditorActor: Deleted Actor: Brush
+[2020.10.22-22.35.35:477][937]LogEditorActor: Deleted Actor: Brush
+[2020.10.22-22.35.35:477][937]LogEditorActor: Deleted Actor: Brush
+[2020.10.22-22.35.35:477][937]LogEditorActor: Deleted Actor: Brush
+[2020.10.22-22.35.35:477][937]LogEditorActor: Deleted Actor: Brush
+[2020.10.22-22.35.35:477][937]LogEditorActor: Deleted Actor: Brush
+[2020.10.22-22.35.35:477][937]LogEditorActor: Deleted Actor: Brush
+[2020.10.22-22.35.35:477][937]LogEditorActor: Deleted Actor: Brush
+[2020.10.22-22.35.35:477][937]LogEditorActor: Deleted Actor: Brush
+[2020.10.22-22.35.35:478][937]LogEditorActor: Deleted Actor: Brush
+[2020.10.22-22.35.35:478][937]LogEditorActor: Deleted Actor: Brush
+[2020.10.22-22.35.35:478][937]LogEditorActor: Deleted Actor: Brush
+[2020.10.22-22.35.35:478][937]LogEditorActor: Deleted Actor: Brush
+[2020.10.22-22.35.35:478][937]LogEditorActor: Deleted Actor: Brush
+[2020.10.22-22.35.35:478][937]LogEditorActor: Deleted Actor: Brush
+[2020.10.22-22.35.35:478][937]LogEditorActor: Deleted Actor: Brush
+[2020.10.22-22.35.35:478][937]LogEditorActor: Deleted Actor: Brush
+[2020.10.22-22.35.35:479][937]LogEditorActor: Deleted Actor: Brush
+[2020.10.22-22.35.35:479][937]LogEditorActor: Deleted Actor: Brush
+[2020.10.22-22.35.35:479][937]LogEditorActor: Deleted Actor: Brush
+[2020.10.22-22.35.35:479][937]LogEditorActor: Deleted Actor: Brush
+[2020.10.22-22.35.35:479][937]LogEditorActor: Deleted Actor: Brush
+[2020.10.22-22.35.35:479][937]LogEditorActor: Deleted Actor: Brush
+[2020.10.22-22.35.35:479][937]LogEditorActor: Deleted Actor: Brush
+[2020.10.22-22.35.35:480][937]LogEditorActor: Deleted Actor: Brush
+[2020.10.22-22.35.35:480][937]LogEditorActor: Deleted Actor: Brush
+[2020.10.22-22.35.35:489][937]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2020.10.22-22.35.35:493][937]LogEditorActor: Deleted 35 Actors (0.022 secs)
+[2020.10.22-22.39.33:929][878]LogDirectoryWatcher: A directory notification failed for 'E:/Unreal Projects/Trash_King/TrashKingProto_2_0/Content/Collections/' because it could not be accessed. Aborting watch request...
+[2020.10.22-22.39.33:929][878]LogDirectoryWatcher: A directory notification failed for 'E:/Unreal Projects/Trash_King/TrashKingProto_2_0/Content/Developers/Nina/Collections/' because it could not be accessed. Aborting watch request...
+[2020.10.22-22.39.33:929][878]LogDirectoryWatcher: A directory notification failed for 'E:/Unreal Projects/Trash_King/TrashKingProto_2_0/Saved/Collections/' because it could not be accessed. Aborting watch request...
+[2020.10.22-22.40.01:895][723]LogMaterial: Display: Missing cached shader map for material M_SoftShaded, compiling. 
+[2020.10.22-22.40.02:024][723]LogMaterial: Display: Missing cached shader map for material M_SoftShaded, compiling. 
+[2020.10.22-22.40.02:153][723]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 151
+[2020.10.22-22.40.02:153][723]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 141
+[2020.10.22-22.40.02:153][723]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 131
+[2020.10.22-22.40.02:153][723]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 121
+[2020.10.22-22.40.02:153][723]LogStaticMesh: Building static mesh SM_Tent_Family_Closed...
+[2020.10.22-22.40.02:339][723]LogStaticMesh: Built static mesh [0.19s] /Game/SoftShaded_Camp/Meshes/Tents/Tent_Family/SM_Tent_Family_Closed.SM_Tent_Family_Closed
+[2020.10.22-22.40.02:425][723]LogActorFactory: Actor Factory created SM_Tent_Family_Closed
+[2020.10.22-22.40.03:143][805]LogActorFactory: Actor Factory created SM_Tent_Family_Closed
+[2020.10.22-22.40.04:481][907]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 262
+[2020.10.22-22.40.04:629][924]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 252
+[2020.10.22-22.40.05:124][983]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 242
+[2020.10.22-22.40.05:223][995]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 232
+[2020.10.22-22.40.06:198][112]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 222
+[2020.10.22-22.40.06:363][131]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 212
+[2020.10.22-22.40.06:529][151]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 202
+[2020.10.22-22.40.07:057][213]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 192
+[2020.10.22-22.40.07:948][320]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 182
+[2020.10.22-22.40.08:007][327]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 172
+[2020.10.22-22.40.08:710][406]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 162
+[2020.10.22-22.40.08:928][426]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 152
+[2020.10.22-22.40.10:177][531]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 142
+[2020.10.22-22.40.10:229][535]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 132
+[2020.10.22-22.40.10:458][552]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 122
+[2020.10.22-22.40.10:879][586]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 112
+[2020.10.22-22.40.11:699][649]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 102
+[2020.10.22-22.40.11:874][664]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 92
+[2020.10.22-22.40.11:944][670]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 82
+[2020.10.22-22.40.12:668][730]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 72
+[2020.10.22-22.40.13:256][779]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 62
+[2020.10.22-22.40.13:463][797]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 52
+[2020.10.22-22.40.13:616][810]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 42
+[2020.10.22-22.40.14:512][883]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 32
+[2020.10.22-22.40.14:923][917]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 23
+[2020.10.22-22.40.15:495][963]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 17
+[2020.10.22-22.40.15:685][978]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 12
+[2020.10.22-22.40.16:360][ 32]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 8
+[2020.10.22-22.40.16:444][ 39]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 5
+[2020.10.22-22.40.16:869][ 73]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2020.10.22-22.40.16:907][ 76]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2020.10.22-22.40.17:101][ 92]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2020.10.22-22.40.54:048][774]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.10.22-22.41.14:210][170]LogMaterial: Display: Missing cached shader map for material M_SoftShaded, compiling. 
+[2020.10.22-22.41.14:257][170]LogStaticMesh: Building static mesh SM_Tent_Family...
+[2020.10.22-22.41.14:260][170]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 151
+[2020.10.22-22.41.14:260][170]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 141
+[2020.10.22-22.41.14:260][170]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 131
+[2020.10.22-22.41.14:260][170]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 121
+[2020.10.22-22.41.14:441][170]LogStaticMesh: Built static mesh [0.18s] /Game/SoftShaded_Camp/Meshes/Tents/Tent_Family/SM_Tent_Family.SM_Tent_Family
+[2020.10.22-22.41.14:465][170]LogActorFactory: Actor Factory created SM_Tent_Family
+[2020.10.22-22.41.15:374][264]LogActorFactory: Actor Factory created SM_Tent_Family
+[2020.10.22-22.41.15:447][268]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 111
+[2020.10.22-22.41.15:613][280]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 101
+[2020.10.22-22.41.16:122][301]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 91
+[2020.10.22-22.41.16:137][303]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 81
+[2020.10.22-22.41.17:215][427]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 71
+[2020.10.22-22.41.17:363][444]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 61
+[2020.10.22-22.41.17:576][470]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 51
+[2020.10.22-22.41.18:069][529]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 41
+[2020.10.22-22.41.18:937][633]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 31
+[2020.10.22-22.41.19:088][651]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 23
+[2020.10.22-22.41.19:955][755]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 17
+[2020.10.22-22.41.20:126][774]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 12
+[2020.10.22-22.41.20:719][845]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 8
+[2020.10.22-22.41.20:848][860]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2020.10.22-22.41.21:330][917]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 3
+[2020.10.22-22.41.21:431][929]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2020.10.22-22.41.21:555][944]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2020.10.22-22.41.32:655][225]LogMaterial: Display: Missing cached shader map for material M_SoftShaded, compiling. 
+[2020.10.22-22.41.32:699][225]LogStaticMesh: Building static mesh SM_Tent_Square...
+[2020.10.22-22.41.32:715][225]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 151
+[2020.10.22-22.41.32:715][225]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 141
+[2020.10.22-22.41.32:715][225]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 131
+[2020.10.22-22.41.32:715][225]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 121
+[2020.10.22-22.41.32:753][225]LogStaticMesh: Built static mesh [0.05s] /Game/SoftShaded_Camp/Meshes/Tents/Tent_Square/SM_Tent_Square.SM_Tent_Square
+[2020.10.22-22.41.32:760][225]LogMaterial: Display: Missing cached shader map for material M_SoftShaded, compiling. 
+[2020.10.22-22.41.32:806][225]LogMaterial: Display: Missing cached shader map for material M_SoftShaded, compiling. 
+[2020.10.22-22.41.32:850][225]LogMaterial: Display: Missing cached shader map for material M_SoftShaded, compiling. 
+[2020.10.22-22.41.32:916][225]LogActorFactory: Actor Factory created SM_Tent_Square
+[2020.10.22-22.41.33:665][306]LogActorFactory: Actor Factory created SM_Tent_Square
+[2020.10.22-22.41.33:834][321]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 564
+[2020.10.22-22.41.33:980][333]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 554
+[2020.10.22-22.41.34:448][347]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 544
+[2020.10.22-22.41.34:457][349]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 534
+[2020.10.22-22.41.35:536][472]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 524
+[2020.10.22-22.41.35:645][485]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 514
+[2020.10.22-22.41.35:886][514]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 504
+[2020.10.22-22.41.36:346][569]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 494
+[2020.10.22-22.41.37:205][672]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 484
+[2020.10.22-22.41.37:372][692]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 474
+[2020.10.22-22.41.38:085][776]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 464
+[2020.10.22-22.41.38:226][793]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 454
+[2020.10.22-22.41.39:604][954]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 444
+[2020.10.22-22.41.39:707][966]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 434
+[2020.10.22-22.41.39:906][990]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 424
+[2020.10.22-22.41.40:398][ 49]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 414
+[2020.10.22-22.41.41:145][135]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 404
+[2020.10.22-22.41.41:358][159]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 394
+[2020.10.22-22.41.41:391][163]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 384
+[2020.10.22-22.41.42:187][256]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 374
+[2020.10.22-22.41.42:773][310]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 364
+[2020.10.22-22.41.43:028][331]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 354
+[2020.10.22-22.41.43:113][340]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 344
+[2020.10.22-22.41.44:142][446]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 334
+[2020.10.22-22.41.44:516][490]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 324
+[2020.10.22-22.41.44:974][542]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 314
+[2020.10.22-22.41.45:269][574]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 304
+[2020.10.22-22.41.46:598][721]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 294
+[2020.10.22-22.41.46:623][723]LogMaterial: Display: Missing cached shader map for material M_SoftShaded, compiling. 
+[2020.10.22-22.41.46:672][723]LogStaticMesh: Building static mesh SM_Tent_Long...
+[2020.10.22-22.41.46:681][723]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 435
+[2020.10.22-22.41.46:726][723]LogStaticMesh: Built static mesh [0.05s] /Game/SoftShaded_Camp/Meshes/Tents/Tent_Long/SM_Tent_Long.SM_Tent_Long
+[2020.10.22-22.41.46:733][723]LogMaterial: Display: Missing cached shader map for material M_SoftShaded, compiling. 
+[2020.10.22-22.41.46:859][730]LogActorFactory: Actor Factory created SM_Tent_Long
+[2020.10.22-22.41.46:987][734]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 576
+[2020.10.22-22.41.47:163][741]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 566
+[2020.10.22-22.41.48:276][828]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 556
+[2020.10.22-22.41.48:354][837]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 546
+[2020.10.22-22.41.48:445][848]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 536
+[2020.10.22-22.41.48:965][910]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 526
+[2020.10.22-22.41.49:835][  5]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 516
+[2020.10.22-22.41.49:968][ 21]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 506
+[2020.10.22-22.41.50:196][ 47]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 496
+[2020.10.22-22.41.50:807][107]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 486
+[2020.10.22-22.41.51:558][178]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 476
+[2020.10.22-22.41.52:118][245]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 466
+[2020.10.22-22.41.52:185][253]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 456
+[2020.10.22-22.41.53:781][412]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 446
+[2020.10.22-22.41.53:922][429]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 436
+[2020.10.22-22.41.54:148][456]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 426
+[2020.10.22-22.41.54:407][486]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 416
+[2020.10.22-22.41.55:368][582]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 406
+[2020.10.22-22.41.55:567][606]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 396
+[2020.10.22-22.41.55:584][607]LogActorFactory: Actor Factory created SM_Tent_Long
+[2020.10.22-22.41.55:637][610]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 386
+[2020.10.22-22.41.56:124][668]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 376
+[2020.10.22-22.41.56:551][719]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.10.22-22.41.57:097][778]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 366
+[2020.10.22-22.41.57:183][788]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 356
+[2020.10.22-22.41.57:378][811]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 346
+[2020.10.22-22.41.57:937][874]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 336
+[2020.10.22-22.41.58:830][981]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 326
+[2020.10.22-22.41.59:314][ 39]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 316
+[2020.10.22-22.41.59:532][ 65]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 306
+[2020.10.22-22.42.00:462][176]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 296
+[2020.10.22-22.42.01:307][277]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Tent_Square)
+[2020.10.22-22.42.01:372][280]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 286
+[2020.10.22-22.42.01:406][283]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 276
+[2020.10.22-22.42.01:633][310]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 266
+[2020.10.22-22.42.02:221][376]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 256
+[2020.10.22-22.42.03:014][471]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 246
+[2020.10.22-22.42.03:023][472]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 236
+[2020.10.22-22.42.03:290][504]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 226
+[2020.10.22-22.42.03:936][580]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 216
+[2020.10.22-22.42.04:703][672]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 206
+[2020.10.22-22.42.04:910][697]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 196
+[2020.10.22-22.42.05:261][739]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 186
+[2020.10.22-22.42.05:642][784]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 176
+[2020.10.22-22.42.06:085][837]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Tent_Long)
+[2020.10.22-22.42.06:827][914]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 166
+[2020.10.22-22.42.06:893][922]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 156
+[2020.10.22-22.42.07:845][ 35]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 146
+[2020.10.22-22.42.08:195][ 77]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 136
+[2020.10.22-22.42.08:905][162]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 126
+[2020.10.22-22.42.09:121][188]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 116
+[2020.10.22-22.42.09:446][221]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 106
+[2020.10.22-22.42.10:046][293]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 96
+[2020.10.22-22.42.10:617][361]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 86
+[2020.10.22-22.42.10:867][391]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 76
+[2020.10.22-22.42.11:108][420]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 66
+[2020.10.22-22.42.12:054][533]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 56
+[2020.10.22-22.42.12:203][551]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 46
+[2020.10.22-22.42.12:763][617]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 36
+[2020.10.22-22.42.13:082][655]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 26
+[2020.10.22-22.42.14:062][766]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 19
+[2020.10.22-22.42.14:794][853]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 14
+[2020.10.22-22.42.15:422][928]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 10
+[2020.10.22-22.42.15:445][931]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 7
+[2020.10.22-22.42.15:463][933]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 5
+[2020.10.22-22.42.15:786][971]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 3
+[2020.10.22-22.42.15:868][981]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2020.10.22-22.42.15:959][991]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2020.10.22-22.42.21:067][593]Cmd: TRANSACTION UNDO
+[2020.10.22-22.42.21:067][593]LogEditorTransaction: Undo Move Actors
+[2020.10.22-22.42.29:957][610]Cmd: DELETE
+[2020.10.22-22.42.29:957][610]Cmd: ACTOR DELETE
+[2020.10.22-22.42.29:960][610]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.10.22-22.42.29:969][610]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2020.10.22-22.42.29:972][610]LogEditorActor: Deleted 1 Actors (0.015 secs)
+[2020.10.22-22.42.30:621][688]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Tent_Square)
+[2020.10.22-22.42.31:033][733]Cmd: DELETE
+[2020.10.22-22.42.31:033][733]Cmd: ACTOR DELETE
+[2020.10.22-22.42.31:036][733]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.10.22-22.42.31:045][733]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2020.10.22-22.42.31:046][733]LogEditorActor: Deleted 1 Actors (0.013 secs)
+[2020.10.22-22.42.36:233][328]LogActorFactory: Actor Factory created SM_Tent_Family
+[2020.10.22-22.42.36:765][391]LogActorFactory: Actor Factory created SM_Tent_Family
+[2020.10.22-22.42.39:752][745]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Tent_Family_Closed)
+[2020.10.22-22.42.46:979][602]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Tent_Family2)
+[2020.10.22-22.43.06:664][896]LogStaticMesh: Building static mesh SM_FireWood_Pile...
+[2020.10.22-22.43.06:705][896]LogStaticMesh: Built static mesh [0.04s] /Game/SoftShaded_Camp/Meshes/FireWood/SM_FireWood_Pile.SM_FireWood_Pile
+[2020.10.22-22.43.06:777][902]LogActorFactory: Actor Factory created SM_FireWood_Pile
+[2020.10.22-22.43.07:297][962]LogActorFactory: Actor Factory created SM_FireWood_Pile
+[2020.10.22-22.43.23:545][857]LogMaterial: Display: Missing cached shader map for material M_Fire, compiling. 
+[2020.10.22-22.43.23:556][857]LogStaticMesh: Building static mesh SM_Fire...
+[2020.10.22-22.43.23:577][857]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 19
+[2020.10.22-22.43.23:577][857]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 14
+[2020.10.22-22.43.23:577][857]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2020.10.22-22.43.23:577][857]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4
+[2020.10.22-22.43.23:584][857]LogStaticMesh: Built static mesh [0.03s] /Game/SoftShaded_Camp/Meshes/Fire/SM_Fire.SM_Fire
+[2020.10.22-22.43.23:611][857]LogActorFactory: Actor Factory created SM_Fire
+[2020.10.22-22.43.26:167][128]LogActorFactory: Actor Factory created SM_Fire
+[2020.10.22-22.43.37:540][471]LogStaticMesh: Building static mesh SM_Bench...
+[2020.10.22-22.43.37:597][471]LogStaticMesh: Built static mesh [0.06s] /Game/SoftShaded_Camp/Meshes/Bench/SM_Bench.SM_Bench
+[2020.10.22-22.43.37:638][474]LogActorFactory: Actor Factory created SM_Bench
+[2020.10.22-22.43.38:558][578]LogActorFactory: Actor Factory created SM_Bench
+[2020.10.22-22.43.41:724][948]LogActorFactory: Actor Factory created SM_Bench
+[2020.10.22-22.43.42:474][ 37]LogActorFactory: Actor Factory created SM_Bench
+[2020.10.22-22.43.51:636][122]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Bench)
+[2020.10.22-22.43.54:224][428]Cmd: TRANSACTION UNDO
+[2020.10.22-22.43.54:224][428]LogEditorTransaction: Undo Move Actors
+[2020.10.22-22.43.56:248][624]Cmd: TRANSACTION UNDO
+[2020.10.22-22.43.56:248][624]LogEditorTransaction: Undo Move Actors
+[2020.10.22-22.44.10:714][327]LogStaticMesh: Building static mesh SM_CampingChair...
+[2020.10.22-22.44.10:789][327]LogStaticMesh: Built static mesh [0.07s] /Game/SoftShaded_Camp/Meshes/CampingChair/SM_CampingChair.SM_CampingChair
+[2020.10.22-22.44.10:817][327]LogActorFactory: Actor Factory created SM_CampingChair
+[2020.10.22-22.44.12:217][487]LogActorFactory: Actor Factory created SM_CampingChair
+[2020.10.22-22.44.22:621][715]LogActorFactory: Actor Factory created SM_CampingChair
+[2020.10.22-22.44.25:594][ 64]LogActorFactory: Actor Factory created SM_CampingChair
+[2020.10.22-22.44.54:869][531]LogStaticMesh: Building static mesh SM_CampingTable...
+[2020.10.22-22.44.54:952][531]LogStaticMesh: Built static mesh [0.08s] /Game/SoftShaded_Camp/Meshes/CampingTable/SM_CampingTable.SM_CampingTable
+[2020.10.22-22.44.54:961][531]LogMaterial: Display: Missing cached shader map for material M_SoftShaded, compiling. 
+[2020.10.22-22.44.55:006][531]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 151
+[2020.10.22-22.44.55:006][531]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 141
+[2020.10.22-22.44.55:006][531]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 131
+[2020.10.22-22.44.55:006][531]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 121
+[2020.10.22-22.44.55:006][531]LogMaterial: Display: Missing cached shader map for material M_SoftShaded, compiling. 
+[2020.10.22-22.44.55:070][531]LogActorFactory: Actor Factory created SM_CampingTable
+[2020.10.22-22.44.56:184][614]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 262
+[2020.10.22-22.44.56:335][619]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 252
+[2020.10.22-22.44.56:778][659]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 242
+[2020.10.22-22.44.56:812][663]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 232
+[2020.10.22-22.44.57:805][715]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 222
+[2020.10.22-22.44.57:963][734]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 212
+[2020.10.22-22.44.58:124][752]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 202
+[2020.10.22-22.44.58:572][804]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 192
+[2020.10.22-22.44.59:525][918]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 182
+[2020.10.22-22.44.59:582][925]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 172
+[2020.10.22-22.45.00:109][987]LogActorFactory: Actor Factory created SM_CampingTable
+[2020.10.22-22.45.00:231][998]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 162
+[2020.10.22-22.45.00:325][  9]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 152
+[2020.10.22-22.45.01:776][168]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 142
+[2020.10.22-22.45.01:892][181]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 132
+[2020.10.22-22.45.02:112][206]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 122
+[2020.10.22-22.45.02:570][254]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 112
+[2020.10.22-22.45.03:396][345]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 102
+[2020.10.22-22.45.03:578][367]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 92
+[2020.10.22-22.45.03:620][372]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 82
+[2020.10.22-22.45.04:385][463]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 72
+[2020.10.22-22.45.04:984][532]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 62
+[2020.10.22-22.45.05:193][554]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 52
+[2020.10.22-22.45.05:308][568]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 42
+[2020.10.22-22.45.06:053][650]LogMaterial: Display: Missing cached shader map for material M_SoftShaded, compiling. 
+[2020.10.22-22.45.06:108][650]LogStaticMesh: Building static mesh SM_Backpack...
+[2020.10.22-22.45.06:259][650]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 183
+[2020.10.22-22.45.06:259][650]LogStaticMesh: Built static mesh [0.15s] /Game/SoftShaded_Camp/Meshes/Backpack/SM_Backpack.SM_Backpack
+[2020.10.22-22.45.06:291][650]LogActorFactory: Actor Factory created SM_Backpack
+[2020.10.22-22.45.06:659][666]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 173
+[2020.10.22-22.45.07:089][714]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 163
+[2020.10.22-22.45.07:346][744]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 153
+[2020.10.22-22.45.07:924][812]LogActorFactory: Actor Factory created SM_Backpack
+[2020.10.22-22.45.08:821][914]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 143
+[2020.10.22-22.45.08:914][925]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 133
+[2020.10.22-22.45.09:372][980]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 123
+[2020.10.22-22.45.09:448][988]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 113
+[2020.10.22-22.45.10:642][117]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 103
+[2020.10.22-22.45.10:675][121]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 93
+[2020.10.22-22.45.10:722][126]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 83
+[2020.10.22-22.45.11:268][191]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 73
+[2020.10.22-22.45.12:244][308]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 63
+[2020.10.22-22.45.12:303][315]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 53
+[2020.10.22-22.45.12:528][342]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 43
+[2020.10.22-22.45.13:143][414]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 33
+[2020.10.22-22.45.14:002][517]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 24
+[2020.10.22-22.45.14:463][572]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 17
+[2020.10.22-22.45.14:564][584]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 12
+[2020.10.22-22.45.15:287][670]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 8
+[2020.10.22-22.45.15:723][722]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2020.10.22-22.45.15:920][745]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3
+[2020.10.22-22.45.16:021][757]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2
+[2020.10.22-22.45.16:127][769]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2020.10.22-22.45.21:651][392]LogStaticMesh: Building static mesh SM_CoolingBox...
+[2020.10.22-22.45.21:735][392]LogStaticMesh: Built static mesh [0.08s] /Game/SoftShaded_Camp/Meshes/CoolingBox/SM_CoolingBox.SM_CoolingBox
+[2020.10.22-22.45.21:770][393]LogActorFactory: Actor Factory created SM_CoolingBox
+[2020.10.22-22.45.23:342][576]LogActorFactory: Actor Factory created SM_CoolingBox
+[2020.10.22-22.45.29:744][336]Cmd: TRANSACTION UNDO
+[2020.10.22-22.45.29:744][336]LogEditorTransaction: Undo Move Actors
+[2020.10.22-22.45.33:132][693]Cmd: TRANSACTION UNDO
+[2020.10.22-22.45.33:133][693]LogEditorTransaction: Undo Move Actors
+[2020.10.22-22.45.53:813][ 54]LogStaticMesh: Building static mesh SM_SleepingBag_Open...
+[2020.10.22-22.45.53:856][ 54]LogStaticMesh: Built static mesh [0.04s] /Game/SoftShaded_Camp/Meshes/SleepingBags/SM_SleepingBag_Open.SM_SleepingBag_Open
+[2020.10.22-22.45.53:922][ 59]LogActorFactory: Actor Factory created SM_SleepingBag_Open
+[2020.10.22-22.45.54:483][122]LogActorFactory: Actor Factory created SM_SleepingBag_Open
+[2020.10.22-22.46.07:363][636]LogStaticMesh: Building static mesh SM_SleepingBag_Closed...
+[2020.10.22-22.46.07:446][636]LogStaticMesh: Built static mesh [0.08s] /Game/SoftShaded_Camp/Meshes/SleepingBags/SM_SleepingBag_Closed.SM_SleepingBag_Closed
+[2020.10.22-22.46.07:478][636]LogActorFactory: Actor Factory created SM_SleepingBag_Closed
+[2020.10.22-22.46.08:229][720]LogActorFactory: Actor Factory created SM_SleepingBag_Closed
+[2020.10.22-22.46.12:452][207]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_SleepingBag_Open)
+[2020.10.22-22.46.21:412][263]LogStaticMesh: Building static mesh SM_Pavillon...
+[2020.10.22-22.46.21:505][263]LogStaticMesh: Built static mesh [0.09s] /Game/SoftShaded_Camp/Meshes/Pavillon/SM_Pavillon.SM_Pavillon
+[2020.10.22-22.46.21:529][263]LogActorFactory: Actor Factory created SM_Pavillon
+[2020.10.22-22.46.22:475][371]LogActorFactory: Actor Factory created SM_Pavillon
+[2020.10.22-22.46.24:580][619]Cmd: TRANSACTION UNDO
+[2020.10.22-22.46.24:580][619]LogEditorTransaction: Undo Create Actors
+[2020.10.22-22.46.26:082][743]LogActorFactory: Actor Factory created SM_Pavillon
+[2020.10.22-22.46.26:545][796]LogActorFactory: Actor Factory created SM_Pavillon
+[2020.10.22-22.46.28:476][ 24]Cmd: DELETE
+[2020.10.22-22.46.28:476][ 24]Cmd: ACTOR DELETE
+[2020.10.22-22.46.28:479][ 24]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.10.22-22.46.28:489][ 24]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2020.10.22-22.46.28:492][ 24]LogEditorActor: Deleted 1 Actors (0.015 secs)
+[2020.10.22-22.46.33:853][652]LogStaticMesh: Building static mesh SM_StoneCircle...
+[2020.10.22-22.46.33:976][652]LogStaticMesh: Built static mesh [0.12s] /Game/SoftShaded_Camp/Meshes/StoneCircle/SM_StoneCircle.SM_StoneCircle
+[2020.10.22-22.46.33:998][652]LogActorFactory: Actor Factory created SM_StoneCircle
+[2020.10.22-22.46.35:656][849]LogActorFactory: Actor Factory created SM_StoneCircle
+[2020.10.22-22.46.36:088][898]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.10.22-22.46.43:695][797]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_FireWood_Pile)
+[2020.10.22-22.46.47:664][269]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Fire)
+[2020.10.22-22.46.51:327][704]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_CampingChair)
+[2020.10.22-22.46.54:866][124]Cmd: DUPLICATE
+[2020.10.22-22.46.54:866][124]Cmd: ACTOR DUPLICATE
+[2020.10.22-22.47.06:862][554]Cmd: DUPLICATE
+[2020.10.22-22.47.06:862][554]Cmd: ACTOR DUPLICATE
+[2020.10.22-22.47.28:532][ 97]LogStaticMesh: Building static mesh SM_TreeBench...
+[2020.10.22-22.47.28:571][ 97]LogStaticMesh: Built static mesh [0.04s] /Game/SoftShaded_Camp/Meshes/TreeBench/SM_TreeBench.SM_TreeBench
+[2020.10.22-22.47.28:648][104]LogActorFactory: Actor Factory created SM_TreeBench
+[2020.10.22-22.47.29:526][204]LogActorFactory: Actor Factory created SM_TreeBench
+[2020.10.22-22.47.56:025][325]LogStaticMesh: Building static mesh SM_Can01...
+[2020.10.22-22.47.56:059][325]LogStaticMesh: Built static mesh [0.03s] /Game/SoftShaded_Camp/Meshes/Cans/SM_Can01.SM_Can01
+[2020.10.22-22.47.56:177][333]LogActorFactory: Actor Factory created SM_Can01
+[2020.10.22-22.47.58:442][598]LogActorFactory: Actor Factory created SM_Can01
+[2020.10.22-22.47.59:709][733]LogActorFactory: Actor Factory created SM_Can01
+[2020.10.22-22.48.00:847][863]LogActorFactory: Actor Factory created SM_Can01
+[2020.10.22-22.48.02:145][ 17]LogActorFactory: Actor Factory created SM_Can01
+[2020.10.22-22.48.08:586][785]Cmd: DELETE
+[2020.10.22-22.48.08:586][785]Cmd: ACTOR DELETE
+[2020.10.22-22.48.08:588][785]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.10.22-22.48.08:598][785]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2020.10.22-22.48.08:601][785]LogEditorActor: Deleted 1 Actors (0.015 secs)
+[2020.10.22-22.48.09:397][881]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Can01)
+[2020.10.22-22.48.09:768][922]Cmd: DELETE
+[2020.10.22-22.48.09:768][922]Cmd: ACTOR DELETE
+[2020.10.22-22.48.09:771][922]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.10.22-22.48.09:780][922]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2020.10.22-22.48.09:782][922]LogEditorActor: Deleted 1 Actors (0.013 secs)
+[2020.10.22-22.48.16:774][732]LogStaticMesh: Building static mesh SM_GasGrill...
+[2020.10.22-22.48.16:914][732]LogStaticMesh: Built static mesh [0.14s] /Game/SoftShaded_Camp/Meshes/Grill/SM_GasGrill.SM_GasGrill
+[2020.10.22-22.48.16:943][732]LogActorFactory: Actor Factory created SM_GasGrill
+[2020.10.22-22.48.17:435][787]LogActorFactory: Actor Factory created SM_GasGrill
+[2020.10.22-22.48.29:441][214]LogMaterial: Display: Missing cached shader map for material M_SoftShaded, compiling. 
+[2020.10.22-22.48.29:486][214]LogStaticMesh: Building static mesh SM_Steak...
+[2020.10.22-22.48.29:508][214]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 151
+[2020.10.22-22.48.29:508][214]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 141
+[2020.10.22-22.48.29:508][214]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 131
+[2020.10.22-22.48.29:508][214]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 121
+[2020.10.22-22.48.29:524][214]LogStaticMesh: Built static mesh [0.04s] /Game/SoftShaded_Camp/Meshes/Grill/SM_Steak.SM_Steak
+[2020.10.22-22.48.29:543][214]LogActorFactory: Actor Factory created SM_Steak
+[2020.10.22-22.48.30:690][316]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 111
+[2020.10.22-22.48.30:857][320]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 101
+[2020.10.22-22.48.31:325][358]LogActorFactory: Actor Factory created SM_Steak
+[2020.10.22-22.48.31:339][358]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 91
+[2020.10.22-22.48.31:366][359]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 81
+[2020.10.22-22.48.32:457][490]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 71
+[2020.10.22-22.48.32:582][505]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 61
+[2020.10.22-22.48.32:774][528]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 51
+[2020.10.22-22.48.33:265][587]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 41
+[2020.10.22-22.48.34:183][697]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 31
+[2020.10.22-22.48.34:317][713]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 23
+[2020.10.22-22.48.35:114][807]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 17
+[2020.10.22-22.48.35:272][826]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 12
+[2020.10.22-22.48.35:880][899]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 8
+[2020.10.22-22.48.35:955][908]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2020.10.22-22.48.36:454][964]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 3
+[2020.10.22-22.48.36:563][977]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2020.10.22-22.48.36:693][992]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2020.10.22-22.50.17:366][931]LogActorFactory: Actor Factory created SM_Backpack
+[2020.10.22-22.50.18:296][ 37]LogActorFactory: Actor Factory created SM_Backpack
+[2020.10.22-22.51.19:163][ 86]LogActorFactory: Actor Factory created SM_CoolingBox
+[2020.10.22-22.51.20:345][223]LogActorFactory: Actor Factory created SM_CoolingBox
+[2020.10.22-22.51.39:442][454]LogMaterial: Display: Missing cached shader map for material M_Glass, compiling. 
+[2020.10.22-22.51.39:484][454]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 45
+[2020.10.22-22.51.39:484][454]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 35
+[2020.10.22-22.51.39:484][454]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 25
+[2020.10.22-22.51.39:484][454]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 15
+[2020.10.22-22.51.39:484][454]LogStaticMesh: Building static mesh SM_Lantern...
+[2020.10.22-22.51.39:574][454]LogStaticMesh: Built static mesh [0.09s] /Game/SoftShaded_Camp/Meshes/Lantern/SM_Lantern.SM_Lantern
+[2020.10.22-22.51.39:595][454]LogActorFactory: Actor Factory created SM_Lantern
+[2020.10.22-22.51.40:602][544]LogActorFactory: Actor Factory created SM_Lantern
+[2020.10.22-22.51.54:299][146]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Tent_Family2)
+[2020.10.22-22.52.03:964][279]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 5
+[2020.10.22-22.52.04:453][336]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2020.10.22-22.52.04:622][356]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2020.10.22-22.52.04:814][377]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2020.10.22-22.52.29:103][952]LogMaterial: Display: Missing cached shader map for material M_SoftShaded, compiling. 
+[2020.10.22-22.52.29:149][952]LogMaterial: Display: Missing cached shader map for material M_SoftShaded, compiling. 
+[2020.10.22-22.52.29:195][952]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 151
+[2020.10.22-22.52.29:195][952]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 141
+[2020.10.22-22.52.29:195][952]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 131
+[2020.10.22-22.52.29:195][952]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 121
+[2020.10.22-22.52.29:196][952]LogMaterial: Display: Missing cached shader map for material M_SoftShaded, compiling. 
+[2020.10.22-22.52.29:243][952]LogStaticMesh: Building static mesh SM_Toilet_Base...
+[2020.10.22-22.52.29:381][952]LogStaticMesh: Built static mesh [0.14s] /Game/SoftShaded_Camp/Meshes/Toilet/SM_Toilet_Base.SM_Toilet_Base
+[2020.10.22-22.52.29:404][952]LogActorFactory: Actor Factory created SM_Toilet_Base
+[2020.10.22-22.52.30:346][ 34]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 413
+[2020.10.22-22.52.30:498][ 47]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 403
+[2020.10.22-22.52.30:742][ 54]LogActorFactory: Actor Factory created SM_Toilet_Base
+[2020.10.22-22.52.30:949][ 58]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 393
+[2020.10.22-22.52.30:974][ 62]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 383
+[2020.10.22-22.52.31:834][165]Cmd: DELETE
+[2020.10.22-22.52.31:834][165]Cmd: ACTOR DELETE
+[2020.10.22-22.52.31:838][165]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.10.22-22.52.31:847][165]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2020.10.22-22.52.31:850][165]LogEditorActor: Deleted 1 Actors (0.015 secs)
+[2020.10.22-22.52.32:051][190]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 373
+[2020.10.22-22.52.32:193][207]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 363
+[2020.10.22-22.52.32:369][228]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 353
+[2020.10.22-22.52.32:885][281]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 343
+[2020.10.22-22.52.33:779][382]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 333
+[2020.10.22-22.52.33:882][394]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 323
+[2020.10.22-22.52.34:545][474]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 313
+[2020.10.22-22.52.34:714][493]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 303
+[2020.10.22-22.52.36:098][656]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 293
+[2020.10.22-22.52.36:131][660]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 283
+[2020.10.22-22.52.36:338][684]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 273
+[2020.10.22-22.52.36:824][740]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 263
+[2020.10.22-22.52.37:612][822]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 253
+[2020.10.22-22.52.37:812][846]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 243
+[2020.10.22-22.52.37:920][859]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 233
+[2020.10.22-22.52.38:594][938]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 223
+[2020.10.22-22.52.39:138][  3]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 213
+[2020.10.22-22.52.39:395][ 32]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 203
+[2020.10.22-22.52.39:587][ 54]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 193
+[2020.10.22-22.52.40:429][151]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 183
+[2020.10.22-22.52.40:846][199]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 173
+[2020.10.22-22.52.41:380][263]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 163
+[2020.10.22-22.52.41:546][282]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 153
+[2020.10.22-22.52.42:855][435]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 143
+[2020.10.22-22.52.42:921][443]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 133
+[2020.10.22-22.52.43:355][495]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 123
+[2020.10.22-22.52.43:596][521]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 113
+[2020.10.22-22.52.44:637][641]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 103
+[2020.10.22-22.52.44:637][641]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 93
+[2020.10.22-22.52.44:762][655]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 83
+[2020.10.22-22.52.45:381][729]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 73
+[2020.10.22-22.52.46:183][822]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 63
+[2020.10.22-22.52.46:204][825]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 53
+[2020.10.22-22.52.46:469][857]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 43
+[2020.10.22-22.52.47:200][917]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 33
+[2020.10.22-22.52.47:875][989]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 24
+[2020.10.22-22.52.48:358][ 35]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 17
+[2020.10.22-22.52.48:434][ 44]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 12
+[2020.10.22-22.52.49:175][126]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 8
+[2020.10.22-22.52.49:826][200]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2020.10.22-22.52.49:875][206]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3
+[2020.10.22-22.52.49:951][213]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2
+[2020.10.22-22.52.50:016][221]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2020.10.22-22.52.53:078][576]LogStaticMesh: Building static mesh SM_Env_Tree_03...
+[2020.10.22-22.52.53:108][576]LogStaticMesh: Built static mesh [0.03s] /Game/PolygonCity/Meshes/Environments/SM_Env_Tree_03.SM_Env_Tree_03
+[2020.10.22-22.52.53:184][581]LogActorFactory: Actor Factory created SM_Env_Tree_03
+[2020.10.22-22.52.54:538][742]LogActorFactory: Actor Factory created SM_Env_Tree_03
+[2020.10.22-22.53.05:193][994]LogStaticMesh: Building static mesh SM_Env_Tree_02...
+[2020.10.22-22.53.05:211][994]LogStaticMesh: Built static mesh [0.02s] /Game/PolygonCity/Meshes/Environments/SM_Env_Tree_02.SM_Env_Tree_02
+[2020.10.22-22.53.05:325][  2]LogActorFactory: Actor Factory created SM_Env_Tree_02
+[2020.10.22-22.53.07:147][213]LogActorFactory: Actor Factory created SM_Env_Tree_02
+[2020.10.22-22.53.11:687][747]LogStaticMesh: Building static mesh SM_Env_Tree_01...
+[2020.10.22-22.53.11:711][747]LogStaticMesh: Built static mesh [0.03s] /Game/PolygonCity/Meshes/Environments/SM_Env_Tree_01.SM_Env_Tree_01
+[2020.10.22-22.53.11:788][753]LogActorFactory: Actor Factory created SM_Env_Tree_01
+[2020.10.22-22.53.13:338][934]LogActorFactory: Actor Factory created SM_Env_Tree_01
+[2020.10.22-22.53.21:671][924]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Tree_03)
+[2020.10.22-22.53.25:635][395]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Tree_02)
+[2020.10.22-22.53.32:761][242]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Tree_03)
+[2020.10.22-22.53.49:203][184]Cmd: TRANSACTION UNDO
+[2020.10.22-22.53.49:203][184]LogEditorTransaction: Undo Move Actors
+[2020.10.22-22.54.04:943][  3]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Tree_01)
+[2020.10.22-22.54.13:962][ 57]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Tree_14)
+[2020.10.22-22.54.15:893][284]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Tree_11)
+[2020.10.22-22.54.21:267][915]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Tree_9)
+[2020.10.22-22.54.21:962][995]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Tree_3)
+[2020.10.22-22.54.22:942][109]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Tree_10)
+[2020.10.22-22.54.25:830][451]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Tree_4)
+[2020.10.22-22.54.29:627][902]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Tree_9)
+[2020.10.22-22.54.45:965][853]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Tree_14)
+[2020.10.22-22.55.29:073][638]LogStaticMesh: Building static mesh SM_Prop_TrashCan_01...
+[2020.10.22-22.55.29:088][638]LogStaticMesh: Built static mesh [0.01s] /Game/PolygonCity/Meshes/Props/SM_Prop_TrashCan_01.SM_Prop_TrashCan_01
+[2020.10.22-22.55.29:455][676]LogActorFactory: Actor Factory created SM_Prop_TrashCan_01
+[2020.10.22-22.55.29:993][737]LogActorFactory: Actor Factory created SM_Prop_TrashCan_01
+[2020.10.22-22.55.48:425][908]Cmd: DUPLICATE
+[2020.10.22-22.55.48:425][908]Cmd: ACTOR DUPLICATE
+[2020.10.22-22.56.17:338][318]Cmd: DUPLICATE
+[2020.10.22-22.56.17:338][318]Cmd: ACTOR DUPLICATE
+[2020.10.22-22.56.37:920][747]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Tree_48)
+[2020.10.22-22.56.38:978][870]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Tree_24)
+[2020.10.22-22.56.39:977][986]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Tree_48)
+[2020.10.22-22.56.56:575][950]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Tree_47)
+[2020.10.22-22.57.01:771][568]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Tree_36)
+[2020.10.22-22.57.05:274][983]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Tree_42)
+[2020.10.22-22.57.11:259][695]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Tree_46)
+[2020.10.22-22.57.13:596][971]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Tree_49)
+[2020.10.22-22.57.15:704][219]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Prop_TrashCan_01)
+[2020.10.22-22.57.29:099][804]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Tree_44)
+[2020.10.22-22.57.36:582][687]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Campground" FILE="../../../../../../Unreal Projects/Trash_King/TrashKingProto_2_0/Content/Levels/Campground.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.10.22-22.57.36:595][687]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2020.10.22-22.57.36:626][687]LogSavePackage: Moving '../../../../../../Unreal Projects/Trash_King/TrashKingProto_2_0/Saved/Campground59271AEB4CCA94E3B304DBB8A859543B.tmp' to '../../../../../../Unreal Projects/Trash_King/TrashKingProto_2_0/Content/Levels/Campground.umap'
+[2020.10.22-22.57.36:675][687]AssetCheck: New page: Asset Save: Campground
+[2020.10.22-22.57.36:675][687]LogContentValidation: Display: Validating World /Game/Levels/Campground.Campground
+[2020.10.22-22.57.56:049][994]LogTemp: Repeating last play command: Selected Viewport
+[2020.10.22-22.57.56:079][994]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.10.22-22.57.56:115][994]PIE: New page: PIE session: Campground (Oct 22, 2020, 2:57:56 PM)
+[2020.10.22-22.57.56:124][994]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2020.10.22-22.57.56:139][994]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2020.10.22-22.57.56:140][994]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Campground
+[2020.10.22-22.57.56:157][994]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017124s)
+[2020.10.22-22.57.56:158][994]LogAIModule: Creating AISystem for world Campground
+[2020.10.22-22.57.56:158][994]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000212910E5200), frame # 312994
+[2020.10.22-22.57.56:158][994]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002123C45AD40), frame # 312994
+[2020.10.22-22.57.56:158][994]LogPlayLevel: PIE: World Init took: (0.001063s)
+[2020.10.22-22.57.56:158][994]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Campground.Campground to /Game/Levels/UEDPIE_0_Campground.Campground (0.018413s)
+[2020.10.22-22.57.56:170][994]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2020.10.22-22.57.56:175][994]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.10.22-22.57.56:175][994]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.10.22-22.57.56:175][994]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.10.22-22.57.56:175][994]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.10.22-22.57.56:175][994]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.10.22-22.57.56:175][994]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.10.22-22.57.56:175][994]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.10.22-22.57.56:175][994]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.10.22-22.57.56:175][994]LogAudio: Display: Using built-in audio occlusion.
+[2020.10.22-22.57.56:175][994]LogAudioMixer: Display: Initializing audio mixer.
+[2020.10.22-22.57.56:178][994]LogAudioMixer: Display: 0: FrontLeft
+[2020.10.22-22.57.56:178][994]LogAudioMixer: Display: 1: FrontRight
+[2020.10.22-22.57.56:191][994]LogAudioMixer: Display: Using Audio Device Speakers (2- USB Audio Device)
+[2020.10.22-22.57.56:191][994]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.10.22-22.57.56:191][994]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.10.22-22.57.56:191][994]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.10.22-22.57.56:191][994]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.10.22-22.57.56:202][994]LogInit: FAudioDevice initialized.
+[2020.10.22-22.57.56:206][994]LogLoad: Game class is 'TrashKingBase_C'
+[2020.10.22-22.57.56:237][994]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Campground.Campground up for play (max tick rate 0) at 2020.10.22-18.57.56
+[2020.10.22-22.57.56:237][994]LogWorld: Bringing up level for play took: 0.003785
+[2020.10.22-22.57.56:237][994]LogOnline: OSS: Creating online subsystem instance for: :Context_3
+[2020.10.22-22.57.56:261][994]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2020.10.22-22.57.56:272][994]PIE: Server logged in
+[2020.10.22-22.57.56:272][994]PIE: Play in editor total start time 0.21 seconds.
+[2020.10.22-22.58.39:620][184]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.22-22.58.39:620][184]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Campground
+[2020.10.22-22.58.39:620][184]LogWorld: UWorld::CleanupWorld for Campground, bSessionEnded=true, bCleanupResources=true
+[2020.10.22-22.58.39:620][184]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.22-22.58.39:630][184]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.10.22-22.58.39:632][184]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.22-22.58.39:660][184]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.22-22.58.39:660][184]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000002123C45AD40), frame # 318184
+[2020.10.22-22.58.39:660][184]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000212910E5200), frame # 318184
+[2020.10.22-22.58.39:661][184]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2020.10.22-22.58.39:690][185]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2020.10.22-22.58.42:439][463]SourceControl: fatal: E:/Program Files/Epic Games/UE_4.25/Engine/Content: 'E:/Program Files/Epic Games/UE_4.25/Engine/Content' is outside repository at 'E:/Unreal Projects/Trash_King'
+[2020.10.22-22.58.42:439][463]SourceControl: fatal: E:/Program Files/Epic Games/UE_4.25/Engine/Plugins/2D/Paper2D/Content: 'E:/Program Files/Epic Games/UE_4.25/Engine/Plugins/2D/Paper2D/Content' is outside repository at 'E:/Unreal Projects/Trash_King'
+[2020.10.22-22.58.42:439][463]SourceControl: fatal: E:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Developer/AnimationSharing/Content: 'E:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Developer/AnimationSharing/Content' is outside repository at 'E:/Unreal Projects/Trash_King'
+[2020.10.22-22.58.42:439][463]SourceControl: fatal: E:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Editor/GeometryMode/Content: 'E:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Editor/GeometryMode/Content' is outside repository at 'E:/Unreal Projects/Trash_King'
+[2020.10.22-22.58.42:439][463]SourceControl: fatal: E:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Enterprise/DatasmithContent/Content: 'E:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Enterprise/DatasmithContent/Content' is outside repository at 'E:/Unreal Projects/Trash_King'
+[2020.10.22-22.58.42:439][463]SourceControl: fatal: E:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Experimental/ChaosClothEditor/Content: 'E:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Experimental/ChaosClothEditor/Content' is outside repository at 'E:/Unreal Projects/Trash_King'
+[2020.10.22-22.58.42:439][463]SourceControl: fatal: E:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Experimental/ChaosNiagara/Content: 'E:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Experimental/ChaosNiagara/Content' is outside repository at 'E:/Unreal Projects/Trash_King'
+[2020.10.22-22.58.42:439][463]SourceControl: fatal: E:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Experimental/ChaosSolverPlugin/Content: 'E:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Experimental/ChaosSolverPlugin/Content' is outside repository at 'E:/Unreal Projects/Trash_King'
+[2020.10.22-22.58.42:439][463]SourceControl: fatal: E:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content: 'E:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content' is outside repository at 'E:/Unreal Projects/Trash_King'
+[2020.10.22-22.58.42:439][463]SourceControl: fatal: E:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Experimental/GeometryProcessing/Content: 'E:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Experimental/GeometryProcessing/Content' is outside repository at 'E:/Unreal Projects/Trash_King'
+[2020.10.22-22.58.42:439][463]SourceControl: fatal: E:/Program Files/Epic Games/UE_4.25/Engine/Plugins/FX/Niagara/Content: 'E:/Program Files/Epic Games/UE_4.25/Engine/Plugins/FX/Niagara/Content' is outside repository at 'E:/Unreal Projects/Trash_King'
+[2020.10.22-22.58.42:440][463]SourceControl: fatal: E:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Lumin/MagicLeap/Content: 'E:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Lumin/MagicLeap/Content' is outside repository at 'E:/Unreal Projects/Trash_King'
+[2020.10.22-22.58.42:440][463]SourceControl: fatal: E:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content: 'E:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content' is outside repository at 'E:/Unreal Projects/Trash_King'
+[2020.10.22-22.58.42:440][463]SourceControl: fatal: E:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Media/MediaCompositing/Content: 'E:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Media/MediaCompositing/Content' is outside repository at 'E:/Unreal Projects/Trash_King'
+[2020.10.22-22.58.42:440][463]SourceControl: fatal: E:/Program Files/Epic Games/UE_4.25/Engine/Plugins/MovieScene/MovieRenderPipeline/Content: 'E:/Program Files/Epic Games/UE_4.25/Engine/Plugins/MovieScene/MovieRenderPipeline/Content' is outside repository at 'E:/Unreal Projects/Trash_King'
+[2020.10.22-22.58.42:440][463]SourceControl: fatal: E:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Runtime/Oculus/OculusVR/Content: 'E:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Runtime/Oculus/OculusVR/Content' is outside repository at 'E:/Unreal Projects/Trash_King'
+[2020.10.22-22.58.42:440][463]SourceControl: fatal: E:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Runtime/PostSplashScreen/Content: 'E:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Runtime/PostSplashScreen/Content' is outside repository at 'E:/Unreal Projects/Trash_King'
+[2020.10.22-22.58.42:440][463]SourceControl: fatal: E:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Runtime/Steam/SteamVR/Content: 'E:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Runtime/Steam/SteamVR/Content' is outside repository at 'E:/Unreal Projects/Trash_King'
+[2020.10.22-22.58.58:755][463]LogSlate: Window 'Submit Files' being destroyed
+[2020.10.22-22.59.04:417][463]LogSourceControl: commit successful: [master db61ad6] Added Campground Level, started placing assets
+[2020.10.22-22.59.05:087][463]SourceControl: [master db61ad6] Added Campground Level, started placing assets
+[2020.10.22-22.59.05:087][463]SourceControl:  50 files changed, 0 insertions(+), 0 deletions(-)
+[2020.10.22-22.59.05:087][463]SourceControl:  create mode 100644 TrashKingProto_2_0/Content/SoftShaded_Camp/Meshes/AirPump/Mi_AirPump.uasset
+[2020.10.22-22.59.05:087][463]SourceControl:  create mode 100644 TrashKingProto_2_0/Content/SoftShaded_Camp/Meshes/AirPump/Mi_AirPump1.uasset
+[2020.10.22-22.59.05:087][463]SourceControl:  create mode 100644 TrashKingProto_2_0/Content/SoftShaded_Camp/Meshes/AirPump/SM_AirPump.uasset
+[2020.10.22-22.59.05:087][463]SourceControl:  create mode 100644 TrashKingProto_2_0/Content/SoftShaded_Camp/Meshes/Backpack/Mi_Backpack.uasset
+[2020.10.22-22.59.05:087][463]SourceControl:  create mode 100644 TrashKingProto_2_0/Content/SoftShaded_Camp/Meshes/Backpack/Mi_Backpack1.uasset
+[2020.10.22-22.59.05:087][463]SourceControl:  create mode 100644 TrashKingProto_2_0/Content/SoftShaded_Camp/Meshes/Backpack/Mi_Backpack2.uasset
+[2020.10.22-22.59.05:087][463]SourceControl:  create mode 100644 TrashKingProto_2_0/Content/SoftShaded_Camp/Meshes/Backpack/Mi_Backpack3.uasset
+[2020.10.22-22.59.05:087][463]SourceControl:  create mode 100644 TrashKingProto_2_0/Content/SoftShaded_Camp/Meshes/Backpack/Mi_Backpack4.uasset
+[2020.10.22-22.59.05:087][463]SourceControl:  create mode 100644 TrashKingProto_2_0/Content/SoftShaded_Camp/Meshes/Backpack/SM_Backpack.uasset
+[2020.10.22-22.59.05:087][463]SourceControl:  create mode 100644 TrashKingProto_2_0/Content/SoftShaded_Camp/Meshes/Bench/Mi_Bench.uasset
+[2020.10.22-22.59.05:087][463]SourceControl:  create mode 100644 TrashKingProto_2_0/Content/SoftShaded_Camp/Meshes/Bench/SM_Bench.uasset
+[2020.10.22-22.59.05:087][463]SourceControl:  create mode 100644 TrashKingProto_2_0/Content/SoftShaded_Camp/Meshes/Bucket/Mi_Bucket.uasset
+[2020.10.22-22.59.05:087][463]SourceControl:  create mode 100644 TrashKingProto_2_0/Content/SoftShaded_Camp/Meshes/Bucket/Mi_Bucket1.uasset
+[2020.10.22-22.59.05:087][463]SourceControl:  create mode 100644 TrashKingProto_2_0/Content/SoftShaded_Camp/Meshes/Bucket/SM_Bucket.uasset
+[2020.10.22-22.59.05:087][463]SourceControl:  create mode 100644 TrashKingProto_2_0/Content/SoftShaded_Camp/Meshes/CampingChair/Mi_CampingChair.uasset
+[2020.10.22-22.59.05:087][463]SourceControl:  create mode 100644 TrashKingProto_2_0/Content/SoftShaded_Camp/Meshes/CampingChair/Mi_CampingChair1.uasset
+[2020.10.22-22.59.05:087][463]SourceControl:  create mode 100644 TrashKingProto_2_0/Content/SoftShaded_Camp/Meshes/CampingChair/Mi_CampingChair2.uasset
+[2020.10.22-22.59.05:087][463]SourceControl:  create mode 100644 TrashKingProto_2_0/Content/SoftShaded_Camp/Meshes/CampingChair/SM_CampingChair.uasset
+[2020.10.22-22.59.05:087][463]SourceControl:  create mode 100644 TrashKingProto_2_0/Content/SoftShaded_Camp/Meshes/CampingTable/Mi_CampingTable.uasset
+[2020.10.22-22.59.05:087][463]SourceControl:  create mode 100644 TrashKingProto_2_0/Content/SoftShaded_Camp/Meshes/CampingTable/Mi_CampingTable1.uasset
+[2020.10.22-22.59.05:087][463]SourceControl:  create mode 100644 TrashKingProto_2_0/Content/SoftShaded_Camp/Meshes/CampingTable/Mi_CampingTable2.uasset
+[2020.10.22-22.59.05:087][463]SourceControl:  create mode 100644 TrashKingProto_2_0/Content/SoftShaded_Camp/Meshes/CampingTable/SM_CampingTable.uasset
+[2020.10.22-22.59.05:087][463]SourceControl:  create mode 100644 TrashKingProto_2_0/Content/SoftShaded_Camp/Meshes/Cans/Mi_Cans.uasset
+[2020.10.22-22.59.05:087][463]SourceControl:  create mode 100644 TrashKingProto_2_0/Content/SoftShaded_Camp/Meshes/Cans/Mi_Cans1.uasset
+[2020.10.22-22.59.05:087][463]SourceControl:  create mode 100644 TrashKingProto_2_0/Content/SoftShaded_Camp/Meshes/Cans/Mi_Cans2.uasset
+[2020.10.22-22.59.05:087][463]SourceControl:  create mode 100644 TrashKingProto_2_0/Content/SoftShaded_Camp/Meshes/Cans/Mi_Cans3.uasset
+[2020.10.22-22.59.05:087][463]SourceControl:  create mode 100644 TrashKingProto_2_0/Content/SoftShaded_Camp/Meshes/Cans/Mi_Cans4.uasset
+[2020.10.22-22.59.05:087][463]SourceControl:  create mode 100644 TrashKingProto_2_0/Content/SoftShaded_Camp/Meshes/Cans/Mi_Cans5.uasset
+[2020.10.22-22.59.05:087][463]SourceControl:  create mode 100644 TrashKingProto_2_0/Content/SoftShaded_Camp/Meshes/Cans/SM_Can01.uasset
+[2020.10.22-22.59.05:087][463]SourceControl:  create mode 100644 TrashKingProto_2_0/Content/SoftShaded_Camp/Meshes/Cans/SM_Can02.uasset
+[2020.10.22-22.59.05:087][463]SourceControl:  create mode 100644 TrashKingProto_2_0/Content/SoftShaded_Camp/Meshes/Cans/SM_Can02_open.uasset
+[2020.10.22-22.59.05:087][463]SourceControl:  create mode 100644 TrashKingProto_2_0/Content/SoftShaded_Camp/Meshes/Cans/SM_Can03.uasset
+[2020.10.22-22.59.05:087][463]SourceControl:  create mode 100644 TrashKingProto_2_0/Content/SoftShaded_Camp/Meshes/Cans/SM_Can03_open.uasset
+[2020.10.22-22.59.05:087][463]SourceControl:  create mode 100644 TrashKingProto_2_0/Content/SoftShaded_Camp/Meshes/CoolingBox/Mi_CoolingBox_Bottom.uasset
+[2020.10.22-22.59.05:087][463]SourceControl:  create mode 100644 TrashKingProto_2_0/Content/SoftShaded_Camp/Meshes/CoolingBox/Mi_CoolingBox_Top.uasset
+[2020.10.22-22.59.05:087][463]SourceControl:  create mode 100644 TrashKingProto_2_0/Content/SoftShaded_Camp/Meshes/CoolingBox/SM_CoolingBox.uasset
+[2020.10.22-22.59.05:087][463]SourceControl:  create mode 100644 TrashKingProto_2_0/Content/SoftShaded_Camp/Meshes/CoolingBox/SM_CoolingBox_Bottom.uasset
+[2020.10.22-22.59.05:087][463]SourceControl:  create mode 100644 TrashKingProto_2_0/Content/SoftShaded_Camp/Meshes/CoolingBox/SM_CoolingBox_Handle.uasset
+[2020.10.22-22.59.05:087][463]SourceControl:  create mode 100644 TrashKingProto_2_0/Content/SoftShaded_Camp/Meshes/CoolingBox/SM_CoolingBox_Top.uasset
+[2020.10.22-22.59.05:087][463]SourceControl:  create mode 100644 TrashKingProto_2_0/Content/SoftShaded_Camp/Meshes/Fire/SM_Fire.uasset
+[2020.10.22-22.59.05:087][463]SourceControl:  create mode 100644 TrashKingProto_2_0/Content/SoftShaded_Camp/Meshes/FireStand/Mi_FireStand.uasset
+[2020.10.22-22.59.05:087][463]SourceControl:  create mode 100644 TrashKingProto_2_0/Content/SoftShaded_Camp/Meshes/FireStand/SM_FireStand.uasset
+[2020.10.22-22.59.05:087][463]SourceControl:  create mode 100644 TrashKingProto_2_0/Content/SoftShaded_Camp/Meshes/FireWood/Mi_FireWoodBright.uasset
+[2020.10.22-22.59.05:087][463]SourceControl:  create mode 100644 TrashKingProto_2_0/Content/SoftShaded_Camp/Meshes/FireWood/Mi_FireWoodDark.uasset
+[2020.10.22-22.59.05:087][463]SourceControl:  create mode 100644 TrashKingProto_2_0/Content/SoftShaded_Camp/Meshes/FireWood/Mi_FireWood_Pile.uasset
+[2020.10.22-22.59.05:087][463]SourceControl:  create mode 100644 TrashKingProto_2_0/Content/SoftShaded_Camp/Meshes/FireWood/SM_FireWood01.uasset
+[2020.10.22-22.59.05:087][463]SourceControl:  create mode 100644 TrashKingProto_2_0/Content/SoftShaded_Camp/Meshes/FireWood/SM_FireWood02.uasset
+[2020.10.22-22.59.05:087][463]SourceControl:  create mode 100644 TrashKingProto_2_0/Content/SoftShaded_Camp/Meshes/FireWood/SM_FireWood03.uasset
+[2020.10.22-22.59.05:087][463]SourceControl:  create mode 100644 TrashKingProto_2_0/Content/SoftShaded_Camp/Meshes/FireWood/SM_FireWood_Pile.uasset
+[2020.10.22-22.59.05:087][463]SourceControl:  create mode 100644 TrashKingProto_2_0/Content/SoftShaded_Camp/Meshes/Grill/Mi_BarbecueTongs.uasset
+[2020.10.22-22.59.05:087][463]SourceControl: [master b58febd] Added Campground Level, started placing assets
+[2020.10.22-22.59.05:087][463]SourceControl:  Date: Thu Oct 22 18:59:03 2020 -0400
+[2020.10.22-22.59.05:087][463]SourceControl:  100 files changed, 0 insertions(+), 0 deletions(-)
+[2020.10.22-22.59.05:087][463]SourceControl:  create mode 100644 TrashKingProto_2_0/Content/SoftShaded_Camp/Meshes/AirPump/Mi_AirPump.uasset
+[2020.10.22-22.59.05:087][463]SourceControl:  create mode 100644 TrashKingProto_2_0/Content/SoftShaded_Camp/Meshes/AirPump/Mi_AirPump1.uasset
+[2020.10.22-22.59.05:087][463]SourceControl:  create mode 100644 TrashKingProto_2_0/Content/SoftShaded_Camp/Meshes/AirPump/SM_AirPump.uasset
+[2020.10.22-22.59.05:087][463]SourceControl:  create mode 100644 TrashKingProto_2_0/Content/SoftShaded_Camp/Meshes/Backpack/Mi_Backpack.uasset
+[2020.10.22-22.59.05:087][463]SourceControl:  create mode 100644 TrashKingProto_2_0/Content/SoftShaded_Camp/Meshes/Backpack/Mi_Backpack1.uasset
+[2020.10.22-22.59.05:087][463]SourceControl:  create mode 100644 TrashKingProto_2_0/Content/SoftShaded_Camp/Meshes/Backpack/Mi_Backpack2.uasset
+[2020.10.22-22.59.05:087][463]SourceControl:  create mode 100644 TrashKingProto_2_0/Content/SoftShaded_Camp/Meshes/Backpack/Mi_Backpack3.uasset
+[2020.10.22-22.59.05:087][463]SourceControl:  create mode 100644 TrashKingProto_2_0/Content/SoftShaded_Camp/Meshes/Backpack/Mi_Backpack4.uasset
+[2020.10.22-22.59.05:088][463]SourceControl:  create mode 100644 TrashKingProto_2_0/Content/SoftShaded_Camp/Meshes/Backpack/SM_Backpack.uasset
+[2020.10.22-22.59.05:088][463]SourceControl:  create mode 100644 TrashKingProto_2_0/Content/SoftShaded_Camp/Meshes/Bench/Mi_Bench.uasset
+[2020.10.22-22.59.05:088][463]SourceControl:  create mode 100644 TrashKingProto_2_0/Content/SoftShaded_Camp/Meshes/Bench/SM_Bench.uasset
+[2020.10.22-22.59.05:088][463]SourceControl:  create mode 100644 TrashKingProto_2_0/Content/SoftShaded_Camp/Meshes/Bucket/Mi_Bucket.uasset
+[2020.10.22-22.59.05:088][463]SourceControl:  create mode 100644 TrashKingProto_2_0/Content/SoftShaded_Camp/Meshes/Bucket/Mi_Bucket1.uasset
+[2020.10.22-22.59.05:088][463]SourceControl:  create mode 100644 TrashKingProto_2_0/Content/SoftShaded_Camp/Meshes/Bucket/SM_Bucket.uasset
+[2020.10.22-22.59.05:088][463]SourceControl:  create mode 100644 TrashKingProto_2_0/Content/SoftShaded_Camp/Meshes/CampingChair/Mi_CampingChair.uasset
+[2020.10.22-22.59.05:088][463]SourceControl:  create mode 100644 TrashKingProto_2_0/Content/SoftShaded_Camp/Meshes/CampingChair/Mi_CampingChair1.uasset
+[2020.10.22-22.59.05:088][463]SourceControl:  create mode 100644 TrashKingProto_2_0/Content/SoftShaded_Camp/Meshes/CampingChair/Mi_CampingChair2.uasset
+[2020.10.22-22.59.05:088][463]SourceControl:  create mode 100644 TrashKingProto_2_0/Content/SoftShaded_Camp/Meshes/CampingChair/SM_CampingChair.uasset
+[2020.10.22-22.59.05:088][463]SourceControl:  create mode 100644 TrashKingProto_2_0/Content/SoftShaded_Camp/Meshes/CampingTable/Mi_CampingTable.uasset
+[2020.10.22-22.59.05:088][463]SourceControl:  create mode 100644 TrashKingProto_2_0/Content/SoftShaded_Camp/Meshes/CampingTable/Mi_CampingTable1.uasset
+[2020.10.22-22.59.05:088][463]SourceControl:  create mode 100644 TrashKingProto_2_0/Content/SoftShaded_Camp/Meshes/CampingTable/Mi_CampingTable2.uasset
+[2020.10.22-22.59.05:088][463]SourceControl:  create mode 100644 TrashKingProto_2_0/Content/SoftShaded_Camp/Meshes/CampingTable/SM_CampingTable.uasset
+[2020.10.22-22.59.05:088][463]SourceControl:  create mode 100644 TrashKingProto_2_0/Content/SoftShaded_Camp/Meshes/Cans/Mi_Cans.uasset
+[2020.10.22-22.59.05:088][463]SourceControl:  create mode 100644 TrashKingProto_2_0/Content/SoftShaded_Camp/Meshes/Cans/Mi_Cans1.uasset
+[2020.10.22-22.59.05:088][463]SourceControl:  create mode 100644 TrashKingProto_2_0/Content/SoftShaded_Camp/Meshes/Cans/Mi_Cans2.uasset
+[2020.10.22-22.59.05:088][463]SourceControl:  create mode 100644 TrashKingProto_2_0/Content/SoftShaded_Camp/Meshes/Cans/Mi_Cans3.uasset
+[2020.10.22-22.59.05:088][463]SourceControl:  create mode 100644 TrashKingProto_2_0/Content/SoftShaded_Camp/Meshes/Cans/Mi_Cans4.uasset
+[2020.10.22-22.59.05:088][463]SourceControl:  create mode 100644 TrashKingProto_2_0/Content/SoftShaded_Camp/Meshes/Cans/Mi_Cans5.uasset
+[2020.10.22-22.59.05:088][463]SourceControl:  create mode 100644 TrashKingProto_2_0/Content/SoftShaded_Camp/Meshes/Cans/SM_Can01.uasset
+[2020.10.22-22.59.05:088][463]SourceControl:  create mode 100644 TrashKingProto_2_0/Content/SoftShaded_Camp/Meshes/Cans/SM_Can02.uasset
+[2020.10.22-22.59.05:088][463]SourceControl:  create mode 100644 TrashKingProto_2_0/Content/SoftShaded_Camp/Meshes/Cans/SM_Can02_open.uasset
+[2020.10.22-22.59.05:088][463]SourceControl:  create mode 100644 TrashKingProto_2_0/Content/SoftShaded_Camp/Meshes/Cans/SM_Can03.uasset
+[2020.10.22-22.59.05:088][463]SourceControl:  create mode 100644 TrashKingProto_2_0/Content/SoftShaded_Camp/Meshes/Cans/SM_Can03_open.uasset
+[2020.10.22-22.59.05:088][463]SourceControl:  create mode 100644 TrashKingProto_2_0/Content/SoftShaded_Camp/Meshes/CoolingBox/Mi_CoolingBox_Bottom.uasset
+[2020.10.22-22.59.05:088][463]SourceControl:  create mode 100644 TrashKingProto_2_0/Content/SoftShaded_Camp/Meshes/CoolingBox/Mi_CoolingBox_Top.uasset
+[2020.10.22-22.59.05:088][463]SourceControl:  create mode 100644 TrashKingProto_2_0/Content/SoftShaded_Camp/Meshes/CoolingBox/SM_CoolingBox.uasset
+[2020.10.22-22.59.05:088][463]SourceControl:  create mode 100644 TrashKingProto_2_0/Content/SoftShaded_Camp/Meshes/CoolingBox/SM_CoolingBox_Bottom.uasset
+[2020.10.22-22.59.05:088][463]SourceControl:  create mode 100644 TrashKingProto_2_0/Content/SoftShaded_Camp/Meshes/CoolingBox/SM_CoolingBox_Handle.uasset
+[2020.10.22-22.59.05:088][463]SourceControl:  create mode 100644 TrashKingProto_2_0/Content/SoftShaded_Camp/Meshes/CoolingBox/SM_CoolingBox_Top.uasset
+[2020.10.22-22.59.05:088][463]SourceControl:  create mode 100644 TrashKingProto_2_0/Content/SoftShaded_Camp/Meshes/Fire/SM_Fire.uasset
+[2020.10.22-22.59.05:088][463]SourceControl:  create mode 100644 TrashKingProto_2_0/Content/SoftShaded_Camp/Meshes/FireStand/Mi_FireStand.uasset
+[2020.10.22-22.59.05:088][463]SourceControl:  create mode 100644 TrashKingProto_2_0/Content/SoftShaded_Camp/Meshes/FireStand/SM_FireStand.uasset
+[2020.10.22-22.59.05:088][463]SourceControl:  create mode 100644 TrashKingProto_2_0/Content/SoftShaded_Camp/Meshes/FireWood/Mi_FireWoodBright.uasset
+[2020.10.22-22.59.05:088][463]SourceControl:  create mode 100644 TrashKingProto_2_0/Content/SoftShaded_Camp/Meshes/FireWood/Mi_FireWoodDark.uasset
+[2020.10.22-22.59.05:088][463]SourceControl:  create mode 100644 TrashKingProto_2_0/Content/SoftShaded_Camp/Meshes/FireWood/Mi_FireWood_Pile.uasset
+[2020.10.22-22.59.05:088][463]SourceControl:  create mode 100644 TrashKingProto_2_0/Content/SoftShaded_Camp/Meshes/FireWood/SM_FireWood01.uasset
+[2020.10.22-22.59.05:088][463]SourceControl:  create mode 100644 TrashKingProto_2_0/Content/SoftShaded_Camp/Meshes/FireWood/SM_FireWood02.uasset
+[2020.10.22-22.59.05:088][463]SourceControl:  create mode 100644 TrashKingProto_2_0/Content/SoftShaded_Camp/Meshes/FireWood/SM_FireWood03.uasset
+[2020.10.22-22.59.05:088][463]SourceControl:  create mode 100644 TrashKingProto_2_0/Content/SoftShaded_Camp/Meshes/FireWood/SM_FireWood_Pile.uasset
+[2020.10.22-22.59.05:088][463]SourceControl:  create mode 100644 TrashKingProto_2_0/Content/SoftShaded_Camp/Meshes/Grill/Mi_BarbecueTongs.uasset
+[2020.10.22-22.59.05:088][463]SourceControl:  create mode 100644 TrashKingProto_2_0/Content/SoftShaded_Camp/Meshes/Grill/Mi_BarbecueTongs1.uasset
+[2020.10.22-22.59.05:088][463]SourceControl:  create mode 100644 TrashKingProto_2_0/Content/SoftShaded_Camp/Meshes/Grill/Mi_GasGrill.uasset
+[2020.10.22-22.59.05:088][463]SourceControl:  create mode 100644 TrashKingProto_2_0/Content/SoftShaded_Camp/Meshes/Grill/Mi_GasGrill1.uasset
+[2020.10.22-22.59.05:088][463]SourceControl:  create mode 100644 TrashKingProto_2_0/Content/SoftShaded_Camp/Meshes/Grill/Mi_GasGrill2.uasset
+[2020.10.22-22.59.05:088][463]SourceControl:  create mode 100644 TrashKingProto_2_0/Content/SoftShaded_Camp/Meshes/Grill/Mi_GasGrill3.uasset
+[2020.10.22-22.59.05:088][463]SourceControl:  create mode 100644 TrashKingProto_2_0/Content/SoftShaded_Camp/Meshes/Grill/Mi_Rabbit.uasset
+[2020.10.22-22.59.05:088][463]SourceControl:  create mode 100644 TrashKingProto_2_0/Content/SoftShaded_Camp/Meshes/Grill/Mi_Steak.uasset
+[2020.10.22-22.59.05:088][463]SourceControl:  create mode 100644 TrashKingProto_2_0/Content/SoftShaded_Camp/Meshes/Grill/Mi_Steak1.uasset
+[2020.10.22-22.59.05:088][463]SourceControl:  create mode 100644 TrashKingProto_2_0/Content/SoftShaded_Camp/Meshes/Grill/SM_BarbecueTongs.uasset
+[2020.10.22-22.59.05:088][463]SourceControl:  create mode 100644 TrashKingProto_2_0/Content/SoftShaded_Camp/Meshes/Grill/SM_GasGrill.uasset
+[2020.10.22-22.59.05:088][463]SourceControl:  create mode 100644 TrashKingProto_2_0/Content/SoftShaded_Camp/Meshes/Grill/SM_Rabbit.uasset
+[2020.10.22-22.59.05:088][463]SourceControl:  create mode 100644 TrashKingProto_2_0/Content/SoftShaded_Camp/Meshes/Grill/SM_Steak.uasset
+[2020.10.22-22.59.05:088][463]SourceControl:  create mode 100644 TrashKingProto_2_0/Content/SoftShaded_Camp/Meshes/Lantern/Mi_Lantern.uasset
+[2020.10.22-22.59.05:088][463]SourceControl:  create mode 100644 TrashKingProto_2_0/Content/SoftShaded_Camp/Meshes/Lantern/Mi_LanternGlass.uasset
+[2020.10.22-22.59.05:088][463]SourceControl:  create mode 100644 TrashKingProto_2_0/Content/SoftShaded_Camp/Meshes/Lantern/SM_Lantern.uasset
+[2020.10.22-22.59.05:088][463]SourceControl:  create mode 100644 TrashKingProto_2_0/Content/SoftShaded_Camp/Meshes/Pavillon/Mi_Pavillon.uasset
+[2020.10.22-22.59.05:088][463]SourceControl:  create mode 100644 TrashKingProto_2_0/Content/SoftShaded_Camp/Meshes/Pavillon/Mi_Pavillon1.uasset
+[2020.10.22-22.59.05:088][463]SourceControl:  create mode 100644 TrashKingProto_2_0/Content/SoftShaded_Camp/Meshes/Pavillon/Mi_Pavillon2.uasset
+[2020.10.22-22.59.05:088][463]SourceControl:  create mode 100644 TrashKingProto_2_0/Content/SoftShaded_Camp/Meshes/Pavillon/SM_Pavillon.uasset
+[2020.10.22-22.59.05:088][463]SourceControl:  create mode 100644 TrashKingProto_2_0/Content/SoftShaded_Camp/Meshes/SleepingBags/Mi_SleepingBag.uasset
+[2020.10.22-22.59.05:088][463]SourceControl:  create mode 100644 TrashKingProto_2_0/Content/SoftShaded_Camp/Meshes/SleepingBags/Mi_SleepingBag1.uasset
+[2020.10.22-22.59.05:088][463]SourceControl:  create mode 100644 TrashKingProto_2_0/Content/SoftShaded_Camp/Meshes/SleepingBags/Mi_SleepingBag2.uasset
+[2020.10.22-22.59.05:088][463]SourceControl:  create mode 100644 TrashKingProto_2_0/Content/SoftShaded_Camp/Meshes/SleepingBags/Mi_SleepingBag3.uasset
+[2020.10.22-22.59.05:088][463]SourceControl:  create mode 100644 TrashKingProto_2_0/Content/SoftShaded_Camp/Meshes/SleepingBags/Mi_SleepingBag4.uasset
+[2020.10.22-22.59.05:088][463]SourceControl:  create mode 100644 TrashKingProto_2_0/Content/SoftShaded_Camp/Meshes/SleepingBags/SM_SleepingBag02_Closed.uasset
+[2020.10.22-22.59.05:088][463]SourceControl:  create mode 100644 TrashKingProto_2_0/Content/SoftShaded_Camp/Meshes/SleepingBags/SM_SleepingBag_Closed.uasset
+[2020.10.22-22.59.05:088][463]SourceControl:  create mode 100644 TrashKingProto_2_0/Content/SoftShaded_Camp/Meshes/SleepingBags/SM_SleepingBag_Open.uasset
+[2020.10.22-22.59.05:088][463]SourceControl:  create mode 100644 TrashKingProto_2_0/Content/SoftShaded_Camp/Meshes/StoneCircle/Mi_StoneCircle.uasset
+[2020.10.22-22.59.05:088][463]SourceControl:  create mode 100644 TrashKingProto_2_0/Content/SoftShaded_Camp/Meshes/StoneCircle/SM_StoneCircle.uasset
+[2020.10.22-22.59.05:088][463]SourceControl:  create mode 100644 TrashKingProto_2_0/Content/SoftShaded_Camp/Meshes/Tents/Tent_Family/Mi_TentFamily.uasset
+[2020.10.22-22.59.05:088][463]SourceControl:  create mode 100644 TrashKingProto_2_0/Content/SoftShaded_Camp/Meshes/Tents/Tent_Family/Mi_TentFamily1.uasset
+[2020.10.22-22.59.05:088][463]SourceControl:  create mode 100644 TrashKingProto_2_0/Content/SoftShaded_Camp/Meshes/Tents/Tent_Family/Mi_TentFamily2.uasset
+[2020.10.22-22.59.05:088][463]SourceControl:  create mode 100644 TrashKingProto_2_0/Content/SoftShaded_Camp/Meshes/Tents/Tent_Family/Mi_TentFamily3.uasset
+[2020.10.22-22.59.05:088][463]SourceControl:  create mode 100644 TrashKingProto_2_0/Content/SoftShaded_Camp/Meshes/Tents/Tent_Family/Mi_TentFamily4.uasset
+[2020.10.22-22.59.05:088][463]SourceControl:  create mode 100644 TrashKingProto_2_0/Content/SoftShaded_Camp/Meshes/Tents/Tent_Family/Mi_TentFamily5.uasset
+[2020.10.22-22.59.05:088][463]SourceControl:  create mode 100644 TrashKingProto_2_0/Content/SoftShaded_Camp/Meshes/Tents/Tent_Family/Mi_TentFamily6.uasset
+[2020.10.22-22.59.05:088][463]SourceControl:  create mode 100644 TrashKingProto_2_0/Content/SoftShaded_Camp/Meshes/Tents/Tent_Family/SM_Tent_Family.uasset
+[2020.10.22-22.59.05:088][463]SourceControl:  create mode 100644 TrashKingProto_2_0/Content/SoftShaded_Camp/Meshes/Tents/Tent_Family/SM_Tent_Family_Closed.uasset
+[2020.10.22-22.59.05:088][463]SourceControl:  create mode 100644 TrashKingProto_2_0/Content/SoftShaded_Camp/Meshes/Tents/Tent_Long/Mi_Tent_Long.uasset
+[2020.10.22-22.59.05:088][463]SourceControl:  create mode 100644 TrashKingProto_2_0/Content/SoftShaded_Camp/Meshes/Tents/Tent_Long/Mi_Tent_Long1.uasset
+[2020.10.22-22.59.05:088][463]SourceControl:  create mode 100644 TrashKingProto_2_0/Content/SoftShaded_Camp/Meshes/Tents/Tent_Long/Mi_Tent_Long2.uasset
+[2020.10.22-22.59.05:088][463]SourceControl:  create mode 100644 TrashKingProto_2_0/Content/SoftShaded_Camp/Meshes/Tents/Tent_Long/Mi_Tent_Long3.uasset
+[2020.10.22-22.59.05:088][463]SourceControl:  create mode 100644 TrashKingProto_2_0/Content/SoftShaded_Camp/Meshes/Tents/Tent_Long/Mi_Tent_Long_closed.uasset
+[2020.10.22-22.59.05:088][463]SourceControl:  create mode 100644 TrashKingProto_2_0/Content/SoftShaded_Camp/Meshes/Tents/Tent_Long/Mi_Tent_Long_closed1.uasset
+[2020.10.22-22.59.05:088][463]SourceControl:  create mode 100644 TrashKingProto_2_0/Content/SoftShaded_Camp/Meshes/Tents/Tent_Long/Mi_Tent_Long_closed2.uasset
+[2020.10.22-22.59.05:088][463]SourceControl:  create mode 100644 TrashKingProto_2_0/Content/SoftShaded_Camp/Meshes/Tents/Tent_Long/SM_Tent_Long.uasset
+[2020.10.22-22.59.05:088][463]SourceControl:  create mode 100644 TrashKingProto_2_0/Content/SoftShaded_Camp/Meshes/Tents/Tent_Long/SM_Tent_Long_closed.uasset
+[2020.10.22-22.59.05:088][463]SourceControl:  create mode 100644 TrashKingProto_2_0/Content/SoftShaded_Camp/Meshes/Tents/Tent_Square/Mi_TentClosed1.uasset
+[2020.10.22-22.59.05:088][463]SourceControl:  create mode 100644 TrashKingProto_2_0/Content/SoftShaded_Camp/Meshes/Tents/Tent_Square/Mi_TentClosed2.uasset
+[2020.10.22-22.59.05:088][463]SourceControl:  create mode 100644 TrashKingProto_2_0/Content/SoftShaded_Camp/Meshes/Tents/Tent_Square/Mi_TentClosed3.uasset
+[2020.10.22-22.59.05:088][463]SourceControl: [master c41c9a6] Added Campground Level, started placing assets
+[2020.10.22-22.59.05:088][463]SourceControl:  Date: Thu Oct 22 18:59:03 2020 -0400
+[2020.10.22-22.59.05:088][463]SourceControl:  126 files changed, 0 insertions(+), 0 deletions(-)
+[2020.10.22-22.59.05:088][463]SourceControl:  create mode 100644 TrashKingProto_2_0/Content/Levels/Campground.umap
+[2020.10.22-22.59.05:088][463]SourceControl:  create mode 100644 TrashKingProto_2_0/Content/SoftShaded_Camp/Meshes/AirPump/Mi_AirPump.uasset
+[2020.10.22-22.59.05:088][463]SourceControl:  create mode 100644 TrashKingProto_2_0/Content/SoftShaded_Camp/Meshes/AirPump/Mi_AirPump1.uasset
+[2020.10.22-22.59.05:088][463]SourceControl:  create mode 100644 TrashKingProto_2_0/Content/SoftShaded_Camp/Meshes/AirPump/SM_AirPump.uasset
+[2020.10.22-22.59.05:089][463]SourceControl:  create mode 100644 TrashKingProto_2_0/Content/SoftShaded_Camp/Meshes/Backpack/Mi_Backpack.uasset
+[2020.10.22-22.59.05:089][463]SourceControl:  create mode 100644 TrashKingProto_2_0/Content/SoftShaded_Camp/Meshes/Backpack/Mi_Backpack1.uasset
+[2020.10.22-22.59.05:089][463]SourceControl:  create mode 100644 TrashKingProto_2_0/Content/SoftShaded_Camp/Meshes/Backpack/Mi_Backpack2.uasset
+[2020.10.22-22.59.05:089][463]SourceControl:  create mode 100644 TrashKingProto_2_0/Content/SoftShaded_Camp/Meshes/Backpack/Mi_Backpack3.uasset
+[2020.10.22-22.59.05:089][463]SourceControl:  create mode 100644 TrashKingProto_2_0/Content/SoftShaded_Camp/Meshes/Backpack/Mi_Backpack4.uasset
+[2020.10.22-22.59.05:089][463]SourceControl:  create mode 100644 TrashKingProto_2_0/Content/SoftShaded_Camp/Meshes/Backpack/SM_Backpack.uasset
+[2020.10.22-22.59.05:089][463]SourceControl:  create mode 100644 TrashKingProto_2_0/Content/SoftShaded_Camp/Meshes/Bench/Mi_Bench.uasset
+[2020.10.22-22.59.05:089][463]SourceControl:  create mode 100644 TrashKingProto_2_0/Content/SoftShaded_Camp/Meshes/Bench/SM_Bench.uasset
+[2020.10.22-22.59.05:089][463]SourceControl:  create mode 100644 TrashKingProto_2_0/Content/SoftShaded_Camp/Meshes/Bucket/Mi_Bucket.uasset
+[2020.10.22-22.59.05:089][463]SourceControl:  create mode 100644 TrashKingProto_2_0/Content/SoftShaded_Camp/Meshes/Bucket/Mi_Bucket1.uasset
+[2020.10.22-22.59.05:089][463]SourceControl:  create mode 100644 TrashKingProto_2_0/Content/SoftShaded_Camp/Meshes/Bucket/SM_Bucket.uasset
+[2020.10.22-22.59.05:089][463]SourceControl:  create mode 100644 TrashKingProto_2_0/Content/SoftShaded_Camp/Meshes/CampingChair/Mi_CampingChair.uasset
+[2020.10.22-22.59.05:089][463]SourceControl:  create mode 100644 TrashKingProto_2_0/Content/SoftShaded_Camp/Meshes/CampingChair/Mi_CampingChair1.uasset
+[2020.10.22-22.59.05:089][463]SourceControl:  create mode 100644 TrashKingProto_2_0/Content/SoftShaded_Camp/Meshes/CampingChair/Mi_CampingChair2.uasset
+[2020.10.22-22.59.05:089][463]SourceControl:  create mode 100644 TrashKingProto_2_0/Content/SoftShaded_Camp/Meshes/CampingChair/SM_CampingChair.uasset
+[2020.10.22-22.59.05:089][463]SourceControl:  create mode 100644 TrashKingProto_2_0/Content/SoftShaded_Camp/Meshes/CampingTable/Mi_CampingTable.uasset
+[2020.10.22-22.59.05:089][463]SourceControl:  create mode 100644 TrashKingProto_2_0/Content/SoftShaded_Camp/Meshes/CampingTable/Mi_CampingTable1.uasset
+[2020.10.22-22.59.05:089][463]SourceControl:  create mode 100644 TrashKingProto_2_0/Content/SoftShaded_Camp/Meshes/CampingTable/Mi_CampingTable2.uasset
+[2020.10.22-22.59.05:089][463]SourceControl:  create mode 100644 TrashKingProto_2_0/Content/SoftShaded_Camp/Meshes/CampingTable/SM_CampingTable.uasset
+[2020.10.22-22.59.05:089][463]SourceControl:  create mode 100644 TrashKingProto_2_0/Content/SoftShaded_Camp/Meshes/Cans/Mi_Cans.uasset
+[2020.10.22-22.59.05:089][463]SourceControl:  create mode 100644 TrashKingProto_2_0/Content/SoftShaded_Camp/Meshes/Cans/Mi_Cans1.uasset
+[2020.10.22-22.59.05:089][463]SourceControl:  create mode 100644 TrashKingProto_2_0/Content/SoftShaded_Camp/Meshes/Cans/Mi_Cans2.uasset
+[2020.10.22-22.59.05:089][463]SourceControl:  create mode 100644 TrashKingProto_2_0/Content/SoftShaded_Camp/Meshes/Cans/Mi_Cans3.uasset
+[2020.10.22-22.59.05:089][463]SourceControl:  create mode 100644 TrashKingProto_2_0/Content/SoftShaded_Camp/Meshes/Cans/Mi_Cans4.uasset
+[2020.10.22-22.59.05:089][463]SourceControl:  create mode 100644 TrashKingProto_2_0/Content/SoftShaded_Camp/Meshes/Cans/Mi_Cans5.uasset
+[2020.10.22-22.59.05:089][463]SourceControl:  create mode 100644 TrashKingProto_2_0/Content/SoftShaded_Camp/Meshes/Cans/SM_Can01.uasset
+[2020.10.22-22.59.05:089][463]SourceControl:  create mode 100644 TrashKingProto_2_0/Content/SoftShaded_Camp/Meshes/Cans/SM_Can02.uasset
+[2020.10.22-22.59.05:089][463]SourceControl:  create mode 100644 TrashKingProto_2_0/Content/SoftShaded_Camp/Meshes/Cans/SM_Can02_open.uasset
+[2020.10.22-22.59.05:089][463]SourceControl:  create mode 100644 TrashKingProto_2_0/Content/SoftShaded_Camp/Meshes/Cans/SM_Can03.uasset
+[2020.10.22-22.59.05:089][463]SourceControl:  create mode 100644 TrashKingProto_2_0/Content/SoftShaded_Camp/Meshes/Cans/SM_Can03_open.uasset
+[2020.10.22-22.59.05:089][463]SourceControl:  create mode 100644 TrashKingProto_2_0/Content/SoftShaded_Camp/Meshes/CoolingBox/Mi_CoolingBox_Bottom.uasset
+[2020.10.22-22.59.05:089][463]SourceControl:  create mode 100644 TrashKingProto_2_0/Content/SoftShaded_Camp/Meshes/CoolingBox/Mi_CoolingBox_Top.uasset
+[2020.10.22-22.59.05:089][463]SourceControl:  create mode 100644 TrashKingProto_2_0/Content/SoftShaded_Camp/Meshes/CoolingBox/SM_CoolingBox.uasset
+[2020.10.22-22.59.05:089][463]SourceControl:  create mode 100644 TrashKingProto_2_0/Content/SoftShaded_Camp/Meshes/CoolingBox/SM_CoolingBox_Bottom.uasset
+[2020.10.22-22.59.05:089][463]SourceControl:  create mode 100644 TrashKingProto_2_0/Content/SoftShaded_Camp/Meshes/CoolingBox/SM_CoolingBox_Handle.uasset
+[2020.10.22-22.59.05:089][463]SourceControl:  create mode 100644 TrashKingProto_2_0/Content/SoftShaded_Camp/Meshes/CoolingBox/SM_CoolingBox_Top.uasset
+[2020.10.22-22.59.05:089][463]SourceControl:  create mode 100644 TrashKingProto_2_0/Content/SoftShaded_Camp/Meshes/Fire/SM_Fire.uasset
+[2020.10.22-22.59.05:089][463]SourceControl:  create mode 100644 TrashKingProto_2_0/Content/SoftShaded_Camp/Meshes/FireStand/Mi_FireStand.uasset
+[2020.10.22-22.59.05:089][463]SourceControl:  create mode 100644 TrashKingProto_2_0/Content/SoftShaded_Camp/Meshes/FireStand/SM_FireStand.uasset
+[2020.10.22-22.59.05:089][463]SourceControl:  create mode 100644 TrashKingProto_2_0/Content/SoftShaded_Camp/Meshes/FireWood/Mi_FireWoodBright.uasset
+[2020.10.22-22.59.05:089][463]SourceControl:  create mode 100644 TrashKingProto_2_0/Content/SoftShaded_Camp/Meshes/FireWood/Mi_FireWoodDark.uasset
+[2020.10.22-22.59.05:089][463]SourceControl:  create mode 100644 TrashKingProto_2_0/Content/SoftShaded_Camp/Meshes/FireWood/Mi_FireWood_Pile.uasset
+[2020.10.22-22.59.05:089][463]SourceControl:  create mode 100644 TrashKingProto_2_0/Content/SoftShaded_Camp/Meshes/FireWood/SM_FireWood01.uasset
+[2020.10.22-22.59.05:089][463]SourceControl:  create mode 100644 TrashKingProto_2_0/Content/SoftShaded_Camp/Meshes/FireWood/SM_FireWood02.uasset
+[2020.10.22-22.59.05:089][463]SourceControl:  create mode 100644 TrashKingProto_2_0/Content/SoftShaded_Camp/Meshes/FireWood/SM_FireWood03.uasset
+[2020.10.22-22.59.05:089][463]SourceControl:  create mode 100644 TrashKingProto_2_0/Content/SoftShaded_Camp/Meshes/FireWood/SM_FireWood_Pile.uasset
+[2020.10.22-22.59.05:089][463]SourceControl:  create mode 100644 TrashKingProto_2_0/Content/SoftShaded_Camp/Meshes/Grill/Mi_BarbecueTongs.uasset
+[2020.10.22-22.59.05:089][463]SourceControl:  create mode 100644 TrashKingProto_2_0/Content/SoftShaded_Camp/Meshes/Grill/Mi_BarbecueTongs1.uasset
+[2020.10.22-22.59.05:089][463]SourceControl:  create mode 100644 TrashKingProto_2_0/Content/SoftShaded_Camp/Meshes/Grill/Mi_GasGrill.uasset
+[2020.10.22-22.59.05:089][463]SourceControl:  create mode 100644 TrashKingProto_2_0/Content/SoftShaded_Camp/Meshes/Grill/Mi_GasGrill1.uasset
+[2020.10.22-22.59.05:089][463]SourceControl:  create mode 100644 TrashKingProto_2_0/Content/SoftShaded_Camp/Meshes/Grill/Mi_GasGrill2.uasset
+[2020.10.22-22.59.05:089][463]SourceControl:  create mode 100644 TrashKingProto_2_0/Content/SoftShaded_Camp/Meshes/Grill/Mi_GasGrill3.uasset
+[2020.10.22-22.59.05:089][463]SourceControl:  create mode 100644 TrashKingProto_2_0/Content/SoftShaded_Camp/Meshes/Grill/Mi_Rabbit.uasset
+[2020.10.22-22.59.05:089][463]SourceControl:  create mode 100644 TrashKingProto_2_0/Content/SoftShaded_Camp/Meshes/Grill/Mi_Steak.uasset
+[2020.10.22-22.59.05:089][463]SourceControl:  create mode 100644 TrashKingProto_2_0/Content/SoftShaded_Camp/Meshes/Grill/Mi_Steak1.uasset
+[2020.10.22-22.59.05:089][463]SourceControl:  create mode 100644 TrashKingProto_2_0/Content/SoftShaded_Camp/Meshes/Grill/SM_BarbecueTongs.uasset
+[2020.10.22-22.59.05:089][463]SourceControl:  create mode 100644 TrashKingProto_2_0/Content/SoftShaded_Camp/Meshes/Grill/SM_GasGrill.uasset
+[2020.10.22-22.59.05:089][463]SourceControl:  create mode 100644 TrashKingProto_2_0/Content/SoftShaded_Camp/Meshes/Grill/SM_Rabbit.uasset
+[2020.10.22-22.59.05:089][463]SourceControl:  create mode 100644 TrashKingProto_2_0/Content/SoftShaded_Camp/Meshes/Grill/SM_Steak.uasset
+[2020.10.22-22.59.05:089][463]SourceControl:  create mode 100644 TrashKingProto_2_0/Content/SoftShaded_Camp/Meshes/Lantern/Mi_Lantern.uasset
+[2020.10.22-22.59.05:089][463]SourceControl:  create mode 100644 TrashKingProto_2_0/Content/SoftShaded_Camp/Meshes/Lantern/Mi_LanternGlass.uasset
+[2020.10.22-22.59.05:089][463]SourceControl:  create mode 100644 TrashKingProto_2_0/Content/SoftShaded_Camp/Meshes/Lantern/SM_Lantern.uasset
+[2020.10.22-22.59.05:089][463]SourceControl:  create mode 100644 TrashKingProto_2_0/Content/SoftShaded_Camp/Meshes/Pavillon/Mi_Pavillon.uasset
+[2020.10.22-22.59.05:089][463]SourceControl:  create mode 100644 TrashKingProto_2_0/Content/SoftShaded_Camp/Meshes/Pavillon/Mi_Pavillon1.uasset
+[2020.10.22-22.59.05:089][463]SourceControl:  create mode 100644 TrashKingProto_2_0/Content/SoftShaded_Camp/Meshes/Pavillon/Mi_Pavillon2.uasset
+[2020.10.22-22.59.05:089][463]SourceControl:  create mode 100644 TrashKingProto_2_0/Content/SoftShaded_Camp/Meshes/Pavillon/SM_Pavillon.uasset
+[2020.10.22-22.59.05:089][463]SourceControl:  create mode 100644 TrashKingProto_2_0/Content/SoftShaded_Camp/Meshes/SleepingBags/Mi_SleepingBag.uasset
+[2020.10.22-22.59.05:089][463]SourceControl:  create mode 100644 TrashKingProto_2_0/Content/SoftShaded_Camp/Meshes/SleepingBags/Mi_SleepingBag1.uasset
+[2020.10.22-22.59.05:089][463]SourceControl:  create mode 100644 TrashKingProto_2_0/Content/SoftShaded_Camp/Meshes/SleepingBags/Mi_SleepingBag2.uasset
+[2020.10.22-22.59.05:089][463]SourceControl:  create mode 100644 TrashKingProto_2_0/Content/SoftShaded_Camp/Meshes/SleepingBags/Mi_SleepingBag3.uasset
+[2020.10.22-22.59.05:089][463]SourceControl:  create mode 100644 TrashKingProto_2_0/Content/SoftShaded_Camp/Meshes/SleepingBags/Mi_SleepingBag4.uasset
+[2020.10.22-22.59.05:089][463]SourceControl:  create mode 100644 TrashKingProto_2_0/Content/SoftShaded_Camp/Meshes/SleepingBags/SM_SleepingBag02_Closed.uasset
+[2020.10.22-22.59.05:089][463]SourceControl:  create mode 100644 TrashKingProto_2_0/Content/SoftShaded_Camp/Meshes/SleepingBags/SM_SleepingBag_Closed.uasset
+[2020.10.22-22.59.05:089][463]SourceControl:  create mode 100644 TrashKingProto_2_0/Content/SoftShaded_Camp/Meshes/SleepingBags/SM_SleepingBag_Open.uasset
+[2020.10.22-22.59.05:089][463]SourceControl:  create mode 100644 TrashKingProto_2_0/Content/SoftShaded_Camp/Meshes/StoneCircle/Mi_StoneCircle.uasset
+[2020.10.22-22.59.05:089][463]SourceControl:  create mode 100644 TrashKingProto_2_0/Content/SoftShaded_Camp/Meshes/StoneCircle/SM_StoneCircle.uasset
+[2020.10.22-22.59.05:089][463]SourceControl:  create mode 100644 TrashKingProto_2_0/Content/SoftShaded_Camp/Meshes/Tents/Tent_Family/Mi_TentFamily.uasset
+[2020.10.22-22.59.05:089][463]SourceControl:  create mode 100644 TrashKingProto_2_0/Content/SoftShaded_Camp/Meshes/Tents/Tent_Family/Mi_TentFamily1.uasset
+[2020.10.22-22.59.05:089][463]SourceControl:  create mode 100644 TrashKingProto_2_0/Content/SoftShaded_Camp/Meshes/Tents/Tent_Family/Mi_TentFamily2.uasset
+[2020.10.22-22.59.05:089][463]SourceControl:  create mode 100644 TrashKingProto_2_0/Content/SoftShaded_Camp/Meshes/Tents/Tent_Family/Mi_TentFamily3.uasset
+[2020.10.22-22.59.05:089][463]SourceControl:  create mode 100644 TrashKingProto_2_0/Content/SoftShaded_Camp/Meshes/Tents/Tent_Family/Mi_TentFamily4.uasset
+[2020.10.22-22.59.05:089][463]SourceControl:  create mode 100644 TrashKingProto_2_0/Content/SoftShaded_Camp/Meshes/Tents/Tent_Family/Mi_TentFamily5.uasset
+[2020.10.22-22.59.05:089][463]SourceControl:  create mode 100644 TrashKingProto_2_0/Content/SoftShaded_Camp/Meshes/Tents/Tent_Family/Mi_TentFamily6.uasset
+[2020.10.22-22.59.05:089][463]SourceControl:  create mode 100644 TrashKingProto_2_0/Content/SoftShaded_Camp/Meshes/Tents/Tent_Family/SM_Tent_Family.uasset
+[2020.10.22-22.59.05:089][463]SourceControl:  create mode 100644 TrashKingProto_2_0/Content/SoftShaded_Camp/Meshes/Tents/Tent_Family/SM_Tent_Family_Closed.uasset
+[2020.10.22-22.59.05:089][463]SourceControl:  create mode 100644 TrashKingProto_2_0/Content/SoftShaded_Camp/Meshes/Tents/Tent_Long/Mi_Tent_Long.uasset
+[2020.10.22-22.59.05:089][463]SourceControl:  create mode 100644 TrashKingProto_2_0/Content/SoftShaded_Camp/Meshes/Tents/Tent_Long/Mi_Tent_Long1.uasset
+[2020.10.22-22.59.05:089][463]SourceControl:  create mode 100644 TrashKingProto_2_0/Content/SoftShaded_Camp/Meshes/Tents/Tent_Long/Mi_Tent_Long2.uasset
+[2020.10.22-22.59.05:089][463]SourceControl:  create mode 100644 TrashKingProto_2_0/Content/SoftShaded_Camp/Meshes/Tents/Tent_Long/Mi_Tent_Long3.uasset
+[2020.10.22-22.59.05:089][463]SourceControl:  create mode 100644 TrashKingProto_2_0/Content/SoftShaded_Camp/Meshes/Tents/Tent_Long/Mi_Tent_Long_closed.uasset
+[2020.10.22-22.59.05:090][463]SourceControl:  create mode 100644 TrashKingProto_2_0/Content/SoftShaded_Camp/Meshes/Tents/Tent_Long/Mi_Tent_Long_closed1.uasset
+[2020.10.22-22.59.05:090][463]SourceControl:  create mode 100644 TrashKingProto_2_0/Content/SoftShaded_Camp/Meshes/Tents/Tent_Long/Mi_Tent_Long_closed2.uasset
+[2020.10.22-22.59.05:090][463]SourceControl:  create mode 100644 TrashKingProto_2_0/Content/SoftShaded_Camp/Meshes/Tents/Tent_Long/SM_Tent_Long.uasset
+[2020.10.22-22.59.05:090][463]SourceControl:  create mode 100644 TrashKingProto_2_0/Content/SoftShaded_Camp/Meshes/Tents/Tent_Long/SM_Tent_Long_closed.uasset
+[2020.10.22-22.59.05:090][463]SourceControl:  create mode 100644 TrashKingProto_2_0/Content/SoftShaded_Camp/Meshes/Tents/Tent_Square/Mi_TentClosed1.uasset
+[2020.10.22-22.59.05:090][463]SourceControl:  create mode 100644 TrashKingProto_2_0/Content/SoftShaded_Camp/Meshes/Tents/Tent_Square/Mi_TentClosed2.uasset
+[2020.10.22-22.59.05:090][463]SourceControl:  create mode 100644 TrashKingProto_2_0/Content/SoftShaded_Camp/Meshes/Tents/Tent_Square/Mi_TentClosed3.uasset
+[2020.10.22-22.59.05:090][463]SourceControl:  create mode 100644 TrashKingProto_2_0/Content/SoftShaded_Camp/Meshes/Tents/Tent_Square/Mi_TentClosed4.uasset
+[2020.10.22-22.59.05:090][463]SourceControl:  create mode 100644 TrashKingProto_2_0/Content/SoftShaded_Camp/Meshes/Tents/Tent_Square/Mi_TentSquare.uasset
+[2020.10.22-22.59.05:090][463]SourceControl:  create mode 100644 TrashKingProto_2_0/Content/SoftShaded_Camp/Meshes/Tents/Tent_Square/Mi_TentSquare1.uasset
+[2020.10.22-22.59.05:090][463]SourceControl:  create mode 100644 TrashKingProto_2_0/Content/SoftShaded_Camp/Meshes/Tents/Tent_Square/Mi_TentSquare2.uasset
+[2020.10.22-22.59.05:090][463]SourceControl:  create mode 100644 TrashKingProto_2_0/Content/SoftShaded_Camp/Meshes/Tents/Tent_Square/Mi_TentSquare3.uasset
+[2020.10.22-22.59.05:090][463]SourceControl:  create mode 100644 TrashKingProto_2_0/Content/SoftShaded_Camp/Meshes/Tents/Tent_Square/Mi_TentSquare4.uasset
+[2020.10.22-22.59.05:090][463]SourceControl:  create mode 100644 TrashKingProto_2_0/Content/SoftShaded_Camp/Meshes/Tents/Tent_Square/Mi_TentSquare5.uasset
+[2020.10.22-22.59.05:090][463]SourceControl:  create mode 100644 TrashKingProto_2_0/Content/SoftShaded_Camp/Meshes/Tents/Tent_Square/Mi_TentSquareClosed.uasset
+[2020.10.22-22.59.05:090][463]SourceControl:  create mode 100644 TrashKingProto_2_0/Content/SoftShaded_Camp/Meshes/Tents/Tent_Square/SM_Tent_Square.uasset
+[2020.10.22-22.59.05:090][463]SourceControl:  create mode 100644 TrashKingProto_2_0/Content/SoftShaded_Camp/Meshes/Tents/Tent_Square/SM_Tent_Square_closed.uasset
+[2020.10.22-22.59.05:090][463]SourceControl:  create mode 100644 TrashKingProto_2_0/Content/SoftShaded_Camp/Meshes/Toilet/Mi_Toilet.uasset
+[2020.10.22-22.59.05:090][463]SourceControl:  create mode 100644 TrashKingProto_2_0/Content/SoftShaded_Camp/Meshes/Toilet/Mi_Toilet1.uasset
+[2020.10.22-22.59.05:090][463]SourceControl:  create mode 100644 TrashKingProto_2_0/Content/SoftShaded_Camp/Meshes/Toilet/Mi_Toilet2.uasset
+[2020.10.22-22.59.05:090][463]SourceControl:  create mode 100644 TrashKingProto_2_0/Content/SoftShaded_Camp/Meshes/Toilet/Mi_Toilet3.uasset
+[2020.10.22-22.59.05:090][463]SourceControl:  create mode 100644 TrashKingProto_2_0/Content/SoftShaded_Camp/Meshes/Toilet/SM_ToiletClosed.uasset
+[2020.10.22-22.59.05:090][463]SourceControl:  create mode 100644 TrashKingProto_2_0/Content/SoftShaded_Camp/Meshes/Toilet/SM_Toilet_Base.uasset
+[2020.10.22-22.59.05:090][463]SourceControl:  create mode 100644 TrashKingProto_2_0/Content/SoftShaded_Camp/Meshes/Toilet/SM_Toilet_Door.uasset
+[2020.10.22-22.59.05:090][463]SourceControl:  create mode 100644 TrashKingProto_2_0/Content/SoftShaded_Camp/Meshes/Toilet/SM_Toilet_Lid.uasset
+[2020.10.22-22.59.05:090][463]SourceControl:  create mode 100644 TrashKingProto_2_0/Content/SoftShaded_Camp/Meshes/TreeBench/Mi_TreeBench.uasset
+[2020.10.22-22.59.05:090][463]SourceControl:  create mode 100644 TrashKingProto_2_0/Content/SoftShaded_Camp/Meshes/TreeBench/Mi_TreeBench1.uasset
+[2020.10.22-22.59.05:090][463]SourceControl:  create mode 100644 TrashKingProto_2_0/Content/SoftShaded_Camp/Meshes/TreeBench/SM_TreeBench.uasset
+[2020.10.22-22.59.05:090][463]SourceControl:  create mode 100644 TrashKingProto_2_0/Content/SoftShaded_Camp/Meshes/WoodChest/Mi_WoodChest.uasset
+[2020.10.22-22.59.05:090][463]SourceControl:  create mode 100644 TrashKingProto_2_0/Content/SoftShaded_Camp/Meshes/WoodChest/Mi_WoodChest1.uasset
+[2020.10.22-22.59.05:090][463]SourceControl:  create mode 100644 TrashKingProto_2_0/Content/SoftShaded_Camp/Meshes/WoodChest/SM_WoodChest_Bottom.uasset
+[2020.10.22-22.59.05:090][463]SourceControl:  create mode 100644 TrashKingProto_2_0/Content/SoftShaded_Camp/Meshes/WoodChest/SM_WoodChest_Top.uasset
+[2020.10.22-22.59.05:094][463]SourceControl: Commited [master db61ad6] Added Campground Level, started placing assets.
+[2020.10.22-23.00.17:050][269]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Campground" FILE="../../../../../../Unreal Projects/Trash_King/TrashKingProto_2_0/Content/Levels/Campground.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.10.22-23.00.17:060][269]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2020.10.22-23.00.17:085][269]LogSavePackage: Moving '../../../../../../Unreal Projects/Trash_King/TrashKingProto_2_0/Saved/Campground12217CAE47A58DDFC5CD039C791DB5C6.tmp' to '../../../../../../Unreal Projects/Trash_King/TrashKingProto_2_0/Content/Levels/Campground.umap'
+[2020.10.22-23.00.17:115][269]AssetCheck: New page: Asset Save: Campground
+[2020.10.22-23.00.17:115][269]LogContentValidation: Display: Validating World /Game/Levels/Campground.Campground
+[2020.10.22-23.00.19:442][497]SourceControl: fatal: E:/Program Files/Epic Games/UE_4.25/Engine/Content: 'E:/Program Files/Epic Games/UE_4.25/Engine/Content' is outside repository at 'E:/Unreal Projects/Trash_King'
+[2020.10.22-23.00.19:442][497]SourceControl: fatal: E:/Program Files/Epic Games/UE_4.25/Engine/Plugins/2D/Paper2D/Content: 'E:/Program Files/Epic Games/UE_4.25/Engine/Plugins/2D/Paper2D/Content' is outside repository at 'E:/Unreal Projects/Trash_King'
+[2020.10.22-23.00.19:442][497]SourceControl: fatal: E:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Developer/AnimationSharing/Content: 'E:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Developer/AnimationSharing/Content' is outside repository at 'E:/Unreal Projects/Trash_King'
+[2020.10.22-23.00.19:442][497]SourceControl: fatal: E:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Editor/GeometryMode/Content: 'E:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Editor/GeometryMode/Content' is outside repository at 'E:/Unreal Projects/Trash_King'
+[2020.10.22-23.00.19:442][497]SourceControl: fatal: E:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Enterprise/DatasmithContent/Content: 'E:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Enterprise/DatasmithContent/Content' is outside repository at 'E:/Unreal Projects/Trash_King'
+[2020.10.22-23.00.19:442][497]SourceControl: fatal: E:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Experimental/ChaosClothEditor/Content: 'E:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Experimental/ChaosClothEditor/Content' is outside repository at 'E:/Unreal Projects/Trash_King'
+[2020.10.22-23.00.19:442][497]SourceControl: fatal: E:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Experimental/ChaosNiagara/Content: 'E:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Experimental/ChaosNiagara/Content' is outside repository at 'E:/Unreal Projects/Trash_King'
+[2020.10.22-23.00.19:442][497]SourceControl: fatal: E:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Experimental/ChaosSolverPlugin/Content: 'E:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Experimental/ChaosSolverPlugin/Content' is outside repository at 'E:/Unreal Projects/Trash_King'
+[2020.10.22-23.00.19:442][497]SourceControl: fatal: E:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content: 'E:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content' is outside repository at 'E:/Unreal Projects/Trash_King'
+[2020.10.22-23.00.19:442][497]SourceControl: fatal: E:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Experimental/GeometryProcessing/Content: 'E:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Experimental/GeometryProcessing/Content' is outside repository at 'E:/Unreal Projects/Trash_King'
+[2020.10.22-23.00.19:442][497]SourceControl: fatal: E:/Program Files/Epic Games/UE_4.25/Engine/Plugins/FX/Niagara/Content: 'E:/Program Files/Epic Games/UE_4.25/Engine/Plugins/FX/Niagara/Content' is outside repository at 'E:/Unreal Projects/Trash_King'
+[2020.10.22-23.00.19:442][497]SourceControl: fatal: E:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Lumin/MagicLeap/Content: 'E:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Lumin/MagicLeap/Content' is outside repository at 'E:/Unreal Projects/Trash_King'
+[2020.10.22-23.00.19:442][497]SourceControl: fatal: E:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content: 'E:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content' is outside repository at 'E:/Unreal Projects/Trash_King'
+[2020.10.22-23.00.19:442][497]SourceControl: fatal: E:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Media/MediaCompositing/Content: 'E:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Media/MediaCompositing/Content' is outside repository at 'E:/Unreal Projects/Trash_King'
+[2020.10.22-23.00.19:442][497]SourceControl: fatal: E:/Program Files/Epic Games/UE_4.25/Engine/Plugins/MovieScene/MovieRenderPipeline/Content: 'E:/Program Files/Epic Games/UE_4.25/Engine/Plugins/MovieScene/MovieRenderPipeline/Content' is outside repository at 'E:/Unreal Projects/Trash_King'
+[2020.10.22-23.00.19:442][497]SourceControl: fatal: E:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Runtime/Oculus/OculusVR/Content: 'E:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Runtime/Oculus/OculusVR/Content' is outside repository at 'E:/Unreal Projects/Trash_King'
+[2020.10.22-23.00.19:442][497]SourceControl: fatal: E:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Runtime/PostSplashScreen/Content: 'E:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Runtime/PostSplashScreen/Content' is outside repository at 'E:/Unreal Projects/Trash_King'
+[2020.10.22-23.00.19:442][497]SourceControl: fatal: E:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Runtime/Steam/SteamVR/Content: 'E:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Runtime/Steam/SteamVR/Content' is outside repository at 'E:/Unreal Projects/Trash_King'
+[2020.10.22-23.00.23:721][497]LogSlate: Window 'Submit Files' being destroyed
+[2020.10.22-23.00.24:631][591]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2020.10.22-23.00.24:662][591]LogSlate: Window 'TrashKingProto_2_0 - Unreal Editor' being destroyed
+[2020.10.22-23.00.24:752][592]Cmd: QUIT_EDITOR
+[2020.10.22-23.00.24:752][592]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2020.10.22-23.00.24:759][592]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2020.10.22-23.00.25:457][592]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.10.22-23.00.25:469][592]LogExit: Preparing to exit.
+[2020.10.22-23.00.26:081][592]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2020.10.22-23.00.26:081][592]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2020.10.22-23.00.26:096][592]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2020.10.22-23.00.26:102][592]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2020.10.22-23.00.26:103][592]LogExit: Editor shut down
+[2020.10.22-23.00.26:103][592]LogExit: Transaction tracking system shut down
+[2020.10.22-23.00.26:173][592]LogAISub: UAISubsystem::~UAISubsystem AISubsystem (0000021242029B80), frame # 319592
+[2020.10.22-23.00.26:173][592]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000021241F76AC0), frame # 319592
+[2020.10.22-23.00.26:173][592]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000021241FC1200), frame # 319592
+[2020.10.22-23.00.26:181][592]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000021232829800), frame # 319592
+[2020.10.22-23.00.26:181][592]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000002124F27F000), frame # 319592
+[2020.10.22-23.00.26:201][592]LogExit: Object subsystem successfully closed.
+[2020.10.22-23.00.26:222][592]LogShaderCompilers: Display: Shaders left to compile 0
+[2020.10.22-23.00.26:230][592]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (794)
+[2020.10.22-23.00.26:230][592]LogModuleManager: Shutting down and abandoning module Voice (792)
+[2020.10.22-23.00.26:230][592]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (790)
+[2020.10.22-23.00.26:230][592]LogModuleManager: Shutting down and abandoning module SceneOutliner (788)
+[2020.10.22-23.00.26:230][592]LogModuleManager: Shutting down and abandoning module AddContentDialog (786)
+[2020.10.22-23.00.26:230][592]LogModuleManager: Shutting down and abandoning module WidgetCarousel (785)
+[2020.10.22-23.00.26:230][592]LogModuleManager: Shutting down and abandoning module EditorWidgets (782)
+[2020.10.22-23.00.26:230][592]LogModuleManager: Shutting down and abandoning module CollectionManager (780)
+[2020.10.22-23.00.26:230][592]LogModuleManager: Shutting down and abandoning module StatsViewer (778)
+[2020.10.22-23.00.26:230][592]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (776)
+[2020.10.22-23.00.26:230][592]LogModuleManager: Shutting down and abandoning module FoliageEdit (774)
+[2020.10.22-23.00.26:230][592]LogModuleManager: Shutting down and abandoning module LandscapeEditor (772)
+[2020.10.22-23.00.26:230][592]LogModuleManager: Shutting down and abandoning module MeshPaintMode (770)
+[2020.10.22-23.00.26:230][592]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (768)
+[2020.10.22-23.00.26:231][592]LogModuleManager: Shutting down and abandoning module ActorPickerMode (766)
+[2020.10.22-23.00.26:231][592]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (764)
+[2020.10.22-23.00.26:231][592]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (762)
+[2020.10.22-23.00.26:231][592]LogModuleManager: Shutting down and abandoning module AutomationWorker (760)
+[2020.10.22-23.00.26:231][592]LogModuleManager: Shutting down and abandoning module SteamVREditor (758)
+[2020.10.22-23.00.26:231][592]LogModuleManager: Shutting down and abandoning module OculusMR (756)
+[2020.10.22-23.00.26:231][592]LogModuleManager: Shutting down and abandoning module GooglePADEditor (754)
+[2020.10.22-23.00.26:231][592]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (752)
+[2020.10.22-23.00.26:231][592]LogModuleManager: Shutting down and abandoning module TemplateSequenceEditor (750)
+[2020.10.22-23.00.26:231][592]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (748)
+[2020.10.22-23.00.26:231][592]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (746)
+[2020.10.22-23.00.26:231][592]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (744)
+[2020.10.22-23.00.26:231][592]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (742)
+[2020.10.22-23.00.26:231][592]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (740)
+[2020.10.22-23.00.26:231][592]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (738)
+[2020.10.22-23.00.26:231][592]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (736)
+[2020.10.22-23.00.26:231][592]LogModuleManager: Shutting down and abandoning module WebMMedia (734)
+[2020.10.22-23.00.26:231][592]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (732)
+[2020.10.22-23.00.26:231][592]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (730)
+[2020.10.22-23.00.26:231][592]LogModuleManager: Shutting down and abandoning module SequenceRecorder (729)
+[2020.10.22-23.00.26:231][592]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (726)
+[2020.10.22-23.00.26:231][592]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (724)
+[2020.10.22-23.00.26:231][592]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (722)
+[2020.10.22-23.00.26:231][592]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (720)
+[2020.10.22-23.00.26:231][592]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (718)
+[2020.10.22-23.00.26:231][592]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (716)
+[2020.10.22-23.00.26:231][592]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (714)
+[2020.10.22-23.00.26:231][592]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (712)
+[2020.10.22-23.00.26:231][592]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (710)
+[2020.10.22-23.00.26:231][592]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (708)
+[2020.10.22-23.00.26:231][592]LogModuleManager: Shutting down and abandoning module PlanarCut (706)
+[2020.10.22-23.00.26:231][592]LogModuleManager: Shutting down and abandoning module CharacterAI (704)
+[2020.10.22-23.00.26:231][592]LogModuleManager: Shutting down and abandoning module TextureAlignMode (702)
+[2020.10.22-23.00.26:231][592]LogModuleManager: Shutting down and abandoning module BspMode (700)
+[2020.10.22-23.00.26:231][592]LogModuleManager: Shutting down and abandoning module PlacementMode (699)
+[2020.10.22-23.00.26:231][592]LogModuleManager: Shutting down and abandoning module GeometryMode (696)
+[2020.10.22-23.00.26:231][592]LogModuleManager: Shutting down and abandoning module CameraShakePreviewer (694)
+[2020.10.22-23.00.26:231][592]LogModuleManager: Shutting down and abandoning module SmartSnapping (692)
+[2020.10.22-23.00.26:231][592]LogModuleManager: Shutting down and abandoning module SessionServices (690)
+[2020.10.22-23.00.26:231][592]LogModuleManager: Shutting down and abandoning module MeshPaint (688)
+[2020.10.22-23.00.26:231][592]LogModuleManager: Shutting down and abandoning module ViewportSnapping (686)
+[2020.10.22-23.00.26:231][592]LogModuleManager: Shutting down and abandoning module ViewportInteraction (684)
+[2020.10.22-23.00.26:231][592]LogModuleManager: Shutting down and abandoning module ClothPainter (682)
+[2020.10.22-23.00.26:231][592]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (681)
+[2020.10.22-23.00.26:231][592]LogModuleManager: Shutting down and abandoning module LogVisualizer (678)
+[2020.10.22-23.00.26:231][592]LogModuleManager: Shutting down and abandoning module IntroTutorials (676)
+[2020.10.22-23.00.26:231][592]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (675)
+[2020.10.22-23.00.26:231][592]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (672)
+[2020.10.22-23.00.26:231][592]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (670)
+[2020.10.22-23.00.26:231][592]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (668)
+[2020.10.22-23.00.26:231][592]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (667)
+[2020.10.22-23.00.28:070][592]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (664)
+[2020.10.22-23.00.28:070][592]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (662)
+[2020.10.22-23.00.28:070][592]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (660)
+[2020.10.22-23.00.28:070][592]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (658)
+[2020.10.22-23.00.28:070][592]LogModuleManager: Shutting down and abandoning module TraceInsights (656)
+[2020.10.22-23.00.28:070][592]LogModuleManager: Shutting down and abandoning module TraceServices (655)
+[2020.10.22-23.00.28:070][592]LogModuleManager: Shutting down and abandoning module EditorInteractiveToolsFramework (652)
+[2020.10.22-23.00.28:070][592]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (650)
+[2020.10.22-23.00.28:071][592]LogModuleManager: Shutting down and abandoning module InputBindingEditor (648)
+[2020.10.22-23.00.28:071][592]LogModuleManager: Shutting down and abandoning module MergeActors (646)
+[2020.10.22-23.00.28:071][592]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (644)
+[2020.10.22-23.00.28:071][592]LogModuleManager: Shutting down and abandoning module LocalizationService (643)
+[2020.10.22-23.00.28:071][592]LogModuleManager: Shutting down and abandoning module HardwareTargeting (640)
+[2020.10.22-23.00.28:071][592]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (638)
+[2020.10.22-23.00.28:071][592]LogModuleManager: Shutting down and abandoning module UndoHistory (636)
+[2020.10.22-23.00.28:071][592]LogModuleManager: Shutting down and abandoning module XmlParser (634)
+[2020.10.22-23.00.28:071][592]LogModuleManager: Shutting down and abandoning module Blutility (632)
+[2020.10.22-23.00.28:071][592]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (630)
+[2020.10.22-23.00.28:071][592]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (629)
+[2020.10.22-23.00.28:071][592]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (626)
+[2020.10.22-23.00.28:071][592]LogModuleManager: Shutting down and abandoning module SettingsEditor (624)
+[2020.10.22-23.00.28:071][592]LogModuleManager: Shutting down and abandoning module ProjectLauncher (622)
+[2020.10.22-23.00.28:071][592]LogModuleManager: Shutting down and abandoning module SessionFrontend (620)
+[2020.10.22-23.00.28:071][592]LogModuleManager: Shutting down and abandoning module ProfilerClient (618)
+[2020.10.22-23.00.28:071][592]LogModuleManager: Shutting down and abandoning module DeviceManager (616)
+[2020.10.22-23.00.28:071][592]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (615)
+[2020.10.22-23.00.28:104][592]LogModuleManager: Shutting down and abandoning module AutomationController (612)
+[2020.10.22-23.00.28:104][592]LogModuleManager: Shutting down and abandoning module AutomationWindow (610)
+[2020.10.22-23.00.28:104][592]LogModuleManager: Shutting down and abandoning module Layers (608)
+[2020.10.22-23.00.28:104][592]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (606)
+[2020.10.22-23.00.28:104][592]LogModuleManager: Shutting down and abandoning module DetailCustomizations (604)
+[2020.10.22-23.00.28:104][592]LogModuleManager: Shutting down and abandoning module PackagesDialog (602)
+[2020.10.22-23.00.28:104][592]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (600)
+[2020.10.22-23.00.28:104][592]LogModuleManager: Shutting down and abandoning module Persona (598)
+[2020.10.22-23.00.28:104][592]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (597)
+[2020.10.22-23.00.28:104][592]LogModuleManager: Shutting down and abandoning module AnimGraph (595)
+[2020.10.22-23.00.28:104][592]LogModuleManager: Shutting down and abandoning module Kismet (592)
+[2020.10.22-23.00.28:105][592]LogModuleManager: Shutting down and abandoning module KismetWidgets (591)
+[2020.10.22-23.00.28:105][592]LogModuleManager: Shutting down and abandoning module GraphEditor (588)
+[2020.10.22-23.00.28:105][592]LogModuleManager: Shutting down and abandoning module StructViewer (586)
+[2020.10.22-23.00.28:105][592]LogModuleManager: Shutting down and abandoning module ClassViewer (584)
+[2020.10.22-23.00.28:105][592]LogModuleManager: Shutting down and abandoning module Toolbox (582)
+[2020.10.22-23.00.28:105][592]LogModuleManager: Shutting down and abandoning module ModuleUI (580)
+[2020.10.22-23.00.28:105][592]LogModuleManager: Shutting down and abandoning module OutputLog (578)
+[2020.10.22-23.00.28:106][592]LogModuleManager: Shutting down and abandoning module GammaUI (576)
+[2020.10.22-23.00.28:106][592]LogModuleManager: Shutting down and abandoning module Documentation (574)
+[2020.10.22-23.00.28:106][592]LogModuleManager: Shutting down and abandoning module LiveCoding (572)
+[2020.10.22-23.00.28:106][592]LogModuleManager: Shutting down and abandoning module LevelSequence (570)
+[2020.10.22-23.00.28:106][592]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (568)
+[2020.10.22-23.00.28:106][592]LogModuleManager: Shutting down and abandoning module MovieScene (566)
+[2020.10.22-23.00.28:106][592]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (564)
+[2020.10.22-23.00.28:106][592]LogModuleManager: Shutting down and abandoning module LauncherPlatform (562)
+[2020.10.22-23.00.28:106][592]LogModuleManager: Shutting down and abandoning module AnalyticsET (560)
+[2020.10.22-23.00.28:106][592]LogModuleManager: Shutting down and abandoning module PortalServices (558)
+[2020.10.22-23.00.28:106][592]LogModuleManager: Shutting down and abandoning module PortalRpc (556)
+[2020.10.22-23.00.28:106][592]LogModuleManager: Shutting down and abandoning module MessagingRpc (554)
+[2020.10.22-23.00.28:106][592]LogModuleManager: Shutting down and abandoning module AudioMixerXAudio2 (552)
+[2020.10.22-23.00.28:106][592]LogModuleManager: Shutting down and abandoning module AudioMixerCore (551)
+[2020.10.22-23.00.28:106][592]LogModuleManager: Shutting down and abandoning module AIModule (548)
+[2020.10.22-23.00.28:106][592]LogModuleManager: Shutting down and abandoning module GameplayDebugger (547)
+[2020.10.22-23.00.28:106][592]LogModuleManager: Shutting down and abandoning module AITestSuite (545)
+[2020.10.22-23.00.28:106][592]LogModuleManager: Shutting down and abandoning module NavigationSystem (543)
+[2020.10.22-23.00.28:106][592]LogModuleManager: Shutting down and abandoning module ProfilerService (540)
+[2020.10.22-23.00.28:276][592]LogModuleManager: Shutting down and abandoning module TaskGraph (538)
+[2020.10.22-23.00.28:276][592]LogModuleManager: Shutting down and abandoning module ScreenshotTools (536)
+[2020.10.22-23.00.28:276][592]LogModuleManager: Shutting down and abandoning module SynthesisEditor (534)
+[2020.10.22-23.00.28:276][592]LogModuleManager: Shutting down and abandoning module Synthesis (532)
+[2020.10.22-23.00.28:276][592]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (530)
+[2020.10.22-23.00.28:276][592]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (528)
+[2020.10.22-23.00.28:276][592]LogModuleManager: Shutting down and abandoning module OculusEditor (526)
+[2020.10.22-23.00.28:276][592]LogModuleManager: Shutting down and abandoning module OculusInput (524)
+[2020.10.22-23.00.28:276][592]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (522)
+[2020.10.22-23.00.28:276][592]LogModuleManager: Shutting down and abandoning module GooglePAD (520)
+[2020.10.22-23.00.28:276][592]LogModuleManager: Shutting down and abandoning module EditableMesh (518)
+[2020.10.22-23.00.28:276][592]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (516)
+[2020.10.22-23.00.28:276][592]LogModuleManager: Shutting down and abandoning module CableComponent (514)
+[2020.10.22-23.00.28:276][592]LogModuleManager: Shutting down and abandoning module AudioCapture (512)
+[2020.10.22-23.00.28:276][592]LogModuleManager: Shutting down and abandoning module AudioCaptureRtAudio (511)
+[2020.10.22-23.00.28:276][592]LogModuleManager: Shutting down and abandoning module AssetTags (508)
+[2020.10.22-23.00.28:276][592]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (506)
+[2020.10.22-23.00.28:276][592]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (504)
+[2020.10.22-23.00.28:276][592]LogModuleManager: Shutting down and abandoning module AppleImageUtils (502)
+[2020.10.22-23.00.28:276][592]LogModuleManager: Shutting down and abandoning module AndroidPermission (500)
+[2020.10.22-23.00.28:276][592]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (498)
+[2020.10.22-23.00.28:276][592]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (496)
+[2020.10.22-23.00.28:276][592]LogModuleManager: Shutting down and abandoning module TemplateSequence (494)
+[2020.10.22-23.00.28:276][592]LogModuleManager: Shutting down and abandoning module MovieRenderPipelineEditor (492)
+[2020.10.22-23.00.28:276][592]LogModuleManager: Shutting down and abandoning module MovieRenderPipelineRenderPasses (490)
+[2020.10.22-23.00.28:276][592]LogModuleManager: Shutting down and abandoning module MovieRenderPipelineSettings (488)
+[2020.10.22-23.00.28:276][592]LogModuleManager: Shutting down and abandoning module MovieRenderPipelineCore (486)
+[2020.10.22-23.00.28:276][592]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (485)
+[2020.10.22-23.00.28:283][592]LogModuleManager: Shutting down and abandoning module MeshPaintingToolset (482)
+[2020.10.22-23.00.28:283][592]LogModuleManager: Shutting down and abandoning module MeshPaintEditorMode (480)
+[2020.10.22-23.00.28:283][592]LogModuleManager: Shutting down and abandoning module MediaCompositing (478)
+[2020.10.22-23.00.28:283][592]LogModuleManager: Shutting down and abandoning module ImgMedia (476)
+[2020.10.22-23.00.28:283][592]LogModuleManager: Shutting down and abandoning module MagicLeapSharedWorld (474)
+[2020.10.22-23.00.28:283][592]LogModuleManager: Shutting down and abandoning module MagicLeapLightEstimation (472)
+[2020.10.22-23.00.28:283][592]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (470)
+[2020.10.22-23.00.28:283][592]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (468)
+[2020.10.22-23.00.28:283][592]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (466)
+[2020.10.22-23.00.28:283][592]LogModuleManager: Shutting down and abandoning module NiagaraEditorWidgets (464)
+[2020.10.22-23.00.28:284][592]LogModuleManager: Shutting down and abandoning module MeshSolverUtilities (462)
+[2020.10.22-23.00.28:284][592]LogModuleManager: Shutting down and abandoning module MeshConversion (460)
+[2020.10.22-23.00.28:284][592]LogModuleManager: Shutting down and abandoning module DynamicMesh (458)
+[2020.10.22-23.00.28:284][592]LogModuleManager: Shutting down and abandoning module GeometryAlgorithms (456)
+[2020.10.22-23.00.28:284][592]LogModuleManager: Shutting down and abandoning module GeometricObjects (454)
+[2020.10.22-23.00.28:284][592]LogModuleManager: Shutting down and abandoning module GeometryCollectionTracks (452)
+[2020.10.22-23.00.28:284][592]LogModuleManager: Shutting down and abandoning module GeometryCollectionSequencer (451)
+[2020.10.22-23.00.28:284][592]LogModuleManager: Shutting down and abandoning module GeometryCollectionEditor (448)
+[2020.10.22-23.00.28:284][592]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (446)
+[2020.10.22-23.00.28:284][592]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (444)
+[2020.10.22-23.00.28:284][592]LogModuleManager: Shutting down and abandoning module ChaosSolverEditor (442)
+[2020.10.22-23.00.28:284][592]LogModuleManager: Shutting down and abandoning module ChaosNiagara (440)
+[2020.10.22-23.00.28:284][592]LogModuleManager: Shutting down and abandoning module FractureEditor (438)
+[2020.10.22-23.00.28:284][592]LogModuleManager: Shutting down and abandoning module ChaosClothEditor (436)
+[2020.10.22-23.00.28:284][592]LogModuleManager: Shutting down and abandoning module ChaosCloth (434)
+[2020.10.22-23.00.28:284][592]LogModuleManager: Shutting down and abandoning module BackChannel (432)
+[2020.10.22-23.00.28:284][592]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (430)
+[2020.10.22-23.00.28:284][592]LogModuleManager: Shutting down and abandoning module AutomationUtils (428)
+[2020.10.22-23.00.28:284][592]LogModuleManager: Shutting down and abandoning module AlembicImporter (426)
+[2020.10.22-23.00.28:284][592]LogModuleManager: Shutting down and abandoning module AlembicLibrary (425)
+[2020.10.22-23.00.28:284][592]LogModuleManager: Shutting down and abandoning module GeometryCache (424)
+[2020.10.22-23.00.28:284][592]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (423)
+[2020.10.22-23.00.28:284][592]LogModuleManager: Shutting down and abandoning module VariantManagerContentEditor (418)
+[2020.10.22-23.00.28:284][592]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (416)
+[2020.10.22-23.00.28:284][592]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (414)
+[2020.10.22-23.00.28:284][592]LogModuleManager: Shutting down and abandoning module PluginBrowser (412)
+[2020.10.22-23.00.28:284][592]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (410)
+[2020.10.22-23.00.28:284][592]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (408)
+[2020.10.22-23.00.28:284][592]LogModuleManager: Shutting down and abandoning module EditorScriptingUtilities (406)
+[2020.10.22-23.00.28:284][592]LogModuleManager: Shutting down and abandoning module CurveEditorTools (404)
+[2020.10.22-23.00.28:284][592]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (402)
+[2020.10.22-23.00.28:284][592]LogModuleManager: Shutting down and abandoning module CryptoKeys (400)
+[2020.10.22-23.00.28:284][592]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (398)
+[2020.10.22-23.00.28:284][592]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (396)
+[2020.10.22-23.00.28:284][592]LogModuleManager: Shutting down and abandoning module UObjectPlugin (394)
+[2020.10.22-23.00.28:284][592]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (392)
+[2020.10.22-23.00.28:285][592]LogModuleManager: Shutting down and abandoning module RiderSourceCodeAccess (390)
+[2020.10.22-23.00.28:285][592]LogModuleManager: Shutting down and abandoning module PlasticSourceControl (388)
+[2020.10.22-23.00.28:285][592]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (386)
+[2020.10.22-23.00.28:285][592]LogModuleManager: Shutting down and abandoning module GitSourceControl (384)
+[2020.10.22-23.00.28:285][592]LogModuleManager: Shutting down and abandoning module SourceControl (383)
+[2020.10.22-23.00.28:285][592]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (380)
+[2020.10.22-23.00.28:285][592]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (378)
+[2020.10.22-23.00.28:285][592]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (376)
+[2020.10.22-23.00.28:285][592]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (374)
+[2020.10.22-23.00.28:285][592]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (372)
+[2020.10.22-23.00.28:285][592]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (370)
+[2020.10.22-23.00.28:285][592]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (368)
+[2020.10.22-23.00.28:285][592]LogModuleManager: Shutting down and abandoning module Paper2DEditor (366)
+[2020.10.22-23.00.28:285][592]LogModuleManager: Shutting down and abandoning module SoundFields (364)
+[2020.10.22-23.00.28:285][592]LogModuleManager: Shutting down and abandoning module SignificanceManager (362)
+[2020.10.22-23.00.28:285][592]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (360)
+[2020.10.22-23.00.28:285][592]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (358)
+[2020.10.22-23.00.28:285][592]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (354)
+[2020.10.22-23.00.28:285][592]LogModuleManager: Shutting down and abandoning module ActorSequence (352)
+[2020.10.22-23.00.28:285][592]LogModuleManager: Shutting down and abandoning module UdpMessaging (350)
+[2020.10.22-23.00.28:386][592]LogModuleManager: Shutting down and abandoning module TcpMessaging (348)
+[2020.10.22-23.00.28:487][592]LogModuleManager: Shutting down and abandoning module MagicLeapARPin (346)
+[2020.10.22-23.00.28:487][592]LogModuleManager: Shutting down and abandoning module MagicLeapHandMeshing (344)
+[2020.10.22-23.00.28:487][592]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (342)
+[2020.10.22-23.00.28:487][592]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (340)
+[2020.10.22-23.00.28:487][592]LogModuleManager: Shutting down and abandoning module MagicLeapPlanes (338)
+[2020.10.22-23.00.28:487][592]LogMagicLeapPlanes: Planes tracker already destroyed.
+[2020.10.22-23.00.28:487][592]LogModuleManager: Shutting down and abandoning module MagicLeapImageTracker (336)
+[2020.10.22-23.00.28:487][592]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (334)
+[2020.10.22-23.00.28:487][592]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (332)
+[2020.10.22-23.00.28:487][592]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (330)
+[2020.10.22-23.00.28:487][592]LogModuleManager: Shutting down and abandoning module MagicLeapController (328)
+[2020.10.22-23.00.28:487][592]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2020.10.22-23.00.28:487][592]LogModuleManager: Shutting down and abandoning module MagicLeapARPinImpl (326)
+[2020.10.22-23.00.28:487][592]LogModuleManager: Shutting down and abandoning module MagicLeapAR (324)
+[2020.10.22-23.00.28:487][592]LogModuleManager: Shutting down and abandoning module AugmentedReality (323)
+[2020.10.22-23.00.28:487][592]LogModuleManager: Shutting down and abandoning module NiagaraAnimNotifies (320)
+[2020.10.22-23.00.28:487][592]LogModuleManager: Shutting down and abandoning module Niagara (318)
+[2020.10.22-23.00.28:487][592]LogModuleManager: Shutting down and abandoning module SignalProcessing (317)
+[2020.10.22-23.00.28:487][592]LogModuleManager: Shutting down and abandoning module NiagaraEditor (315)
+[2020.10.22-23.00.28:487][592]LogModuleManager: Shutting down and abandoning module NiagaraCore (312)
+[2020.10.22-23.00.28:487][592]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (310)
+[2020.10.22-23.00.28:487][592]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (308)
+[2020.10.22-23.00.28:487][592]LogModuleManager: Shutting down and abandoning module FacialAnimation (306)
+[2020.10.22-23.00.28:487][592]LogModuleManager: Shutting down and abandoning module DataValidation (304)
+[2020.10.22-23.00.28:487][592]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (302)
+[2020.10.22-23.00.28:487][592]LogModuleManager: Shutting down and abandoning module LevelEditor (301)
+[2020.10.22-23.00.28:488][592]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (300)
+[2020.10.22-23.00.28:488][592]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (298)
+[2020.10.22-23.00.28:488][592]LogModuleManager: Shutting down and abandoning module MainFrame (296)
+[2020.10.22-23.00.28:488][592]LogModuleManager: Shutting down and abandoning module HotReload (295)
+[2020.10.22-23.00.28:488][592]LogModuleManager: Shutting down and abandoning module ToolMenus (291)
+[2020.10.22-23.00.28:488][592]LogModuleManager: Shutting down and abandoning module TreeMap (289)
+[2020.10.22-23.00.28:488][592]LogModuleManager: Shutting down and abandoning module AnimationSharing (286)
+[2020.10.22-23.00.28:488][592]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (284)
+[2020.10.22-23.00.28:488][592]LogModuleManager: Shutting down and abandoning module Paper2D (282)
+[2020.10.22-23.00.28:488][592]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (280)
+[2020.10.22-23.00.28:489][592]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (278)
+[2020.10.22-23.00.28:489][592]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (276)
+[2020.10.22-23.00.28:489][592]LogModuleManager: Shutting down and abandoning module PacketHandler (274)
+[2020.10.22-23.00.28:489][592]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (272)
+[2020.10.22-23.00.28:490][592]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntimeNv (270)
+[2020.10.22-23.00.28:490][592]LogModuleManager: Shutting down and abandoning module MediaAssets (268)
+[2020.10.22-23.00.28:490][592]LogModuleManager: Shutting down and abandoning module Overlay (266)
+[2020.10.22-23.00.28:490][592]LogModuleManager: Shutting down and abandoning module OverlayEditor (265)
+[2020.10.22-23.00.28:490][592]LogModuleManager: Shutting down and abandoning module VREditor (262)
+[2020.10.22-23.00.28:490][592]LogModuleManager: Shutting down and abandoning module StringTableEditor (260)
+[2020.10.22-23.00.28:490][592]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (258)
+[2020.10.22-23.00.28:490][592]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (256)
+[2020.10.22-23.00.28:490][592]LogModuleManager: Shutting down and abandoning module FunctionalTesting (254)
+[2020.10.22-23.00.28:490][592]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (252)
+[2020.10.22-23.00.28:490][592]LogModuleManager: Shutting down and abandoning module UMG (250)
+[2020.10.22-23.00.28:490][592]LogModuleManager: Shutting down and abandoning module UMGEditor (249)
+[2020.10.22-23.00.28:490][592]LogModuleManager: Shutting down and abandoning module MessageLog (247)
+[2020.10.22-23.00.28:490][592]LogModuleManager: Shutting down and abandoning module MaterialEditor (245)
+[2020.10.22-23.00.28:490][592]LogModuleManager: Shutting down and abandoning module ContentBrowser (244)
+[2020.10.22-23.00.28:491][592]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (243)
+[2020.10.22-23.00.28:491][592]LogModuleManager: Shutting down and abandoning module SlateReflector (236)
+[2020.10.22-23.00.28:491][592]LogModuleManager: Shutting down and abandoning module Slate (234)
+[2020.10.22-23.00.28:491][592]LogModuleManager: Shutting down and abandoning module SlateCore (232)
+[2020.10.22-23.00.28:491][592]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (230)
+[2020.10.22-23.00.28:491][592]LogModuleManager: Shutting down and abandoning module UnrealEd (228)
+[2020.10.22-23.00.28:491][592]LogModuleManager: Shutting down and abandoning module MRMesh (226)
+[2020.10.22-23.00.28:491][592]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (224)
+[2020.10.22-23.00.28:491][592]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (222)
+[2020.10.22-23.00.28:491][592]LogModuleManager: Shutting down and abandoning module XAudio2 (220)
+[2020.10.22-23.00.28:491][592]LogModuleManager: Shutting down and abandoning module Networking (218)
+[2020.10.22-23.00.28:491][592]LogModuleManager: Shutting down and abandoning module Core (216)
+[2020.10.22-23.00.28:491][592]LogModuleManager: Shutting down and abandoning module MovieSceneTools (214)
+[2020.10.22-23.00.28:491][592]LogModuleManager: Shutting down and abandoning module CurveEditor (213)
+[2020.10.22-23.00.28:491][592]LogModuleManager: Shutting down and abandoning module Sequencer (211)
+[2020.10.22-23.00.28:491][592]LogModuleManager: Shutting down and abandoning module EditorStyle (210)
+[2020.10.22-23.00.28:492][592]LogModuleManager: Shutting down and abandoning module KismetCompiler (206)
+[2020.10.22-23.00.28:492][592]LogModuleManager: Shutting down and abandoning module MeshBuilder (204)
+[2020.10.22-23.00.28:492][592]LogModuleManager: Shutting down and abandoning module MeshUtilities (202)
+[2020.10.22-23.00.28:492][592]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (201)
+[2020.10.22-23.00.28:492][592]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (200)
+[2020.10.22-23.00.28:492][592]LogModuleManager: Shutting down and abandoning module MeshBoneReduction (199)
+[2020.10.22-23.00.28:492][592]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (197)
+[2020.10.22-23.00.28:492][592]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (195)
+[2020.10.22-23.00.28:492][592]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (193)
+[2020.10.22-23.00.28:492][592]LogModuleManager: Shutting down and abandoning module MaterialBaking (189)
+[2020.10.22-23.00.28:492][592]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (184)
+[2020.10.22-23.00.28:492][592]LogModuleManager: Shutting down and abandoning module DerivedDataCache (182)
+[2020.10.22-23.00.28:492][592]LogModuleManager: Shutting down and abandoning module XGEController (180)
+[2020.10.22-23.00.28:492][592]LogXGEController: Cleaning working directory: C:/Users/Nina/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2020.10.22-23.00.28:492][592]LogModuleManager: Shutting down and abandoning module TargetPlatform (178)
+[2020.10.22-23.00.28:492][592]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (177)
+[2020.10.22-23.00.28:492][592]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (175)
+[2020.10.22-23.00.28:492][592]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (173)
+[2020.10.22-23.00.28:492][592]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (171)
+[2020.10.22-23.00.28:492][592]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (169)
+[2020.10.22-23.00.28:492][592]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (167)
+[2020.10.22-23.00.28:492][592]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (165)
+[2020.10.22-23.00.28:492][592]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (163)
+[2020.10.22-23.00.28:492][592]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (161)
+[2020.10.22-23.00.28:492][592]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (159)
+[2020.10.22-23.00.28:492][592]LogModuleManager: Shutting down and abandoning module ImageWrapper (158)
+[2020.10.22-23.00.28:492][592]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (155)
+[2020.10.22-23.00.28:492][592]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (153)
+[2020.10.22-23.00.28:492][592]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (151)
+[2020.10.22-23.00.28:492][592]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (149)
+[2020.10.22-23.00.28:492][592]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (147)
+[2020.10.22-23.00.28:492][592]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (145)
+[2020.10.22-23.00.28:492][592]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (143)
+[2020.10.22-23.00.28:492][592]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (141)
+[2020.10.22-23.00.28:492][592]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (139)
+[2020.10.22-23.00.28:493][592]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (137)
+[2020.10.22-23.00.28:494][592]LogModuleManager: Shutting down and abandoning module LinuxAArch64ServerTargetPlatform (135)
+[2020.10.22-23.00.28:494][592]LogModuleManager: Shutting down and abandoning module LinuxAArch64ClientTargetPlatform (133)
+[2020.10.22-23.00.28:494][592]LogModuleManager: Shutting down and abandoning module LinuxAArch64NoEditorTargetPlatform (131)
+[2020.10.22-23.00.28:494][592]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (129)
+[2020.10.22-23.00.28:494][592]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (127)
+[2020.10.22-23.00.28:494][592]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (125)
+[2020.10.22-23.00.28:494][592]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (123)
+[2020.10.22-23.00.28:494][592]LogModuleManager: Shutting down and abandoning module Messaging (121)
+[2020.10.22-23.00.28:494][592]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (119)
+[2020.10.22-23.00.28:495][592]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (117)
+[2020.10.22-23.00.28:497][592]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (115)
+[2020.10.22-23.00.28:497][592]LogModuleManager: Shutting down and abandoning module InputCore (112)
+[2020.10.22-23.00.28:497][592]LogModuleManager: Shutting down and abandoning module Settings (110)
+[2020.10.22-23.00.28:497][592]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (108)
+[2020.10.22-23.00.28:497][592]LogModuleManager: Shutting down and abandoning module PhysXCooking (106)
+[2020.10.22-23.00.28:497][592]LogModuleManager: Shutting down and abandoning module ChaosSolvers (104)
+[2020.10.22-23.00.28:497][592]LogModuleManager: Shutting down and abandoning module FieldSystemEngine (103)
+[2020.10.22-23.00.28:497][592]LogModuleManager: Shutting down and abandoning module Chaos (100)
+[2020.10.22-23.00.28:497][592]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (98)
+[2020.10.22-23.00.28:497][592]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (97)
+[2020.10.22-23.00.28:497][592]LogModuleManager: Shutting down and abandoning module AVEncoder (96)
+[2020.10.22-23.00.28:497][592]LogModuleManager: Shutting down and abandoning module SteamVRInputDevice (92)
+[2020.10.22-23.00.28:497][592]LogModuleManager: Shutting down and abandoning module SteamVRInput (90)
+[2020.10.22-23.00.28:497][592]LogModuleManager: Shutting down and abandoning module SteamVR (88)
+[2020.10.22-23.00.28:497][592]LogHMD: Freeing OpenVRDLLHandle.
+[2020.10.22-23.00.28:497][592]LogModuleManager: Shutting down and abandoning module OculusHMD (86)
+[2020.10.22-23.00.28:497][592]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (84)
+[2020.10.22-23.00.28:497][592]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (82)
+[2020.10.22-23.00.28:497][592]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (80)
+[2020.10.22-23.00.28:497][592]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (76)
+[2020.10.22-23.00.28:498][592]LogModuleManager: Shutting down and abandoning module XMPP (71)
+[2020.10.22-23.00.28:498][592]LogModuleManager: Shutting down and abandoning module WebSockets (70)
+[2020.10.22-23.00.28:501][592]LogModuleManager: Shutting down and abandoning module HTTP (67)
+[2020.10.22-23.00.28:501][592]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2020.10.22-23.00.28:501][592]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B2F987117-4C70-C47F-4FE8-049E18745E82%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.25.3-13942748%2B%2B%2BUE4%2BRelease-4.25&UserID=84ae830349ae201bf86a8e8918af0487%7C3fee97e6c617472f8a0736e7fb6e9d67%7Ceec24840-c061-4d77-89b3-5a7198df5d20&AppEnvironment=datacollector-source&UploadType=eteventstream] refs=[1] status=Processing
+[2020.10.22-23.00.28:519][592]LogModuleManager: Shutting down and abandoning module SSL (66)
+[2020.10.22-23.00.28:520][592]LogModuleManager: Shutting down and abandoning module WmfMedia (62)
+[2020.10.22-23.00.28:521][592]LogModuleManager: Shutting down and abandoning module Media (61)
+[2020.10.22-23.00.28:522][592]LogModuleManager: Shutting down and abandoning module MagicLeap (58)
+[2020.10.22-23.00.28:522][592]LogModuleManager: Shutting down and abandoning module NiagaraVertexFactories (56)
+[2020.10.22-23.00.28:522][592]LogModuleManager: Shutting down and abandoning module NiagaraShader (54)
+[2020.10.22-23.00.28:522][592]LogModuleManager: Shutting down and abandoning module VariantManagerContent (52)
+[2020.10.22-23.00.28:522][592]LogModuleManager: Shutting down and abandoning module DatasmithContent (50)
+[2020.10.22-23.00.28:522][592]LogModuleManager: Shutting down and abandoning module AISupportModule (48)
+[2020.10.22-23.00.28:522][592]LogModuleManager: Shutting down and abandoning module DesktopPlatform (46)
+[2020.10.22-23.00.28:522][592]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (44)
+[2020.10.22-23.00.28:522][592]LogModuleManager: Shutting down and abandoning module PlatformCryptoTypes (42)
+[2020.10.22-23.00.28:522][592]LogModuleManager: Shutting down and abandoning module PlatformCrypto (40)
+[2020.10.22-23.00.28:522][592]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2020.10.22-23.00.28:522][592]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2020.10.22-23.00.28:522][592]LogModuleManager: Shutting down and abandoning module AudioEditor (34)
+[2020.10.22-23.00.28:522][592]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2020.10.22-23.00.28:522][592]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2020.10.22-23.00.28:522][592]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2020.10.22-23.00.28:522][592]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2020.10.22-23.00.28:523][592]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2020.10.22-23.00.28:523][592]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2020.10.22-23.00.28:523][592]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2020.10.22-23.00.28:523][592]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2020.10.22-23.00.28:523][592]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2020.10.22-23.00.28:523][592]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2020.10.22-23.00.28:523][592]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2020.10.22-23.00.28:523][592]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2020.10.22-23.00.28:523][592]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2020.10.22-23.00.28:523][592]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2020.10.22-23.00.28:523][592]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2020.10.22-23.00.28:523][592]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2020.10.22-23.00.28:523][592]LogContentStreaming: Display: There are 1 unreleased StreamingManagers
+[2020.10.22-23.00.28:526][592]LogD3D11RHI: Shutdown
+[2020.10.22-23.00.28:526][592]LogD3D11RHI: CleanupD3DDevice
+[2020.10.22-23.00.28:537][592]LogExit: Exiting.
+[2020.10.22-23.00.28:555][592]Log file closed, 10/22/20 19:00:28
