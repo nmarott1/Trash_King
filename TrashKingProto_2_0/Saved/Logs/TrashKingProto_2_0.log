@@ -703,3 +703,10 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.10.22-21.49.10:874][346]LogSlate: Window 'Source Control Login' being destroyed
 [2020.10.22-21.50.18:526][663]LogSlate: Window 'Content Browser' being destroyed
 [2020.10.22-21.50.18:530][663]LogSlate: Window 'Content Browser' being destroyed
+[2020.10.22-21.54.26:604][837]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2020.10.22-21.54.26:676][837]LogSavePackage: Moving '../../../../../../Unreal Projects/Trash_King/TrashKingProto_2_0/Saved/ApartmentComplexCA07E1FB4012E59C1E6263A21DBD6796.tmp' to '../../../../../../Unreal Projects/Trash_King/TrashKingProto_2_0/Content/Levels/ApartmentComplex.umap'
+[2020.10.22-21.54.26:762][837]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/ApartmentComplex_BuiltData" FILE="../../../../../../Unreal Projects/Trash_King/TrashKingProto_2_0/Content/Levels/ApartmentComplex_BuiltData.uasset" SILENT=true
+[2020.10.22-21.54.26:807][837]LogSavePackage: Moving '../../../../../../Unreal Projects/Trash_King/TrashKingProto_2_0/Saved/ApartmentComplex_BuiltDataBECE9B9A4628D7A978FB2F92849A7059.tmp' to '../../../../../../Unreal Projects/Trash_King/TrashKingProto_2_0/Content/Levels/ApartmentComplex_BuiltData.uasset'
+[2020.10.22-21.54.26:814][837]AssetCheck: New page: Asset Save: multiple assets
+[2020.10.22-21.54.26:814][837]LogContentValidation: Display: Validating World /Game/Levels/ApartmentComplex.ApartmentComplex
+[2020.10.22-21.54.26:814][837]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/ApartmentComplex_BuiltData.ApartmentComplex_BuiltData
