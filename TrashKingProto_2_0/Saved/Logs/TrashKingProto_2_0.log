@@ -724,3 +724,137 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.10.22-21.58.01:016][689]AssetCheck: New page: Asset Save: multiple assets
 [2020.10.22-21.58.01:016][689]LogContentValidation: Display: Validating World /Game/Levels/ApartmentComplex.ApartmentComplex
 [2020.10.22-21.58.01:016][689]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/ApartmentComplex_BuiltData.ApartmentComplex_BuiltData
+[2020.10.22-22.04.36:638][560]Cmd: MODE GRID=0
+[2020.10.22-22.05.14:801][793]LogEditorViewport: Clicking on Actor (LMB): Brush (wall24)
+[2020.10.22-22.05.18:839][260]LogSlate: Took 0.015676 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.10.22-22.05.40:215][789]Cmd: DELETE
+[2020.10.22-22.05.40:215][789]Cmd: ACTOR DELETE
+[2020.10.22-22.05.40:233][789]LogEditorActor: Deleted Actor: Brush
+[2020.10.22-22.05.40:241][789]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2020.10.22-22.05.40:255][789]LogEditorActor: Deleted 1 Actors (0.040 secs)
+[2020.10.22-22.05.46:570][543]LogEditorViewport: Clicking on Actor (LMB): Brush (wall25)
+[2020.10.22-22.05.47:339][633]LogEditorViewport: Clicking on Actor (LMB): Brush (wall25)
+[2020.10.22-22.05.48:015][712]LogEditorViewport: Clicking on Actor (LMB): Brush (wall25)
+[2020.10.22-22.06.01:633][816]LogEditorViewport: Clicking on Actor (LMB): Brush (wall25)
+[2020.10.22-22.06.02:352][900]LogEditorViewport: Clicking on Actor (LMB): Brush (wall25)
+[2020.10.22-22.06.24:664][547]Cmd: POLY SELECT ADJACENT WALLS
+[2020.10.22-22.06.26:534][770]Cmd: DUPLICATE
+[2020.10.22-22.06.26:534][770]Cmd: ACTOR DUPLICATE
+[2020.10.22-22.07.11:444][ 97]Cmd: POLY SELECT ADJACENT WALLS
+[2020.10.22-22.07.13:049][288]Cmd: DUPLICATE
+[2020.10.22-22.07.13:049][288]Cmd: ACTOR DUPLICATE
+[2020.10.22-22.07.24:649][665]LogEditorViewport: Clicking on Actor (LMB): Brush (wall27)
+[2020.10.22-22.07.36:415][ 59]LogGeometryMode: Warning: Unable to find wall26 Brush(s) in new BSP
+[2020.10.22-22.07.36:415][ 59]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2020.10.22-22.08.14:402][564]Cmd: DUPLICATE
+[2020.10.22-22.08.14:402][564]Cmd: ACTOR DUPLICATE
+[2020.10.22-22.08.39:622][550]Cmd: TRANSACTION UNDO
+[2020.10.22-22.08.39:622][550]LogEditorTransaction: Undo Move Actors
+[2020.10.22-22.09.14:206][576]Cmd: DUPLICATE
+[2020.10.22-22.09.14:206][576]Cmd: ACTOR DUPLICATE
+[2020.10.22-22.10.14:134][469]Cmd: TRANSACTION UNDO
+[2020.10.22-22.10.14:134][469]LogEditorTransaction: Undo Move Actors
+[2020.10.22-22.11.24:804][981]Cmd: DUPLICATE
+[2020.10.22-22.11.24:804][981]Cmd: ACTOR DUPLICATE
+[2020.10.22-22.11.56:609][744]Cmd: DUPLICATE
+[2020.10.22-22.11.56:609][744]Cmd: ACTOR DUPLICATE
+[2020.10.22-22.12.06:036][846]Cmd: TRANSACTION UNDO
+[2020.10.22-22.12.06:037][846]LogEditorTransaction: Undo Move Actors
+[2020.10.22-22.12.06:057][846]LogActorComponent: RegisterComponentWithWorld: (/Game/Levels/ApartmentComplex.ApartmentComplex:PersistentLevel.int_door3_12.BrushComponent0) Trying to register component with IsPendingKill() == true. Aborting.
+[2020.10.22-22.14.05:804][407]Cmd: DUPLICATE
+[2020.10.22-22.14.05:804][407]Cmd: ACTOR DUPLICATE
+[2020.10.22-22.14.28:687][ 53]Cmd: TRANSACTION UNDO
+[2020.10.22-22.14.28:687][ 53]LogEditorTransaction: Undo Scale Actors
+[2020.10.22-22.14.35:311][776]Cmd: TRANSACTION UNDO
+[2020.10.22-22.14.35:311][776]LogEditorTransaction: Undo Scale Actors
+[2020.10.22-22.16.20:535][202]Cmd: DUPLICATE
+[2020.10.22-22.16.20:535][202]Cmd: ACTOR DUPLICATE
+[2020.10.22-22.16.39:945][485]Cmd: TRANSACTION UNDO
+[2020.10.22-22.16.39:945][485]LogEditorTransaction: Undo Scale Actors
+[2020.10.22-22.16.48:817][468]Cmd: TRANSACTION UNDO
+[2020.10.22-22.16.48:817][468]LogEditorTransaction: Undo Set Scale
+[2020.10.22-22.16.50:240][589]Cmd: TRANSACTION UNDO
+[2020.10.22-22.16.50:240][589]LogEditorTransaction: Undo Unlock Groups
+[2020.10.22-22.17.01:136][825]Cmd: TRANSACTION UNDO
+[2020.10.22-22.17.01:136][825]LogEditorTransaction: Undo Set Scale
+[2020.10.22-22.17.02:907][986]Cmd: TRANSACTION UNDO
+[2020.10.22-22.17.02:907][986]LogEditorTransaction: Undo Set Scale
+[2020.10.22-22.17.20:366][ 28]Cmd: DELETE
+[2020.10.22-22.17.20:366][ 28]Cmd: ACTOR DELETE
+[2020.10.22-22.17.20:380][ 28]LogEditorActor: Deleted Actor: Brush
+[2020.10.22-22.17.20:388][ 28]LogEditorActor: Deleted Actor: Brush
+[2020.10.22-22.17.20:388][ 28]LogEditorActor: Deleted Actor: Brush
+[2020.10.22-22.17.20:388][ 28]LogEditorActor: Deleted Actor: Brush
+[2020.10.22-22.17.20:388][ 28]LogEditorActor: Deleted Actor: Brush
+[2020.10.22-22.17.20:388][ 28]LogEditorActor: Deleted Actor: Brush
+[2020.10.22-22.17.20:389][ 28]LogEditorActor: Deleted Actor: Brush
+[2020.10.22-22.17.20:389][ 28]LogEditorActor: Deleted Actor: Brush
+[2020.10.22-22.17.20:389][ 28]LogEditorActor: Deleted Actor: Brush
+[2020.10.22-22.17.20:389][ 28]LogEditorActor: Deleted Actor: Brush
+[2020.10.22-22.17.20:389][ 28]LogEditorActor: Deleted Actor: Brush
+[2020.10.22-22.17.20:389][ 28]LogEditorActor: Deleted Actor: Brush
+[2020.10.22-22.17.20:411][ 28]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2020.10.22-22.17.20:431][ 28]LogEditorActor: Deleted 12 Actors (0.064 secs)
+[2020.10.22-22.17.54:437][ 73]LogEditorViewport: Clicking on Actor (LMB): Brush (wall26)
+[2020.10.22-22.17.55:515][200]LogEditorViewport: Clicking on Actor (LMB): Brush (wall26)
+[2020.10.22-22.19.39:652][679]Cmd: TRANSACTION UNDO
+[2020.10.22-22.19.39:652][679]LogEditorTransaction: Undo Clicking on Actors
+[2020.10.22-22.19.41:889][898]Cmd: TRANSACTION UNDO
+[2020.10.22-22.19.41:889][898]LogEditorTransaction: Undo Clicking on Actors
+[2020.10.22-22.20.28:004][381]Cmd: DUPLICATE
+[2020.10.22-22.20.28:004][381]Cmd: ACTOR DUPLICATE
+[2020.10.22-22.20.49:532][936]Cmd: DUPLICATE
+[2020.10.22-22.20.49:532][936]Cmd: ACTOR DUPLICATE
+[2020.10.22-22.22.09:348][405]Cmd: DUPLICATE
+[2020.10.22-22.22.09:348][405]Cmd: ACTOR DUPLICATE
+[2020.10.22-22.22.28:766][714]LogEditorViewport: Clicking Background
+[2020.10.22-22.22.38:176][837]LogEditorViewport: Clicking Background
+[2020.10.22-22.22.40:580][120]LogEditorViewport: Clicking Background
+[2020.10.22-22.22.44:251][556]LogEditorViewport: Clicking Background
+[2020.10.22-22.23.07:309][300]Cmd: TRANSACTION UNDO
+[2020.10.22-22.23.07:309][300]LogEditorTransaction: Undo Clicking on Actors
+[2020.10.22-22.23.12:227][836]Cmd: TRANSACTION UNDO
+[2020.10.22-22.23.12:227][836]LogEditorTransaction: Undo Clicking on Actors
+[2020.10.22-22.23.25:896][412]Cmd: DUPLICATE
+[2020.10.22-22.23.25:896][412]Cmd: ACTOR DUPLICATE
+[2020.10.22-22.24.11:899][852]Cmd: POLY SELECT ADJACENT WALLS
+[2020.10.22-22.24.31:654][201]Cmd: TRANSACTION UNDO
+[2020.10.22-22.24.31:654][201]LogEditorTransaction: Undo Move Actors
+[2020.10.22-22.24.32:195][218]Cmd: TRANSACTION UNDO
+[2020.10.22-22.24.32:195][218]LogEditorTransaction: Undo Move Actors
+[2020.10.22-22.24.32:783][280]Cmd: TRANSACTION UNDO
+[2020.10.22-22.24.32:783][280]LogEditorTransaction: Undo Move Actors
+[2020.10.22-22.24.35:072][547]Cmd: DUPLICATE
+[2020.10.22-22.24.35:072][547]Cmd: ACTOR DUPLICATE
+[2020.10.22-22.25.00:891][589]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2020.10.22-22.25.00:957][589]LogSavePackage: Moving '../../../../../../Unreal Projects/Trash_King/TrashKingProto_2_0/Saved/ApartmentComplexAAB517C347FC8140CDA7E28C217939E2.tmp' to '../../../../../../Unreal Projects/Trash_King/TrashKingProto_2_0/Content/Levels/ApartmentComplex.umap'
+[2020.10.22-22.25.01:051][589]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/ApartmentComplex_BuiltData" FILE="../../../../../../Unreal Projects/Trash_King/TrashKingProto_2_0/Content/Levels/ApartmentComplex_BuiltData.uasset" SILENT=true
+[2020.10.22-22.25.01:080][589]LogSavePackage: Moving '../../../../../../Unreal Projects/Trash_King/TrashKingProto_2_0/Saved/ApartmentComplex_BuiltData89849D9D403EB1EBBDC1F58416B3E2CC.tmp' to '../../../../../../Unreal Projects/Trash_King/TrashKingProto_2_0/Content/Levels/ApartmentComplex_BuiltData.uasset'
+[2020.10.22-22.25.01:088][589]AssetCheck: New page: Asset Save: multiple assets
+[2020.10.22-22.25.01:088][589]LogContentValidation: Display: Validating World /Game/Levels/ApartmentComplex.ApartmentComplex
+[2020.10.22-22.25.01:088][589]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/ApartmentComplex_BuiltData.ApartmentComplex_BuiltData
+[2020.10.22-22.25.15:326][269]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2020.10.22-22.25.30:600][ 78]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.10.22-22.26.26:627][688]Cmd: TRANSACTION UNDO
+[2020.10.22-22.26.26:627][688]LogEditorTransaction: Undo Move Actors
+[2020.10.22-22.26.26:663][688]LogGeometryMode: Warning: Unable to find 1 Poly(s) in new BSP
+[2020.10.22-22.26.26:663][688]LogGeometryMode: Warning: Unable to resolve BoxBrush Brush in new BSP, see above
+[2020.10.22-22.26.26:663][688]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2020.10.22-22.27.32:371][297]Cmd: TRANSACTION UNDO
+[2020.10.22-22.27.32:371][297]LogEditorTransaction: Undo Modifier [Pen]
+[2020.10.22-22.27.36:425][702]LogGeometryMode: Warning: Unable to find 1 Edge(s) in new BSP
+[2020.10.22-22.27.36:425][702]LogGeometryMode: Warning: Unable to resolve BoxBrush Brush in new BSP, see above
+[2020.10.22-22.27.36:425][702]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2020.10.22-22.27.58:388][274]Cmd: DUPLICATE
+[2020.10.22-22.27.58:388][274]Cmd: ACTOR DUPLICATE
+[2020.10.22-22.28.21:968][ 48]Cmd: EDCALLBACK SURFPROPS
+[2020.10.22-22.28.36:952][820]Cmd: MODE SCALEGRID=0
+[2020.10.22-22.28.53:338][760]Cmd: DUPLICATE
+[2020.10.22-22.28.53:338][760]Cmd: ACTOR DUPLICATE
+[2020.10.22-22.29.05:943][245]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2020.10.22-22.29.05:998][245]LogSavePackage: Moving '../../../../../../Unreal Projects/Trash_King/TrashKingProto_2_0/Saved/ApartmentComplex9D84372B4DA2B4E1C77F4D955C90B786.tmp' to '../../../../../../Unreal Projects/Trash_King/TrashKingProto_2_0/Content/Levels/ApartmentComplex.umap'
+[2020.10.22-22.29.06:103][245]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/ApartmentComplex_BuiltData" FILE="../../../../../../Unreal Projects/Trash_King/TrashKingProto_2_0/Content/Levels/ApartmentComplex_BuiltData.uasset" SILENT=true
+[2020.10.22-22.29.06:126][245]LogSavePackage: Moving '../../../../../../Unreal Projects/Trash_King/TrashKingProto_2_0/Saved/ApartmentComplex_BuiltData6598A2314547A44EBD88B58DD5106F0C.tmp' to '../../../../../../Unreal Projects/Trash_King/TrashKingProto_2_0/Content/Levels/ApartmentComplex_BuiltData.uasset'
+[2020.10.22-22.29.06:133][245]AssetCheck: New page: Asset Save: multiple assets
+[2020.10.22-22.29.06:133][245]LogContentValidation: Display: Validating World /Game/Levels/ApartmentComplex.ApartmentComplex
+[2020.10.22-22.29.06:133][245]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/ApartmentComplex_BuiltData.ApartmentComplex_BuiltData
