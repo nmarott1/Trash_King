@@ -717,3 +717,10 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.10.22-21.55.40:468][589]AssetCheck: New page: Asset Save: multiple assets
 [2020.10.22-21.55.40:468][589]LogContentValidation: Display: Validating World /Game/Levels/ApartmentComplex.ApartmentComplex
 [2020.10.22-21.55.40:468][589]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/ApartmentComplex_BuiltData.ApartmentComplex_BuiltData
+[2020.10.22-21.58.00:885][689]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2020.10.22-21.58.00:914][689]LogSavePackage: Moving '../../../../../../Unreal Projects/Trash_King/TrashKingProto_2_0/Saved/ApartmentComplex18D0845849FECDF6BC47D088B2755C41.tmp' to '../../../../../../Unreal Projects/Trash_King/TrashKingProto_2_0/Content/Levels/ApartmentComplex.umap'
+[2020.10.22-21.58.00:986][689]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/ApartmentComplex_BuiltData" FILE="../../../../../../Unreal Projects/Trash_King/TrashKingProto_2_0/Content/Levels/ApartmentComplex_BuiltData.uasset" SILENT=true
+[2020.10.22-21.58.01:009][689]LogSavePackage: Moving '../../../../../../Unreal Projects/Trash_King/TrashKingProto_2_0/Saved/ApartmentComplex_BuiltData5C4A3A794FAE4A465C1EE895FF7BB428.tmp' to '../../../../../../Unreal Projects/Trash_King/TrashKingProto_2_0/Content/Levels/ApartmentComplex_BuiltData.uasset'
+[2020.10.22-21.58.01:016][689]AssetCheck: New page: Asset Save: multiple assets
+[2020.10.22-21.58.01:016][689]LogContentValidation: Display: Validating World /Game/Levels/ApartmentComplex.ApartmentComplex
+[2020.10.22-21.58.01:016][689]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/ApartmentComplex_BuiltData.ApartmentComplex_BuiltData
