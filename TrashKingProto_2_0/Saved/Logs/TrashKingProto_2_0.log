@@ -1016,3 +1016,79 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.11.05-17.04.54:272][752]SourceControl:  create mode 100644 TrashKingProto_2_0/Content/Levels/Sushi_Restaurant.umap
 [2020.11.05-17.04.54:272][752]SourceControl:  create mode 100644 TrashKingProto_2_0/Content/Levels/Sushi_Restaurant_BuiltData.uasset
 [2020.11.05-17.04.54:276][752]SourceControl: Commited [master c1c79f4] Sushi restaurant blocked out.
+[2020.11.05-17.05.54:566][ 71]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2020.11.05-17.06.28:298][ 82]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.11.05-17.08.57:581][312]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2020.11.05-17.09.21:454][146]LogGeometryMode: Warning: Unable to find wall3_3 Brush(s) in new BSP
+[2020.11.05-17.09.21:454][146]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2020.11.05-17.09.29:698][113]Cmd: EDCALLBACK SURFPROPS
+[2020.11.05-17.09.36:192][876]Cmd: EDCALLBACK SURFPROPS
+[2020.11.05-17.09.37:177][990]Cmd: EDCALLBACK SURFPROPS
+[2020.11.05-17.10.45:772][147]Cmd: ACTOR SELECT MATCHINGSTATICMESH ALLCLASSES
+[2020.11.05-17.10.45:772][147]LogEditorActor: No worlds found in edactSelectMatchingStaticMesh
+[2020.11.05-17.10.49:620][605]Cmd: TRANSACTION UNDO
+[2020.11.05-17.10.49:620][605]LogEditorTransaction: Undo Move Actors
+[2020.11.05-17.10.49:638][605]LogGeometryMode: Warning: Unable to find 1 Poly(s) in new BSP
+[2020.11.05-17.10.49:638][605]LogGeometryMode: Warning: Unable to resolve BoxBrush Brush in new BSP, see above
+[2020.11.05-17.10.49:638][605]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2020.11.05-17.11.03:614][212]Cmd: TRANSACTION UNDO
+[2020.11.05-17.11.03:614][212]LogEditorTransaction: Undo Modifier [Extrude]
+[2020.11.05-17.11.03:629][212]LogGeometryMode: Warning: Unable to find 1 Poly(s) in new BSP
+[2020.11.05-17.11.03:630][212]LogGeometryMode: Warning: Unable to resolve BoxBrush Brush in new BSP, see above
+[2020.11.05-17.11.03:630][212]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2020.11.05-17.11.35:844][930]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Sphere)
+[2020.11.05-17.11.36:205][932]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Sphere)
+[2020.11.05-17.11.37:471][ 81]Cmd: DELETE
+[2020.11.05-17.11.37:471][ 81]Cmd: ACTOR DELETE
+[2020.11.05-17.11.37:472][ 81]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.11.05-17.11.37:489][ 81]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2020.11.05-17.11.37:492][ 81]LogEditorActor: Deleted 1 Actors (0.021 secs)
+[2020.11.05-17.11.43:434][729]SourceControl: fatal: E:/Program Files/Epic Games/UE_4.25/Engine/Content: 'E:/Program Files/Epic Games/UE_4.25/Engine/Content' is outside repository at 'E:/Unreal Projects/Trash_King'
+[2020.11.05-17.11.43:434][729]SourceControl: fatal: E:/Program Files/Epic Games/UE_4.25/Engine/Plugins/2D/Paper2D/Content: 'E:/Program Files/Epic Games/UE_4.25/Engine/Plugins/2D/Paper2D/Content' is outside repository at 'E:/Unreal Projects/Trash_King'
+[2020.11.05-17.11.43:434][729]SourceControl: fatal: E:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Developer/AnimationSharing/Content: 'E:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Developer/AnimationSharing/Content' is outside repository at 'E:/Unreal Projects/Trash_King'
+[2020.11.05-17.11.43:434][729]SourceControl: fatal: E:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Editor/GeometryMode/Content: 'E:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Editor/GeometryMode/Content' is outside repository at 'E:/Unreal Projects/Trash_King'
+[2020.11.05-17.11.43:434][729]SourceControl: fatal: E:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Enterprise/DatasmithContent/Content: 'E:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Enterprise/DatasmithContent/Content' is outside repository at 'E:/Unreal Projects/Trash_King'
+[2020.11.05-17.11.43:434][729]SourceControl: fatal: E:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Experimental/ChaosClothEditor/Content: 'E:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Experimental/ChaosClothEditor/Content' is outside repository at 'E:/Unreal Projects/Trash_King'
+[2020.11.05-17.11.43:434][729]SourceControl: fatal: E:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Experimental/ChaosNiagara/Content: 'E:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Experimental/ChaosNiagara/Content' is outside repository at 'E:/Unreal Projects/Trash_King'
+[2020.11.05-17.11.43:434][729]SourceControl: fatal: E:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Experimental/ChaosSolverPlugin/Content: 'E:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Experimental/ChaosSolverPlugin/Content' is outside repository at 'E:/Unreal Projects/Trash_King'
+[2020.11.05-17.11.43:434][729]SourceControl: fatal: E:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content: 'E:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content' is outside repository at 'E:/Unreal Projects/Trash_King'
+[2020.11.05-17.11.43:434][729]SourceControl: fatal: E:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Experimental/GeometryProcessing/Content: 'E:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Experimental/GeometryProcessing/Content' is outside repository at 'E:/Unreal Projects/Trash_King'
+[2020.11.05-17.11.43:434][729]SourceControl: fatal: E:/Program Files/Epic Games/UE_4.25/Engine/Plugins/FX/Niagara/Content: 'E:/Program Files/Epic Games/UE_4.25/Engine/Plugins/FX/Niagara/Content' is outside repository at 'E:/Unreal Projects/Trash_King'
+[2020.11.05-17.11.43:434][729]SourceControl: fatal: E:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Lumin/MagicLeap/Content: 'E:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Lumin/MagicLeap/Content' is outside repository at 'E:/Unreal Projects/Trash_King'
+[2020.11.05-17.11.43:434][729]SourceControl: fatal: E:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content: 'E:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content' is outside repository at 'E:/Unreal Projects/Trash_King'
+[2020.11.05-17.11.43:434][729]SourceControl: fatal: E:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Media/MediaCompositing/Content: 'E:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Media/MediaCompositing/Content' is outside repository at 'E:/Unreal Projects/Trash_King'
+[2020.11.05-17.11.43:434][729]SourceControl: fatal: E:/Program Files/Epic Games/UE_4.25/Engine/Plugins/MovieScene/MovieRenderPipeline/Content: 'E:/Program Files/Epic Games/UE_4.25/Engine/Plugins/MovieScene/MovieRenderPipeline/Content' is outside repository at 'E:/Unreal Projects/Trash_King'
+[2020.11.05-17.11.43:434][729]SourceControl: fatal: E:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Runtime/Oculus/OculusVR/Content: 'E:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Runtime/Oculus/OculusVR/Content' is outside repository at 'E:/Unreal Projects/Trash_King'
+[2020.11.05-17.11.43:434][729]SourceControl: fatal: E:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Runtime/PostSplashScreen/Content: 'E:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Runtime/PostSplashScreen/Content' is outside repository at 'E:/Unreal Projects/Trash_King'
+[2020.11.05-17.11.43:434][729]SourceControl: fatal: E:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Runtime/Steam/SteamVR/Content: 'E:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Runtime/Steam/SteamVR/Content' is outside repository at 'E:/Unreal Projects/Trash_King'
+[2020.11.05-17.11.43:511][729]EditorErrors: Warning: No assets to check in!
+[2020.11.05-17.11.46:598][ 44]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2020.11.05-17.11.46:632][ 44]LogSavePackage: Moving '../../../../../../Unreal Projects/Trash_King/TrashKingProto_2_0/Saved/Sushi_RestaurantA3EAA48A41F8BFFC588CD692C29CCA30.tmp' to '../../../../../../Unreal Projects/Trash_King/TrashKingProto_2_0/Content/Levels/Sushi_Restaurant.umap'
+[2020.11.05-17.11.46:720][ 44]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Sushi_Restaurant_BuiltData" FILE="../../../../../../Unreal Projects/Trash_King/TrashKingProto_2_0/Content/Levels/Sushi_Restaurant_BuiltData.uasset" SILENT=true
+[2020.11.05-17.11.46:746][ 44]LogSavePackage: Moving '../../../../../../Unreal Projects/Trash_King/TrashKingProto_2_0/Saved/Sushi_Restaurant_BuiltDataE71F7FD2401E5BA8F186E6A7FFF53A1C.tmp' to '../../../../../../Unreal Projects/Trash_King/TrashKingProto_2_0/Content/Levels/Sushi_Restaurant_BuiltData.uasset'
+[2020.11.05-17.11.46:754][ 44]AssetCheck: New page: Asset Save: multiple assets
+[2020.11.05-17.11.46:754][ 44]LogContentValidation: Display: Validating World /Game/Levels/Sushi_Restaurant.Sushi_Restaurant
+[2020.11.05-17.11.46:754][ 44]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/Sushi_Restaurant_BuiltData.Sushi_Restaurant_BuiltData
+[2020.11.05-17.11.49:068][256]SourceControl: fatal: E:/Program Files/Epic Games/UE_4.25/Engine/Content: 'E:/Program Files/Epic Games/UE_4.25/Engine/Content' is outside repository at 'E:/Unreal Projects/Trash_King'
+[2020.11.05-17.11.49:068][256]SourceControl: fatal: E:/Program Files/Epic Games/UE_4.25/Engine/Plugins/2D/Paper2D/Content: 'E:/Program Files/Epic Games/UE_4.25/Engine/Plugins/2D/Paper2D/Content' is outside repository at 'E:/Unreal Projects/Trash_King'
+[2020.11.05-17.11.49:068][256]SourceControl: fatal: E:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Developer/AnimationSharing/Content: 'E:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Developer/AnimationSharing/Content' is outside repository at 'E:/Unreal Projects/Trash_King'
+[2020.11.05-17.11.49:068][256]SourceControl: fatal: E:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Editor/GeometryMode/Content: 'E:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Editor/GeometryMode/Content' is outside repository at 'E:/Unreal Projects/Trash_King'
+[2020.11.05-17.11.49:068][256]SourceControl: fatal: E:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Enterprise/DatasmithContent/Content: 'E:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Enterprise/DatasmithContent/Content' is outside repository at 'E:/Unreal Projects/Trash_King'
+[2020.11.05-17.11.49:068][256]SourceControl: fatal: E:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Experimental/ChaosClothEditor/Content: 'E:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Experimental/ChaosClothEditor/Content' is outside repository at 'E:/Unreal Projects/Trash_King'
+[2020.11.05-17.11.49:068][256]SourceControl: fatal: E:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Experimental/ChaosNiagara/Content: 'E:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Experimental/ChaosNiagara/Content' is outside repository at 'E:/Unreal Projects/Trash_King'
+[2020.11.05-17.11.49:068][256]SourceControl: fatal: E:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Experimental/ChaosSolverPlugin/Content: 'E:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Experimental/ChaosSolverPlugin/Content' is outside repository at 'E:/Unreal Projects/Trash_King'
+[2020.11.05-17.11.49:068][256]SourceControl: fatal: E:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content: 'E:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content' is outside repository at 'E:/Unreal Projects/Trash_King'
+[2020.11.05-17.11.49:068][256]SourceControl: fatal: E:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Experimental/GeometryProcessing/Content: 'E:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Experimental/GeometryProcessing/Content' is outside repository at 'E:/Unreal Projects/Trash_King'
+[2020.11.05-17.11.49:068][256]SourceControl: fatal: E:/Program Files/Epic Games/UE_4.25/Engine/Plugins/FX/Niagara/Content: 'E:/Program Files/Epic Games/UE_4.25/Engine/Plugins/FX/Niagara/Content' is outside repository at 'E:/Unreal Projects/Trash_King'
+[2020.11.05-17.11.49:068][256]SourceControl: fatal: E:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Lumin/MagicLeap/Content: 'E:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Lumin/MagicLeap/Content' is outside repository at 'E:/Unreal Projects/Trash_King'
+[2020.11.05-17.11.49:068][256]SourceControl: fatal: E:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content: 'E:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content' is outside repository at 'E:/Unreal Projects/Trash_King'
+[2020.11.05-17.11.49:068][256]SourceControl: fatal: E:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Media/MediaCompositing/Content: 'E:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Media/MediaCompositing/Content' is outside repository at 'E:/Unreal Projects/Trash_King'
+[2020.11.05-17.11.49:068][256]SourceControl: fatal: E:/Program Files/Epic Games/UE_4.25/Engine/Plugins/MovieScene/MovieRenderPipeline/Content: 'E:/Program Files/Epic Games/UE_4.25/Engine/Plugins/MovieScene/MovieRenderPipeline/Content' is outside repository at 'E:/Unreal Projects/Trash_King'
+[2020.11.05-17.11.49:068][256]SourceControl: fatal: E:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Runtime/Oculus/OculusVR/Content: 'E:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Runtime/Oculus/OculusVR/Content' is outside repository at 'E:/Unreal Projects/Trash_King'
+[2020.11.05-17.11.49:068][256]SourceControl: fatal: E:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Runtime/PostSplashScreen/Content: 'E:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Runtime/PostSplashScreen/Content' is outside repository at 'E:/Unreal Projects/Trash_King'
+[2020.11.05-17.11.49:068][256]SourceControl: fatal: E:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Runtime/Steam/SteamVR/Content: 'E:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Runtime/Steam/SteamVR/Content' is outside repository at 'E:/Unreal Projects/Trash_King'
+[2020.11.05-17.11.55:145][256]LogSlate: Window 'Submit Files' being destroyed
+[2020.11.05-17.11.55:866][256]LogSourceControl: commit successful: [master 9c016d0] added roof to restaurant
+[2020.11.05-17.11.55:888][256]SourceControl: [master 9c016d0] added roof to restaurant
+[2020.11.05-17.11.55:888][256]SourceControl:  2 files changed, 0 insertions(+), 0 deletions(-)
+[2020.11.05-17.11.55:892][256]SourceControl: Commited [master 9c016d0] added roof to restaurant.
