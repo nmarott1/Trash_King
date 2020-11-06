@@ -1463,3 +1463,39 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.11.06-15.51.33:788][783]SourceControl:  create mode 100644 TrashKingProto_2_0/Content/Levels/Subway.umap
 [2020.11.06-15.51.33:788][783]SourceControl:  create mode 100644 TrashKingProto_2_0/Content/Levels/Subway_BuiltData.uasset
 [2020.11.06-15.51.33:793][783]SourceControl: Commited [master 200b094] subway blockout done.
+[2020.11.06-15.52.21:814][426]Cmd: DELETE
+[2020.11.06-15.52.21:841][426]Cmd: ACTOR DELETE
+[2020.11.06-15.52.21:849][426]LogEditorActor: Deleted Actor: Brush
+[2020.11.06-15.52.21:865][426]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2020.11.06-15.52.21:887][426]LogEditorActor: Deleted 1 Actors (0.046 secs)
+[2020.11.06-15.53.19:852][976]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Subway" FILE="../../../../../../Unreal Projects/Trash_King/TrashKingProto_2_0/Content/Levels/Subway.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.11.06-15.53.19:866][976]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2020.11.06-15.53.19:906][976]LogSavePackage: Moving '../../../../../../Unreal Projects/Trash_King/TrashKingProto_2_0/Saved/Subway9914C4974B9DE6F057C64190C5C7D87C.tmp' to '../../../../../../Unreal Projects/Trash_King/TrashKingProto_2_0/Content/Levels/Subway.umap'
+[2020.11.06-15.53.19:987][976]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Subway_BuiltData" FILE="../../../../../../Unreal Projects/Trash_King/TrashKingProto_2_0/Content/Levels/Subway_BuiltData.uasset" SILENT=true
+[2020.11.06-15.53.20:013][976]LogSavePackage: Moving '../../../../../../Unreal Projects/Trash_King/TrashKingProto_2_0/Saved/Subway_BuiltDataF267E6884D9840D3639A8598BD4F8318.tmp' to '../../../../../../Unreal Projects/Trash_King/TrashKingProto_2_0/Content/Levels/Subway_BuiltData.uasset'
+[2020.11.06-15.53.20:021][976]AssetCheck: New page: Asset Save: multiple assets
+[2020.11.06-15.53.20:021][976]LogContentValidation: Display: Validating World /Game/Levels/Subway.Subway
+[2020.11.06-15.53.20:021][976]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/Subway_BuiltData.Subway_BuiltData
+[2020.11.06-15.53.23:120][290]SourceControl: fatal: E:/Program Files/Epic Games/UE_4.25/Engine/Content: 'E:/Program Files/Epic Games/UE_4.25/Engine/Content' is outside repository at 'E:/Unreal Projects/Trash_King'
+[2020.11.06-15.53.23:120][290]SourceControl: fatal: E:/Program Files/Epic Games/UE_4.25/Engine/Plugins/2D/Paper2D/Content: 'E:/Program Files/Epic Games/UE_4.25/Engine/Plugins/2D/Paper2D/Content' is outside repository at 'E:/Unreal Projects/Trash_King'
+[2020.11.06-15.53.23:120][290]SourceControl: fatal: E:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Developer/AnimationSharing/Content: 'E:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Developer/AnimationSharing/Content' is outside repository at 'E:/Unreal Projects/Trash_King'
+[2020.11.06-15.53.23:120][290]SourceControl: fatal: E:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Editor/GeometryMode/Content: 'E:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Editor/GeometryMode/Content' is outside repository at 'E:/Unreal Projects/Trash_King'
+[2020.11.06-15.53.23:120][290]SourceControl: fatal: E:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Enterprise/DatasmithContent/Content: 'E:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Enterprise/DatasmithContent/Content' is outside repository at 'E:/Unreal Projects/Trash_King'
+[2020.11.06-15.53.23:120][290]SourceControl: fatal: E:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Experimental/ChaosClothEditor/Content: 'E:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Experimental/ChaosClothEditor/Content' is outside repository at 'E:/Unreal Projects/Trash_King'
+[2020.11.06-15.53.23:120][290]SourceControl: fatal: E:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Experimental/ChaosNiagara/Content: 'E:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Experimental/ChaosNiagara/Content' is outside repository at 'E:/Unreal Projects/Trash_King'
+[2020.11.06-15.53.23:120][290]SourceControl: fatal: E:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Experimental/ChaosSolverPlugin/Content: 'E:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Experimental/ChaosSolverPlugin/Content' is outside repository at 'E:/Unreal Projects/Trash_King'
+[2020.11.06-15.53.23:120][290]SourceControl: fatal: E:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content: 'E:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content' is outside repository at 'E:/Unreal Projects/Trash_King'
+[2020.11.06-15.53.23:120][290]SourceControl: fatal: E:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Experimental/GeometryProcessing/Content: 'E:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Experimental/GeometryProcessing/Content' is outside repository at 'E:/Unreal Projects/Trash_King'
+[2020.11.06-15.53.23:120][290]SourceControl: fatal: E:/Program Files/Epic Games/UE_4.25/Engine/Plugins/FX/Niagara/Content: 'E:/Program Files/Epic Games/UE_4.25/Engine/Plugins/FX/Niagara/Content' is outside repository at 'E:/Unreal Projects/Trash_King'
+[2020.11.06-15.53.23:120][290]SourceControl: fatal: E:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Lumin/MagicLeap/Content: 'E:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Lumin/MagicLeap/Content' is outside repository at 'E:/Unreal Projects/Trash_King'
+[2020.11.06-15.53.23:120][290]SourceControl: fatal: E:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content: 'E:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content' is outside repository at 'E:/Unreal Projects/Trash_King'
+[2020.11.06-15.53.23:120][290]SourceControl: fatal: E:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Media/MediaCompositing/Content: 'E:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Media/MediaCompositing/Content' is outside repository at 'E:/Unreal Projects/Trash_King'
+[2020.11.06-15.53.23:120][290]SourceControl: fatal: E:/Program Files/Epic Games/UE_4.25/Engine/Plugins/MovieScene/MovieRenderPipeline/Content: 'E:/Program Files/Epic Games/UE_4.25/Engine/Plugins/MovieScene/MovieRenderPipeline/Content' is outside repository at 'E:/Unreal Projects/Trash_King'
+[2020.11.06-15.53.23:120][290]SourceControl: fatal: E:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Runtime/Oculus/OculusVR/Content: 'E:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Runtime/Oculus/OculusVR/Content' is outside repository at 'E:/Unreal Projects/Trash_King'
+[2020.11.06-15.53.23:120][290]SourceControl: fatal: E:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Runtime/PostSplashScreen/Content: 'E:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Runtime/PostSplashScreen/Content' is outside repository at 'E:/Unreal Projects/Trash_King'
+[2020.11.06-15.53.23:120][290]SourceControl: fatal: E:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Runtime/Steam/SteamVR/Content: 'E:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Runtime/Steam/SteamVR/Content' is outside repository at 'E:/Unreal Projects/Trash_King'
+[2020.11.06-15.53.43:962][290]LogSlate: Window 'Submit Files' being destroyed
+[2020.11.06-15.53.44:517][290]LogSourceControl: commit successful: [master 57a4f94] moved camera, no actual changes but I'm paranoid
+[2020.11.06-15.53.44:551][290]SourceControl: [master 57a4f94] moved camera, no actual changes but I'm paranoid
+[2020.11.06-15.53.44:551][290]SourceControl:  2 files changed, 0 insertions(+), 0 deletions(-)
+[2020.11.06-15.53.44:554][290]SourceControl: Commited [master 57a4f94] moved camera, no actual changes but I'm paranoid.
