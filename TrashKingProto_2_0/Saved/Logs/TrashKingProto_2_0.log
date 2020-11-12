@@ -2031,3 +2031,399 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.11.12-17.13.47:724][493]AssetCheck: New page: Asset Save: multiple assets
 [2020.11.12-17.13.47:724][493]LogContentValidation: Display: Validating World /Game/Levels/Subway.Subway
 [2020.11.12-17.13.47:724][493]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/Subway_BuiltData.Subway_BuiltData
+[2020.11.12-17.14.17:183][517]LogTemp: Repeating last play command: Selected Viewport
+[2020.11.12-17.14.17:198][517]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.11.12-17.14.17:198][517]PIE: New page: PIE session: Subway (Nov 12, 2020, 7:14:17 AM)
+[2020.11.12-17.14.17:199][517]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Subway
+[2020.11.12-17.14.17:213][517]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014120s)
+[2020.11.12-17.14.17:213][517]LogAIModule: Creating AISystem for world Subway
+[2020.11.12-17.14.17:213][517]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001A0F43D4200), frame # 364517
+[2020.11.12-17.14.17:213][517]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001A09FF8AD40), frame # 364517
+[2020.11.12-17.14.17:214][517]LogPlayLevel: PIE: World Init took: (0.000916s)
+[2020.11.12-17.14.17:214][517]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Subway.Subway to /Game/Levels/UEDPIE_0_Subway.Subway (0.015135s)
+[2020.11.12-17.14.17:223][517]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2020.11.12-17.14.17:227][517]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.11.12-17.14.17:227][517]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.11.12-17.14.17:227][517]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.11.12-17.14.17:227][517]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.11.12-17.14.17:227][517]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.11.12-17.14.17:227][517]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.11.12-17.14.17:227][517]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.11.12-17.14.17:227][517]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.11.12-17.14.17:227][517]LogAudio: Display: Using built-in audio occlusion.
+[2020.11.12-17.14.17:227][517]LogAudioMixer: Display: Initializing audio mixer.
+[2020.11.12-17.14.17:231][517]LogAudioMixer: Display: 0: FrontLeft
+[2020.11.12-17.14.17:231][517]LogAudioMixer: Display: 1: FrontRight
+[2020.11.12-17.14.17:243][517]LogAudioMixer: Display: Using Audio Device Speakers (2- USB Audio Device)
+[2020.11.12-17.14.17:243][517]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.11.12-17.14.17:243][517]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.11.12-17.14.17:243][517]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.11.12-17.14.17:244][517]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.11.12-17.14.17:254][517]LogInit: FAudioDevice initialized.
+[2020.11.12-17.14.17:263][517]LogLoad: Game class is 'TrashKingBase_C'
+[2020.11.12-17.14.17:266][517]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Subway.Subway up for play (max tick rate 0) at 2020.11.12-12.14.17
+[2020.11.12-17.14.17:267][517]LogWorld: Bringing up level for play took: 0.002881
+[2020.11.12-17.14.17:267][517]LogOnline: OSS: Creating online subsystem instance for: :Context_14
+[2020.11.12-17.14.17:269][517]PIE: Server logged in
+[2020.11.12-17.14.17:270][517]PIE: Play in editor total start time 0.071 seconds.
+[2020.11.12-17.14.58:998][516]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.12-17.14.58:998][516]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Subway
+[2020.11.12-17.14.58:998][516]LogWorld: UWorld::CleanupWorld for Subway, bSessionEnded=true, bCleanupResources=true
+[2020.11.12-17.14.58:999][516]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.12-17.14.59:006][516]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.11.12-17.14.59:008][516]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.12-17.14.59:017][516]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.12-17.14.59:031][516]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001A09FF8AD40), frame # 369516
+[2020.11.12-17.14.59:031][516]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001A0F43D4200), frame # 369516
+[2020.11.12-17.14.59:032][516]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2020.11.12-17.14.59:062][517]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2020.11.12-17.15.10:350][852]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Subway" FILE="../../../../../../Unreal Projects/Trash_King/TrashKingProto_2_0/Content/Levels/Subway.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.11.12-17.15.10:360][852]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2020.11.12-17.15.10:411][852]LogSavePackage: Moving '../../../../../../Unreal Projects/Trash_King/TrashKingProto_2_0/Saved/Subway1A600A914BC39E9055CD92A27D3DC241.tmp' to '../../../../../../Unreal Projects/Trash_King/TrashKingProto_2_0/Content/Levels/Subway.umap'
+[2020.11.12-17.15.10:484][852]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Subway_BuiltData" FILE="../../../../../../Unreal Projects/Trash_King/TrashKingProto_2_0/Content/Levels/Subway_BuiltData.uasset" SILENT=true
+[2020.11.12-17.15.10:655][852]LogSavePackage: Moving '../../../../../../Unreal Projects/Trash_King/TrashKingProto_2_0/Saved/Subway_BuiltData7F322B32409B68FDB100FBA55830480E.tmp' to '../../../../../../Unreal Projects/Trash_King/TrashKingProto_2_0/Content/Levels/Subway_BuiltData.uasset'
+[2020.11.12-17.15.10:662][852]AssetCheck: New page: Asset Save: multiple assets
+[2020.11.12-17.15.10:662][852]LogContentValidation: Display: Validating World /Game/Levels/Subway.Subway
+[2020.11.12-17.15.10:662][852]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/Subway_BuiltData.Subway_BuiltData
+[2020.11.12-17.15.45:445][313]LogStaticMesh: Building static mesh Sushi_Sign...
+[2020.11.12-17.15.45:472][313]LogStaticMesh: Built static mesh [0.03s] /Game/TEAMXX_ASSETS/Sushi_Sign.Sushi_Sign
+[2020.11.12-17.15.45:584][313]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/Sushi_Restaurant.Sushi_Restaurant
+[2020.11.12-17.15.45:594][313]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2020.11.12-17.15.47:530][313]LogSlate: Window 'Save Content' being destroyed
+[2020.11.12-17.15.47:609][313]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TEAMXX_ASSETS/lambert2" FILE="../../../../../../Unreal Projects/Trash_King/TrashKingProto_2_0/Content/TEAMXX_ASSETS/lambert2.uasset" SILENT=true
+[2020.11.12-17.15.47:623][313]LogSavePackage: Moving '../../../../../../Unreal Projects/Trash_King/TrashKingProto_2_0/Saved/lambert24FDDCF004D5F59FF4146439EA3470CED.tmp' to '../../../../../../Unreal Projects/Trash_King/TrashKingProto_2_0/Content/TEAMXX_ASSETS/lambert2.uasset'
+[2020.11.12-17.15.47:634][313]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TEAMXX_ASSETS/lambert3" FILE="../../../../../../Unreal Projects/Trash_King/TrashKingProto_2_0/Content/TEAMXX_ASSETS/lambert3.uasset" SILENT=true
+[2020.11.12-17.15.47:648][313]LogSavePackage: Moving '../../../../../../Unreal Projects/Trash_King/TrashKingProto_2_0/Saved/lambert3671788F647207278B6360D914BD8DFCD.tmp' to '../../../../../../Unreal Projects/Trash_King/TrashKingProto_2_0/Content/TEAMXX_ASSETS/lambert3.uasset'
+[2020.11.12-17.15.47:660][313]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TEAMXX_ASSETS/phong1" FILE="../../../../../../Unreal Projects/Trash_King/TrashKingProto_2_0/Content/TEAMXX_ASSETS/phong1.uasset" SILENT=true
+[2020.11.12-17.15.47:682][313]LogSavePackage: Moving '../../../../../../Unreal Projects/Trash_King/TrashKingProto_2_0/Saved/phong1B5E471FF4C1F2D881ADE199C458C92A1.tmp' to '../../../../../../Unreal Projects/Trash_King/TrashKingProto_2_0/Content/TEAMXX_ASSETS/phong1.uasset'
+[2020.11.12-17.15.47:684][313]Cmd: MAP LOAD FILE="../../../../../../Unreal Projects/Trash_King/TrashKingProto_2_0/Content/Levels/Sushi_Restaurant.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.11.12-17.15.47:684][313]LightingResults: New page: Lighting Build
+[2020.11.12-17.15.47:685][313]LoadErrors: New page: Loading map: Sushi_Restaurant.umap
+[2020.11.12-17.15.47:686][313]LogWorld: UWorld::CleanupWorld for Subway, bSessionEnded=true, bCleanupResources=true
+[2020.11.12-17.15.47:686][313]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.12-17.15.47:686][313]MapCheck: New page: Map Check
+[2020.11.12-17.15.47:686][313]LightingResults: New page: Lighting Build
+[2020.11.12-17.15.47:697][313]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001A08A553240), frame # 372313
+[2020.11.12-17.15.47:697][313]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001A0A8F8C200), frame # 372313
+[2020.11.12-17.15.47:698][313]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2020.11.12-17.15.47:707][313]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.11.12-17.15.47:707][313]LogAIModule: Creating AISystem for world Sushi_Restaurant
+[2020.11.12-17.15.47:707][313]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001A09DD0FA00), frame # 372313
+[2020.11.12-17.15.47:707][313]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001A1216AEC00), frame # 372313
+[2020.11.12-17.15.47:718][313]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2020.11.12-17.15.47:747][313]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.11.12-17.15.47:747][313]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.066ms to complete.
+[2020.11.12-17.15.47:747][313]LogFileHelpers: Loading map 'Sushi_Restaurant' took 0.064
+[2020.11.12-17.15.47:806][313]AssetCheck: New page: Asset Save: multiple assets
+[2020.11.12-17.15.47:806][313]LogContentValidation: Display: Validating Material /Game/TEAMXX_ASSETS/lambert2.lambert2
+[2020.11.12-17.15.47:806][313]LogContentValidation: Display: Validating Material /Game/TEAMXX_ASSETS/lambert3.lambert3
+[2020.11.12-17.15.47:806][313]LogContentValidation: Display: Validating Material /Game/TEAMXX_ASSETS/phong1.phong1
+[2020.11.12-17.16.38:397][272]Cmd: DELETE
+[2020.11.12-17.16.38:397][272]Cmd: ACTOR DELETE
+[2020.11.12-17.16.38:412][272]LogEditorActor: Deleted Actor: BP_Sky_Sphere_C
+[2020.11.12-17.16.38:430][272]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2020.11.12-17.16.38:435][272]LogEditorActor: Deleted 1 Actors (0.038 secs)
+[2020.11.12-17.17.48:507][428]LogTexture: Display: Building textures: T_PolygonCity_Road_01 (AutoDXT, 512X512)
+[2020.11.12-17.17.48:507][428]LogTexture: Display: Building textures: T_PolygonCity_Road_Normal (BC5, 512X512)
+[2020.11.12-17.17.48:507][428]LogStaticMesh: Building static mesh SM_Env_Road_01...
+[2020.11.12-17.17.48:534][428]LogStaticMesh: Built static mesh [0.03s] /Game/PolygonCity/Meshes/Environments/SM_Env_Road_01.SM_Env_Road_01
+[2020.11.12-17.17.48:537][428]LogMaterial: Display: Missing cached shader map for material Mat_PolygonCity_Texture_Road_01, compiling. 
+[2020.11.12-17.17.48:587][428]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 71
+[2020.11.12-17.17.48:587][428]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 61
+[2020.11.12-17.17.48:587][428]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 51
+[2020.11.12-17.17.48:587][428]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 41
+[2020.11.12-17.17.48:672][438]LogActorFactory: Actor Factory created SM_Env_Road_01
+[2020.11.12-17.17.50:460][625]LogActorFactory: Actor Factory created SM_Env_Road_01
+[2020.11.12-17.17.50:805][662]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 31
+[2020.11.12-17.17.50:813][663]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 23
+[2020.11.12-17.17.50:962][681]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 17
+[2020.11.12-17.17.51:140][702]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 12
+[2020.11.12-17.17.52:075][805]Cmd: DELETE
+[2020.11.12-17.17.52:075][805]Cmd: ACTOR DELETE
+[2020.11.12-17.17.52:079][805]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.11.12-17.17.52:090][805]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2020.11.12-17.17.52:098][805]LogEditorActor: Deleted 1 Actors (0.023 secs)
+[2020.11.12-17.17.52:441][846]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 8
+[2020.11.12-17.17.52:591][864]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 5
+[2020.11.12-17.17.52:675][874]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2020.11.12-17.17.52:683][875]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2020.11.12-17.17.52:989][911]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1
+[2020.11.12-17.18.00:745][742]LogStaticMesh: Building static mesh SM_Env_Path_Straight_01...
+[2020.11.12-17.18.00:769][742]LogStaticMesh: Built static mesh [0.02s] /Game/PolygonCity/Meshes/Environments/SM_Env_Path_Straight_01.SM_Env_Path_Straight_01
+[2020.11.12-17.18.00:906][751]LogActorFactory: Actor Factory created SM_Env_Path_Straight_01
+[2020.11.12-17.18.01:806][853]LogActorFactory: Actor Factory created SM_Env_Path_Straight_01
+[2020.11.12-17.18.17:897][764]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.11.12-17.18.22:741][341]Cmd: POLY SELECT ADJACENT WALLS
+[2020.11.12-17.18.25:679][693]Cmd: DUPLICATE
+[2020.11.12-17.18.25:679][693]Cmd: ACTOR DUPLICATE
+[2020.11.12-17.18.35:658][861]Cmd: DUPLICATE
+[2020.11.12-17.18.35:659][861]Cmd: ACTOR DUPLICATE
+[2020.11.12-17.18.44:223][871]Cmd: DUPLICATE
+[2020.11.12-17.18.44:223][871]Cmd: ACTOR DUPLICATE
+[2020.11.12-17.18.56:251][291]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Path_Straight_8)
+[2020.11.12-17.18.58:529][553]Cmd: DUPLICATE
+[2020.11.12-17.18.58:529][553]Cmd: ACTOR DUPLICATE
+[2020.11.12-17.19.05:198][345]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Path_Straight_11)
+[2020.11.12-17.19.06:120][452]Cmd: DELETE
+[2020.11.12-17.19.06:120][452]Cmd: ACTOR DELETE
+[2020.11.12-17.19.06:123][452]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.11.12-17.19.06:132][452]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2020.11.12-17.19.06:138][452]LogEditorActor: Deleted 1 Actors (0.018 secs)
+[2020.11.12-17.19.19:429][914]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Path_Straight_10)
+[2020.11.12-17.19.22:290][240]Cmd: DELETE
+[2020.11.12-17.19.22:291][240]Cmd: ACTOR DELETE
+[2020.11.12-17.19.22:294][240]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.11.12-17.19.22:295][240]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.11.12-17.19.22:295][240]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.11.12-17.19.22:295][240]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.11.12-17.19.22:295][240]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.11.12-17.19.22:295][240]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.11.12-17.19.22:295][240]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.11.12-17.19.22:295][240]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.11.12-17.19.22:295][240]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.11.12-17.19.22:296][240]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.11.12-17.19.22:304][240]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2020.11.12-17.19.22:308][240]LogEditorActor: Deleted 10 Actors (0.018 secs)
+[2020.11.12-17.19.24:498][463]LogStaticMesh: Building static mesh SM_Env_Sidewalk_01...
+[2020.11.12-17.19.24:526][463]LogStaticMesh: Built static mesh [0.03s] /Game/PolygonCity/Meshes/Environments/SM_Env_Sidewalk_01.SM_Env_Sidewalk_01
+[2020.11.12-17.19.24:583][468]LogActorFactory: Actor Factory created SM_Env_Sidewalk_01
+[2020.11.12-17.19.26:292][663]LogActorFactory: Actor Factory created SM_Env_Sidewalk_01
+[2020.11.12-17.19.27:291][780]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.11.12-17.19.38:218][ 77]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.11.12-17.19.51:715][681]Cmd: DUPLICATE
+[2020.11.12-17.19.51:715][681]Cmd: ACTOR DUPLICATE
+[2020.11.12-17.19.57:626][383]Cmd: DUPLICATE
+[2020.11.12-17.19.57:626][383]Cmd: ACTOR DUPLICATE
+[2020.11.12-17.20.00:426][714]Cmd: DUPLICATE
+[2020.11.12-17.20.00:426][714]Cmd: ACTOR DUPLICATE
+[2020.11.12-17.20.09:372][756]Cmd: DUPLICATE
+[2020.11.12-17.20.09:372][756]Cmd: ACTOR DUPLICATE
+[2020.11.12-17.20.16:277][576]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Sidewalk_8)
+[2020.11.12-17.20.19:992][  7]Cmd: DUPLICATE
+[2020.11.12-17.20.19:992][  7]Cmd: ACTOR DUPLICATE
+[2020.11.12-17.20.32:746][526]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Sidewalk_11)
+[2020.11.12-17.20.34:456][727]Cmd: DELETE
+[2020.11.12-17.20.34:456][727]Cmd: ACTOR DELETE
+[2020.11.12-17.20.34:459][727]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.11.12-17.20.34:469][727]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2020.11.12-17.20.34:474][727]LogEditorActor: Deleted 1 Actors (0.018 secs)
+[2020.11.12-17.20.59:105][467]LogStaticMesh: Building static mesh SM_Env_Road_Crossing_01...
+[2020.11.12-17.20.59:137][467]LogStaticMesh: Built static mesh [0.03s] /Game/PolygonCity/Meshes/Environments/SM_Env_Road_Crossing_01.SM_Env_Road_Crossing_01
+[2020.11.12-17.20.59:227][473]LogActorFactory: Actor Factory created SM_Env_Road_Crossing_01
+[2020.11.12-17.21.02:816][891]LogActorFactory: Actor Factory created SM_Env_Road_Crossing_01
+[2020.11.12-17.21.11:949][973]Cmd: DUPLICATE
+[2020.11.12-17.21.11:949][973]Cmd: ACTOR DUPLICATE
+[2020.11.12-17.21.31:267][265]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Road_Crossing_01)
+[2020.11.12-17.21.34:132][599]Cmd: DUPLICATE
+[2020.11.12-17.21.34:132][599]Cmd: ACTOR DUPLICATE
+[2020.11.12-17.21.37:137][954]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.11.12-17.21.56:035][194]LogEditorViewport: Clicking on Actor (LMB): BP_GoodSky_C (BP_GoodSky)
+[2020.11.12-17.22.16:363][ 33]LogStaticMesh: Building static mesh SM_Env_Road_Lines_01...
+[2020.11.12-17.22.16:395][ 33]LogStaticMesh: Built static mesh [0.03s] /Game/PolygonCity/Meshes/Environments/SM_Env_Road_Lines_01.SM_Env_Road_Lines_01
+[2020.11.12-17.22.16:481][ 39]LogActorFactory: Actor Factory created SM_Env_Road_Lines_01
+[2020.11.12-17.22.17:573][155]LogActorFactory: Actor Factory created SM_Env_Road_Lines_01
+[2020.11.12-17.22.25:742][125]Cmd: TRANSACTION UNDO
+[2020.11.12-17.22.25:742][125]LogEditorTransaction: Undo Move Actors
+[2020.11.12-17.22.44:544][299]Cmd: DUPLICATE
+[2020.11.12-17.22.44:544][299]Cmd: ACTOR DUPLICATE
+[2020.11.12-17.22.49:249][858]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Road_Lines_01)
+[2020.11.12-17.22.52:079][192]Cmd: DUPLICATE
+[2020.11.12-17.22.52:079][192]Cmd: ACTOR DUPLICATE
+[2020.11.12-17.22.56:112][666]Cmd: DUPLICATE
+[2020.11.12-17.22.56:112][666]Cmd: ACTOR DUPLICATE
+[2020.11.12-17.22.59:568][ 75]Cmd: DUPLICATE
+[2020.11.12-17.22.59:568][ 75]Cmd: ACTOR DUPLICATE
+[2020.11.12-17.23.06:354][880]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Road_Lines_7)
+[2020.11.12-17.23.20:180][516]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Road_Lines_6)
+[2020.11.12-17.23.21:073][619]Cmd: DUPLICATE
+[2020.11.12-17.23.21:073][619]Cmd: ACTOR DUPLICATE
+[2020.11.12-17.23.38:295][659]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Road_Lines_2)
+[2020.11.12-17.23.45:660][504]Cmd: DUPLICATE
+[2020.11.12-17.23.45:660][504]Cmd: ACTOR DUPLICATE
+[2020.11.12-17.24.06:772][994]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Road_Lines_16)
+[2020.11.12-17.24.17:390][247]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Road_Lines_10)
+[2020.11.12-17.24.17:792][291]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.11.12-17.24.40:990][915]LogStaticMesh: Building static mesh SM_Prop_Manhole_02...
+[2020.11.12-17.24.41:013][915]LogStaticMesh: Built static mesh [0.02s] /Game/PolygonCity/Meshes/Props/SM_Prop_Manhole_02.SM_Prop_Manhole_02
+[2020.11.12-17.24.41:096][921]LogActorFactory: Actor Factory created SM_Prop_Manhole_02
+[2020.11.12-17.24.46:004][490]LogActorFactory: Actor Factory created SM_Prop_Manhole_02
+[2020.11.12-17.24.48:409][773]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.11.12-17.25.08:724][167]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2020.11.12-17.25.08:771][167]LogSavePackage: Moving '../../../../../../Unreal Projects/Trash_King/TrashKingProto_2_0/Saved/Sushi_Restaurant20AC2DDA48520661F9484490E9A3B86C.tmp' to '../../../../../../Unreal Projects/Trash_King/TrashKingProto_2_0/Content/Levels/Sushi_Restaurant.umap'
+[2020.11.12-17.25.08:850][167]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Sushi_Restaurant_BuiltData" FILE="../../../../../../Unreal Projects/Trash_King/TrashKingProto_2_0/Content/Levels/Sushi_Restaurant_BuiltData.uasset" SILENT=true
+[2020.11.12-17.25.08:889][167]LogSavePackage: Moving '../../../../../../Unreal Projects/Trash_King/TrashKingProto_2_0/Saved/Sushi_Restaurant_BuiltData25319B7E4B5D9A354E0BA7B1F1DA6EAB.tmp' to '../../../../../../Unreal Projects/Trash_King/TrashKingProto_2_0/Content/Levels/Sushi_Restaurant_BuiltData.uasset'
+[2020.11.12-17.25.08:897][167]AssetCheck: New page: Asset Save: multiple assets
+[2020.11.12-17.25.08:897][167]LogContentValidation: Display: Validating World /Game/Levels/Sushi_Restaurant.Sushi_Restaurant
+[2020.11.12-17.25.08:897][167]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/Sushi_Restaurant_BuiltData.Sushi_Restaurant_BuiltData
+[2020.11.12-17.25.29:848][654]LogEditorViewport: Clicking on Actor (LMB): AsbestosBP_C (AsbestosBP)
+[2020.11.12-17.25.30:768][758]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (Player Start)
+[2020.11.12-17.25.54:626][537]LogStaticMesh: Building static mesh SM_Prop_TrashBag_03...
+[2020.11.12-17.25.54:654][537]LogStaticMesh: Built static mesh [0.03s] /Game/PolygonCity/Meshes/Props/SM_Prop_TrashBag_03.SM_Prop_TrashBag_03
+[2020.11.12-17.25.54:716][543]LogActorFactory: Actor Factory created SM_Prop_TrashBag_03
+[2020.11.12-17.25.56:349][730]LogActorFactory: Actor Factory created SM_Prop_TrashBag_03
+[2020.11.12-17.25.57:097][809]LogStaticMesh: Building static mesh SM_Prop_TrashBag_02...
+[2020.11.12-17.25.57:119][809]LogStaticMesh: Built static mesh [0.02s] /Game/PolygonCity/Meshes/Props/SM_Prop_TrashBag_02.SM_Prop_TrashBag_02
+[2020.11.12-17.25.57:213][816]LogActorFactory: Actor Factory created SM_Prop_TrashBag_02
+[2020.11.12-17.25.58:304][936]LogActorFactory: Actor Factory created SM_Prop_TrashBag_02
+[2020.11.12-17.25.59:112][ 23]LogStaticMesh: Building static mesh SM_Prop_TrashBag_01...
+[2020.11.12-17.25.59:135][ 23]LogStaticMesh: Built static mesh [0.02s] /Game/PolygonCity/Meshes/Props/SM_Prop_TrashBag_01.SM_Prop_TrashBag_01
+[2020.11.12-17.25.59:243][ 31]LogActorFactory: Actor Factory created SM_Prop_TrashBag_01
+[2020.11.12-17.26.01:458][282]LogActorFactory: Actor Factory created SM_Prop_TrashBag_01
+[2020.11.12-17.26.06:069][831]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.11.12-17.26.07:508][  1]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Prop_TrashBag_03)
+[2020.11.12-17.26.10:225][322]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Prop_TrashBag_01)
+[2020.11.12-17.26.13:319][688]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Prop_TrashBag_02)
+[2020.11.12-17.26.16:089][ 15]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Prop_TrashBag_01)
+[2020.11.12-17.26.19:133][375]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Prop_TrashBag_03)
+[2020.11.12-17.27.27:704][292]MapCheck: New page: Map Check
+[2020.11.12-17.27.27:716][292]Cmd: MAP REBUILD ALLVISIBLE
+[2020.11.12-17.27.27:716][292]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2020.11.12-17.27.27:743][292]LogWorld: UWorld::CleanupWorld for Sushi_Restaurant, bSessionEnded=true, bCleanupResources=false
+[2020.11.12-17.27.27:762][292]LightingResults: New page: Lighting Build - Nov 12, 2020, 7:27:27 AM
+[2020.11.12-17.27.27:768][292]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2020.11.12-17.27.27:769][292]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2020.11.12-17.27.27:769][292]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2020.11.12-17.27.27:770][292]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2020.11.12-17.27.27:770][292]LogSwarmInterface: [TryOpenConnection] Local Process ID is 7572
+[2020.11.12-17.27.32:286][292]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2020.11.12-17.27.32:286][292]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2020.11.12-17.27.32:286][292]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2020.11.12-17.27.32:286][292]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2020.11.12-17.27.32:286][292]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2020.11.12-17.27.32:286][292]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2020.11.12-17.27.32:457][292]LogEditorBuildUtils: Build time 0:04
+[2020.11.12-17.27.32:461][292]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer wood, compiling. 
+[2020.11.12-17.27.32:463][292]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer wood, compiling. 
+[2020.11.12-17.27.32:465][292]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer lid, compiling. 
+[2020.11.12-17.27.32:466][292]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer lid, compiling. 
+[2020.11.12-17.27.32:468][292]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer Mat_PolygonCity_Glass_Car_Windows, compiling. 
+[2020.11.12-17.27.32:470][292]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 8
+[2020.11.12-17.27.32:470][292]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 5
+[2020.11.12-17.27.32:470][292]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2020.11.12-17.27.32:470][292]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer Mat_PolygonCity_Glass_Car_Windows, compiling. 
+[2020.11.12-17.27.32:511][293]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4
+[2020.11.12-17.27.32:513][293]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer lambert1, compiling. 
+[2020.11.12-17.27.32:515][293]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer lambert1, compiling. 
+[2020.11.12-17.27.32:517][293]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer rock1, compiling. 
+[2020.11.12-17.27.32:520][293]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer rock1, compiling. 
+[2020.11.12-17.27.32:523][293]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer plants, compiling. 
+[2020.11.12-17.27.32:525][293]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer plants, compiling. 
+[2020.11.12-17.27.32:597][294]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer water, compiling. 
+[2020.11.12-17.27.32:599][294]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer water, compiling. 
+[2020.11.12-17.27.32:602][294]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer Mat_PolygonCity_Texture_Road_01, compiling. 
+[2020.11.12-17.27.32:604][294]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer Mat_PolygonCity_Texture_Road_01, compiling. 
+[2020.11.12-17.27.34:376][294]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 22
+[2020.11.12-17.27.34:376][294]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 16
+[2020.11.12-17.27.34:376][294]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 11
+[2020.11.12-17.27.34:376][294]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 8
+[2020.11.12-17.27.34:376][294]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 5
+[2020.11.12-17.27.34:376][294]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2020.11.12-17.27.34:376][294]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2020.11.12-17.27.34:376][294]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2020.11.12-17.27.34:735][307]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2020.11.12-17.27.38:156][593]LightingResults: Warning: aquarium2 Object has overlapping UVs.
+[2020.11.12-17.27.38:156][593]LightingResults: aquarium2 Lightmap UV are overlapping by 9.1%. Please adjust content - Enable Error Coloring to visualize.
+[2020.11.12-17.27.40:026][764]Job is a success!
+[2020.11.12-17.27.40:189][765]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.010s
+[2020.11.12-17.27.40:189][765]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2020.11.12-17.27.40:189][765]LogVolumetricLightmapImport:      BrickData (all levels) 0.4Mb
+[2020.11.12-17.27.40:189][765]LogVolumetricLightmapImport:      Bricks at depth
+[2020.11.12-17.27.40:189][765]LogVolumetricLightmapImport:          0: 1.2% covering 100.0% of volume
+[2020.11.12-17.27.40:189][765]LogVolumetricLightmapImport:          1: 4.7% covering 6.3% of volume
+[2020.11.12-17.27.40:189][765]LogVolumetricLightmapImport:          2: 94.2% covering 2.0% of volume
+[2020.11.12-17.27.40:189][765]LogVolumetricLightmapImport:      Bricks in each level
+[2020.11.12-17.27.40:189][765]LogVolumetricLightmapImport:          Sushi_Restaurant 			 86 bricks 	 100.0% (Persistent Level)
+[2020.11.12-17.27.41:696][765]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 1024X1024)
+[2020.11.12-17.27.41:696][765]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 1024X1024)
+[2020.11.12-17.27.41:696][765]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 1024X1024)
+[2020.11.12-17.27.41:696][765]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 1024X1024)
+[2020.11.12-17.27.41:696][765]LogTexture: Display: Building textures: HQ_Lightmap0_3 (AutoDXT, 1024X1024)
+[2020.11.12-17.27.41:696][765]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (DXT1, 1024X1024)
+[2020.11.12-17.27.41:696][765]LogTexture: Display: Building textures: HQ_Lightmap0_4 (AutoDXT, 1024X1024)
+[2020.11.12-17.27.41:696][765]LogTexture: Display: Building textures: LQ_Lightmap_0_4 (DXT1, 1024X1024)
+[2020.11.12-17.27.41:696][765]LogTexture: Display: Building textures: HQ_Lightmap0_5 (AutoDXT, 1024X1024)
+[2020.11.12-17.27.41:696][765]LogTexture: Display: Building textures: LQ_Lightmap_0_5 (DXT1, 1024X1024)
+[2020.11.12-17.27.41:696][765]LogTexture: Display: Building textures: HQ_Lightmap0_6 (AutoDXT, 1024X1024)
+[2020.11.12-17.27.41:696][765]LogTexture: Display: Building textures: LQ_Lightmap_0_6 (DXT1, 1024X1024)
+[2020.11.12-17.27.41:907][765]LogTexture: Display: Building textures: ShadowMapTexture2D_5 (BGRA8, 128X64)
+[2020.11.12-17.27.41:907][765]LogTexture: Display: Building textures: ShadowMapTexture2D_2 (BGRA8, 512X512)
+[2020.11.12-17.27.41:907][765]LogTexture: Display: Building textures: ShadowMapTexture2D_3 (G8, 1024X1024)
+[2020.11.12-17.27.41:907][765]LogTexture: Display: Building textures: ShadowMapTexture2D_4 (BGRA8, 1024X1024)
+[2020.11.12-17.27.41:907][765]Lightmass on DESKTOP-4J7KU4N: 6.75 sec total, 123 ms importing, 17 ms setup, 1.12 sec photons, 5.47 sec processing, 0 ms extra exporting [179/179 mappings]. Threads: 38.2 sec total, 14.5 sec processing.
+[2020.11.12-17.27.41:915][765]LogStaticLightingSystem: Sushi_Restaurant_BuiltData storing lightmap data for 50 meshes in 11 LightmapResourceClusters (4.5 Meshes per cluster).
+[2020.11.12-17.27.41:919][765]LogMaterial: Display: Material /Game/aquairum/wood.wood needed to have new flag set bUsedWithStaticLighting !
+[2020.11.12-17.27.41:923][765]LogMaterial: Display: Missing cached shader map for material wood, compiling. 
+[2020.11.12-17.27.41:934][765]LogMaterial: Display: Material /Game/aquairum/lid.lid needed to have new flag set bUsedWithStaticLighting !
+[2020.11.12-17.27.41:935][765]LogMaterial: Display: Missing cached shader map for material lid, compiling. 
+[2020.11.12-17.27.41:945][765]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 24
+[2020.11.12-17.27.41:945][765]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 17
+[2020.11.12-17.27.41:945][765]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 10
+[2020.11.12-17.27.41:945][765]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2020.11.12-17.27.41:945][765]LogMaterial: Display: Material /Game/PolygonCity/Materials/Mat_PolygonCity_Glass_Car_Windows.Mat_PolygonCity_Glass_Car_Windows needed to have new flag set bUsedWithStaticLighting !
+[2020.11.12-17.27.41:947][765]LogMaterial: Display: Missing cached shader map for material Mat_PolygonCity_Glass_Car_Windows, compiling. 
+[2020.11.12-17.27.41:983][765]LogMaterial: Display: Material /Game/aquairum/lambert1.lambert1 needed to have new flag set bUsedWithStaticLighting !
+[2020.11.12-17.27.41:984][765]LogMaterial: Display: Missing cached shader map for material lambert1, compiling. 
+[2020.11.12-17.27.41:994][765]LogMaterial: Display: Material /Game/aquairum/rock1.rock1 needed to have new flag set bUsedWithStaticLighting !
+[2020.11.12-17.27.41:995][765]LogMaterial: Display: Missing cached shader map for material rock1, compiling. 
+[2020.11.12-17.27.42:005][765]LogMaterial: Display: Material /Game/aquairum/plants.plants needed to have new flag set bUsedWithStaticLighting !
+[2020.11.12-17.27.42:006][765]LogMaterial: Display: Missing cached shader map for material plants, compiling. 
+[2020.11.12-17.27.42:017][765]LogMaterial: Display: Material /Game/PolygonCity/Materials/water.water needed to have new flag set bUsedWithStaticLighting !
+[2020.11.12-17.27.42:018][765]LogMaterial: Display: Missing cached shader map for material water, compiling. 
+[2020.11.12-17.27.42:066][765]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2020.11.12-17.27.42:095][765]LogStaticLightingSystem: Illumination: 14.2 sec (1.29 sec encoding lightmaps, 143 ms encoding shadowmaps)
+[2020.11.12-17.27.42:095][765]LogStaticLightingSystem: Lightmap texture memory:  12.0 MB (10.0 MB streaming, 2.0 MB non-streaming), 12 textures
+[2020.11.12-17.27.42:095][765]LogStaticLightingSystem: Shadowmap texture memory: 8.0 MB (6.7 MB streaming, 1.3 MB non-streaming), 4 textures
+[2020.11.12-17.27.42:293][765]DumpUnbuiltLightIteractions
+[2020.11.12-17.27.42:293][765]Lights with unbuilt interactions: 0
+[2020.11.12-17.27.42:293][765]
+[2020.11.12-17.27.42:293][765]Primitives with unbuilt interactions: 0
+[2020.11.12-17.28.59:202][765]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 294
+[2020.11.12-17.28.59:202][765]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 284
+[2020.11.12-17.28.59:202][765]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 274
+[2020.11.12-17.28.59:202][765]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 264
+[2020.11.12-17.28.59:202][765]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 254
+[2020.11.12-17.28.59:202][765]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 244
+[2020.11.12-17.28.59:202][765]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 234
+[2020.11.12-17.28.59:202][765]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 224
+[2020.11.12-17.28.59:202][765]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 214
+[2020.11.12-17.28.59:202][765]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 204
+[2020.11.12-17.28.59:202][765]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 194
+[2020.11.12-17.28.59:202][765]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 184
+[2020.11.12-17.28.59:202][765]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 174
+[2020.11.12-17.28.59:202][765]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 164
+[2020.11.12-17.28.59:202][765]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 154
+[2020.11.12-17.28.59:202][765]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 144
+[2020.11.12-17.28.59:202][765]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 134
+[2020.11.12-17.28.59:202][765]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 124
+[2020.11.12-17.28.59:202][765]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 114
+[2020.11.12-17.28.59:202][765]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 104
+[2020.11.12-17.28.59:202][765]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 94
+[2020.11.12-17.28.59:202][765]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 84
+[2020.11.12-17.28.59:202][765]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 74
+[2020.11.12-17.28.59:202][765]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 64
+[2020.11.12-17.28.59:202][765]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 54
+[2020.11.12-17.28.59:202][765]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 44
+[2020.11.12-17.28.59:202][765]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 34
+[2020.11.12-17.28.59:202][765]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 25
+[2020.11.12-17.28.59:202][765]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 18
+[2020.11.12-17.28.59:202][765]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 13
+[2020.11.12-17.28.59:202][765]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2020.11.12-17.28.59:202][765]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2020.11.12-17.28.59:202][765]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 4
+[2020.11.12-17.28.59:202][765]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2020.11.12-17.28.59:202][765]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2020.11.12-17.28.59:294][766]Cmd: MAP CHECK NOTIFYRESULTS
+[2020.11.12-17.28.59:294][766]MapCheck: New page: Sushi_Restaurant - Nov 12, 2020, 7:28:59 AM
+[2020.11.12-17.28.59:294][766]MapCheck: Warning: Sushi_Sign_10 Static mesh actor has NULL StaticMesh property 
+[2020.11.12-17.28.59:294][766]MapCheck: Warning: Sushi_Sign2_13 Static mesh actor has NULL StaticMesh property 
+[2020.11.12-17.28.59:294][766]MapCheck: Warning: Sushi_Sign3_16 Static mesh actor has NULL StaticMesh property 
+[2020.11.12-17.28.59:295][766]MapCheck: Map check complete: 0 Error(s), 3 Warning(s), took 0.7ms to complete.
+[2020.11.12-17.29.50:707][881]LogSlate: Window 'Message Log' being destroyed
+[2020.11.12-17.29.50:711][881]LogSlate: Window 'Message Log' being destroyed
+[2020.11.12-17.29.56:920][616]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2020.11.12-17.29.56:963][616]LogSavePackage: Moving '../../../../../../Unreal Projects/Trash_King/TrashKingProto_2_0/Saved/Sushi_RestaurantFA9AA3424B23E4A78E2CCD91D3FC502B.tmp' to '../../../../../../Unreal Projects/Trash_King/TrashKingProto_2_0/Content/Levels/Sushi_Restaurant.umap'
+[2020.11.12-17.29.57:056][616]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Sushi_Restaurant_BuiltData" FILE="../../../../../../Unreal Projects/Trash_King/TrashKingProto_2_0/Content/Levels/Sushi_Restaurant_BuiltData.uasset" SILENT=true
+[2020.11.12-17.29.57:241][616]LogSavePackage: Moving '../../../../../../Unreal Projects/Trash_King/TrashKingProto_2_0/Saved/Sushi_Restaurant_BuiltData3CF395C04DA832FFF2DF8F86E1098FA5.tmp' to '../../../../../../Unreal Projects/Trash_King/TrashKingProto_2_0/Content/Levels/Sushi_Restaurant_BuiltData.uasset'
+[2020.11.12-17.29.57:248][616]AssetCheck: New page: Asset Save: multiple assets
+[2020.11.12-17.29.57:248][616]LogContentValidation: Display: Validating World /Game/Levels/Sushi_Restaurant.Sushi_Restaurant
+[2020.11.12-17.29.57:248][616]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/Sushi_Restaurant_BuiltData.Sushi_Restaurant_BuiltData
