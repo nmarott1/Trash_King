@@ -1488,3 +1488,244 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.11.12-19.46.01:780][248]AssetCheck: New page: Asset Save: multiple assets
 [2020.11.12-19.46.01:780][248]LogContentValidation: Display: Validating World /Game/Levels/Subway.Subway
 [2020.11.12-19.46.01:780][248]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/Subway_BuiltData.Subway_BuiltData
+[2020.11.12-19.47.31:947][994]MapCheck: New page: Map Check
+[2020.11.12-19.47.31:961][994]Cmd: MAP REBUILD ALLVISIBLE
+[2020.11.12-19.47.31:962][994]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2020.11.12-19.47.32:054][994]LogWorld: UWorld::CleanupWorld for Subway, bSessionEnded=true, bCleanupResources=false
+[2020.11.12-19.47.32:076][994]LightingResults: New page: Lighting Build - Nov 12, 2020, 9:47:32 AM
+[2020.11.12-19.47.32:083][994]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2020.11.12-19.47.32:084][994]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2020.11.12-19.47.32:084][994]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2020.11.12-19.47.32:085][994]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2020.11.12-19.47.32:085][994]LogSwarmInterface: [TryOpenConnection] Local Process ID is 9832
+[2020.11.12-19.47.36:605][994]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2020.11.12-19.47.36:605][994]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2020.11.12-19.47.36:605][994]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2020.11.12-19.47.36:605][994]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2020.11.12-19.47.36:605][994]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2020.11.12-19.47.36:605][994]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2020.11.12-19.47.36:702][994]LogEditorBuildUtils: Build time 0:04
+[2020.11.12-19.47.36:844][996]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2020.11.12-19.47.47:350][912]Job is a success!
+[2020.11.12-19.47.47:516][914]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.009s
+[2020.11.12-19.47.47:516][914]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2020.11.12-19.47.47:516][914]LogVolumetricLightmapImport:      BrickData (all levels) 0.3Mb (trimmed 0.2Mb due to 0.010000 MinBrickError)
+[2020.11.12-19.47.47:516][914]LogVolumetricLightmapImport:      Bricks at depth
+[2020.11.12-19.47.47:516][914]LogVolumetricLightmapImport:          0: 1.7% covering 100.0% of volume
+[2020.11.12-19.47.47:516][914]LogVolumetricLightmapImport:          1: 8.3% covering 7.8% of volume
+[2020.11.12-19.47.47:516][914]LogVolumetricLightmapImport:          2: 90.0% covering 1.3% of volume
+[2020.11.12-19.47.47:516][914]LogVolumetricLightmapImport:      Bricks in each level
+[2020.11.12-19.47.47:516][914]LogVolumetricLightmapImport:          Subway 			 60 bricks 	 100.0% (Persistent Level)
+[2020.11.12-19.47.48:537][914]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 1024X1024)
+[2020.11.12-19.47.48:537][914]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 1024X1024)
+[2020.11.12-19.47.48:537][914]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 1024X1024)
+[2020.11.12-19.47.48:537][914]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 1024X1024)
+[2020.11.12-19.47.48:537][914]LogTexture: Display: Building textures: HQ_Lightmap0_3 (AutoDXT, 1024X1024)
+[2020.11.12-19.47.48:537][914]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (DXT1, 1024X1024)
+[2020.11.12-19.47.48:537][914]LogTexture: Display: Building textures: HQ_Lightmap0_4 (AutoDXT, 1024X1024)
+[2020.11.12-19.47.48:537][914]LogTexture: Display: Building textures: LQ_Lightmap_0_4 (DXT1, 1024X1024)
+[2020.11.12-19.47.48:537][914]LogTexture: Display: Building textures: HQ_Lightmap0_5 (AutoDXT, 1024X1024)
+[2020.11.12-19.47.48:537][914]LogTexture: Display: Building textures: LQ_Lightmap_0_5 (DXT1, 1024X1024)
+[2020.11.12-19.47.48:537][914]LogTexture: Display: Building textures: HQ_Lightmap0_6 (AutoDXT, 64X64)
+[2020.11.12-19.47.48:537][914]LogTexture: Display: Building textures: LQ_Lightmap_0_6 (DXT1, 64X64)
+[2020.11.12-19.47.48:610][914]LogTexture: Display: Building textures: ShadowMapTexture2D_15 (G8, 32X32)
+[2020.11.12-19.47.48:611][914]LogTexture: Display: Building textures: ShadowMapTexture2D_14 (BGRA8, 512X64)
+[2020.11.12-19.47.48:611][914]LogTexture: Display: Building textures: ShadowMapTexture2D_13 (BGRA8, 512X512)
+[2020.11.12-19.47.48:611][914]LogStaticLightingSystem: Subway_BuiltData storing lightmap data for 52 meshes in 7 LightmapResourceClusters (7.4 Meshes per cluster).
+[2020.11.12-19.47.48:622][914]Lightmass on DESKTOP-4J7KU4N: 11.3 sec total, 301 ms importing, 86 ms setup, 2.73 sec photons, 8.24 sec processing, 0 ms extra exporting [211/211 mappings]. Threads: 57.7 sec total, 27.8 sec processing.
+[2020.11.12-19.47.48:623][914]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2020.11.12-19.47.48:648][914]LogStaticLightingSystem: Illumination: 16.5 sec (865 ms encoding lightmaps, 41 ms encoding shadowmaps)
+[2020.11.12-19.47.48:648][914]LogStaticLightingSystem: Lightmap texture memory:  10.0 MB (8.0 MB streaming, 2.0 MB non-streaming), 12 textures
+[2020.11.12-19.47.48:648][914]LogStaticLightingSystem: Shadowmap texture memory: 1.5 MB (0.2 MB streaming, 1.3 MB non-streaming), 3 textures
+[2020.11.12-19.47.49:615][914]DumpUnbuiltLightIteractions
+[2020.11.12-19.47.49:615][914]Lights with unbuilt interactions: 0
+[2020.11.12-19.47.49:615][914]
+[2020.11.12-19.47.49:615][914]Primitives with unbuilt interactions: 0
+[2020.11.12-19.47.49:696][915]Cmd: MAP CHECK NOTIFYRESULTS
+[2020.11.12-19.47.49:696][915]MapCheck: New page: Subway - Nov 12, 2020, 9:47:49 AM
+[2020.11.12-19.47.49:697][915]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.421ms to complete.
+[2020.11.12-19.48.19:702][526]LogEditorViewport: Clicking Background
+[2020.11.12-19.48.20:467][617]LogEditorViewport: Clicking on Actor (LMB): RectLight (RectLight8)
+[2020.11.12-19.48.26:811][363]LogEditorViewport: Clicking on Actor (LMB): RectLight (RectLight7)
+[2020.11.12-19.48.29:517][680]LogEditorViewport: Clicking on Actor (LMB): RectLight (RectLight9)
+[2020.11.12-19.48.35:161][324]MapCheck: New page: Map Check
+[2020.11.12-19.48.35:170][324]Cmd: MAP REBUILD ALLVISIBLE
+[2020.11.12-19.48.35:170][324]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2020.11.12-19.48.35:262][324]LogWorld: UWorld::CleanupWorld for Subway, bSessionEnded=true, bCleanupResources=false
+[2020.11.12-19.48.35:284][324]LightingResults: New page: Lighting Build - Nov 12, 2020, 9:48:35 AM
+[2020.11.12-19.48.35:289][324]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2020.11.12-19.48.35:290][324]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2020.11.12-19.48.35:290][324]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2020.11.12-19.48.35:291][324]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2020.11.12-19.48.35:291][324]LogSwarmInterface: [TryOpenConnection] Local Process ID is 9832
+[2020.11.12-19.48.39:804][324]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2020.11.12-19.48.39:805][324]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2020.11.12-19.48.39:805][324]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2020.11.12-19.48.39:805][324]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2020.11.12-19.48.39:805][324]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2020.11.12-19.48.39:805][324]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2020.11.12-19.48.39:883][324]LogEditorBuildUtils: Build time 0:04
+[2020.11.12-19.48.39:941][325]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2020.11.12-19.48.50:490][243]Job is a success!
+[2020.11.12-19.48.50:694][245]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.017s
+[2020.11.12-19.48.50:694][245]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2020.11.12-19.48.50:694][245]LogVolumetricLightmapImport:      BrickData (all levels) 0.3Mb (trimmed 0.2Mb due to 0.010000 MinBrickError)
+[2020.11.12-19.48.50:694][245]LogVolumetricLightmapImport:      Bricks at depth
+[2020.11.12-19.48.50:694][245]LogVolumetricLightmapImport:          0: 1.7% covering 100.0% of volume
+[2020.11.12-19.48.50:694][245]LogVolumetricLightmapImport:          1: 8.3% covering 7.8% of volume
+[2020.11.12-19.48.50:694][245]LogVolumetricLightmapImport:          2: 90.0% covering 1.3% of volume
+[2020.11.12-19.48.50:694][245]LogVolumetricLightmapImport:      Bricks in each level
+[2020.11.12-19.48.50:694][245]LogVolumetricLightmapImport:          Subway 			 60 bricks 	 100.0% (Persistent Level)
+[2020.11.12-19.48.51:680][245]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 1024X1024)
+[2020.11.12-19.48.51:680][245]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 1024X1024)
+[2020.11.12-19.48.51:680][245]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 1024X1024)
+[2020.11.12-19.48.51:680][245]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 1024X1024)
+[2020.11.12-19.48.51:680][245]LogTexture: Display: Building textures: HQ_Lightmap1_3 (AutoDXT, 1024X1024)
+[2020.11.12-19.48.51:680][245]LogTexture: Display: Building textures: LQ_Lightmap_1_3 (DXT1, 1024X1024)
+[2020.11.12-19.48.51:680][245]LogTexture: Display: Building textures: HQ_Lightmap1_4 (AutoDXT, 1024X1024)
+[2020.11.12-19.48.51:680][245]LogTexture: Display: Building textures: LQ_Lightmap_1_4 (DXT1, 1024X1024)
+[2020.11.12-19.48.51:680][245]LogTexture: Display: Building textures: HQ_Lightmap1_5 (AutoDXT, 1024X1024)
+[2020.11.12-19.48.51:680][245]LogTexture: Display: Building textures: LQ_Lightmap_1_5 (DXT1, 1024X1024)
+[2020.11.12-19.48.51:680][245]LogTexture: Display: Building textures: HQ_Lightmap1_6 (AutoDXT, 64X64)
+[2020.11.12-19.48.51:680][245]LogTexture: Display: Building textures: LQ_Lightmap_1_6 (DXT1, 64X64)
+[2020.11.12-19.48.51:746][245]LogTexture: Display: Building textures: ShadowMapTexture2D_18 (G8, 32X32)
+[2020.11.12-19.48.51:747][245]LogTexture: Display: Building textures: ShadowMapTexture2D_17 (BGRA8, 512X64)
+[2020.11.12-19.48.51:747][245]LogTexture: Display: Building textures: ShadowMapTexture2D_16 (BGRA8, 512X512)
+[2020.11.12-19.48.51:747][245]LogStaticLightingSystem: Subway_BuiltData storing lightmap data for 52 meshes in 7 LightmapResourceClusters (7.4 Meshes per cluster).
+[2020.11.12-19.48.51:759][245]Lightmass on DESKTOP-4J7KU4N: 11.4 sec total, 301 ms importing, 88 ms setup, 2.70 sec photons, 8.30 sec processing, 0 ms extra exporting [211/211 mappings]. Threads: 58.1 sec total, 29.5 sec processing.
+[2020.11.12-19.48.51:760][245]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2020.11.12-19.48.51:784][245]LogStaticLightingSystem: Illumination: 16.4 sec (832 ms encoding lightmaps, 38 ms encoding shadowmaps)
+[2020.11.12-19.48.51:784][245]LogStaticLightingSystem: Lightmap texture memory:  10.0 MB (8.0 MB streaming, 2.0 MB non-streaming), 12 textures
+[2020.11.12-19.48.51:784][245]LogStaticLightingSystem: Shadowmap texture memory: 1.5 MB (0.2 MB streaming, 1.3 MB non-streaming), 3 textures
+[2020.11.12-19.48.51:812][245]DumpUnbuiltLightIteractions
+[2020.11.12-19.48.51:812][245]Lights with unbuilt interactions: 0
+[2020.11.12-19.48.51:812][245]
+[2020.11.12-19.48.51:812][245]Primitives with unbuilt interactions: 0
+[2020.11.12-19.48.51:867][246]Cmd: MAP CHECK NOTIFYRESULTS
+[2020.11.12-19.48.51:868][246]MapCheck: New page: Subway - Nov 12, 2020, 9:48:51 AM
+[2020.11.12-19.48.51:868][246]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.429ms to complete.
+[2020.11.12-19.49.02:824][555]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (traincar)
+[2020.11.12-19.49.11:816][608]LogEditorViewport: Clicking on Actor (LMB): RectLight (RectLight7)
+[2020.11.12-19.49.20:953][692]LogEditorViewport: Clicking on Actor (LMB): RectLight (RectLight7)
+[2020.11.12-19.49.21:876][800]Cmd: DELETE
+[2020.11.12-19.49.21:876][800]Cmd: ACTOR DELETE
+[2020.11.12-19.49.21:880][800]LogEditorActor: Deleted Actor: RectLight
+[2020.11.12-19.49.21:890][800]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2020.11.12-19.49.21:893][800]LogEditorActor: Deleted 1 Actors (0.016 secs)
+[2020.11.12-19.49.22:713][898]LogEditorViewport: Clicking on Actor (LMB): RectLight (RectLight9)
+[2020.11.12-19.49.22:871][914]Cmd: DELETE
+[2020.11.12-19.49.22:871][914]Cmd: ACTOR DELETE
+[2020.11.12-19.49.22:876][914]LogEditorActor: Deleted Actor: RectLight
+[2020.11.12-19.49.22:884][914]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2020.11.12-19.49.22:885][914]LogEditorActor: Deleted 1 Actors (0.014 secs)
+[2020.11.12-19.49.24:570][112]LogEditorViewport: Clicking on Actor (LMB): RectLight (RectLight8)
+[2020.11.12-19.49.25:664][235]Cmd: DELETE
+[2020.11.12-19.49.25:664][235]Cmd: ACTOR DELETE
+[2020.11.12-19.49.25:668][235]LogEditorActor: Deleted Actor: RectLight
+[2020.11.12-19.49.25:677][235]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2020.11.12-19.49.25:678][235]LogEditorActor: Deleted 1 Actors (0.014 secs)
+[2020.11.12-19.49.37:673][637]Cmd: DUPLICATE
+[2020.11.12-19.49.37:673][637]Cmd: ACTOR DUPLICATE
+[2020.11.12-19.49.39:854][894]Cmd: DUPLICATE
+[2020.11.12-19.49.39:854][894]Cmd: ACTOR DUPLICATE
+[2020.11.12-19.49.46:126][628]MapCheck: New page: Map Check
+[2020.11.12-19.49.46:140][628]Cmd: MAP REBUILD ALLVISIBLE
+[2020.11.12-19.49.46:140][628]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2020.11.12-19.49.46:233][628]LogWorld: UWorld::CleanupWorld for Subway, bSessionEnded=true, bCleanupResources=false
+[2020.11.12-19.49.46:255][628]LightingResults: New page: Lighting Build - Nov 12, 2020, 9:49:46 AM
+[2020.11.12-19.49.46:260][628]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2020.11.12-19.49.46:262][628]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2020.11.12-19.49.46:262][628]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2020.11.12-19.49.46:262][628]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2020.11.12-19.49.46:263][628]LogSwarmInterface: [TryOpenConnection] Local Process ID is 9832
+[2020.11.12-19.49.50:779][628]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2020.11.12-19.49.50:780][628]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2020.11.12-19.49.50:780][628]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2020.11.12-19.49.50:780][628]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2020.11.12-19.49.50:780][628]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2020.11.12-19.49.50:780][628]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2020.11.12-19.49.50:859][628]LogEditorBuildUtils: Build time 0:04
+[2020.11.12-19.49.50:990][630]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2020.11.12-19.50.02:752][668]Job is a success!
+[2020.11.12-19.50.02:912][669]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.008s
+[2020.11.12-19.50.02:912][669]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2020.11.12-19.50.02:912][669]LogVolumetricLightmapImport:      BrickData (all levels) 0.2Mb (trimmed 0.2Mb due to 0.010000 MinBrickError)
+[2020.11.12-19.50.02:912][669]LogVolumetricLightmapImport:      Bricks at depth
+[2020.11.12-19.50.02:912][669]LogVolumetricLightmapImport:          0: 2.0% covering 100.0% of volume
+[2020.11.12-19.50.02:912][669]LogVolumetricLightmapImport:          1: 7.8% covering 6.3% of volume
+[2020.11.12-19.50.02:912][669]LogVolumetricLightmapImport:          2: 90.2% covering 1.1% of volume
+[2020.11.12-19.50.02:912][669]LogVolumetricLightmapImport:      Bricks in each level
+[2020.11.12-19.50.02:912][669]LogVolumetricLightmapImport:          Subway 			 51 bricks 	 100.0% (Persistent Level)
+[2020.11.12-19.50.03:921][669]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 1024X1024)
+[2020.11.12-19.50.03:921][669]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 1024X1024)
+[2020.11.12-19.50.03:921][669]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 1024X1024)
+[2020.11.12-19.50.03:921][669]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 1024X1024)
+[2020.11.12-19.50.03:921][669]LogTexture: Display: Building textures: HQ_Lightmap0_3 (AutoDXT, 1024X1024)
+[2020.11.12-19.50.03:921][669]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (DXT1, 1024X1024)
+[2020.11.12-19.50.03:921][669]LogTexture: Display: Building textures: HQ_Lightmap0_4 (AutoDXT, 1024X1024)
+[2020.11.12-19.50.03:921][669]LogTexture: Display: Building textures: LQ_Lightmap_0_4 (DXT1, 1024X1024)
+[2020.11.12-19.50.03:921][669]LogTexture: Display: Building textures: HQ_Lightmap0_5 (AutoDXT, 1024X1024)
+[2020.11.12-19.50.03:921][669]LogTexture: Display: Building textures: LQ_Lightmap_0_5 (DXT1, 1024X1024)
+[2020.11.12-19.50.03:921][669]LogTexture: Display: Building textures: HQ_Lightmap0_6 (AutoDXT, 64X64)
+[2020.11.12-19.50.03:921][669]LogTexture: Display: Building textures: LQ_Lightmap_0_6 (DXT1, 64X64)
+[2020.11.12-19.50.04:097][669]LogTexture: Display: Building textures: ShadowMapTexture2D_21 (G8, 32X32)
+[2020.11.12-19.50.04:097][669]LogTexture: Display: Building textures: ShadowMapTexture2D_19 (BGRA8, 512X512)
+[2020.11.12-19.50.04:097][669]LogTexture: Display: Building textures: ShadowMapTexture2D_20 (BGRA8, 1024X1024)
+[2020.11.12-19.50.04:098][669]LogStaticLightingSystem: Subway_BuiltData storing lightmap data for 52 meshes in 10 LightmapResourceClusters (5.2 Meshes per cluster).
+[2020.11.12-19.50.04:110][669]Lightmass on DESKTOP-4J7KU4N: 12.7 sec total, 300 ms importing, 89 ms setup, 2.73 sec photons, 9.58 sec processing, 0 ms extra exporting [211/211 mappings]. Threads: 1:07 min total, 36.4 sec processing.
+[2020.11.12-19.50.04:111][669]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2020.11.12-19.50.04:137][669]LogStaticLightingSystem: Illumination: 17.8 sec (842 ms encoding lightmaps, 147 ms encoding shadowmaps)
+[2020.11.12-19.50.04:137][669]LogStaticLightingSystem: Lightmap texture memory:  10.0 MB (8.0 MB streaming, 2.0 MB non-streaming), 12 textures
+[2020.11.12-19.50.04:137][669]LogStaticLightingSystem: Shadowmap texture memory: 6.7 MB (5.3 MB streaming, 1.3 MB non-streaming), 3 textures
+[2020.11.12-19.50.04:787][669]DumpUnbuiltLightIteractions
+[2020.11.12-19.50.04:787][669]Lights with unbuilt interactions: 0
+[2020.11.12-19.50.04:787][669]
+[2020.11.12-19.50.04:787][669]Primitives with unbuilt interactions: 0
+[2020.11.12-19.50.04:854][670]Cmd: MAP CHECK NOTIFYRESULTS
+[2020.11.12-19.50.04:854][670]MapCheck: New page: Subway - Nov 12, 2020, 9:50:04 AM
+[2020.11.12-19.50.04:855][670]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.389ms to complete.
+[2020.11.12-19.50.11:547][468]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (traincar)
+[2020.11.12-19.50.16:117][993]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/TEAMXX_ASSETS/traincar/Material_013.Material_013
+[2020.11.12-19.50.16:132][993]LogMaterial: Display: Missing cached shader map for material Material_013, compiling. 
+[2020.11.12-19.50.16:812][993]LogMaterial: Display: Missing cached shader map for material Material_013, compiling. 
+[2020.11.12-19.50.16:819][993]LogMaterial: Display: Missing cached shader map for material Material_013, compiling. 
+[2020.11.12-19.50.16:829][993]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2020.11.12-19.50.16:852][993]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 11
+[2020.11.12-19.50.16:852][993]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 10
+[2020.11.12-19.50.16:852][993]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2020.11.12-19.50.16:852][993]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 8
+[2020.11.12-19.50.16:887][993]LogSlate: Took 0.000105 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.11.12-19.50.17:236][994]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 11
+[2020.11.12-19.50.17:236][994]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 10
+[2020.11.12-19.50.17:236][994]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2020.11.12-19.50.17:236][994]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2020.11.12-19.50.17:524][ 18]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 7
+[2020.11.12-19.50.17:552][ 21]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2020.11.12-19.50.17:579][ 24]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2020.11.12-19.50.17:635][ 30]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4
+[2020.11.12-19.50.17:868][ 49]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 3
+[2020.11.12-19.50.17:907][ 53]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2020.11.12-19.50.17:918][ 54]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2020.11.12-19.50.17:932][ 55]MaterialEditorStats: Base pass shader: 90 instructions
+[2020.11.12-19.50.17:932][ 55]MaterialEditorStats: Base pass shader with Surface Lightmap: 115 instructions
+[2020.11.12-19.50.17:932][ 55]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 164 instructions
+[2020.11.12-19.50.17:932][ 55]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2020.11.12-19.50.17:932][ 55]MaterialEditorStats: Texture samplers: 1/16
+[2020.11.12-19.50.31:977][440]LogSlate: Window 'Message' being destroyed
+[2020.11.12-19.50.31:981][440]Message dialog closed, result: No, title: Message, text: Would you like to apply the changes of the modified material to the original material?
+/Game/TEAMXX_ASSETS/traincar/Material_013.Material_013
+(Selecting 'No' will cause all changes to be lost!)
+[2020.11.12-19.50.31:982][440]LogSlate: Window 'Material_013' being destroyed
+[2020.11.12-19.50.31:983][440]LogSlate: Window 'Material_013' being destroyed
+[2020.11.12-19.50.32:014][440]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2020.11.12-19.50.32:015][440]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.12-19.51.07:156][576]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight2)
+[2020.11.12-19.51.26:665][838]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.11.12-19.51.29:444][161]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Subway" FILE="../../../../../../Unreal Projects/Trash_King/TrashKingProto_2_0/Content/Levels/Subway.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.11.12-19.51.29:454][161]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2020.11.12-19.51.29:507][161]LogSavePackage: Moving '../../../../../../Unreal Projects/Trash_King/TrashKingProto_2_0/Saved/Subway9941E533431BA6B6E6B568A6D150C4EF.tmp' to '../../../../../../Unreal Projects/Trash_King/TrashKingProto_2_0/Content/Levels/Subway.umap'
+[2020.11.12-19.51.29:596][161]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Subway_BuiltData" FILE="../../../../../../Unreal Projects/Trash_King/TrashKingProto_2_0/Content/Levels/Subway_BuiltData.uasset" SILENT=true
+[2020.11.12-19.51.29:760][161]LogSavePackage: Moving '../../../../../../Unreal Projects/Trash_King/TrashKingProto_2_0/Saved/Subway_BuiltData7B44B9B54771FF3C75A07E8CEAB577E6.tmp' to '../../../../../../Unreal Projects/Trash_King/TrashKingProto_2_0/Content/Levels/Subway_BuiltData.uasset'
+[2020.11.12-19.51.29:768][161]AssetCheck: New page: Asset Save: multiple assets
+[2020.11.12-19.51.29:768][161]LogContentValidation: Display: Validating World /Game/Levels/Subway.Subway
+[2020.11.12-19.51.29:768][161]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/Subway_BuiltData.Subway_BuiltData
