@@ -850,3 +850,641 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.11.12-19.31.09:992][759]AssetCheck: New page: Asset Save: multiple assets
 [2020.11.12-19.31.09:992][759]LogContentValidation: Display: Validating World /Game/Levels/Subway.Subway
 [2020.11.12-19.31.09:992][759]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/Subway_BuiltData.Subway_BuiltData
+[2020.11.12-19.32.54:759][796]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Light_01)
+[2020.11.12-19.32.56:720][ 28]Cmd: DELETE
+[2020.11.12-19.32.56:720][ 28]Cmd: ACTOR DELETE
+[2020.11.12-19.32.56:740][ 28]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.11.12-19.32.56:742][ 28]LogEditorActor: Deleted Actor: RectLight
+[2020.11.12-19.32.56:751][ 28]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2020.11.12-19.32.56:754][ 28]LogEditorActor: Deleted 2 Actors (0.034 secs)
+[2020.11.12-19.32.57:554][123]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Light_3)
+[2020.11.12-19.32.57:863][158]Cmd: DELETE
+[2020.11.12-19.32.57:863][158]Cmd: ACTOR DELETE
+[2020.11.12-19.32.57:870][158]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.11.12-19.32.57:872][158]LogEditorActor: Deleted Actor: RectLight
+[2020.11.12-19.32.57:881][158]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2020.11.12-19.32.57:882][158]LogEditorActor: Deleted 2 Actors (0.018 secs)
+[2020.11.12-19.32.59:579][360]LogEditorViewport: Clicking on Actor (LMB): RectLight (ceilinglight5)
+[2020.11.12-19.33.00:875][512]Cmd: DELETE
+[2020.11.12-19.33.00:875][512]Cmd: ACTOR DELETE
+[2020.11.12-19.33.00:879][512]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.11.12-19.33.00:881][512]LogEditorActor: Deleted Actor: RectLight
+[2020.11.12-19.33.00:889][512]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2020.11.12-19.33.00:891][512]LogEditorActor: Deleted 2 Actors (0.016 secs)
+[2020.11.12-19.33.07:460][299]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Light_8)
+[2020.11.12-19.33.13:489][ 19]LogEditorViewport: Clicking on Actor (LMB): RectLight (ceilinglight4)
+[2020.11.12-19.33.19:841][777]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Light_8)
+[2020.11.12-19.33.22:928][144]LogEditorViewport: Clicking on Actor (LMB): RectLight (ceilinglight4)
+[2020.11.12-19.33.26:255][541]LogEditorViewport: Clicking on Actor (LMB): RectLight (ceilinglight8)
+[2020.11.12-19.33.27:357][671]Cmd: DELETE
+[2020.11.12-19.33.27:357][671]Cmd: ACTOR DELETE
+[2020.11.12-19.33.27:362][671]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.11.12-19.33.27:363][671]LogEditorActor: Deleted Actor: RectLight
+[2020.11.12-19.33.27:372][671]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2020.11.12-19.33.27:374][671]LogEditorActor: Deleted 2 Actors (0.017 secs)
+[2020.11.12-19.33.28:280][779]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Light_4)
+[2020.11.12-19.33.29:831][963]LogEditorViewport: Clicking on Actor (LMB): RectLight (ceilinglight6)
+[2020.11.12-19.33.35:519][641]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Light_9)
+[2020.11.12-19.33.36:345][738]Cmd: DELETE
+[2020.11.12-19.33.36:345][738]Cmd: ACTOR DELETE
+[2020.11.12-19.33.36:350][738]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.11.12-19.33.36:351][738]LogEditorActor: Deleted Actor: RectLight
+[2020.11.12-19.33.36:359][738]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2020.11.12-19.33.36:361][738]LogEditorActor: Deleted 2 Actors (0.016 secs)
+[2020.11.12-19.33.38:274][967]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Light_6)
+[2020.11.12-19.33.48:786][222]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Light_15)
+[2020.11.12-19.33.50:414][415]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.11.12-19.34.02:341][830]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Light_4)
+[2020.11.12-19.34.10:397][781]LogEditorViewport: Clicking on Actor (LMB): RectLight (ceilinglight4)
+[2020.11.12-19.34.14:726][289]LogEditorViewport: Clicking on Actor (LMB): RectLight (ceilinglight4)
+[2020.11.12-19.34.15:814][417]Cmd: DELETE
+[2020.11.12-19.34.15:814][417]Cmd: ACTOR DELETE
+[2020.11.12-19.34.15:819][417]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.11.12-19.34.15:820][417]LogEditorActor: Deleted Actor: RectLight
+[2020.11.12-19.34.15:829][417]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2020.11.12-19.34.15:832][417]LogEditorActor: Deleted 2 Actors (0.018 secs)
+[2020.11.12-19.34.17:115][571]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Light_2)
+[2020.11.12-19.34.18:066][683]Cmd: DUPLICATE
+[2020.11.12-19.34.18:066][683]Cmd: ACTOR DUPLICATE
+[2020.11.12-19.34.25:534][568]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Light_3)
+[2020.11.12-19.34.26:723][708]Cmd: DELETE
+[2020.11.12-19.34.26:723][708]Cmd: ACTOR DELETE
+[2020.11.12-19.34.26:728][708]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.11.12-19.34.26:729][708]LogEditorActor: Deleted Actor: RectLight
+[2020.11.12-19.34.26:738][708]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2020.11.12-19.34.26:741][708]LogEditorActor: Deleted 2 Actors (0.018 secs)
+[2020.11.12-19.34.35:588][767]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Light_7)
+[2020.11.12-19.34.42:298][566]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Light_6)
+[2020.11.12-19.34.52:640][788]MapCheck: New page: Map Check
+[2020.11.12-19.34.52:660][788]Cmd: MAP REBUILD ALLVISIBLE
+[2020.11.12-19.34.52:661][788]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2020.11.12-19.34.52:790][788]LogWorld: UWorld::CleanupWorld for Subway, bSessionEnded=true, bCleanupResources=false
+[2020.11.12-19.34.52:885][788]LightingResults: New page: Lighting Build - Nov 12, 2020, 9:34:52 AM
+[2020.11.12-19.34.53:039][788]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2020.11.12-19.34.53:196][788]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2020.11.12-19.34.53:208][788]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2020.11.12-19.34.54:228][788]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2020.11.12-19.34.54:228][788]LogSwarmInterface: [TryOpenConnection] Local Process ID is 9832
+[2020.11.12-19.34.56:307][788]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2020.11.12-19.34.56:307][788]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2020.11.12-19.34.56:307][788]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2020.11.12-19.34.56:308][788]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2020.11.12-19.34.56:308][788]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2020.11.12-19.34.56:308][788]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2020.11.12-19.34.57:126][788]LogEditorBuildUtils: Build time 0:04
+[2020.11.12-19.34.57:137][788]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer Material_013, compiling. 
+[2020.11.12-19.34.57:140][788]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer Material_013, compiling. 
+[2020.11.12-19.34.57:172][789]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4
+[2020.11.12-19.34.57:172][789]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2020.11.12-19.34.57:175][789]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer piso_003, compiling. 
+[2020.11.12-19.34.57:177][789]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2020.11.12-19.34.57:177][789]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2020.11.12-19.34.57:177][789]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer piso_003, compiling. 
+[2020.11.12-19.34.57:180][789]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer metal2_001, compiling. 
+[2020.11.12-19.34.57:183][789]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer metal2_001, compiling. 
+[2020.11.12-19.34.57:254][790]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer MetalStainlessSteelBrushedElongated005_3K_001, compiling. 
+[2020.11.12-19.34.57:256][790]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer MetalStainlessSteelBrushedElongated005_3K_001, compiling. 
+[2020.11.12-19.34.57:258][790]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer piso_002, compiling. 
+[2020.11.12-19.34.57:260][790]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer piso_002, compiling. 
+[2020.11.12-19.34.57:262][790]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer plastico_001, compiling. 
+[2020.11.12-19.34.57:263][790]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer plastico_001, compiling. 
+[2020.11.12-19.34.57:306][791]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer logo_subte_001, compiling. 
+[2020.11.12-19.34.57:308][791]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer logo_subte_001, compiling. 
+[2020.11.12-19.34.57:310][791]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer cartel_001, compiling. 
+[2020.11.12-19.34.57:312][791]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer cartel_001, compiling. 
+[2020.11.12-19.34.57:315][791]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer metal_tubos_001, compiling. 
+[2020.11.12-19.34.57:317][791]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer metal_tubos_001, compiling. 
+[2020.11.12-19.34.57:360][792]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer Material_007, compiling. 
+[2020.11.12-19.34.57:363][792]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer Material_007, compiling. 
+[2020.11.12-19.34.57:366][792]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer Knittr_-_Example_3_001, compiling. 
+[2020.11.12-19.34.57:368][792]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer Knittr_-_Example_3_001, compiling. 
+[2020.11.12-19.34.57:371][792]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer GOMA_000, compiling. 
+[2020.11.12-19.34.57:373][792]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer GOMA_000, compiling. 
+[2020.11.12-19.34.57:406][793]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer marron_001, compiling. 
+[2020.11.12-19.34.57:408][793]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer marron_001, compiling. 
+[2020.11.12-19.34.57:411][793]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer Material_006, compiling. 
+[2020.11.12-19.34.57:413][793]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer Material_006, compiling. 
+[2020.11.12-19.34.57:415][793]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer METALCITO_LUCES, compiling. 
+[2020.11.12-19.34.57:417][793]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer METALCITO_LUCES, compiling. 
+[2020.11.12-19.34.57:455][794]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer vidrio_luces, compiling. 
+[2020.11.12-19.34.57:457][794]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer vidrio_luces, compiling. 
+[2020.11.12-19.34.57:460][794]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer Material_000, compiling. 
+[2020.11.12-19.34.57:462][794]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer Material_000, compiling. 
+[2020.11.12-19.34.57:464][794]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer Material_001, compiling. 
+[2020.11.12-19.34.57:466][794]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer Material_001, compiling. 
+[2020.11.12-19.34.57:503][794]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 66
+[2020.11.12-19.34.57:505][795]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer mapa_001, compiling. 
+[2020.11.12-19.34.57:507][795]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer mapa_001, compiling. 
+[2020.11.12-19.34.57:510][795]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer metal_caja_001, compiling. 
+[2020.11.12-19.34.57:512][795]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer metal_caja_001, compiling. 
+[2020.11.12-19.34.57:514][795]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 62
+[2020.11.12-19.34.57:514][795]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer VIDRIO_000, compiling. 
+[2020.11.12-19.34.57:516][795]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer VIDRIO_000, compiling. 
+[2020.11.12-19.35.01:971][796]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 58
+[2020.11.12-19.35.01:971][796]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 48
+[2020.11.12-19.35.01:971][796]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 38
+[2020.11.12-19.35.01:971][796]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 28
+[2020.11.12-19.35.01:971][796]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 20
+[2020.11.12-19.35.01:971][796]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 14
+[2020.11.12-19.35.01:971][796]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 10
+[2020.11.12-19.35.01:971][796]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 7
+[2020.11.12-19.35.01:971][796]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2020.11.12-19.35.01:971][796]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2020.11.12-19.35.01:971][796]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2020.11.12-19.35.01:971][796]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2020.11.12-19.35.02:482][816]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2020.11.12-19.35.16:204][ 29]Job is a success!
+[2020.11.12-19.35.16:370][ 30]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.008s
+[2020.11.12-19.35.16:370][ 30]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2020.11.12-19.35.16:370][ 30]LogVolumetricLightmapImport:      BrickData (all levels) 0.2Mb (trimmed 0.3Mb due to 0.010000 MinBrickError)
+[2020.11.12-19.35.16:370][ 30]LogVolumetricLightmapImport:      Bricks at depth
+[2020.11.12-19.35.16:370][ 30]LogVolumetricLightmapImport:          0: 2.6% covering 100.0% of volume
+[2020.11.12-19.35.16:370][ 30]LogVolumetricLightmapImport:          1: 10.3% covering 6.3% of volume
+[2020.11.12-19.35.16:370][ 30]LogVolumetricLightmapImport:          2: 87.2% covering 0.8% of volume
+[2020.11.12-19.35.16:370][ 30]LogVolumetricLightmapImport:      Bricks in each level
+[2020.11.12-19.35.16:370][ 30]LogVolumetricLightmapImport:          Subway 			 39 bricks 	 100.0% (Persistent Level)
+[2020.11.12-19.35.16:575][ 30]LightingResults: Warning: ceilinglight13 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2020.11.12-19.35.16:575][ 30]LightingResults: Warning: ceilinglight11 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2020.11.12-19.35.17:386][ 30]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 1024X1024)
+[2020.11.12-19.35.17:386][ 30]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 1024X1024)
+[2020.11.12-19.35.17:386][ 30]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 1024X1024)
+[2020.11.12-19.35.17:386][ 30]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 1024X1024)
+[2020.11.12-19.35.17:386][ 30]LogTexture: Display: Building textures: HQ_Lightmap0_3 (AutoDXT, 1024X1024)
+[2020.11.12-19.35.17:386][ 30]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (DXT1, 1024X1024)
+[2020.11.12-19.35.17:386][ 30]LogTexture: Display: Building textures: HQ_Lightmap0_4 (AutoDXT, 1024X1024)
+[2020.11.12-19.35.17:386][ 30]LogTexture: Display: Building textures: LQ_Lightmap_0_4 (DXT1, 1024X1024)
+[2020.11.12-19.35.17:386][ 30]LogTexture: Display: Building textures: HQ_Lightmap0_5 (AutoDXT, 1024X1024)
+[2020.11.12-19.35.17:386][ 30]LogTexture: Display: Building textures: LQ_Lightmap_0_5 (DXT1, 1024X1024)
+[2020.11.12-19.35.17:386][ 30]LogTexture: Display: Building textures: HQ_Lightmap0_6 (AutoDXT, 64X64)
+[2020.11.12-19.35.17:386][ 30]LogTexture: Display: Building textures: LQ_Lightmap_0_6 (DXT1, 64X64)
+[2020.11.12-19.35.17:654][ 30]LogTexture: Display: Building textures: ShadowMapTexture2D_3 (G8, 32X32)
+[2020.11.12-19.35.17:654][ 30]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (BGRA8, 512X512)
+[2020.11.12-19.35.17:654][ 30]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (BGRA8, 1024X1024)
+[2020.11.12-19.35.17:654][ 30]LogTexture: Display: Building textures: ShadowMapTexture2D_2 (BGRA8, 1024X1024)
+[2020.11.12-19.35.17:654][ 30]Lightmass on DESKTOP-4J7KU4N: 14.5 sec total, 313 ms importing, 91 ms setup, 2.73 sec photons, 11.3 sec processing, 0 ms extra exporting [217/217 mappings]. Threads: 1:19 min total, 47.2 sec processing.
+[2020.11.12-19.35.17:663][ 30]LogStaticLightingSystem: Subway_BuiltData storing lightmap data for 58 meshes in 11 LightmapResourceClusters (5.3 Meshes per cluster).
+[2020.11.12-19.35.17:666][ 30]LogMaterial: Display: Material /Game/TEAMXX_ASSETS/traincar/Material_013.Material_013 needed to have new flag set bUsedWithStaticLighting !
+[2020.11.12-19.35.17:669][ 30]LogMaterial: Display: Missing cached shader map for material Material_013, compiling. 
+[2020.11.12-19.35.17:690][ 30]LogMaterial: Display: Material /Game/TEAMXX_ASSETS/traincar/piso_003.piso_003 needed to have new flag set bUsedWithStaticLighting !
+[2020.11.12-19.35.17:691][ 30]LogMaterial: Display: Missing cached shader map for material piso_003, compiling. 
+[2020.11.12-19.35.17:700][ 30]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 24
+[2020.11.12-19.35.17:700][ 30]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 17
+[2020.11.12-19.35.17:700][ 30]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 10
+[2020.11.12-19.35.17:700][ 30]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2020.11.12-19.35.17:701][ 30]LogMaterial: Display: Material /Game/TEAMXX_ASSETS/traincar/metal2_001.metal2_001 needed to have new flag set bUsedWithStaticLighting !
+[2020.11.12-19.35.17:701][ 30]LogMaterial: Display: Missing cached shader map for material metal2_001, compiling. 
+[2020.11.12-19.35.17:711][ 30]LogMaterial: Display: Material /Game/TEAMXX_ASSETS/traincar/MetalStainlessSteelBrushedElongated005_3K_001.MetalStainlessSteelBrushedElongated005_3K_001 needed to have new flag set bUsedWithStaticLighting !
+[2020.11.12-19.35.17:712][ 30]LogMaterial: Display: Missing cached shader map for material MetalStainlessSteelBrushedElongated005_3K_001, compiling. 
+[2020.11.12-19.35.17:722][ 30]LogMaterial: Display: Material /Game/TEAMXX_ASSETS/traincar/piso_002.piso_002 needed to have new flag set bUsedWithStaticLighting !
+[2020.11.12-19.35.17:723][ 30]LogMaterial: Display: Missing cached shader map for material piso_002, compiling. 
+[2020.11.12-19.35.17:731][ 30]LogMaterial: Display: Material /Game/TEAMXX_ASSETS/traincar/plastico_001.plastico_001 needed to have new flag set bUsedWithStaticLighting !
+[2020.11.12-19.35.17:732][ 30]LogMaterial: Display: Missing cached shader map for material plastico_001, compiling. 
+[2020.11.12-19.35.17:741][ 30]LogMaterial: Display: Material /Game/TEAMXX_ASSETS/traincar/logo_subte_001.logo_subte_001 needed to have new flag set bUsedWithStaticLighting !
+[2020.11.12-19.35.17:742][ 30]LogMaterial: Display: Missing cached shader map for material logo_subte_001, compiling. 
+[2020.11.12-19.35.17:751][ 30]LogMaterial: Display: Material /Game/TEAMXX_ASSETS/traincar/cartel_001.cartel_001 needed to have new flag set bUsedWithStaticLighting !
+[2020.11.12-19.35.17:752][ 30]LogMaterial: Display: Missing cached shader map for material cartel_001, compiling. 
+[2020.11.12-19.35.17:762][ 30]LogMaterial: Display: Material /Game/TEAMXX_ASSETS/traincar/metal_tubos_001.metal_tubos_001 needed to have new flag set bUsedWithStaticLighting !
+[2020.11.12-19.35.17:762][ 30]LogMaterial: Display: Missing cached shader map for material metal_tubos_001, compiling. 
+[2020.11.12-19.35.17:771][ 30]LogMaterial: Display: Material /Game/TEAMXX_ASSETS/traincar/Material_007.Material_007 needed to have new flag set bUsedWithStaticLighting !
+[2020.11.12-19.35.17:772][ 30]LogMaterial: Display: Missing cached shader map for material Material_007, compiling. 
+[2020.11.12-19.35.17:781][ 30]LogMaterial: Display: Material /Game/TEAMXX_ASSETS/traincar/Knittr_-_Example_3_001.Knittr_-_Example_3_001 needed to have new flag set bUsedWithStaticLighting !
+[2020.11.12-19.35.17:782][ 30]LogMaterial: Display: Missing cached shader map for material Knittr_-_Example_3_001, compiling. 
+[2020.11.12-19.35.17:792][ 30]LogMaterial: Display: Material /Game/TEAMXX_ASSETS/traincar/GOMA_000.GOMA_000 needed to have new flag set bUsedWithStaticLighting !
+[2020.11.12-19.35.17:793][ 30]LogMaterial: Display: Missing cached shader map for material GOMA_000, compiling. 
+[2020.11.12-19.35.17:803][ 30]LogMaterial: Display: Material /Game/TEAMXX_ASSETS/traincar/marron_001.marron_001 needed to have new flag set bUsedWithStaticLighting !
+[2020.11.12-19.35.17:804][ 30]LogMaterial: Display: Missing cached shader map for material marron_001, compiling. 
+[2020.11.12-19.35.17:814][ 30]LogMaterial: Display: Material /Game/TEAMXX_ASSETS/traincar/Material_006.Material_006 needed to have new flag set bUsedWithStaticLighting !
+[2020.11.12-19.35.17:815][ 30]LogMaterial: Display: Missing cached shader map for material Material_006, compiling. 
+[2020.11.12-19.35.17:825][ 30]LogMaterial: Display: Material /Game/TEAMXX_ASSETS/traincar/METALCITO_LUCES.METALCITO_LUCES needed to have new flag set bUsedWithStaticLighting !
+[2020.11.12-19.35.17:826][ 30]LogMaterial: Display: Missing cached shader map for material METALCITO_LUCES, compiling. 
+[2020.11.12-19.35.17:836][ 30]LogMaterial: Display: Material /Game/TEAMXX_ASSETS/traincar/vidrio_luces.vidrio_luces needed to have new flag set bUsedWithStaticLighting !
+[2020.11.12-19.35.17:838][ 30]LogMaterial: Display: Missing cached shader map for material vidrio_luces, compiling. 
+[2020.11.12-19.35.17:848][ 30]LogMaterial: Display: Material /Game/TEAMXX_ASSETS/traincar/Material_000.Material_000 needed to have new flag set bUsedWithStaticLighting !
+[2020.11.12-19.35.17:849][ 30]LogMaterial: Display: Missing cached shader map for material Material_000, compiling. 
+[2020.11.12-19.35.17:858][ 30]LogMaterial: Display: Material /Game/TEAMXX_ASSETS/traincar/Material_001.Material_001 needed to have new flag set bUsedWithStaticLighting !
+[2020.11.12-19.35.17:859][ 30]LogMaterial: Display: Missing cached shader map for material Material_001, compiling. 
+[2020.11.12-19.35.17:869][ 30]LogMaterial: Display: Material /Game/TEAMXX_ASSETS/traincar/mapa_001.mapa_001 needed to have new flag set bUsedWithStaticLighting !
+[2020.11.12-19.35.17:870][ 30]LogMaterial: Display: Missing cached shader map for material mapa_001, compiling. 
+[2020.11.12-19.35.17:880][ 30]LogMaterial: Display: Material /Game/TEAMXX_ASSETS/traincar/metal_caja_001.metal_caja_001 needed to have new flag set bUsedWithStaticLighting !
+[2020.11.12-19.35.17:881][ 30]LogMaterial: Display: Missing cached shader map for material metal_caja_001, compiling. 
+[2020.11.12-19.35.17:891][ 30]LogMaterial: Display: Material /Game/TEAMXX_ASSETS/traincar/VIDRIO_000.VIDRIO_000 needed to have new flag set bUsedWithStaticLighting !
+[2020.11.12-19.35.17:891][ 30]LogMaterial: Display: Missing cached shader map for material VIDRIO_000, compiling. 
+[2020.11.12-19.35.17:911][ 30]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2020.11.12-19.35.17:945][ 30]LogStaticLightingSystem: Illumination: 25.0 sec (845 ms encoding lightmaps, 160 ms encoding shadowmaps)
+[2020.11.12-19.35.17:945][ 30]LogStaticLightingSystem: Lightmap texture memory:  10.0 MB (8.0 MB streaming, 2.0 MB non-streaming), 12 textures
+[2020.11.12-19.35.17:945][ 30]LogStaticLightingSystem: Shadowmap texture memory: 12.0 MB (10.7 MB streaming, 1.3 MB non-streaming), 4 textures
+[2020.11.12-19.35.18:321][ 30]DumpUnbuiltLightIteractions
+[2020.11.12-19.35.18:321][ 30]Lights with unbuilt interactions: 0
+[2020.11.12-19.35.18:321][ 30]
+[2020.11.12-19.35.18:321][ 30]Primitives with unbuilt interactions: 0
+[2020.11.12-19.35.46:880][ 30]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 480
+[2020.11.12-19.35.46:880][ 30]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 470
+[2020.11.12-19.35.46:880][ 30]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 460
+[2020.11.12-19.35.46:880][ 30]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 450
+[2020.11.12-19.35.46:880][ 30]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 440
+[2020.11.12-19.35.46:880][ 30]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 430
+[2020.11.12-19.35.46:880][ 30]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 420
+[2020.11.12-19.35.46:880][ 30]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 410
+[2020.11.12-19.35.46:880][ 30]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 400
+[2020.11.12-19.35.46:880][ 30]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 390
+[2020.11.12-19.35.46:880][ 30]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 380
+[2020.11.12-19.35.46:880][ 30]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 370
+[2020.11.12-19.35.46:880][ 30]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 360
+[2020.11.12-19.35.46:880][ 30]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 350
+[2020.11.12-19.35.46:880][ 30]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 340
+[2020.11.12-19.35.46:880][ 30]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 330
+[2020.11.12-19.35.46:880][ 30]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 320
+[2020.11.12-19.35.46:880][ 30]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 310
+[2020.11.12-19.35.46:880][ 30]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 300
+[2020.11.12-19.35.46:880][ 30]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 290
+[2020.11.12-19.35.46:880][ 30]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 280
+[2020.11.12-19.35.46:880][ 30]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 270
+[2020.11.12-19.35.46:880][ 30]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 260
+[2020.11.12-19.35.46:880][ 30]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 250
+[2020.11.12-19.35.46:880][ 30]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 240
+[2020.11.12-19.35.46:880][ 30]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 230
+[2020.11.12-19.35.46:880][ 30]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 220
+[2020.11.12-19.35.46:880][ 30]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 210
+[2020.11.12-19.35.46:880][ 30]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 200
+[2020.11.12-19.35.46:880][ 30]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 190
+[2020.11.12-19.35.46:880][ 30]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 180
+[2020.11.12-19.35.46:880][ 30]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 170
+[2020.11.12-19.35.46:880][ 30]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 160
+[2020.11.12-19.35.46:880][ 30]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 150
+[2020.11.12-19.35.46:880][ 30]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 140
+[2020.11.12-19.35.46:880][ 30]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 130
+[2020.11.12-19.35.46:880][ 30]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 120
+[2020.11.12-19.35.46:880][ 30]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 110
+[2020.11.12-19.35.46:880][ 30]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 100
+[2020.11.12-19.35.46:880][ 30]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 90
+[2020.11.12-19.35.46:880][ 30]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 80
+[2020.11.12-19.35.46:880][ 30]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 70
+[2020.11.12-19.35.46:880][ 30]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 60
+[2020.11.12-19.35.46:880][ 30]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 50
+[2020.11.12-19.35.46:880][ 30]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 40
+[2020.11.12-19.35.46:880][ 30]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 30
+[2020.11.12-19.35.46:880][ 30]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 22
+[2020.11.12-19.35.46:880][ 30]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 16
+[2020.11.12-19.35.46:880][ 30]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 11
+[2020.11.12-19.35.46:880][ 30]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 8
+[2020.11.12-19.35.46:880][ 30]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2020.11.12-19.35.46:880][ 30]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 3
+[2020.11.12-19.35.46:880][ 30]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2020.11.12-19.35.46:880][ 30]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2020.11.12-19.35.46:939][ 31]Cmd: MAP CHECK NOTIFYRESULTS
+[2020.11.12-19.35.46:939][ 31]MapCheck: New page: Subway - Nov 12, 2020, 9:35:46 AM
+[2020.11.12-19.35.47:408][ 31]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 468.273ms to complete.
+[2020.11.12-19.35.49:074][209]LogSlate: Window 'Message Log' being destroyed
+[2020.11.12-19.35.49:078][209]LogSlate: Window 'Message Log' being destroyed
+[2020.11.12-19.35.52:897][665]Cmd: DELETE
+[2020.11.12-19.35.52:897][665]Cmd: ACTOR DELETE
+[2020.11.12-19.35.52:902][665]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.11.12-19.35.52:903][665]LogEditorActor: Deleted Actor: RectLight
+[2020.11.12-19.35.52:913][665]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2020.11.12-19.35.52:915][665]LogEditorActor: Deleted 2 Actors (0.019 secs)
+[2020.11.12-19.35.53:699][758]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Light_14)
+[2020.11.12-19.35.53:901][780]Cmd: DELETE
+[2020.11.12-19.35.53:901][780]Cmd: ACTOR DELETE
+[2020.11.12-19.35.53:905][780]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.11.12-19.35.53:907][780]LogEditorActor: Deleted Actor: RectLight
+[2020.11.12-19.35.53:916][780]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2020.11.12-19.35.53:918][780]LogEditorActor: Deleted 2 Actors (0.017 secs)
+[2020.11.12-19.35.54:931][901]LogEditorViewport: Clicking on Actor (LMB): RectLight (ceilinglight2)
+[2020.11.12-19.35.55:090][918]Cmd: DELETE
+[2020.11.12-19.35.55:090][918]Cmd: ACTOR DELETE
+[2020.11.12-19.35.55:094][918]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.11.12-19.35.55:096][918]LogEditorActor: Deleted Actor: RectLight
+[2020.11.12-19.35.55:104][918]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2020.11.12-19.35.55:106][918]LogEditorActor: Deleted 2 Actors (0.016 secs)
+[2020.11.12-19.35.55:911][ 14]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Light_7)
+[2020.11.12-19.35.56:020][ 25]Cmd: DELETE
+[2020.11.12-19.35.56:020][ 25]Cmd: ACTOR DELETE
+[2020.11.12-19.35.56:025][ 25]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.11.12-19.35.56:026][ 25]LogEditorActor: Deleted Actor: RectLight
+[2020.11.12-19.35.56:035][ 25]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2020.11.12-19.35.56:036][ 25]LogEditorActor: Deleted 2 Actors (0.016 secs)
+[2020.11.12-19.35.56:565][ 88]LogEditorViewport: Clicking on Actor (LMB): RectLight (ceilinglight15)
+[2020.11.12-19.35.56:698][102]Cmd: DELETE
+[2020.11.12-19.35.56:698][102]Cmd: ACTOR DELETE
+[2020.11.12-19.35.56:703][102]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.11.12-19.35.56:704][102]LogEditorActor: Deleted Actor: RectLight
+[2020.11.12-19.35.56:713][102]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2020.11.12-19.35.56:714][102]LogEditorActor: Deleted 2 Actors (0.016 secs)
+[2020.11.12-19.35.59:580][445]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Light_10)
+[2020.11.12-19.35.59:846][475]Cmd: DELETE
+[2020.11.12-19.35.59:846][475]Cmd: ACTOR DELETE
+[2020.11.12-19.35.59:851][475]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.11.12-19.35.59:853][475]LogEditorActor: Deleted Actor: RectLight
+[2020.11.12-19.35.59:862][475]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2020.11.12-19.35.59:863][475]LogEditorActor: Deleted 2 Actors (0.016 secs)
+[2020.11.12-19.36.10:241][712]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.11.12-19.36.26:788][588]LogActorFactory: Actor Factory created Light_01
+[2020.11.12-19.36.28:057][729]LogActorFactory: Actor Factory created Light_01
+[2020.11.12-19.36.28:824][818]Cmd: DELETE
+[2020.11.12-19.36.28:824][818]Cmd: ACTOR DELETE
+[2020.11.12-19.36.28:829][818]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.11.12-19.36.28:837][818]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2020.11.12-19.36.28:840][818]LogEditorActor: Deleted 1 Actors (0.015 secs)
+[2020.11.12-19.37.23:274][218]LogSlate: Took 0.429069 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.11.12-19.37.24:076][313]Cmd: DELETE
+[2020.11.12-19.37.24:076][313]Cmd: ACTOR DELETE
+[2020.11.12-19.37.24:081][313]LogEditorActor: Deleted Actor: RectLight
+[2020.11.12-19.37.24:090][313]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2020.11.12-19.37.24:093][313]LogEditorActor: Deleted 1 Actors (0.016 secs)
+[2020.11.12-19.37.28:019][768]Cmd: DELETE
+[2020.11.12-19.37.28:019][768]Cmd: ACTOR DELETE
+[2020.11.12-19.37.28:023][768]LogEditorActor: Deleted Actor: SpotLight
+[2020.11.12-19.37.28:031][768]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2020.11.12-19.37.28:033][768]LogEditorActor: Deleted 1 Actors (0.015 secs)
+[2020.11.12-19.37.39:571][124]Cmd: DELETE
+[2020.11.12-19.37.39:571][124]Cmd: ACTOR DELETE
+[2020.11.12-19.37.39:575][124]LogEditorActor: Deleted Actor: PointLight
+[2020.11.12-19.37.39:585][124]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2020.11.12-19.37.39:587][124]LogEditorActor: Deleted 1 Actors (0.016 secs)
+[2020.11.12-19.37.59:945][523]MapCheck: New page: Map Check
+[2020.11.12-19.37.59:958][523]Cmd: MAP REBUILD ALLVISIBLE
+[2020.11.12-19.37.59:959][523]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2020.11.12-19.38.00:051][523]LogWorld: UWorld::CleanupWorld for Subway, bSessionEnded=true, bCleanupResources=false
+[2020.11.12-19.38.00:073][523]LightingResults: New page: Lighting Build - Nov 12, 2020, 9:38:00 AM
+[2020.11.12-19.38.00:078][523]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2020.11.12-19.38.00:080][523]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2020.11.12-19.38.00:080][523]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2020.11.12-19.38.00:081][523]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2020.11.12-19.38.00:081][523]LogSwarmInterface: [TryOpenConnection] Local Process ID is 9832
+[2020.11.12-19.38.04:673][523]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2020.11.12-19.38.04:674][523]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2020.11.12-19.38.04:674][523]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2020.11.12-19.38.04:674][523]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2020.11.12-19.38.04:674][523]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2020.11.12-19.38.04:674][523]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2020.11.12-19.38.04:766][523]LogEditorBuildUtils: Build time 0:04
+[2020.11.12-19.38.04:772][523]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer Material_013, compiling. 
+[2020.11.12-19.38.04:774][523]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer Material_013, compiling. 
+[2020.11.12-19.38.04:777][523]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer piso_003, compiling. 
+[2020.11.12-19.38.04:778][523]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer piso_003, compiling. 
+[2020.11.12-19.38.04:809][524]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 8
+[2020.11.12-19.38.04:809][524]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 5
+[2020.11.12-19.38.04:809][524]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2020.11.12-19.38.04:811][524]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer metal2_001, compiling. 
+[2020.11.12-19.38.04:813][524]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2
+[2020.11.12-19.38.04:813][524]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer metal2_001, compiling. 
+[2020.11.12-19.38.04:816][524]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer MetalStainlessSteelBrushedElongated005_3K_001, compiling. 
+[2020.11.12-19.38.04:818][524]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer MetalStainlessSteelBrushedElongated005_3K_001, compiling. 
+[2020.11.12-19.38.04:875][525]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer piso_002, compiling. 
+[2020.11.12-19.38.04:877][525]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer piso_002, compiling. 
+[2020.11.12-19.38.04:879][525]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer plastico_001, compiling. 
+[2020.11.12-19.38.04:881][525]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer plastico_001, compiling. 
+[2020.11.12-19.38.04:883][525]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer logo_subte_001, compiling. 
+[2020.11.12-19.38.04:885][525]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer logo_subte_001, compiling. 
+[2020.11.12-19.38.04:928][526]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer cartel_001, compiling. 
+[2020.11.12-19.38.04:930][526]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer cartel_001, compiling. 
+[2020.11.12-19.38.04:932][526]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer metal_tubos_001, compiling. 
+[2020.11.12-19.38.04:934][526]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer metal_tubos_001, compiling. 
+[2020.11.12-19.38.04:937][526]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer Material_007, compiling. 
+[2020.11.12-19.38.04:939][526]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer Material_007, compiling. 
+[2020.11.12-19.38.04:977][527]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer Knittr_-_Example_3_001, compiling. 
+[2020.11.12-19.38.04:980][527]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer Knittr_-_Example_3_001, compiling. 
+[2020.11.12-19.38.04:982][527]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer GOMA_000, compiling. 
+[2020.11.12-19.38.04:985][527]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer GOMA_000, compiling. 
+[2020.11.12-19.38.05:029][528]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer marron_001, compiling. 
+[2020.11.12-19.38.05:032][528]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer marron_001, compiling. 
+[2020.11.12-19.38.05:034][528]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer Material_006, compiling. 
+[2020.11.12-19.38.05:037][528]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer Material_006, compiling. 
+[2020.11.12-19.38.05:076][529]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer METALCITO_LUCES, compiling. 
+[2020.11.12-19.38.05:078][529]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer METALCITO_LUCES, compiling. 
+[2020.11.12-19.38.05:080][529]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer vidrio_luces, compiling. 
+[2020.11.12-19.38.05:083][529]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer vidrio_luces, compiling. 
+[2020.11.12-19.38.05:085][529]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer Material_000, compiling. 
+[2020.11.12-19.38.05:087][529]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer Material_000, compiling. 
+[2020.11.12-19.38.05:124][530]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer Material_001, compiling. 
+[2020.11.12-19.38.05:127][530]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer Material_001, compiling. 
+[2020.11.12-19.38.05:129][530]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer mapa_001, compiling. 
+[2020.11.12-19.38.05:131][530]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer mapa_001, compiling. 
+[2020.11.12-19.38.05:133][530]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer metal_caja_001, compiling. 
+[2020.11.12-19.38.05:135][530]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer metal_caja_001, compiling. 
+[2020.11.12-19.38.05:173][530]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 69
+[2020.11.12-19.38.05:179][531]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer VIDRIO_000, compiling. 
+[2020.11.12-19.38.05:181][531]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer VIDRIO_000, compiling. 
+[2020.11.12-19.38.09:540][531]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 65
+[2020.11.12-19.38.09:540][531]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 55
+[2020.11.12-19.38.09:540][531]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 45
+[2020.11.12-19.38.09:541][531]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 35
+[2020.11.12-19.38.09:541][531]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 26
+[2020.11.12-19.38.09:541][531]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 19
+[2020.11.12-19.38.09:541][531]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 14
+[2020.11.12-19.38.09:541][531]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 10
+[2020.11.12-19.38.09:541][531]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 7
+[2020.11.12-19.38.09:541][531]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2020.11.12-19.38.09:541][531]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3
+[2020.11.12-19.38.09:541][531]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2
+[2020.11.12-19.38.09:541][531]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2020.11.12-19.38.09:901][547]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2020.11.12-19.38.20:356][477]Job is a success!
+[2020.11.12-19.38.20:541][478]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.006s
+[2020.11.12-19.38.20:541][478]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2020.11.12-19.38.20:541][478]LogVolumetricLightmapImport:      BrickData (all levels) 0.1Mb (trimmed 0.3Mb due to 0.010000 MinBrickError)
+[2020.11.12-19.38.20:541][478]LogVolumetricLightmapImport:      Bricks at depth
+[2020.11.12-19.38.20:541][478]LogVolumetricLightmapImport:          0: 4.8% covering 100.0% of volume
+[2020.11.12-19.38.20:541][478]LogVolumetricLightmapImport:          1: 19.0% covering 6.3% of volume
+[2020.11.12-19.38.20:541][478]LogVolumetricLightmapImport:          2: 76.2% covering 0.4% of volume
+[2020.11.12-19.38.20:541][478]LogVolumetricLightmapImport:      Bricks in each level
+[2020.11.12-19.38.20:541][478]LogVolumetricLightmapImport:          Subway 			 21 bricks 	 100.0% (Persistent Level)
+[2020.11.12-19.38.21:130][478]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 1024X1024)
+[2020.11.12-19.38.21:130][478]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 1024X1024)
+[2020.11.12-19.38.21:130][478]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 1024X1024)
+[2020.11.12-19.38.21:130][478]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 1024X1024)
+[2020.11.12-19.38.21:130][478]LogTexture: Display: Building textures: HQ_Lightmap1_3 (AutoDXT, 1024X1024)
+[2020.11.12-19.38.21:130][478]LogTexture: Display: Building textures: LQ_Lightmap_1_3 (DXT1, 1024X1024)
+[2020.11.12-19.38.21:130][478]LogTexture: Display: Building textures: HQ_Lightmap1_4 (AutoDXT, 1024X1024)
+[2020.11.12-19.38.21:130][478]LogTexture: Display: Building textures: LQ_Lightmap_1_4 (DXT1, 1024X1024)
+[2020.11.12-19.38.21:130][478]LogTexture: Display: Building textures: HQ_Lightmap1_5 (AutoDXT, 1024X1024)
+[2020.11.12-19.38.21:130][478]LogTexture: Display: Building textures: LQ_Lightmap_1_5 (DXT1, 1024X1024)
+[2020.11.12-19.38.21:130][478]LogTexture: Display: Building textures: HQ_Lightmap1_6 (AutoDXT, 64X64)
+[2020.11.12-19.38.21:130][478]LogTexture: Display: Building textures: LQ_Lightmap_1_6 (DXT1, 64X64)
+[2020.11.12-19.38.21:199][478]LogTexture: Display: Building textures: ShadowMapTexture2D_6 (G8, 32X32)
+[2020.11.12-19.38.21:199][478]LogTexture: Display: Building textures: ShadowMapTexture2D_5 (BGRA8, 512X64)
+[2020.11.12-19.38.21:199][478]LogTexture: Display: Building textures: ShadowMapTexture2D_4 (BGRA8, 512X512)
+[2020.11.12-19.38.21:200][478]LogStaticLightingSystem: Subway_BuiltData storing lightmap data for 52 meshes in 7 LightmapResourceClusters (7.4 Meshes per cluster).
+[2020.11.12-19.38.21:210][478]Lightmass on DESKTOP-4J7KU4N: 10.9 sec total, 300 ms importing, 90 ms setup, 2.50 sec photons, 8.00 sec processing, 0 ms extra exporting [211/211 mappings]. Threads: 56.0 sec total, 21.5 sec processing.
+[2020.11.12-19.38.21:212][478]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2020.11.12-19.38.21:242][478]LogStaticLightingSystem: Illumination: 21.1 sec (487 ms encoding lightmaps, 40 ms encoding shadowmaps)
+[2020.11.12-19.38.21:242][478]LogStaticLightingSystem: Lightmap texture memory:  10.0 MB (8.0 MB streaming, 2.0 MB non-streaming), 12 textures
+[2020.11.12-19.38.21:242][478]LogStaticLightingSystem: Shadowmap texture memory: 1.5 MB (0.2 MB streaming, 1.3 MB non-streaming), 3 textures
+[2020.11.12-19.38.21:686][478]DumpUnbuiltLightIteractions
+[2020.11.12-19.38.21:686][478]Lights with unbuilt interactions: 0
+[2020.11.12-19.38.21:686][478]
+[2020.11.12-19.38.21:686][478]Primitives with unbuilt interactions: 0
+[2020.11.12-19.38.21:751][479]Cmd: MAP CHECK NOTIFYRESULTS
+[2020.11.12-19.38.21:752][479]MapCheck: New page: Subway - Nov 12, 2020, 9:38:21 AM
+[2020.11.12-19.38.21:752][479]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.42ms to complete.
+[2020.11.12-19.38.47:649][572]Cmd: DELETE
+[2020.11.12-19.38.47:649][572]Cmd: ACTOR DELETE
+[2020.11.12-19.38.47:654][572]LogEditorActor: Deleted Actor: RectLight
+[2020.11.12-19.38.47:663][572]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2020.11.12-19.38.47:665][572]LogEditorActor: Deleted 1 Actors (0.016 secs)
+[2020.11.12-19.38.53:739][297]Cmd: TRANSACTION UNDO
+[2020.11.12-19.38.53:739][297]LogEditorTransaction: Undo Set Actor Visibility
+[2020.11.12-19.38.54:213][309]Cmd: TRANSACTION UNDO
+[2020.11.12-19.38.54:213][309]LogEditorTransaction: Undo Delete Actors
+[2020.11.12-19.38.54:613][351]Cmd: TRANSACTION UNDO
+[2020.11.12-19.38.54:613][351]LogEditorTransaction: Undo Create Actors
+[2020.11.12-19.39.13:778][629]Cmd: DELETE
+[2020.11.12-19.39.13:778][629]Cmd: ACTOR DELETE
+[2020.11.12-19.39.13:782][629]LogEditorActor: Deleted Actor: PointLight
+[2020.11.12-19.39.13:791][629]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2020.11.12-19.39.13:793][629]LogEditorActor: Deleted 1 Actors (0.016 secs)
+[2020.11.12-19.39.44:152][213]Cmd: TRANSACTION UNDO
+[2020.11.12-19.39.44:152][213]LogEditorTransaction: Undo Edit Attenuation Radius
+[2020.11.12-19.39.44:438][221]Cmd: TRANSACTION UNDO
+[2020.11.12-19.39.44:438][221]LogEditorTransaction: Undo Rotate Actors
+[2020.11.12-19.39.44:669][227]Cmd: TRANSACTION UNDO
+[2020.11.12-19.39.44:669][227]LogEditorTransaction: Undo Create Actors
+[2020.11.12-19.39.44:860][243]Cmd: TRANSACTION UNDO
+[2020.11.12-19.39.44:860][243]LogEditorTransaction: Undo Delete Actors
+[2020.11.12-19.39.45:059][262]Cmd: TRANSACTION UNDO
+[2020.11.12-19.39.45:059][262]LogEditorTransaction: Undo Move Actors
+[2020.11.12-19.39.45:272][287]Cmd: TRANSACTION UNDO
+[2020.11.12-19.39.45:272][287]LogEditorTransaction: Undo Create Actors
+[2020.11.12-19.39.51:018][964]Cmd: TRANSACTION UNDO
+[2020.11.12-19.39.51:018][964]LogEditorTransaction: Undo Set Actor Visibility
+[2020.11.12-19.40.38:988][575]Cmd: DUPLICATE
+[2020.11.12-19.40.38:988][575]Cmd: ACTOR DUPLICATE
+[2020.11.12-19.40.40:607][765]Cmd: TRANSACTION UNDO
+[2020.11.12-19.40.40:607][765]LogEditorTransaction: Undo Move Actors
+[2020.11.12-19.40.47:356][515]Cmd: DUPLICATE
+[2020.11.12-19.40.47:356][515]Cmd: ACTOR DUPLICATE
+[2020.11.12-19.40.52:306][104]Cmd: DUPLICATE
+[2020.11.12-19.40.52:306][104]Cmd: ACTOR DUPLICATE
+[2020.11.12-19.41.01:234][168]LogEditorViewport: Clicking on Actor (LMB): RectLight (RectLight4)
+[2020.11.12-19.41.06:184][753]Cmd: DUPLICATE
+[2020.11.12-19.41.06:184][753]Cmd: ACTOR DUPLICATE
+[2020.11.12-19.41.33:917][ 50]LogEditorViewport: Clicking on Actor (LMB): RectLight (RectLight5)
+[2020.11.12-19.41.34:593][128]LogEditorViewport: Clicking on Actor (CTRL LMB): RectLight (RectLight3)
+[2020.11.12-19.41.36:335][333]Cmd: DUPLICATE
+[2020.11.12-19.41.36:335][333]Cmd: ACTOR DUPLICATE
+[2020.11.12-19.41.45:190][386]Cmd: TRANSACTION UNDO
+[2020.11.12-19.41.45:190][386]LogEditorTransaction: Undo Move Actors
+[2020.11.12-19.41.56:020][604]MapCheck: New page: Map Check
+[2020.11.12-19.41.56:033][604]Cmd: MAP REBUILD ALLVISIBLE
+[2020.11.12-19.41.56:034][604]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2020.11.12-19.41.56:126][604]LogWorld: UWorld::CleanupWorld for Subway, bSessionEnded=true, bCleanupResources=false
+[2020.11.12-19.41.56:148][604]LightingResults: New page: Lighting Build - Nov 12, 2020, 9:41:56 AM
+[2020.11.12-19.41.56:157][604]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2020.11.12-19.41.56:159][604]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2020.11.12-19.41.56:159][604]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2020.11.12-19.41.56:159][604]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2020.11.12-19.41.56:159][604]LogSwarmInterface: [TryOpenConnection] Local Process ID is 9832
+[2020.11.12-19.42.00:678][604]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2020.11.12-19.42.00:679][604]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2020.11.12-19.42.00:679][604]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2020.11.12-19.42.00:679][604]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2020.11.12-19.42.00:679][604]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2020.11.12-19.42.00:679][604]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2020.11.12-19.42.00:781][604]LogEditorBuildUtils: Build time 0:04
+[2020.11.12-19.42.00:926][606]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2020.11.12-19.42.11:811][556]Job is a success!
+[2020.11.12-19.42.11:981][557]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.008s
+[2020.11.12-19.42.11:981][557]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2020.11.12-19.42.11:981][557]LogVolumetricLightmapImport:      BrickData (all levels) 0.2Mb (trimmed 0.2Mb due to 0.010000 MinBrickError)
+[2020.11.12-19.42.11:981][557]LogVolumetricLightmapImport:      Bricks at depth
+[2020.11.12-19.42.11:981][557]LogVolumetricLightmapImport:          0: 1.9% covering 100.0% of volume
+[2020.11.12-19.42.11:981][557]LogVolumetricLightmapImport:          1: 9.3% covering 7.8% of volume
+[2020.11.12-19.42.11:981][557]LogVolumetricLightmapImport:          2: 88.9% covering 1.2% of volume
+[2020.11.12-19.42.11:981][557]LogVolumetricLightmapImport:      Bricks in each level
+[2020.11.12-19.42.11:981][557]LogVolumetricLightmapImport:          Subway 			 54 bricks 	 100.0% (Persistent Level)
+[2020.11.12-19.42.12:988][557]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 1024X1024)
+[2020.11.12-19.42.12:988][557]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 1024X1024)
+[2020.11.12-19.42.12:988][557]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 1024X1024)
+[2020.11.12-19.42.12:988][557]LogTexture: Display: Building textures: HQ_Lightmap0_3 (AutoDXT, 1024X1024)
+[2020.11.12-19.42.12:988][557]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 1024X1024)
+[2020.11.12-19.42.12:988][557]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (DXT1, 1024X1024)
+[2020.11.12-19.42.12:988][557]LogTexture: Display: Building textures: HQ_Lightmap0_4 (AutoDXT, 1024X1024)
+[2020.11.12-19.42.12:988][557]LogTexture: Display: Building textures: LQ_Lightmap_0_4 (DXT1, 1024X1024)
+[2020.11.12-19.42.12:988][557]LogTexture: Display: Building textures: HQ_Lightmap0_5 (AutoDXT, 1024X1024)
+[2020.11.12-19.42.12:988][557]LogTexture: Display: Building textures: LQ_Lightmap_0_5 (DXT1, 1024X1024)
+[2020.11.12-19.42.12:988][557]LogTexture: Display: Building textures: HQ_Lightmap0_6 (AutoDXT, 64X64)
+[2020.11.12-19.42.12:988][557]LogTexture: Display: Building textures: LQ_Lightmap_0_6 (DXT1, 64X64)
+[2020.11.12-19.42.13:055][557]LogTexture: Display: Building textures: ShadowMapTexture2D_9 (G8, 32X32)
+[2020.11.12-19.42.13:055][557]LogTexture: Display: Building textures: ShadowMapTexture2D_8 (BGRA8, 512X64)
+[2020.11.12-19.42.13:055][557]LogTexture: Display: Building textures: ShadowMapTexture2D_7 (BGRA8, 512X512)
+[2020.11.12-19.42.13:056][557]LogStaticLightingSystem: Subway_BuiltData storing lightmap data for 52 meshes in 7 LightmapResourceClusters (7.4 Meshes per cluster).
+[2020.11.12-19.42.13:058][557]Lightmass on DESKTOP-4J7KU4N: 11.7 sec total, 298 ms importing, 86 ms setup, 2.75 sec photons, 8.59 sec processing, 0 ms extra exporting [211/211 mappings]. Threads: 1:00 min total, 30.9 sec processing.
+[2020.11.12-19.42.13:068][557]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2020.11.12-19.42.13:092][557]LogStaticLightingSystem: Illumination: 16.9 sec (847 ms encoding lightmaps, 38 ms encoding shadowmaps)
+[2020.11.12-19.42.13:092][557]LogStaticLightingSystem: Lightmap texture memory:  10.0 MB (8.0 MB streaming, 2.0 MB non-streaming), 12 textures
+[2020.11.12-19.42.13:092][557]LogStaticLightingSystem: Shadowmap texture memory: 1.5 MB (0.2 MB streaming, 1.3 MB non-streaming), 3 textures
+[2020.11.12-19.42.13:688][557]DumpUnbuiltLightIteractions
+[2020.11.12-19.42.13:688][557]Lights with unbuilt interactions: 0
+[2020.11.12-19.42.13:688][557]
+[2020.11.12-19.42.13:688][557]Primitives with unbuilt interactions: 0
+[2020.11.12-19.42.13:772][558]Cmd: MAP CHECK NOTIFYRESULTS
+[2020.11.12-19.42.13:772][558]MapCheck: New page: Subway - Nov 12, 2020, 9:42:13 AM
+[2020.11.12-19.42.13:772][558]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.379ms to complete.
+[2020.11.12-19.42.21:731][510]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.11.12-19.43.24:262][734]MapCheck: New page: Map Check
+[2020.11.12-19.43.24:276][734]Cmd: MAP REBUILD ALLVISIBLE
+[2020.11.12-19.43.24:276][734]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2020.11.12-19.43.24:368][734]LogWorld: UWorld::CleanupWorld for Subway, bSessionEnded=true, bCleanupResources=false
+[2020.11.12-19.43.24:391][734]LightingResults: New page: Lighting Build - Nov 12, 2020, 9:43:24 AM
+[2020.11.12-19.43.24:397][734]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2020.11.12-19.43.24:398][734]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2020.11.12-19.43.24:398][734]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2020.11.12-19.43.24:399][734]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2020.11.12-19.43.24:399][734]LogSwarmInterface: [TryOpenConnection] Local Process ID is 9832
+[2020.11.12-19.43.28:913][734]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2020.11.12-19.43.28:914][734]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2020.11.12-19.43.28:914][734]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2020.11.12-19.43.28:914][734]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2020.11.12-19.43.28:914][734]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2020.11.12-19.43.28:914][734]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2020.11.12-19.43.28:993][734]LogEditorBuildUtils: Build time 0:04
+[2020.11.12-19.43.29:150][736]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2020.11.12-19.43.39:692][656]Job is a success!
+[2020.11.12-19.43.39:856][657]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.008s
+[2020.11.12-19.43.39:856][657]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2020.11.12-19.43.39:856][657]LogVolumetricLightmapImport:      BrickData (all levels) 0.3Mb (trimmed 0.2Mb due to 0.010000 MinBrickError)
+[2020.11.12-19.43.39:856][657]LogVolumetricLightmapImport:      Bricks at depth
+[2020.11.12-19.43.39:856][657]LogVolumetricLightmapImport:          0: 1.7% covering 100.0% of volume
+[2020.11.12-19.43.39:856][657]LogVolumetricLightmapImport:          1: 8.3% covering 7.8% of volume
+[2020.11.12-19.43.39:856][657]LogVolumetricLightmapImport:          2: 90.0% covering 1.3% of volume
+[2020.11.12-19.43.39:856][657]LogVolumetricLightmapImport:      Bricks in each level
+[2020.11.12-19.43.39:856][657]LogVolumetricLightmapImport:          Subway 			 60 bricks 	 100.0% (Persistent Level)
+[2020.11.12-19.43.40:772][657]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 1024X1024)
+[2020.11.12-19.43.40:772][657]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 1024X1024)
+[2020.11.12-19.43.40:772][657]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 1024X1024)
+[2020.11.12-19.43.40:772][657]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 1024X1024)
+[2020.11.12-19.43.40:772][657]LogTexture: Display: Building textures: HQ_Lightmap1_3 (AutoDXT, 1024X1024)
+[2020.11.12-19.43.40:772][657]LogTexture: Display: Building textures: LQ_Lightmap_1_3 (DXT1, 1024X1024)
+[2020.11.12-19.43.40:772][657]LogTexture: Display: Building textures: HQ_Lightmap1_4 (AutoDXT, 1024X1024)
+[2020.11.12-19.43.40:772][657]LogTexture: Display: Building textures: LQ_Lightmap_1_4 (DXT1, 1024X1024)
+[2020.11.12-19.43.40:772][657]LogTexture: Display: Building textures: HQ_Lightmap1_5 (AutoDXT, 1024X1024)
+[2020.11.12-19.43.40:772][657]LogTexture: Display: Building textures: LQ_Lightmap_1_5 (DXT1, 1024X1024)
+[2020.11.12-19.43.40:772][657]LogTexture: Display: Building textures: HQ_Lightmap1_6 (AutoDXT, 64X64)
+[2020.11.12-19.43.40:772][657]LogTexture: Display: Building textures: LQ_Lightmap_1_6 (DXT1, 64X64)
+[2020.11.12-19.43.40:849][657]LogTexture: Display: Building textures: ShadowMapTexture2D_12 (G8, 32X32)
+[2020.11.12-19.43.40:849][657]LogTexture: Display: Building textures: ShadowMapTexture2D_11 (BGRA8, 512X64)
+[2020.11.12-19.43.40:849][657]LogTexture: Display: Building textures: ShadowMapTexture2D_10 (BGRA8, 512X512)
+[2020.11.12-19.43.40:850][657]LogStaticLightingSystem: Subway_BuiltData storing lightmap data for 52 meshes in 7 LightmapResourceClusters (7.4 Meshes per cluster).
+[2020.11.12-19.43.40:862][657]Lightmass on DESKTOP-4J7KU4N: 11.3 sec total, 298 ms importing, 88 ms setup, 2.72 sec photons, 8.17 sec processing, 0 ms extra exporting [211/211 mappings]. Threads: 57.2 sec total, 29.6 sec processing.
+[2020.11.12-19.43.40:863][657]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2020.11.12-19.43.40:888][657]LogStaticLightingSystem: Illumination: 16.4 sec (800 ms encoding lightmaps, 40 ms encoding shadowmaps)
+[2020.11.12-19.43.40:888][657]LogStaticLightingSystem: Lightmap texture memory:  10.0 MB (8.0 MB streaming, 2.0 MB non-streaming), 12 textures
+[2020.11.12-19.43.40:888][657]LogStaticLightingSystem: Shadowmap texture memory: 1.5 MB (0.2 MB streaming, 1.3 MB non-streaming), 3 textures
+[2020.11.12-19.43.40:923][657]DumpUnbuiltLightIteractions
+[2020.11.12-19.43.40:923][657]Lights with unbuilt interactions: 0
+[2020.11.12-19.43.40:923][657]
+[2020.11.12-19.43.40:923][657]Primitives with unbuilt interactions: 0
+[2020.11.12-19.43.40:995][658]Cmd: MAP CHECK NOTIFYRESULTS
+[2020.11.12-19.43.40:995][658]MapCheck: New page: Subway - Nov 12, 2020, 9:43:40 AM
+[2020.11.12-19.43.40:995][658]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.406ms to complete.
+[2020.11.12-19.45.15:966][849]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (traincar)
+[2020.11.12-19.45.25:076][922]LogEditorViewport: Clicking on Actor (LMB): RectLight (RectLight7)
+[2020.11.12-19.45.40:140][715]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (i want this floor but am too lazy to place it rn)
+[2020.11.12-19.46.01:476][248]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Subway" FILE="../../../../../../Unreal Projects/Trash_King/TrashKingProto_2_0/Content/Levels/Subway.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.11.12-19.46.01:486][248]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2020.11.12-19.46.01:536][248]LogSavePackage: Moving '../../../../../../Unreal Projects/Trash_King/TrashKingProto_2_0/Saved/Subway4FF8B2224011F161A467A7919A7B7391.tmp' to '../../../../../../Unreal Projects/Trash_King/TrashKingProto_2_0/Content/Levels/Subway.umap'
+[2020.11.12-19.46.01:627][248]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Subway_BuiltData" FILE="../../../../../../Unreal Projects/Trash_King/TrashKingProto_2_0/Content/Levels/Subway_BuiltData.uasset" SILENT=true
+[2020.11.12-19.46.01:772][248]LogSavePackage: Moving '../../../../../../Unreal Projects/Trash_King/TrashKingProto_2_0/Saved/Subway_BuiltData02120C36462D1C1574A131B155EC77E0.tmp' to '../../../../../../Unreal Projects/Trash_King/TrashKingProto_2_0/Content/Levels/Subway_BuiltData.uasset'
+[2020.11.12-19.46.01:780][248]AssetCheck: New page: Asset Save: multiple assets
+[2020.11.12-19.46.01:780][248]LogContentValidation: Display: Validating World /Game/Levels/Subway.Subway
+[2020.11.12-19.46.01:780][248]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/Subway_BuiltData.Subway_BuiltData
