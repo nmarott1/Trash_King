@@ -3,6 +3,12 @@
 	"EngineAssociation": "4.25",
 	"Category": "",
 	"Description": "",
+	"Plugins": [
+		{
+			"Name": "HoudiniEngine",
+			"Enabled": true
+		}
+	],
 	"TargetPlatforms": [
 		"WindowsNoEditor"
 	]
