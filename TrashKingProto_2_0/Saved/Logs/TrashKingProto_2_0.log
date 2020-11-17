@@ -1434,3 +1434,907 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.11.17-20.12.33:772][402]EditorErrors: New page: Actor Reattachment
 [2020.11.17-20.12.33:788][402]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
 [2020.11.17-20.12.45:754][737]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Prop_Door_02)
+[2020.11.17-20.15.05:938][503]LogTemp: Repeating last play command: Selected Viewport
+[2020.11.17-20.15.05:956][503]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.11.17-20.15.05:956][503]PIE: New page: PIE session: Subway (Nov 17, 2020, 10:15:05 AM)
+[2020.11.17-20.15.05:956][503]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Subway
+[2020.11.17-20.15.05:964][503]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007944s)
+[2020.11.17-20.15.05:965][503]LogAIModule: Creating AISystem for world Subway
+[2020.11.17-20.15.05:965][503]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000020D468DC800), frame # 253503
+[2020.11.17-20.15.05:965][503]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000020D313A16C0), frame # 253503
+[2020.11.17-20.15.05:965][503]LogPlayLevel: PIE: World Init took: (0.000916s)
+[2020.11.17-20.15.05:965][503]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Subway.Subway to /Game/Levels/UEDPIE_0_Subway.Subway (0.008971s)
+[2020.11.17-20.15.05:981][503]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2020.11.17-20.15.05:993][503]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.11.17-20.15.05:993][503]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.11.17-20.15.05:993][503]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.11.17-20.15.05:993][503]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.11.17-20.15.05:993][503]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.11.17-20.15.05:993][503]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.11.17-20.15.05:993][503]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.11.17-20.15.05:993][503]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.11.17-20.15.05:993][503]LogAudio: Display: Using built-in audio occlusion.
+[2020.11.17-20.15.05:993][503]LogAudioMixer: Display: Initializing audio mixer.
+[2020.11.17-20.15.06:013][503]LogAudioMixer: Display: 0: FrontLeft
+[2020.11.17-20.15.06:013][503]LogAudioMixer: Display: 1: FrontRight
+[2020.11.17-20.15.06:026][503]LogAudioMixer: Display: Using Audio Device Speakers (2- USB Audio Device)
+[2020.11.17-20.15.06:026][503]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.11.17-20.15.06:026][503]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.11.17-20.15.06:026][503]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.11.17-20.15.06:026][503]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.11.17-20.15.06:038][503]LogInit: FAudioDevice initialized.
+[2020.11.17-20.15.06:048][503]LogLoad: Game class is 'TrashKingBase_C'
+[2020.11.17-20.15.06:052][503]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Subway.Subway up for play (max tick rate 0) at 2020.11.17-15.15.06
+[2020.11.17-20.15.06:052][503]LogWorld: Bringing up level for play took: 0.003672
+[2020.11.17-20.15.06:052][503]LogOnline: OSS: Creating online subsystem instance for: :Context_38
+[2020.11.17-20.15.06:054][503]PIE: Server logged in
+[2020.11.17-20.15.06:055][503]PIE: Play in editor total start time 0.099 seconds.
+[2020.11.17-20.15.06:623][569]LogScript: Warning: Accessed None trying to read property CallFunc_GetAISensoryManager_AISensoryManagerActorRef
+	BPC_StimulusGenerator_C /Game/Levels/UEDPIE_0_Subway.Subway:PersistentLevel.SH_RacoonCharacter_PleaseWork_C_0.StimulusGenerator
+	Function /Game/TopDownStealthToolkit/Blueprints/AI/StimulusControl/BPC_StimulusGenerator.BPC_StimulusGenerator_C:HandleInterestStimulusRegistration:0050
+[2020.11.17-20.15.06:623][569]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetAISensoryManager_AISensoryManagerActorRef". Blueprint:  BPC_StimulusGenerator Function:  Handle Interest Stimulus Registration Graph:  HandleInterestStimulusRegistration Node:  Register New Interest
+[2020.11.17-20.15.06:720][580]LogScript: Warning: Accessed None trying to read property CallFunc_GetAISensoryManager_AISensoryManagerActorRef
+	BPC_StimulusGenerator_C /Game/Levels/UEDPIE_0_Subway.Subway:PersistentLevel.SH_RacoonCharacter_PleaseWork_C_0.StimulusGenerator
+	Function /Game/TopDownStealthToolkit/Blueprints/AI/StimulusControl/BPC_StimulusGenerator.BPC_StimulusGenerator_C:HandleInterestStimulusDataUpdates:003C
+[2020.11.17-20.15.06:720][580]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetAISensoryManager_AISensoryManagerActorRef". Blueprint:  BPC_StimulusGenerator Function:  Handle Interest Stimulus Data Updates Graph:  HandleInterestStimulusDataUpdates Node:  Update Interest Stimulus Data
+[2020.11.17-20.15.06:746][583]LogScript: Warning: Accessed None trying to read property EquippedItemDataContainer
+	BPC_EquipmentController_C /Game/Levels/UEDPIE_0_Subway.Subway:PersistentLevel.SH_RacoonCharacter_PleaseWork_C_0.EquipmentController
+	Function /Game/TopDownStealthToolkit/Blueprints/Player/Equipment/BPC_EquipmentController.BPC_EquipmentController_C:ExecuteUbergraph_BPC_EquipmentController:0CB5
+[2020.11.17-20.15.06:746][583]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EquippedItemDataContainer". Blueprint:  BPC_EquipmentController Function:  Execute Ubergraph BPC Equipment Controller Graph:  EventGraph Node:  Switch on EEquipmentDeploymentMode
+[2020.11.17-20.15.06:746][583]LogScript: Warning: Accessed None trying to read property EquippedItemDataContainer
+	BPC_EquipmentController_C /Game/Levels/UEDPIE_0_Subway.Subway:PersistentLevel.SH_RacoonCharacter_PleaseWork_C_0.EquipmentController
+	Function /Game/TopDownStealthToolkit/Blueprints/Player/Equipment/BPC_EquipmentController.BPC_EquipmentController_C:ExecuteUbergraph_BPC_EquipmentController:0F26
+[2020.11.17-20.15.06:746][583]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EquippedItemDataContainer". Blueprint:  BPC_EquipmentController Function:  Execute Ubergraph BPC Equipment Controller Graph:  EventGraph Node:  SpawnActor
+[2020.11.17-20.15.06:746][583]LogScript: Warning: UGameplayStatics::BeginSpawningActorFromClass: can not spawn an actor from a NULL class
+[2020.11.17-20.15.06:746][583]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EquippedItemDataContainer". Blueprint:  BPC_EquipmentController Function:  Execute Ubergraph BPC Equipment Controller Graph:  EventGraph Node:  Decrement Inventory Count
+[2020.11.17-20.15.08:245][763]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EquippedItemDataContainer". Blueprint:  BPC_EquipmentController Function:  Execute Ubergraph BPC Equipment Controller Graph:  EventGraph Node:  Switch on EEquipmentDeploymentMode
+[2020.11.17-20.15.08:245][763]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EquippedItemDataContainer". Blueprint:  BPC_EquipmentController Function:  Execute Ubergraph BPC Equipment Controller Graph:  EventGraph Node:  SpawnActor
+[2020.11.17-20.15.08:245][763]LogScript: Warning: UGameplayStatics::BeginSpawningActorFromClass: can not spawn an actor from a NULL class
+[2020.11.17-20.15.08:245][763]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EquippedItemDataContainer". Blueprint:  BPC_EquipmentController Function:  Execute Ubergraph BPC Equipment Controller Graph:  EventGraph Node:  Decrement Inventory Count
+[2020.11.17-20.15.13:522][392]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.17-20.15.13:522][392]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Subway
+[2020.11.17-20.15.13:522][392]LogScript: Warning: Accessed None trying to read property CallFunc_GetAISensoryManager_AISensoryManagerActorRef
+	BPC_StimulusGenerator_C /Game/Levels/UEDPIE_0_Subway.Subway:PersistentLevel.SH_RacoonCharacter_PleaseWork_C_0.StimulusGenerator
+	Function /Game/TopDownStealthToolkit/Blueprints/AI/StimulusControl/BPC_StimulusGenerator.BPC_StimulusGenerator_C:HandleTargetStimulusDeactivation:0056
+[2020.11.17-20.15.13:522][392]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetAISensoryManager_AISensoryManagerActorRef". Blueprint:  BPC_StimulusGenerator Function:  Handle Target Stimulus Deactivation Graph:  HandleTargetStimulusDeactivation Node:  Deactivate Target Stimulus
+[2020.11.17-20.15.13:522][392]LogScript: Warning: Accessed None trying to read property CallFunc_GetAISensoryManager_AISensoryManagerActorRef
+	BPC_StimulusGenerator_C /Game/Levels/UEDPIE_0_Subway.Subway:PersistentLevel.SH_RacoonCharacter_PleaseWork_C_0.StimulusGenerator
+	Function /Game/TopDownStealthToolkit/Blueprints/AI/StimulusControl/BPC_StimulusGenerator.BPC_StimulusGenerator_C:HandleInterestStimulusDeactivation:00D7
+[2020.11.17-20.15.13:522][392]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetAISensoryManager_AISensoryManagerActorRef". Blueprint:  BPC_StimulusGenerator Function:  Handle Interest Stimulus Deactivation Graph:  HandleInterestStimulusDeactivation Node:  Deactivate Interest Stimulus
+[2020.11.17-20.15.13:522][392]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetAISensoryManager_AISensoryManagerActorRef". Blueprint:  BPC_StimulusGenerator Function:  Handle Interest Stimulus Deactivation Graph:  HandleInterestStimulusDeactivation Node:  Deactivate Interest Stimulus
+[2020.11.17-20.15.13:522][392]LogWorld: UWorld::CleanupWorld for Subway, bSessionEnded=true, bCleanupResources=true
+[2020.11.17-20.15.13:523][392]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.17-20.15.13:530][392]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.11.17-20.15.13:533][392]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.17-20.15.13:548][392]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.17-20.15.13:563][392]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000020D313A16C0), frame # 254392
+[2020.11.17-20.15.13:563][392]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000020D468DC800), frame # 254392
+[2020.11.17-20.15.13:565][392]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2020.11.17-20.15.13:569][392]LogActorComponent: ReregisterComponent: (/Game/Levels/Subway.Subway:PersistentLevel.AmbientSound_1.AudioComponent0) Not currently registered. Aborting.
+[2020.11.17-20.15.13:569][392]LogActorComponent: ReregisterComponent: (/Game/Levels/Subway.Subway:PersistentLevel.TK_Urban_Funk_4.AudioComponent0) Not currently registered. Aborting.
+[2020.11.17-20.15.13:686][393]LogPlayLevel: Display: Destroying online subsystem :Context_38
+[2020.11.17-20.15.16:609][708]LogSlate: Window 'Message Log' being destroyed
+[2020.11.17-20.15.16:614][708]LogSlate: Window 'Message Log' being destroyed
+[2020.11.17-20.15.22:481][407]LogTemp: Repeating last play command: Selected Viewport
+[2020.11.17-20.15.22:498][407]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.11.17-20.15.22:498][407]PIE: New page: PIE session: Subway (Nov 17, 2020, 10:15:22 AM)
+[2020.11.17-20.15.22:498][407]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Subway
+[2020.11.17-20.15.22:506][407]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007799s)
+[2020.11.17-20.15.22:506][407]LogAIModule: Creating AISystem for world Subway
+[2020.11.17-20.15.22:506][407]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000020D68369600), frame # 255407
+[2020.11.17-20.15.22:506][407]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000020D35916340), frame # 255407
+[2020.11.17-20.15.22:506][407]LogPlayLevel: PIE: World Init took: (0.000829s)
+[2020.11.17-20.15.22:507][407]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Subway.Subway to /Game/Levels/UEDPIE_0_Subway.Subway (0.008777s)
+[2020.11.17-20.15.22:523][407]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2020.11.17-20.15.22:525][407]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.11.17-20.15.22:525][407]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.11.17-20.15.22:525][407]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.11.17-20.15.22:525][407]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.11.17-20.15.22:525][407]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.11.17-20.15.22:525][407]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.11.17-20.15.22:525][407]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.11.17-20.15.22:525][407]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.11.17-20.15.22:525][407]LogAudio: Display: Using built-in audio occlusion.
+[2020.11.17-20.15.22:525][407]LogAudioMixer: Display: Initializing audio mixer.
+[2020.11.17-20.15.22:528][407]LogAudioMixer: Display: 0: FrontLeft
+[2020.11.17-20.15.22:528][407]LogAudioMixer: Display: 1: FrontRight
+[2020.11.17-20.15.22:539][407]LogAudioMixer: Display: Using Audio Device Speakers (2- USB Audio Device)
+[2020.11.17-20.15.22:539][407]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.11.17-20.15.22:539][407]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.11.17-20.15.22:539][407]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.11.17-20.15.22:540][407]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.11.17-20.15.22:540][407]LogInit: FAudioDevice initialized.
+[2020.11.17-20.15.22:554][407]LogLoad: Game class is 'TrashKingBase_C'
+[2020.11.17-20.15.22:558][407]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Subway.Subway up for play (max tick rate 0) at 2020.11.17-15.15.22
+[2020.11.17-20.15.22:558][407]LogWorld: Bringing up level for play took: 0.003231
+[2020.11.17-20.15.22:559][407]LogOnline: OSS: Creating online subsystem instance for: :Context_39
+[2020.11.17-20.15.22:561][407]PIE: Server logged in
+[2020.11.17-20.15.22:561][407]PIE: Play in editor total start time 0.064 seconds.
+[2020.11.17-20.15.25:931][806]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.17-20.15.25:932][806]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Subway
+[2020.11.17-20.15.25:932][806]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetAISensoryManager_AISensoryManagerActorRef". Blueprint:  BPC_StimulusGenerator Function:  Handle Target Stimulus Deactivation Graph:  HandleTargetStimulusDeactivation Node:  Deactivate Target Stimulus
+[2020.11.17-20.15.25:932][806]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetAISensoryManager_AISensoryManagerActorRef". Blueprint:  BPC_StimulusGenerator Function:  Handle Interest Stimulus Deactivation Graph:  HandleInterestStimulusDeactivation Node:  Deactivate Interest Stimulus
+[2020.11.17-20.15.25:932][806]LogWorld: UWorld::CleanupWorld for Subway, bSessionEnded=true, bCleanupResources=true
+[2020.11.17-20.15.25:933][806]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.17-20.15.25:937][806]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.11.17-20.15.25:940][806]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.17-20.15.25:956][806]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.17-20.15.25:972][806]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000020D35916340), frame # 255806
+[2020.11.17-20.15.25:972][806]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000020D68369600), frame # 255806
+[2020.11.17-20.15.25:974][806]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2020.11.17-20.15.25:978][806]LogActorComponent: ReregisterComponent: (/Game/Levels/Subway.Subway:PersistentLevel.AmbientSound_1.AudioComponent0) Not currently registered. Aborting.
+[2020.11.17-20.15.25:978][806]LogActorComponent: ReregisterComponent: (/Game/Levels/Subway.Subway:PersistentLevel.TK_Urban_Funk_4.AudioComponent0) Not currently registered. Aborting.
+[2020.11.17-20.15.26:079][807]LogPlayLevel: Display: Destroying online subsystem :Context_39
+[2020.11.17-20.15.27:384][930]LogSlate: Window 'Message Log' being destroyed
+[2020.11.17-20.15.27:389][930]LogSlate: Window 'Message Log' being destroyed
+[2020.11.17-20.16.45:235][272]LogStaticMesh: Building static mesh SM_Prop_Soda_01...
+[2020.11.17-20.16.45:254][272]LogStaticMesh: Built static mesh [0.02s] /Game/PolygonCity/Meshes/Props/SM_Prop_Soda_01.SM_Prop_Soda_01
+[2020.11.17-20.16.45:322][276]LogActorFactory: Actor Factory created SM_Prop_Soda_01
+[2020.11.17-20.16.47:035][476]LogActorFactory: Actor Factory created SM_Prop_Soda_01
+[2020.11.17-20.16.47:464][524]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.11.17-20.17.44:718][197]Cmd: TRANSACTION UNDO
+[2020.11.17-20.17.44:718][197]LogEditorTransaction: Undo Rotate Actors
+[2020.11.17-20.17.47:815][518]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (floor21)
+[2020.11.17-20.18.42:537][932]LogSlate: Window 'Select Path' being destroyed
+[2020.11.17-20.18.42:573][932]EditorErrors: New page: Actor Reattachment
+[2020.11.17-20.18.42:590][932]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2020.11.17-20.18.55:783][475]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Prop_Soda_03)
+[2020.11.17-20.19.03:209][293]LogStaticMesh: Building static mesh Can...
+[2020.11.17-20.19.03:238][293]LogStaticMesh: Built static mesh [0.03s] /Game/TEAMXX_ASSETS/Trashets/Can/Can.Can
+[2020.11.17-20.19.03:244][293]LogMaterial: Display: Missing cached shader map for material lambert6, compiling. 
+[2020.11.17-20.19.03:281][293]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 15
+[2020.11.17-20.19.03:281][293]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 11
+[2020.11.17-20.19.03:281][293]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.11.17-20.19.03:281][293]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2020.11.17-20.19.03:496][318]LogActorFactory: Actor Factory created Can
+[2020.11.17-20.19.04:588][418]LogActorFactory: Actor Factory created Can
+[2020.11.17-20.19.05:307][501]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.11.17-20.19.19:172][136]Cmd: DELETE
+[2020.11.17-20.19.19:172][136]Cmd: ACTOR DELETE
+[2020.11.17-20.19.19:176][136]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.11.17-20.19.19:191][136]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2020.11.17-20.19.19:197][136]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2020.11.17-20.19.31:884][573]LogStaticMesh: Building static mesh Slippers...
+[2020.11.17-20.19.31:905][573]LogStaticMesh: Built static mesh [0.02s] /Game/LowPolyInterior/Meshes/Bathroom/Slippers.Slippers
+[2020.11.17-20.19.31:973][577]LogActorFactory: Actor Factory created Slippers
+[2020.11.17-20.19.32:535][639]LogActorFactory: Actor Factory created Slippers
+[2020.11.17-20.19.38:239][314]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.11.17-20.20.38:128][753]LogStaticMesh: Building static mesh SM_Prop_Buger_01...
+[2020.11.17-20.20.38:144][753]LogStaticMesh: Built static mesh [0.02s] /Game/PolygonCity/Meshes/Props/SM_Prop_Buger_01.SM_Prop_Buger_01
+[2020.11.17-20.20.38:264][763]LogActorFactory: Actor Factory created SM_Prop_Buger_01
+[2020.11.17-20.20.38:712][813]LogActorFactory: Actor Factory created SM_Prop_Buger_01
+[2020.11.17-20.20.45:574][622]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.11.17-20.21.33:363][304]LogStaticMesh: Building static mesh SM_Prop_Phones_01...
+[2020.11.17-20.21.33:389][304]LogStaticMesh: Built static mesh [0.03s] /Game/PolygonCity/Meshes/Props/SM_Prop_Phones_01.SM_Prop_Phones_01
+[2020.11.17-20.21.33:433][306]LogActorFactory: Actor Factory created SM_Prop_Phones_01
+[2020.11.17-20.21.35:376][517]LogActorFactory: Actor Factory created SM_Prop_Phones_01
+[2020.11.17-20.21.36:088][599]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.11.17-20.21.48:957][114]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.11.17-20.23.19:422][273]LogStaticMesh: Building static mesh SM_Prop_Poster_01...
+[2020.11.17-20.23.19:443][273]LogStaticMesh: Built static mesh [0.02s] /Game/PolygonCity/Meshes/Props/SM_Prop_Poster_01.SM_Prop_Poster_01
+[2020.11.17-20.23.19:478][275]LogActorFactory: Actor Factory created SM_Prop_Poster_01
+[2020.11.17-20.23.20:654][398]LogActorFactory: Actor Factory created SM_Prop_Poster_01
+[2020.11.17-20.23.21:091][447]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.11.17-20.23.36:142][217]LogStaticMesh: Building static mesh SM_Prop_Poster_02...
+[2020.11.17-20.23.36:162][217]LogStaticMesh: Built static mesh [0.02s] /Game/PolygonCity/Meshes/Props/SM_Prop_Poster_02.SM_Prop_Poster_02
+[2020.11.17-20.23.36:242][222]LogActorFactory: Actor Factory created SM_Prop_Poster_02
+[2020.11.17-20.23.37:318][346]LogActorFactory: Actor Factory created SM_Prop_Poster_02
+[2020.11.17-20.24.50:815][583]LogStaticMesh: Building static mesh SM_Prop_Poster_03...
+[2020.11.17-20.24.50:840][583]LogStaticMesh: Built static mesh [0.02s] /Game/PolygonCity/Meshes/Props/SM_Prop_Poster_03.SM_Prop_Poster_03
+[2020.11.17-20.24.50:958][593]LogActorFactory: Actor Factory created SM_Prop_Poster_03
+[2020.11.17-20.24.52:007][711]LogActorFactory: Actor Factory created SM_Prop_Poster_03
+[2020.11.17-20.24.52:891][814]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.11.17-20.25.24:019][375]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Prop_Paper_05)
+[2020.11.17-20.25.29:128][984]Cmd: DUPLICATE
+[2020.11.17-20.25.29:128][984]Cmd: ACTOR DUPLICATE
+[2020.11.17-20.25.31:415][253]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.11.17-20.25.35:895][779]Cmd: TRANSACTION UNDO
+[2020.11.17-20.25.35:895][779]LogEditorTransaction: Undo Move Actors
+[2020.11.17-20.25.47:513][ 45]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Prop_Soda_03)
+[2020.11.17-20.25.48:696][182]Cmd: DUPLICATE
+[2020.11.17-20.25.48:696][182]Cmd: ACTOR DUPLICATE
+[2020.11.17-20.25.54:015][809]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.11.17-20.26.06:792][318]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Prop_Paper_05)
+[2020.11.17-20.26.08:355][501]Cmd: DUPLICATE
+[2020.11.17-20.26.08:355][501]Cmd: ACTOR DUPLICATE
+[2020.11.17-20.26.52:261][986]LogStaticMesh: Building static mesh SM_Prop_LargeSign_Soda_01...
+[2020.11.17-20.26.52:287][986]LogStaticMesh: Built static mesh [0.03s] /Game/PolygonCity/Meshes/Props/SM_Prop_LargeSign_Soda_01.SM_Prop_LargeSign_Soda_01
+[2020.11.17-20.26.52:471][  1]LogActorFactory: Actor Factory created SM_Prop_LargeSign_Soda_01
+[2020.11.17-20.26.54:909][251]LogActorFactory: Actor Factory created SM_Prop_LargeSign_Soda_01
+[2020.11.17-20.26.55:290][293]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.11.17-20.27.03:660][269]Cmd: TRANSACTION UNDO
+[2020.11.17-20.27.03:660][269]LogEditorTransaction: Undo Scale Actors
+[2020.11.17-20.27.34:584][890]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.11.17-20.27.40:348][500]LogStaticMesh: Building static mesh SM_Prop_LargeSign_Noodles_01...
+[2020.11.17-20.27.40:376][500]LogStaticMesh: Built static mesh [0.03s] /Game/PolygonCity/Meshes/Props/SM_Prop_LargeSign_Noodles_01.SM_Prop_LargeSign_Noodles_01
+[2020.11.17-20.27.40:444][504]LogActorFactory: Actor Factory created SM_Prop_LargeSign_Noodles_01
+[2020.11.17-20.27.41:371][606]LogActorFactory: Actor Factory created SM_Prop_LargeSign_Noodles_01
+[2020.11.17-20.29.03:668][ 90]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (vendingmachine3)
+[2020.11.17-20.29.04:701][211]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Prop_LargeSign_Noodles_01)
+[2020.11.17-20.29.36:692][781]LogStaticMesh: Building static mesh SM_Prop_SecurityCamera_Head_01...
+[2020.11.17-20.29.36:720][781]LogStaticMesh: Built static mesh [0.03s] /Game/PolygonCity/Meshes/Props/SM_Prop_SecurityCamera_Head_01.SM_Prop_SecurityCamera_Head_01
+[2020.11.17-20.29.36:785][787]LogActorFactory: Actor Factory created SM_Prop_SecurityCamera_Head_01
+[2020.11.17-20.29.41:385][293]LogActorFactory: Actor Factory created SM_Prop_SecurityCamera_Head_01
+[2020.11.17-20.29.41:706][328]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.11.17-20.29.50:450][360]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.11.17-20.30.40:017][655]LogStaticMesh: Building static mesh SM_Prop_SecurityCamera_Arm_01...
+[2020.11.17-20.30.40:044][655]LogStaticMesh: Built static mesh [0.03s] /Game/PolygonCity/Meshes/Props/SM_Prop_SecurityCamera_Arm_01.SM_Prop_SecurityCamera_Arm_01
+[2020.11.17-20.30.40:121][660]LogActorFactory: Actor Factory created SM_Prop_SecurityCamera_Arm_01
+[2020.11.17-20.30.40:935][750]LogActorFactory: Actor Factory created SM_Prop_SecurityCamera_Arm_01
+[2020.11.17-20.30.42:741][963]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.11.17-20.30.47:674][549]Cmd: DELETE
+[2020.11.17-20.30.47:674][549]Cmd: ACTOR DELETE
+[2020.11.17-20.30.47:678][549]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.11.17-20.30.47:695][549]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2020.11.17-20.30.47:705][549]LogEditorActor: Deleted 1 Actors (0.031 secs)
+[2020.11.17-20.30.59:502][799]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Prop_Soda_01)
+[2020.11.17-20.31.01:574][ 43]Cmd: DUPLICATE
+[2020.11.17-20.31.01:574][ 43]Cmd: ACTOR DUPLICATE
+[2020.11.17-20.31.12:506][336]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (floor8)
+[2020.11.17-20.31.25:173][754]LogMaterial: Display: Missing cached shader map for material Chips, compiling. 
+[2020.11.17-20.31.25:188][754]LogSkeletalMesh: Building Skeletal Mesh ChipBag...
+[2020.11.17-20.31.25:191][754]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 39
+[2020.11.17-20.31.25:191][754]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 29
+[2020.11.17-20.31.25:191][754]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 19
+[2020.11.17-20.31.25:191][754]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 9
+[2020.11.17-20.31.25:280][754]LogSkeletalMesh: Section 0: 124 vertices, 1 active bones
+[2020.11.17-20.31.25:280][754]LogSkeletalMesh: Section 0: Material=0, 180 triangles
+[2020.11.17-20.31.25:304][754]LogSkeletalMesh: Built Skeletal Mesh [0.12s] /Game/TEAMXX_ASSETS/Trashets/chip/ChipBag.ChipBag
+[2020.11.17-20.31.25:325][754]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.25:325][754]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.25:348][755]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.26:192][824]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.27:404][967]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.27:413][968]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.27:421][969]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.27:429][970]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.27:437][971]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.27:446][972]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.27:454][973]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.27:462][974]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.27:472][975]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.27:483][976]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.27:513][977]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.27:523][978]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.27:544][979]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.27:552][980]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.27:560][981]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.27:569][982]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.27:577][983]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.27:585][984]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.27:593][985]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.27:602][986]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.27:610][987]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.27:618][988]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.27:627][989]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.27:635][990]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.27:643][991]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.27:652][992]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.27:660][993]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.27:669][994]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.27:677][995]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.27:685][996]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.27:694][997]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.27:702][998]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.27:718][999]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.27:726][  0]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.27:736][  1]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.27:744][  2]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.27:753][  3]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.27:761][  4]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.27:769][  5]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.27:778][  6]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.27:786][  7]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.27:794][  8]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.27:803][  9]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.27:811][ 10]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.27:819][ 11]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.27:828][ 12]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.27:836][ 13]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.27:844][ 14]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.27:853][ 15]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.27:861][ 16]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.27:869][ 17]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.27:877][ 18]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.27:885][ 19]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.27:894][ 20]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.27:902][ 21]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.27:910][ 22]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.27:919][ 23]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.27:927][ 24]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.27:936][ 25]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.27:944][ 26]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.27:952][ 27]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.27:961][ 28]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.27:969][ 29]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.27:977][ 30]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.27:986][ 31]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.27:994][ 32]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.28:003][ 33]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.28:011][ 34]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.28:019][ 35]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.28:028][ 36]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.28:036][ 37]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.28:044][ 38]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.28:052][ 39]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.28:060][ 40]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.28:069][ 41]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.28:077][ 42]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.28:085][ 43]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.28:094][ 44]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.28:102][ 45]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.28:110][ 46]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.28:119][ 47]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.28:127][ 48]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.28:136][ 49]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.28:144][ 50]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.28:152][ 51]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.28:161][ 52]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.28:170][ 53]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.28:178][ 54]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.28:187][ 55]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.28:196][ 56]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.28:204][ 57]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.28:213][ 58]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.28:221][ 59]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.28:230][ 60]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.28:238][ 61]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.28:247][ 62]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.28:255][ 63]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.28:263][ 64]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.28:272][ 65]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.28:280][ 66]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.28:288][ 67]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.28:297][ 68]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.28:305][ 69]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.28:314][ 70]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.28:322][ 71]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.28:331][ 72]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.28:340][ 73]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.28:349][ 74]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.28:358][ 75]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.28:366][ 76]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.28:375][ 77]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.28:383][ 78]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.28:392][ 79]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.28:400][ 80]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.28:409][ 81]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.28:417][ 82]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.28:426][ 83]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.28:435][ 84]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.28:443][ 85]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.28:452][ 86]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.28:627][ 98]LogTexture: Display: Building textures: ChipBag_lambert1_BaseColor (AutoDXT, 1024X1024)
+[2020.11.17-20.31.28:627][ 98]LogMaterial: Display: Missing cached shader map for material ChipBag_lambert1_BaseColor_Mat, compiling. 
+[2020.11.17-20.31.28:665][ 98]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 39
+[2020.11.17-20.31.28:665][ 98]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 29
+[2020.11.17-20.31.28:665][ 98]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 19
+[2020.11.17-20.31.28:665][ 98]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 9
+[2020.11.17-20.31.30:245][287]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.30:254][288]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.30:263][289]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.30:280][290]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.30:295][291]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.30:311][292]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.30:327][293]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.30:343][294]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.30:359][295]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.30:376][296]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.30:393][297]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.30:409][298]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.30:425][299]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.30:441][300]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.30:452][301]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.30:462][302]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.30:473][303]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.30:486][304]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.30:499][305]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.30:512][306]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.30:524][307]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.30:535][308]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.30:546][309]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.30:557][310]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.30:568][311]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.30:594][313]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.30:613][315]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.34:453][772]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.34:471][774]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.34:488][776]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.34:504][778]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.34:521][780]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.34:538][782]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.34:554][784]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.34:571][786]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.34:588][788]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.34:604][790]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.34:621][792]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.34:638][794]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.34:655][796]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.34:671][798]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.34:688][800]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.34:704][802]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.34:720][804]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.34:737][806]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.34:754][808]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.34:770][810]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.34:788][812]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.34:804][814]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.34:821][816]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.34:838][818]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.34:855][820]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.34:870][822]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.34:888][824]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.34:904][826]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.34:921][828]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.34:938][830]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.34:954][832]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.34:971][834]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.34:988][836]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.35:004][838]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.35:021][840]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.35:038][842]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.35:055][844]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.35:072][846]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.35:103][848]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.35:119][850]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.35:136][852]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.35:153][854]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.35:169][856]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.35:186][858]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.35:202][860]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.35:219][862]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.35:236][864]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.39:559][381]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.39:576][383]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.39:592][385]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.39:608][387]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.39:625][389]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.39:642][391]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.39:659][393]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.39:675][395]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.39:692][397]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.39:709][399]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.39:725][401]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.39:742][403]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.39:759][405]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.39:776][407]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.39:792][409]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.39:808][411]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.39:825][413]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.39:843][415]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.39:858][417]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.39:875][419]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.39:892][421]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.39:908][423]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.39:925][425]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.39:942][427]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.39:959][429]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.39:975][431]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.39:992][433]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.40:009][435]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.40:026][437]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.40:042][439]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.40:059][441]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.40:075][443]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.40:092][445]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.40:109][447]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.40:126][449]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.40:142][451]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.40:159][453]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.40:175][455]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.40:191][457]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.40:208][459]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.40:225][461]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.40:242][463]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.40:258][465]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.40:275][467]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.40:292][469]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.40:309][471]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.40:325][473]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.40:342][475]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.40:359][477]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.40:375][479]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.40:392][481]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.40:409][483]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.40:426][485]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.40:442][487]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.40:459][489]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.40:475][491]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.40:492][493]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.40:509][495]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.40:526][497]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.40:542][499]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.40:558][501]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.40:575][503]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.40:592][505]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.40:608][507]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.40:626][509]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.40:645][511]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.40:662][513]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.40:679][515]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.40:694][517]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.40:711][519]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.40:728][521]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.40:744][523]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.40:761][525]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.40:778][527]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.40:795][529]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.40:811][531]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.40:828][533]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.40:845][535]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.40:861][537]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.40:878][539]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.40:895][541]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.40:912][543]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.40:928][545]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.40:945][547]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.40:962][549]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.40:978][551]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.40:995][553]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.41:012][555]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.41:028][557]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.41:045][559]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.41:062][561]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.41:079][563]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.41:095][565]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.41:112][567]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.41:128][569]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.41:144][571]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.41:161][573]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.41:178][575]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.41:194][577]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.41:211][579]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.41:228][581]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.41:245][583]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.41:261][585]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.41:278][587]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.41:295][589]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.41:312][591]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.41:329][593]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.41:346][595]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.41:362][597]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.41:379][599]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.41:396][601]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.41:413][603]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.41:429][605]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.41:446][607]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.41:463][609]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.41:479][611]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.41:495][613]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.41:512][615]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.41:528][617]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.41:545][619]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.41:562][621]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.41:579][623]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.41:595][625]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.41:612][627]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.41:629][629]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.41:645][631]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.41:662][633]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.41:679][635]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.41:696][637]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.41:712][639]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.41:729][641]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.41:746][643]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.41:763][645]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.41:779][647]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.41:798][649]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.41:820][651]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.41:837][653]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.41:853][655]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.41:869][657]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.41:885][659]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.41:902][661]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.41:919][663]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.41:936][665]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.41:953][667]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.41:969][669]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.41:986][671]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.41:994][672]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.42:003][673]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.42:011][674]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.42:019][675]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.42:028][676]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.42:036][677]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.42:045][678]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.42:054][679]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.42:063][680]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.42:071][681]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.42:082][682]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.42:090][683]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.42:100][684]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.42:109][685]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.42:119][686]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.42:127][687]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.42:135][688]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.42:144][689]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.42:152][690]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.42:161][691]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.42:170][692]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.42:179][693]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.42:187][694]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.42:196][695]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.42:204][696]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.42:214][697]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.42:222][698]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.42:231][699]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.42:239][700]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.42:248][701]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.42:257][702]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.42:266][703]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.42:274][704]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.42:283][705]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.42:292][706]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.42:300][707]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.42:309][708]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.42:318][709]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.42:327][710]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.42:336][711]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.42:345][712]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.42:353][713]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.42:362][714]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.42:370][715]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.42:380][716]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.42:389][717]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.42:398][718]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.42:407][719]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.42:416][720]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.42:426][721]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.42:436][722]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.42:445][723]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.42:454][724]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.42:464][725]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.42:472][726]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.42:481][727]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.42:490][728]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.42:499][729]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.42:508][730]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.42:516][731]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.42:526][732]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.42:535][733]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.42:543][734]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.42:552][735]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.42:561][736]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.42:570][737]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.42:580][738]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.42:589][739]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.42:598][740]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.42:609][741]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.42:630][742]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.42:638][743]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.42:647][744]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.42:655][745]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.42:663][746]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.42:671][747]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.42:679][748]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.42:687][749]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.42:696][750]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.42:704][751]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.42:712][752]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.42:721][753]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.42:730][754]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.42:739][755]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.42:749][756]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.42:758][757]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.42:767][758]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.42:776][759]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.42:785][760]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.42:794][761]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.42:802][762]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.42:812][763]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.42:821][764]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.42:829][765]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.42:838][766]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.42:848][767]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.42:857][768]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.42:866][769]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.42:875][770]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.42:884][771]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.42:894][772]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.42:903][773]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.42:912][774]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.42:921][775]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.42:930][776]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.42:939][777]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.42:949][778]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.42:958][779]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.42:967][780]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.42:977][781]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.42:986][782]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.42:995][783]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.43:004][784]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.43:013][785]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.43:022][786]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.43:032][787]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.43:041][788]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.43:050][789]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.43:059][790]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.43:068][791]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.43:077][792]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.43:086][793]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.43:096][794]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.43:116][796]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.43:133][798]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.43:150][800]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.43:167][802]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.43:183][804]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.43:200][806]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.43:217][808]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.43:234][810]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.43:250][812]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.43:267][814]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.43:284][816]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.43:300][818]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.43:317][820]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.43:334][822]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.43:350][824]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.43:367][826]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.43:384][828]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.43:401][830]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.43:417][832]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.43:434][834]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.43:450][836]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.43:467][838]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.43:484][840]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.43:500][842]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.43:517][844]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.43:534][846]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.43:551][848]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.43:567][850]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.43:584][852]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.43:601][854]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.43:627][856]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.43:644][858]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.43:661][860]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.43:677][862]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.43:694][864]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.43:711][866]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.43:727][868]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.43:744][870]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.43:761][872]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.43:778][874]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.43:794][876]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.43:811][878]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.43:828][880]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.43:844][882]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.43:863][884]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.43:887][886]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.43:904][888]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.43:921][890]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.43:937][892]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.43:953][894]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.43:970][896]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.43:987][898]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.44:003][900]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.44:020][902]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.44:037][904]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.44:053][906]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.44:070][908]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.44:087][910]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.44:104][912]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.45:415][ 65]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.45:423][ 66]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.45:432][ 67]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.45:441][ 68]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.45:450][ 69]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.45:460][ 70]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.45:469][ 71]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.45:479][ 72]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.45:488][ 73]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.45:497][ 74]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.45:507][ 75]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.45:517][ 76]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.45:526][ 77]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.45:536][ 78]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.45:546][ 79]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.45:555][ 80]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.45:565][ 81]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.45:574][ 82]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.45:583][ 83]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.45:592][ 84]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.45:601][ 85]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.45:610][ 86]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.45:619][ 87]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.45:628][ 88]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.45:637][ 89]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.45:646][ 90]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.45:655][ 91]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.45:665][ 92]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.45:674][ 93]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.45:683][ 94]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.45:692][ 95]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.45:701][ 96]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.45:710][ 97]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.45:719][ 98]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.45:728][ 99]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.45:737][100]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.45:745][101]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.45:753][102]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.45:763][103]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.45:773][104]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.45:795][105]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.45:804][106]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.45:812][107]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.45:820][108]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.45:829][109]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.45:837][110]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.45:845][111]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.45:855][112]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.31.57:788][527]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.11.17-20.32.19:189][ 68]Cmd: DUPLICATE
+[2020.11.17-20.32.19:189][ 68]Cmd: ACTOR DUPLICATE
+[2020.11.17-20.32.23:851][620]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.11.17-20.32.36:228][ 75]Cmd: DUPLICATE
+[2020.11.17-20.32.36:228][ 75]Cmd: ACTOR DUPLICATE
+[2020.11.17-20.32.41:336][680]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.11.17-20.32.56:204][447]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.32.56:221][449]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.32.56:237][451]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.32.56:254][453]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.32.56:271][455]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.32.56:287][457]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.32.56:307][459]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.32.56:329][461]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.32.56:345][463]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.32.56:362][465]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.32.56:379][467]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.32.56:395][469]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.32.56:412][471]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.32.56:428][473]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.32.56:445][475]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.32.56:462][477]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.32.56:478][479]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.32.56:495][481]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.32.56:512][483]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.32.56:529][485]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.32.56:546][487]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.32.56:562][489]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.32.56:579][491]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.32.56:595][493]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.32.56:611][495]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.32.56:628][497]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.32.56:645][499]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.32.56:661][501]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.32.56:678][503]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.32.56:695][505]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.32.56:712][507]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.32.56:728][509]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.32.56:745][511]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.32.56:762][513]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.32.56:778][515]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.32.56:795][517]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.32.56:812][519]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.32.56:829][521]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.32.56:845][523]LogAnimation: Warning: SkeletalMesh ChipBag has no skeleton. This needs to fixed before an animation can be set
+[2020.11.17-20.33.19:418][ 70]LogStaticMesh: Building static mesh SM_Prop_Poster_Frame_01...
+[2020.11.17-20.33.19:443][ 70]LogStaticMesh: Built static mesh [0.03s] /Game/PolygonCity/Meshes/Props/SM_Prop_Poster_Frame_01.SM_Prop_Poster_Frame_01
+[2020.11.17-20.33.19:490][ 74]LogActorFactory: Actor Factory created SM_Prop_Poster_Frame_01
+[2020.11.17-20.33.20:314][164]LogActorFactory: Actor Factory created SM_Prop_Poster_Frame_01
+[2020.11.17-20.33.30:012][294]LogActorFactory: Actor Factory created SM_Prop_Poster_03
+[2020.11.17-20.33.31:572][467]LogActorFactory: Actor Factory created SM_Prop_Poster_03
+[2020.11.17-20.34.02:307][ 70]LogActorFactory: Actor Factory created SM_Prop_Poster_01
+[2020.11.17-20.34.03:067][148]LogActorFactory: Actor Factory created SM_Prop_Poster_01
+[2020.11.17-20.34.22:343][389]LogActorFactory: Actor Factory created SM_Prop_Poster_02
+[2020.11.17-20.34.23:052][463]LogActorFactory: Actor Factory created SM_Prop_Poster_02
+[2020.11.17-20.35.16:123][350]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Prop_Sign_Entrance_01)
+[2020.11.17-20.35.50:895][328]LogStaticMesh: Building static mesh Toilet_01...
+[2020.11.17-20.35.50:913][328]LogStaticMesh: Built static mesh [0.02s] /Game/LowPolyInterior/Meshes/Bathroom/Toilet_01.Toilet_01
+[2020.11.17-20.35.51:003][333]LogActorFactory: Actor Factory created Toilet_01
+[2020.11.17-20.35.52:672][520]LogActorFactory: Actor Factory created Toilet_01
+[2020.11.17-20.36.02:601][699]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_9)
+[2020.11.17-20.36.13:122][940]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_4)
+[2020.11.17-20.36.16:113][288]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_9)
+[2020.11.17-20.36.20:291][774]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Toilet_01)
+[2020.11.17-20.36.20:984][852]Cmd: DELETE
+[2020.11.17-20.36.20:984][852]Cmd: ACTOR DELETE
+[2020.11.17-20.36.20:988][852]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.11.17-20.36.21:005][852]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2020.11.17-20.36.21:014][852]LogEditorActor: Deleted 1 Actors (0.029 secs)
+[2020.11.17-20.36.32:346][195]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Subway" FILE="../../../../../../Unreal Projects/Trash_King/TrashKingProto_2_0/Content/Levels/Subway.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.11.17-20.36.32:379][195]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2020.11.17-20.36.32:420][195]LogSavePackage: Moving '../../../../../../Unreal Projects/Trash_King/TrashKingProto_2_0/Saved/Subway0D36C8FC4E047222FA7D3B8DEDE89E08.tmp' to '../../../../../../Unreal Projects/Trash_King/TrashKingProto_2_0/Content/Levels/Subway.umap'
+[2020.11.17-20.36.32:513][195]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Subway_BuiltData" FILE="../../../../../../Unreal Projects/Trash_King/TrashKingProto_2_0/Content/Levels/Subway_BuiltData.uasset" SILENT=true
+[2020.11.17-20.36.32:802][195]LogSavePackage: Moving '../../../../../../Unreal Projects/Trash_King/TrashKingProto_2_0/Saved/Subway_BuiltDataEBE11B64444E94BBD0641F82ACFA0272.tmp' to '../../../../../../Unreal Projects/Trash_King/TrashKingProto_2_0/Content/Levels/Subway_BuiltData.uasset'
+[2020.11.17-20.36.32:813][195]AssetCheck: New page: Asset Save: multiple assets
+[2020.11.17-20.36.32:813][195]LogContentValidation: Display: Validating World /Game/Levels/Subway.Subway
+[2020.11.17-20.36.32:814][195]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/Subway_BuiltData.Subway_BuiltData
