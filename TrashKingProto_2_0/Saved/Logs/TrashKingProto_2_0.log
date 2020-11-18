@@ -2720,3 +2720,1611 @@ Script Stack (0 frames):
 [2020.11.17-21.51.03:386][508]LogRenderer: Reallocating scene render targets to support 984x480 Format 9 NumSamples 1 (Frame:364471).
 [2020.11.17-21.51.03:764][509]LogRenderer: Reallocating scene render targets to support 984x496 Format 9 NumSamples 1 (Frame:364473).
 [2020.11.17-21.51.03:798][510]LogRenderer: Reallocating scene render targets to support 984x616 Format 9 NumSamples 1 (Frame:364474).
+[2020.11.17-21.58.46:537][374]LogClient: High resolution screenshot saved as C:/Users/13307/Documents/GitHub/Trash_King/TrashKingProto_2_0/Saved/Screenshots/Windows/HighresScreenshot00001.png
+[2020.11.17-21.59.13:007][655]LogClient: High resolution screenshot saved as C:/Users/13307/Documents/GitHub/Trash_King/TrashKingProto_2_0/Saved/Screenshots/Windows/HighresScreenshot00002.png
+[2020.11.17-21.59.26:664][454]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (KitchenTabletop2_5)
+[2020.11.17-21.59.36:637][ 22]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (KitchenTabletop2_5)
+[2020.11.17-22.00.43:207][958]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Sofa_07)
+[2020.11.17-22.01.20:833][866]LogSlate: Window 'High Resolution Screenshot' being destroyed
+[2020.11.17-22.01.24:530][ 45]SourceControl: fatal: D:/UNREAL/UE_4.25/Engine/Content: 'D:/UNREAL/UE_4.25/Engine/Content' is outside repository at 'C:/Users/13307/Documents/GitHub/Trash_King'
+[2020.11.17-22.01.24:530][ 45]SourceControl: fatal: D:/UNREAL/UE_4.25/Engine/Plugins/2D/Paper2D/Content: 'D:/UNREAL/UE_4.25/Engine/Plugins/2D/Paper2D/Content' is outside repository at 'C:/Users/13307/Documents/GitHub/Trash_King'
+[2020.11.17-22.01.24:530][ 45]SourceControl: fatal: D:/UNREAL/UE_4.25/Engine/Plugins/Developer/AnimationSharing/Content: 'D:/UNREAL/UE_4.25/Engine/Plugins/Developer/AnimationSharing/Content' is outside repository at 'C:/Users/13307/Documents/GitHub/Trash_King'
+[2020.11.17-22.01.24:531][ 45]SourceControl: fatal: D:/UNREAL/UE_4.25/Engine/Plugins/Editor/GeometryMode/Content: 'D:/UNREAL/UE_4.25/Engine/Plugins/Editor/GeometryMode/Content' is outside repository at 'C:/Users/13307/Documents/GitHub/Trash_King'
+[2020.11.17-22.01.24:531][ 45]SourceControl: fatal: D:/UNREAL/UE_4.25/Engine/Plugins/Enterprise/DatasmithContent/Content: 'D:/UNREAL/UE_4.25/Engine/Plugins/Enterprise/DatasmithContent/Content' is outside repository at 'C:/Users/13307/Documents/GitHub/Trash_King'
+[2020.11.17-22.01.24:531][ 45]SourceControl: fatal: D:/UNREAL/UE_4.25/Engine/Plugins/Experimental/ChaosClothEditor/Content: 'D:/UNREAL/UE_4.25/Engine/Plugins/Experimental/ChaosClothEditor/Content' is outside repository at 'C:/Users/13307/Documents/GitHub/Trash_King'
+[2020.11.17-22.01.24:531][ 45]SourceControl: fatal: D:/UNREAL/UE_4.25/Engine/Plugins/Experimental/ChaosNiagara/Content: 'D:/UNREAL/UE_4.25/Engine/Plugins/Experimental/ChaosNiagara/Content' is outside repository at 'C:/Users/13307/Documents/GitHub/Trash_King'
+[2020.11.17-22.01.24:531][ 45]SourceControl: fatal: D:/UNREAL/UE_4.25/Engine/Plugins/Experimental/ChaosSolverPlugin/Content: 'D:/UNREAL/UE_4.25/Engine/Plugins/Experimental/ChaosSolverPlugin/Content' is outside repository at 'C:/Users/13307/Documents/GitHub/Trash_King'
+[2020.11.17-22.01.24:531][ 45]SourceControl: fatal: D:/UNREAL/UE_4.25/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content: 'D:/UNREAL/UE_4.25/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content' is outside repository at 'C:/Users/13307/Documents/GitHub/Trash_King'
+[2020.11.17-22.01.24:531][ 45]SourceControl: fatal: D:/UNREAL/UE_4.25/Engine/Plugins/Experimental/GeometryProcessing/Content: 'D:/UNREAL/UE_4.25/Engine/Plugins/Experimental/GeometryProcessing/Content' is outside repository at 'C:/Users/13307/Documents/GitHub/Trash_King'
+[2020.11.17-22.01.24:531][ 45]SourceControl: fatal: D:/UNREAL/UE_4.25/Engine/Plugins/FX/Niagara/Content: 'D:/UNREAL/UE_4.25/Engine/Plugins/FX/Niagara/Content' is outside repository at 'C:/Users/13307/Documents/GitHub/Trash_King'
+[2020.11.17-22.01.24:531][ 45]SourceControl: fatal: D:/UNREAL/UE_4.25/Engine/Plugins/Lumin/MagicLeap/Content: 'D:/UNREAL/UE_4.25/Engine/Plugins/Lumin/MagicLeap/Content' is outside repository at 'C:/Users/13307/Documents/GitHub/Trash_King'
+[2020.11.17-22.01.24:531][ 45]SourceControl: fatal: D:/UNREAL/UE_4.25/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content: 'D:/UNREAL/UE_4.25/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content' is outside repository at 'C:/Users/13307/Documents/GitHub/Trash_King'
+[2020.11.17-22.01.24:531][ 45]SourceControl: fatal: D:/UNREAL/UE_4.25/Engine/Plugins/Media/MediaCompositing/Content: 'D:/UNREAL/UE_4.25/Engine/Plugins/Media/MediaCompositing/Content' is outside repository at 'C:/Users/13307/Documents/GitHub/Trash_King'
+[2020.11.17-22.01.24:531][ 45]SourceControl: fatal: D:/UNREAL/UE_4.25/Engine/Plugins/MovieScene/MovieRenderPipeline/Content: 'D:/UNREAL/UE_4.25/Engine/Plugins/MovieScene/MovieRenderPipeline/Content' is outside repository at 'C:/Users/13307/Documents/GitHub/Trash_King'
+[2020.11.17-22.01.24:531][ 45]SourceControl: fatal: D:/UNREAL/UE_4.25/Engine/Plugins/Runtime/Oculus/OculusVR/Content: 'D:/UNREAL/UE_4.25/Engine/Plugins/Runtime/Oculus/OculusVR/Content' is outside repository at 'C:/Users/13307/Documents/GitHub/Trash_King'
+[2020.11.17-22.01.24:531][ 45]SourceControl: fatal: D:/UNREAL/UE_4.25/Engine/Plugins/Runtime/PostSplashScreen/Content: 'D:/UNREAL/UE_4.25/Engine/Plugins/Runtime/PostSplashScreen/Content' is outside repository at 'C:/Users/13307/Documents/GitHub/Trash_King'
+[2020.11.17-22.01.24:531][ 45]SourceControl: fatal: D:/UNREAL/UE_4.25/Engine/Plugins/Runtime/Steam/SteamVR/Content: 'D:/UNREAL/UE_4.25/Engine/Plugins/Runtime/Steam/SteamVR/Content' is outside repository at 'C:/Users/13307/Documents/GitHub/Trash_King'
+[2020.11.17-22.01.24:652][ 45]EditorErrors: Warning: No assets to check in!
+[2020.11.17-22.01.33:700][566]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_09)
+[2020.11.17-22.01.41:421][ 25]LogActorFactory: Actor Factory created Light_02
+[2020.11.17-22.01.42:079][ 64]LogActorFactory: Actor Factory created Light_02
+[2020.11.17-22.01.45:896][269]SourceControl: fatal: D:/UNREAL/UE_4.25/Engine/Content: 'D:/UNREAL/UE_4.25/Engine/Content' is outside repository at 'C:/Users/13307/Documents/GitHub/Trash_King'
+[2020.11.17-22.01.45:896][269]SourceControl: fatal: D:/UNREAL/UE_4.25/Engine/Plugins/2D/Paper2D/Content: 'D:/UNREAL/UE_4.25/Engine/Plugins/2D/Paper2D/Content' is outside repository at 'C:/Users/13307/Documents/GitHub/Trash_King'
+[2020.11.17-22.01.45:896][269]SourceControl: fatal: D:/UNREAL/UE_4.25/Engine/Plugins/Developer/AnimationSharing/Content: 'D:/UNREAL/UE_4.25/Engine/Plugins/Developer/AnimationSharing/Content' is outside repository at 'C:/Users/13307/Documents/GitHub/Trash_King'
+[2020.11.17-22.01.45:896][269]SourceControl: fatal: D:/UNREAL/UE_4.25/Engine/Plugins/Editor/GeometryMode/Content: 'D:/UNREAL/UE_4.25/Engine/Plugins/Editor/GeometryMode/Content' is outside repository at 'C:/Users/13307/Documents/GitHub/Trash_King'
+[2020.11.17-22.01.45:896][269]SourceControl: fatal: D:/UNREAL/UE_4.25/Engine/Plugins/Enterprise/DatasmithContent/Content: 'D:/UNREAL/UE_4.25/Engine/Plugins/Enterprise/DatasmithContent/Content' is outside repository at 'C:/Users/13307/Documents/GitHub/Trash_King'
+[2020.11.17-22.01.45:896][269]SourceControl: fatal: D:/UNREAL/UE_4.25/Engine/Plugins/Experimental/ChaosClothEditor/Content: 'D:/UNREAL/UE_4.25/Engine/Plugins/Experimental/ChaosClothEditor/Content' is outside repository at 'C:/Users/13307/Documents/GitHub/Trash_King'
+[2020.11.17-22.01.45:896][269]SourceControl: fatal: D:/UNREAL/UE_4.25/Engine/Plugins/Experimental/ChaosNiagara/Content: 'D:/UNREAL/UE_4.25/Engine/Plugins/Experimental/ChaosNiagara/Content' is outside repository at 'C:/Users/13307/Documents/GitHub/Trash_King'
+[2020.11.17-22.01.45:896][269]SourceControl: fatal: D:/UNREAL/UE_4.25/Engine/Plugins/Experimental/ChaosSolverPlugin/Content: 'D:/UNREAL/UE_4.25/Engine/Plugins/Experimental/ChaosSolverPlugin/Content' is outside repository at 'C:/Users/13307/Documents/GitHub/Trash_King'
+[2020.11.17-22.01.45:896][269]SourceControl: fatal: D:/UNREAL/UE_4.25/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content: 'D:/UNREAL/UE_4.25/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content' is outside repository at 'C:/Users/13307/Documents/GitHub/Trash_King'
+[2020.11.17-22.01.45:896][269]SourceControl: fatal: D:/UNREAL/UE_4.25/Engine/Plugins/Experimental/GeometryProcessing/Content: 'D:/UNREAL/UE_4.25/Engine/Plugins/Experimental/GeometryProcessing/Content' is outside repository at 'C:/Users/13307/Documents/GitHub/Trash_King'
+[2020.11.17-22.01.45:896][269]SourceControl: fatal: D:/UNREAL/UE_4.25/Engine/Plugins/FX/Niagara/Content: 'D:/UNREAL/UE_4.25/Engine/Plugins/FX/Niagara/Content' is outside repository at 'C:/Users/13307/Documents/GitHub/Trash_King'
+[2020.11.17-22.01.45:896][269]SourceControl: fatal: D:/UNREAL/UE_4.25/Engine/Plugins/Lumin/MagicLeap/Content: 'D:/UNREAL/UE_4.25/Engine/Plugins/Lumin/MagicLeap/Content' is outside repository at 'C:/Users/13307/Documents/GitHub/Trash_King'
+[2020.11.17-22.01.45:896][269]SourceControl: fatal: D:/UNREAL/UE_4.25/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content: 'D:/UNREAL/UE_4.25/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content' is outside repository at 'C:/Users/13307/Documents/GitHub/Trash_King'
+[2020.11.17-22.01.45:896][269]SourceControl: fatal: D:/UNREAL/UE_4.25/Engine/Plugins/Media/MediaCompositing/Content: 'D:/UNREAL/UE_4.25/Engine/Plugins/Media/MediaCompositing/Content' is outside repository at 'C:/Users/13307/Documents/GitHub/Trash_King'
+[2020.11.17-22.01.45:896][269]SourceControl: fatal: D:/UNREAL/UE_4.25/Engine/Plugins/MovieScene/MovieRenderPipeline/Content: 'D:/UNREAL/UE_4.25/Engine/Plugins/MovieScene/MovieRenderPipeline/Content' is outside repository at 'C:/Users/13307/Documents/GitHub/Trash_King'
+[2020.11.17-22.01.45:896][269]SourceControl: fatal: D:/UNREAL/UE_4.25/Engine/Plugins/Runtime/Oculus/OculusVR/Content: 'D:/UNREAL/UE_4.25/Engine/Plugins/Runtime/Oculus/OculusVR/Content' is outside repository at 'C:/Users/13307/Documents/GitHub/Trash_King'
+[2020.11.17-22.01.45:896][269]SourceControl: fatal: D:/UNREAL/UE_4.25/Engine/Plugins/Runtime/PostSplashScreen/Content: 'D:/UNREAL/UE_4.25/Engine/Plugins/Runtime/PostSplashScreen/Content' is outside repository at 'C:/Users/13307/Documents/GitHub/Trash_King'
+[2020.11.17-22.01.45:896][269]SourceControl: fatal: D:/UNREAL/UE_4.25/Engine/Plugins/Runtime/Steam/SteamVR/Content: 'D:/UNREAL/UE_4.25/Engine/Plugins/Runtime/Steam/SteamVR/Content' is outside repository at 'C:/Users/13307/Documents/GitHub/Trash_King'
+[2020.11.17-22.01.46:018][269]EditorErrors: Warning: No assets to check in!
+[2020.11.17-22.01.50:593][526]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Light_7)
+[2020.11.17-22.01.58:391][983]LogSlate: Window 'Source Control Login' being destroyed
+[2020.11.17-22.01.59:105][  5]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Light_7)
+[2020.11.17-22.02.00:073][ 63]Cmd: DELETE
+[2020.11.17-22.02.00:073][ 63]Cmd: ACTOR DELETE
+[2020.11.17-22.02.00:081][ 63]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.11.17-22.02.00:429][ 63]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2020.11.17-22.02.00:433][ 63]LogEditorActor: Deleted 1 Actors (0.361 secs)
+[2020.11.17-22.02.06:605][421]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2020.11.17-22.02.06:716][421]LogSavePackage: Moving 'C:/Users/13307/Documents/GitHub/Trash_King/TrashKingProto_2_0/Saved/ApartmentComplexDF4216B54EC636B489FDFBA84648EA08.tmp' to 'C:/Users/13307/Documents/GitHub/Trash_King/TrashKingProto_2_0/Content/Levels/ApartmentComplex.umap'
+[2020.11.17-22.02.06:832][421]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/ApartmentComplex_BuiltData" FILE="C:/Users/13307/Documents/GitHub/Trash_King/TrashKingProto_2_0/Content/Levels/ApartmentComplex_BuiltData.uasset" SILENT=true
+[2020.11.17-22.02.07:289][421]LogSavePackage: Moving 'C:/Users/13307/Documents/GitHub/Trash_King/TrashKingProto_2_0/Saved/ApartmentComplex_BuiltData235281FC48D99C215B8BF290904CE107.tmp' to 'C:/Users/13307/Documents/GitHub/Trash_King/TrashKingProto_2_0/Content/Levels/ApartmentComplex_BuiltData.uasset'
+[2020.11.17-22.02.07:299][421]AssetCheck: New page: Asset Save: multiple assets
+[2020.11.17-22.02.07:299][421]LogContentValidation: Display: Validating World /Game/Levels/ApartmentComplex.ApartmentComplex
+[2020.11.17-22.02.07:299][421]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/ApartmentComplex_BuiltData.ApartmentComplex_BuiltData
+[2020.11.17-22.02.09:977][568]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2020.11.17-22.02.13:415][751]SourceControl: fatal: D:/UNREAL/UE_4.25/Engine/Content: 'D:/UNREAL/UE_4.25/Engine/Content' is outside repository at 'C:/Users/13307/Documents/GitHub/Trash_King'
+[2020.11.17-22.02.13:415][751]SourceControl: fatal: D:/UNREAL/UE_4.25/Engine/Plugins/2D/Paper2D/Content: 'D:/UNREAL/UE_4.25/Engine/Plugins/2D/Paper2D/Content' is outside repository at 'C:/Users/13307/Documents/GitHub/Trash_King'
+[2020.11.17-22.02.13:415][751]SourceControl: fatal: D:/UNREAL/UE_4.25/Engine/Plugins/Developer/AnimationSharing/Content: 'D:/UNREAL/UE_4.25/Engine/Plugins/Developer/AnimationSharing/Content' is outside repository at 'C:/Users/13307/Documents/GitHub/Trash_King'
+[2020.11.17-22.02.13:415][751]SourceControl: fatal: D:/UNREAL/UE_4.25/Engine/Plugins/Editor/GeometryMode/Content: 'D:/UNREAL/UE_4.25/Engine/Plugins/Editor/GeometryMode/Content' is outside repository at 'C:/Users/13307/Documents/GitHub/Trash_King'
+[2020.11.17-22.02.13:415][751]SourceControl: fatal: D:/UNREAL/UE_4.25/Engine/Plugins/Enterprise/DatasmithContent/Content: 'D:/UNREAL/UE_4.25/Engine/Plugins/Enterprise/DatasmithContent/Content' is outside repository at 'C:/Users/13307/Documents/GitHub/Trash_King'
+[2020.11.17-22.02.13:415][751]SourceControl: fatal: D:/UNREAL/UE_4.25/Engine/Plugins/Experimental/ChaosClothEditor/Content: 'D:/UNREAL/UE_4.25/Engine/Plugins/Experimental/ChaosClothEditor/Content' is outside repository at 'C:/Users/13307/Documents/GitHub/Trash_King'
+[2020.11.17-22.02.13:415][751]SourceControl: fatal: D:/UNREAL/UE_4.25/Engine/Plugins/Experimental/ChaosNiagara/Content: 'D:/UNREAL/UE_4.25/Engine/Plugins/Experimental/ChaosNiagara/Content' is outside repository at 'C:/Users/13307/Documents/GitHub/Trash_King'
+[2020.11.17-22.02.13:415][751]SourceControl: fatal: D:/UNREAL/UE_4.25/Engine/Plugins/Experimental/ChaosSolverPlugin/Content: 'D:/UNREAL/UE_4.25/Engine/Plugins/Experimental/ChaosSolverPlugin/Content' is outside repository at 'C:/Users/13307/Documents/GitHub/Trash_King'
+[2020.11.17-22.02.13:415][751]SourceControl: fatal: D:/UNREAL/UE_4.25/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content: 'D:/UNREAL/UE_4.25/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content' is outside repository at 'C:/Users/13307/Documents/GitHub/Trash_King'
+[2020.11.17-22.02.13:415][751]SourceControl: fatal: D:/UNREAL/UE_4.25/Engine/Plugins/Experimental/GeometryProcessing/Content: 'D:/UNREAL/UE_4.25/Engine/Plugins/Experimental/GeometryProcessing/Content' is outside repository at 'C:/Users/13307/Documents/GitHub/Trash_King'
+[2020.11.17-22.02.13:415][751]SourceControl: fatal: D:/UNREAL/UE_4.25/Engine/Plugins/FX/Niagara/Content: 'D:/UNREAL/UE_4.25/Engine/Plugins/FX/Niagara/Content' is outside repository at 'C:/Users/13307/Documents/GitHub/Trash_King'
+[2020.11.17-22.02.13:415][751]SourceControl: fatal: D:/UNREAL/UE_4.25/Engine/Plugins/Lumin/MagicLeap/Content: 'D:/UNREAL/UE_4.25/Engine/Plugins/Lumin/MagicLeap/Content' is outside repository at 'C:/Users/13307/Documents/GitHub/Trash_King'
+[2020.11.17-22.02.13:415][751]SourceControl: fatal: D:/UNREAL/UE_4.25/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content: 'D:/UNREAL/UE_4.25/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content' is outside repository at 'C:/Users/13307/Documents/GitHub/Trash_King'
+[2020.11.17-22.02.13:415][751]SourceControl: fatal: D:/UNREAL/UE_4.25/Engine/Plugins/Media/MediaCompositing/Content: 'D:/UNREAL/UE_4.25/Engine/Plugins/Media/MediaCompositing/Content' is outside repository at 'C:/Users/13307/Documents/GitHub/Trash_King'
+[2020.11.17-22.02.13:415][751]SourceControl: fatal: D:/UNREAL/UE_4.25/Engine/Plugins/MovieScene/MovieRenderPipeline/Content: 'D:/UNREAL/UE_4.25/Engine/Plugins/MovieScene/MovieRenderPipeline/Content' is outside repository at 'C:/Users/13307/Documents/GitHub/Trash_King'
+[2020.11.17-22.02.13:415][751]SourceControl: fatal: D:/UNREAL/UE_4.25/Engine/Plugins/Runtime/Oculus/OculusVR/Content: 'D:/UNREAL/UE_4.25/Engine/Plugins/Runtime/Oculus/OculusVR/Content' is outside repository at 'C:/Users/13307/Documents/GitHub/Trash_King'
+[2020.11.17-22.02.13:415][751]SourceControl: fatal: D:/UNREAL/UE_4.25/Engine/Plugins/Runtime/PostSplashScreen/Content: 'D:/UNREAL/UE_4.25/Engine/Plugins/Runtime/PostSplashScreen/Content' is outside repository at 'C:/Users/13307/Documents/GitHub/Trash_King'
+[2020.11.17-22.02.13:415][751]SourceControl: fatal: D:/UNREAL/UE_4.25/Engine/Plugins/Runtime/Steam/SteamVR/Content: 'D:/UNREAL/UE_4.25/Engine/Plugins/Runtime/Steam/SteamVR/Content' is outside repository at 'C:/Users/13307/Documents/GitHub/Trash_King'
+[2020.11.17-22.02.29:716][751]LogSlate: Window 'Submit Files' being destroyed
+[2020.11.17-22.02.32:641][751]LogSourceControl: commit successful: [master e1ba5ce] Hopefullly youll see the apartment
+[2020.11.17-22.02.32:696][751]SourceControl: [master e1ba5ce] Hopefullly youll see the apartment
+[2020.11.17-22.02.32:696][751]SourceControl:  2 files changed, 0 insertions(+), 0 deletions(-)
+[2020.11.17-22.02.32:703][751]SourceControl: Commited [master e1ba5ce] Hopefullly youll see the apartment.
+[2020.11.17-22.05.36:475][862]LogStaticMesh: Building static mesh Light_03...
+[2020.11.17-22.05.36:519][862]LogStaticMesh: Built static mesh [0.04s] /Game/LowPolyInterior/Meshes/Light/Light_03.Light_03
+[2020.11.17-22.05.36:550][862]LogActorFactory: Actor Factory created Light_03
+[2020.11.17-22.05.37:838][939]LogActorFactory: Actor Factory created Light_03
+[2020.11.17-22.05.54:818][942]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight14)
+[2020.11.17-22.06.02:446][355]Cmd: EDIT COPY
+[2020.11.17-22.06.02:646][367]Cmd: EDIT PASTE
+[2020.11.17-22.06.12:218][937]Cmd: EDIT COPY
+[2020.11.17-22.06.12:402][948]Cmd: EDIT PASTE
+[2020.11.17-22.06.22:402][542]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight15)
+[2020.11.17-22.06.34:592][267]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Prop_Door_2)
+[2020.11.17-22.06.37:116][414]Cmd: TRANSACTION UNDO
+[2020.11.17-22.06.37:116][414]LogEditorTransaction: Undo Move Actors
+[2020.11.17-22.07.18:967][861]LogClient: High resolution screenshot saved as C:/Users/13307/Documents/GitHub/Trash_King/TrashKingProto_2_0/Saved/Screenshots/Windows/HighresScreenshot00003.png
+[2020.11.17-22.07.26:554][277]LogClient: High resolution screenshot saved as C:/Users/13307/Documents/GitHub/Trash_King/TrashKingProto_2_0/Saved/Screenshots/Windows/HighresScreenshot00004.png
+[2020.11.17-22.07.29:728][443]LogClient: High resolution screenshot saved as C:/Users/13307/Documents/GitHub/Trash_King/TrashKingProto_2_0/Saved/Screenshots/Windows/HighresScreenshot00005.png
+[2020.11.17-22.09.06:236][ 41]LogSlate: Window 'High Resolution Screenshot' being destroyed
+[2020.11.17-22.09.19:120][798]LogClient: High resolution screenshot saved as C:/Users/13307/Documents/GitHub/Trash_King/TrashKingProto_2_0/Saved/Screenshots/Windows/HighresScreenshot00006.png
+[2020.11.17-22.09.35:124][698]LogClient: High resolution screenshot saved as C:/Users/13307/Documents/GitHub/Trash_King/TrashKingProto_2_0/Saved/Screenshots/Windows/HighresScreenshot00007.png
+[2020.11.17-22.11.00:406][181]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight13)
+[2020.11.17-22.11.14:043][977]LogMaterial: Display: Missing cached shader map for material Material_0, compiling. 
+[2020.11.17-22.11.14:083][978]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 4
+[2020.11.17-22.11.14:083][978]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 3
+[2020.11.17-22.11.14:083][978]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 2
+[2020.11.17-22.11.14:083][978]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 1
+[2020.11.17-22.12.22:551][961]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Prop_Door_01)
+[2020.11.17-22.12.23:406][ 10]Cmd: DELETE
+[2020.11.17-22.12.23:406][ 10]Cmd: ACTOR DELETE
+[2020.11.17-22.12.23:416][ 10]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.11.17-22.12.23:427][ 10]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2020.11.17-22.12.23:431][ 10]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2020.11.17-22.12.25:401][128]LogStaticMesh: Building static mesh Door_05...
+[2020.11.17-22.12.25:446][128]LogStaticMesh: Built static mesh [0.04s] /Game/LowPolyInterior/Meshes/Walls/Door_05.Door_05
+[2020.11.17-22.12.25:466][128]LogActorFactory: Actor Factory created Door_05
+[2020.11.17-22.12.26:662][199]LogActorFactory: Actor Factory created Door_05
+[2020.11.17-22.13.00:880][239]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Prop_Door_3)
+[2020.11.17-22.13.01:609][281]Cmd: DELETE
+[2020.11.17-22.13.01:609][281]Cmd: ACTOR DELETE
+[2020.11.17-22.13.01:618][281]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.11.17-22.13.01:630][281]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2020.11.17-22.13.01:632][281]LogEditorActor: Deleted 1 Actors (0.023 secs)
+[2020.11.17-22.13.03:631][399]LogActorFactory: Actor Factory created Door_05
+[2020.11.17-22.13.05:003][481]LogActorFactory: Actor Factory created Door_05
+[2020.11.17-22.13.28:389][853]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Prop_Door_2)
+[2020.11.17-22.13.42:890][706]LogStaticMesh: Building static mesh WallFloor2_06...
+[2020.11.17-22.13.42:928][706]LogStaticMesh: Built static mesh [0.04s] /Game/LowPolyInterior/Meshes/Walls/WallFloor2_06.WallFloor2_06
+[2020.11.17-22.13.42:959][706]LogActorFactory: Actor Factory created WallFloor2_06
+[2020.11.17-22.13.43:569][742]LogActorFactory: Actor Factory created WallFloor2_06
+[2020.11.17-22.13.46:174][893]Cmd: TRANSACTION UNDO
+[2020.11.17-22.13.46:174][893]LogEditorTransaction: Undo Rotate Actors
+[2020.11.17-22.13.47:002][922]Cmd: TRANSACTION UNDO
+[2020.11.17-22.13.47:002][922]LogEditorTransaction: Undo Create Actors
+[2020.11.17-22.14.02:733][859]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Prop_Door_2)
+[2020.11.17-22.14.08:314][192]Cmd: EDIT COPY
+[2020.11.17-22.14.08:531][205]Cmd: EDIT PASTE
+[2020.11.17-22.14.36:481][862]LogStaticMesh: Building static mesh WallFloor1_07...
+[2020.11.17-22.14.36:517][862]LogStaticMesh: Built static mesh [0.04s] /Game/LowPolyInterior/Meshes/Walls/WallFloor1_07.WallFloor1_07
+[2020.11.17-22.14.36:550][862]LogActorFactory: Actor Factory created WallFloor1_07
+[2020.11.17-22.14.37:259][904]LogActorFactory: Actor Factory created WallFloor1_07
+[2020.11.17-22.14.37:668][926]Cmd: TRANSACTION UNDO
+[2020.11.17-22.14.37:668][926]LogEditorTransaction: Undo Create Actors
+[2020.11.17-22.14.38:501][951]LogStaticMesh: Building static mesh WallFloor1_02...
+[2020.11.17-22.14.38:537][951]LogStaticMesh: Built static mesh [0.04s] /Game/LowPolyInterior/Meshes/Walls/WallFloor1_02.WallFloor1_02
+[2020.11.17-22.14.38:624][954]LogActorFactory: Actor Factory created WallFloor1_02
+[2020.11.17-22.14.39:063][980]LogActorFactory: Actor Factory created WallFloor1_02
+[2020.11.17-22.14.39:690][ 15]Cmd: TRANSACTION UNDO
+[2020.11.17-22.14.39:690][ 15]LogEditorTransaction: Undo Create Actors
+[2020.11.17-22.14.41:989][147]LogStaticMesh: Building static mesh WallFloor1_12...
+[2020.11.17-22.14.42:022][147]LogStaticMesh: Built static mesh [0.03s] /Game/LowPolyInterior/Meshes/Walls/WallFloor1_12.WallFloor1_12
+[2020.11.17-22.14.42:085][149]LogActorFactory: Actor Factory created WallFloor1_12
+[2020.11.17-22.14.42:724][187]LogActorFactory: Actor Factory created WallFloor1_12
+[2020.11.17-22.14.43:154][210]Cmd: TRANSACTION UNDO
+[2020.11.17-22.14.43:154][210]LogEditorTransaction: Undo Create Actors
+[2020.11.17-22.14.44:005][236]LogStaticMesh: Building static mesh WallFloor1_11...
+[2020.11.17-22.14.44:041][236]LogStaticMesh: Built static mesh [0.04s] /Game/LowPolyInterior/Meshes/Walls/WallFloor1_11.WallFloor1_11
+[2020.11.17-22.14.44:070][236]LogActorFactory: Actor Factory created WallFloor1_11
+[2020.11.17-22.14.44:662][271]LogActorFactory: Actor Factory created WallFloor1_11
+[2020.11.17-22.14.44:942][285]Cmd: TRANSACTION UNDO
+[2020.11.17-22.14.44:942][285]LogEditorTransaction: Undo Create Actors
+[2020.11.17-22.14.46:190][356]LogStaticMesh: Building static mesh WallFloor2_10...
+[2020.11.17-22.14.46:227][356]LogStaticMesh: Built static mesh [0.04s] /Game/LowPolyInterior/Meshes/Walls/WallFloor2_10.WallFloor2_10
+[2020.11.17-22.14.46:293][358]LogActorFactory: Actor Factory created WallFloor2_10
+[2020.11.17-22.14.47:515][431]LogActorFactory: Actor Factory created WallFloor2_10
+[2020.11.17-22.14.48:121][465]Cmd: TRANSACTION UNDO
+[2020.11.17-22.14.48:121][465]LogEditorTransaction: Undo Create Actors
+[2020.11.17-22.14.50:865][609]LogActorFactory: Actor Factory created WallFloor2_10
+[2020.11.17-22.14.51:520][648]LogActorFactory: Actor Factory created WallFloor2_10
+[2020.11.17-22.15.23:202][528]LogStaticMesh: Building static mesh Floor_02...
+[2020.11.17-22.15.23:235][528]LogStaticMesh: Built static mesh [0.03s] /Game/LowPolyInterior/Meshes/Floor/Floor_02.Floor_02
+[2020.11.17-22.15.23:268][528]LogActorFactory: Actor Factory created Floor_02
+[2020.11.17-22.15.24:157][580]LogActorFactory: Actor Factory created Floor_02
+[2020.11.17-22.15.24:521][599]Cmd: TRANSACTION UNDO
+[2020.11.17-22.15.24:522][599]LogEditorTransaction: Undo Create Actors
+[2020.11.17-22.15.25:549][626]LogActorFactory: Actor Factory created Floor_04
+[2020.11.17-22.15.26:162][662]LogActorFactory: Actor Factory created Floor_04
+[2020.11.17-22.15.53:954][304]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_26)
+[2020.11.17-22.15.57:940][540]Cmd: EDIT COPY
+[2020.11.17-22.15.58:128][550]Cmd: EDIT PASTE
+[2020.11.17-22.16.04:315][917]Cmd: EDIT COPY
+[2020.11.17-22.16.04:532][930]Cmd: EDIT PASTE
+[2020.11.17-22.16.16:457][634]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_26)
+[2020.11.17-22.16.17:362][686]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_27)
+[2020.11.17-22.16.19:304][799]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_13)
+[2020.11.17-22.16.21:478][927]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_27)
+[2020.11.17-22.16.25:193][142]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_27)
+[2020.11.17-22.16.28:862][359]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_13)
+[2020.11.17-22.16.35:312][720]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_26)
+[2020.11.17-22.17.13:290][956]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_28)
+[2020.11.17-22.18.24:847][210]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2020.11.17-22.18.25:061][210]LogSavePackage: Moving 'C:/Users/13307/Documents/GitHub/Trash_King/TrashKingProto_2_0/Saved/ApartmentComplex2E160E434ACC9D143D554292FE207597.tmp' to 'C:/Users/13307/Documents/GitHub/Trash_King/TrashKingProto_2_0/Content/Levels/ApartmentComplex.umap'
+[2020.11.17-22.18.25:169][210]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/ApartmentComplex_BuiltData" FILE="C:/Users/13307/Documents/GitHub/Trash_King/TrashKingProto_2_0/Content/Levels/ApartmentComplex_BuiltData.uasset" SILENT=true
+[2020.11.17-22.18.25:633][210]LogSavePackage: Moving 'C:/Users/13307/Documents/GitHub/Trash_King/TrashKingProto_2_0/Saved/ApartmentComplex_BuiltDataB60BE71F4E615C79E70F499E9AFE7ECE.tmp' to 'C:/Users/13307/Documents/GitHub/Trash_King/TrashKingProto_2_0/Content/Levels/ApartmentComplex_BuiltData.uasset'
+[2020.11.17-22.18.25:645][210]AssetCheck: New page: Asset Save: multiple assets
+[2020.11.17-22.18.25:645][210]LogContentValidation: Display: Validating World /Game/Levels/ApartmentComplex.ApartmentComplex
+[2020.11.17-22.18.25:645][210]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/ApartmentComplex_BuiltData.ApartmentComplex_BuiltData
+[2020.11.17-22.18.27:403][303]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2020.11.17-22.18.53:919][844]LogEditorViewport: Clicking on Actor (LMB): Brush (front_stairs)
+[2020.11.17-22.18.56:705][  8]LogSlate: Window 'High Resolution Screenshot' being destroyed
+[2020.11.17-22.19.03:108][362]LogSlate: Window 'Select Path' being destroyed
+[2020.11.17-22.19.03:165][362]EditorErrors: New page: Actor Reattachment
+[2020.11.17-22.19.03:178][362]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2020.11.17-22.19.09:551][888]LogSlate: Window 'Select Path' being destroyed
+[2020.11.17-22.20.10:289][383]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Refrigerator3)
+[2020.11.17-22.23.00:172][676]LogSlate: Window 'Select Path' being destroyed
+[2020.11.17-22.23.00:245][676]EditorErrors: New page: Actor Reattachment
+[2020.11.17-22.23.00:261][676]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2020.11.17-22.27.02:886][349]LogSlate: Window 'Select Path' being destroyed
+[2020.11.17-22.27.02:923][349]LogStaticMesh: Building static mesh foundation_StaticMesh...
+[2020.11.17-22.27.02:925][349]LogStaticMesh: Built static mesh [0.00s] /Game/foundation_StaticMesh.foundation_StaticMesh
+[2020.11.17-22.27.02:928][349]LogActorFactory: Actor Factory created foundation_StaticMesh
+[2020.11.17-22.27.02:977][349]LogEditor: Error: Actor 'Brush /Game/Levels/ApartmentComplex.ApartmentComplex:PersistentLevel.foundation' is marked pending kill and cannot be converted
+[2020.11.17-22.27.02:978][349]EditorErrors: New page: Actor Reattachment
+[2020.11.17-22.27.03:081][349]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2020.11.17-22.27.05:370][603]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (foundation_StaticMesh)
+[2020.11.17-22.27.08:288][916]Cmd: TRANSACTION UNDO
+[2020.11.17-22.27.08:288][916]LogEditorTransaction: Undo Convert Actors
+[2020.11.17-22.33.17:193][827]LogEditorViewport: Clicking on Actor (LMB): Brush (front_stairs)
+[2020.11.17-22.33.28:266][ 56]Cmd: ACTOR HIDE SELECTED
+[2020.11.17-22.33.37:254][ 94]Cmd: TRANSACTION UNDO
+[2020.11.17-22.33.37:254][ 94]LogEditorTransaction: Undo Hide Selected
+[2020.11.17-22.34.01:494][589]LogSlate: Window 'Select Path' being destroyed
+[2020.11.17-22.34.01:531][589]LogStaticMesh: Building static mesh FOUNDATION_STATIC...
+[2020.11.17-22.34.01:533][589]LogStaticMesh: Built static mesh [0.00s] /Game/FOUNDATION_STATIC.FOUNDATION_STATIC
+[2020.11.17-22.34.01:536][589]LogActorFactory: Actor Factory created FOUNDATION_STATIC
+[2020.11.17-22.34.01:686][589]LogEditor: Error: Actor 'Brush /Game/Levels/ApartmentComplex.ApartmentComplex:PersistentLevel.foundation' is marked pending kill and cannot be converted
+[2020.11.17-22.34.01:686][589]EditorErrors: New page: Actor Reattachment
+[2020.11.17-22.34.01:704][589]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2020.11.17-22.35.05:988][830]Cmd: TRANSACTION UNDO
+[2020.11.17-22.35.05:988][830]LogEditorTransaction: Undo Create Actors
+[2020.11.17-22.35.05:991][830]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/ApartmentComplex.ApartmentComplex:PersistentLevel.ModelComponent_391' invalid (4388 verts, 0 indices).
+[2020.11.17-22.35.05:992][830]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/ApartmentComplex.ApartmentComplex:PersistentLevel.ModelComponent_391.BodySetup_0 when we are unable to.
+[2020.11.17-22.37.20:094][151]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 E:/SCHOOL HW FALL 2020/Trashking/Models/BOOGIE KING BOX/BoogieKingBox.fbx)
+[2020.11.17-22.37.20:323][151]LogFbx: Loading FBX Scene from E:/SCHOOL HW FALL 2020/Trashking/Models/BOOGIE KING BOX/BoogieKingBox.fbx
+[2020.11.17-22.37.20:379][151]LogFbx: FBX Scene Loaded Succesfully
+[2020.11.17-22.37.22:299][151]LogSlate: Window 'FBX Import Options' being destroyed
+[2020.11.17-22.37.24:465][151]LogMaterial: Display: Missing cached shader map for material BurgerBox, compiling. 
+[2020.11.17-22.37.24:479][151]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 15
+[2020.11.17-22.37.24:479][151]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 13
+[2020.11.17-22.37.24:479][151]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 11
+[2020.11.17-22.37.24:479][151]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 9
+[2020.11.17-22.37.24:479][151]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 7
+[2020.11.17-22.37.24:479][151]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 5
+[2020.11.17-22.37.24:479][151]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2020.11.17-22.37.24:479][151]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 1
+[2020.11.17-22.37.24:479][151]LogFbx: Display: Triangulating static mesh pCube1
+[2020.11.17-22.37.24:494][151]LogStaticMesh: Building static mesh BoogieKingBox...
+[2020.11.17-22.37.24:497][151]LogStaticMesh: Built static mesh [0.00s] /Game/TEAMXX_ASSETS/Trashets/BoogieKingBox.BoogieKingBox
+[2020.11.17-22.37.24:520][151]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.11.17-22.37.24:771][151]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 E:/SCHOOL HW FALL 2020/Trashking/Models/BOOGIE KING BOX/BoogieKingBox_lambert1_BaseColor.png)
+[2020.11.17-22.37.25:521][151]LogTexture: Display: Building textures: BoogieKingBox_lambert1_BaseColor (AutoDXT, 1024X1024)
+[2020.11.17-22.37.28:291][380]LogSlate: Window 'Message Log' being destroyed
+[2020.11.17-22.37.28:296][380]LogSlate: Window 'Message Log' being destroyed
+[2020.11.17-22.37.56:368][144]LogMetaData: Removing '/Game/TEAMXX_ASSETS/Trashets/Boogie_King_BOX/BoogieKingBox.BoogieKingBox' ref from Metadata '/Game/TEAMXX_ASSETS/Trashets/BoogieKingBox.PackageMetaData'
+[2020.11.17-22.37.56:559][144]LogSavePackage: Moving 'C:/Users/13307/Documents/GitHub/Trash_King/TrashKingProto_2_0/Saved/BoogieKingBox09875D404B7E02D56A57C08270EED029.tmp' to 'C:/Users/13307/Documents/GitHub/Trash_King/TrashKingProto_2_0/Content/TEAMXX_ASSETS/Trashets/Boogie_King_BOX/BoogieKingBox.uasset'
+[2020.11.17-22.37.56:778][144]LogSavePackage: Moving 'C:/Users/13307/Documents/GitHub/Trash_King/TrashKingProto_2_0/Saved/BoogieKingBox_lambert1_BaseColor6D70BE7C4BD9C97744E050AE8137E33D.tmp' to 'C:/Users/13307/Documents/GitHub/Trash_King/TrashKingProto_2_0/Content/TEAMXX_ASSETS/Trashets/Boogie_King_BOX/BoogieKingBox_lambert1_BaseColor.uasset'
+[2020.11.17-22.37.57:122][144]LogSavePackage: Moving 'C:/Users/13307/Documents/GitHub/Trash_King/TrashKingProto_2_0/Saved/BurgerBox276ABDCB405375E51A4303983543CA60.tmp' to 'C:/Users/13307/Documents/GitHub/Trash_King/TrashKingProto_2_0/Content/TEAMXX_ASSETS/Trashets/Boogie_King_BOX/BurgerBox.uasset'
+[2020.11.17-22.37.58:252][144]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2020.11.17-22.37.58:304][144]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2020.11.17-22.37.58:318][144]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2020.11.17-22.37.58:341][144]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2020.11.17-22.37.58:356][144]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2020.11.17-22.37.59:862][144]AssetCheck: New page: Asset Save: multiple assets
+[2020.11.17-22.37.59:862][144]LogContentValidation: Display: Validating StaticMesh /Game/TEAMXX_ASSETS/Trashets/Boogie_King_BOX/BoogieKingBox.BoogieKingBox
+[2020.11.17-22.37.59:862][144]LogContentValidation: Display: Validating Texture2D /Game/TEAMXX_ASSETS/Trashets/Boogie_King_BOX/BoogieKingBox_lambert1_BaseColor.BoogieKingBox_lambert1_BaseColor
+[2020.11.17-22.37.59:862][144]LogContentValidation: Display: Validating Material /Game/TEAMXX_ASSETS/Trashets/Boogie_King_BOX/BurgerBox.BurgerBox
+[2020.11.17-22.38.22:598][968]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 E:/SCHOOL HW FALL 2020/Trashking/Models/PIZZA BOX/PizzaBox.fbx)
+[2020.11.17-22.38.22:605][968]LogFbx: Loading FBX Scene from E:/SCHOOL HW FALL 2020/Trashking/Models/PIZZA BOX/PizzaBox.fbx
+[2020.11.17-22.38.22:611][968]LogFbx: FBX Scene Loaded Succesfully
+[2020.11.17-22.38.25:102][968]LogSlate: Window 'FBX Import Options' being destroyed
+[2020.11.17-22.38.25:141][968]LogMaterial: Display: Missing cached shader map for material Pizza_Box, compiling. 
+[2020.11.17-22.38.25:151][968]LogFbx: Display: Triangulating static mesh BEEETZA_Box
+[2020.11.17-22.38.25:155][968]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 15
+[2020.11.17-22.38.25:155][968]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 13
+[2020.11.17-22.38.25:155][968]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 11
+[2020.11.17-22.38.25:155][968]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 9
+[2020.11.17-22.38.25:155][968]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 7
+[2020.11.17-22.38.25:155][968]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 5
+[2020.11.17-22.38.25:155][968]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2020.11.17-22.38.25:155][968]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 1
+[2020.11.17-22.38.25:173][968]LogStaticMesh: Building static mesh PizzaBox...
+[2020.11.17-22.38.25:178][968]LogStaticMesh: Built static mesh [0.01s] /Game/TEAMXX_ASSETS/Trashets/BIZZA_BOX/PizzaBox.PizzaBox
+[2020.11.17-22.38.25:186][968]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.11.17-22.38.25:708][968]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 E:/SCHOOL HW FALL 2020/Trashking/Models/PIZZA BOX/PizzaBox_lambert1_BaseColor.png)
+[2020.11.17-22.38.25:732][968]LogTexture: Display: Building textures: PizzaBox_lambert1_BaseColor (AutoDXT, 1024X1024)
+[2020.11.17-22.38.27:375][ 41]LogSlate: Window 'Message Log' being destroyed
+[2020.11.17-22.38.27:388][ 41]LogSlate: Window 'Message Log' being destroyed
+[2020.11.17-22.38.30:907][320]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/TEAMXX_ASSETS/Trashets/BIZZA_BOX/Pizza_Box.Pizza_Box
+[2020.11.17-22.38.31:014][320]LogMaterial: Display: Missing cached shader map for material Pizza_Box, compiling. 
+[2020.11.17-22.38.32:490][320]LogMaterial: Display: Missing cached shader map for material Pizza_Box, compiling. 
+[2020.11.17-22.38.32:543][320]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2020.11.17-22.38.32:543][320]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2020.11.17-22.38.32:543][320]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 7
+[2020.11.17-22.38.32:543][320]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2020.11.17-22.38.32:543][320]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2020.11.17-22.38.32:543][320]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2020.11.17-22.38.32:543][320]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2020.11.17-22.38.32:543][320]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2020.11.17-22.38.32:544][320]LogMaterial: Display: Missing cached shader map for material Pizza_Box, compiling. 
+[2020.11.17-22.38.32:558][320]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2020.11.17-22.38.32:625][320]LogSlate: Took 0.000186 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.11.17-22.38.33:265][320]LogRenderer: Reallocating scene render targets to support 708x640 Format 9 NumSamples 1 (Frame:1).
+[2020.11.17-22.38.33:265][320]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 13
+[2020.11.17-22.38.33:265][320]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 12
+[2020.11.17-22.38.33:265][320]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 11
+[2020.11.17-22.38.33:265][320]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 10
+[2020.11.17-22.38.33:643][329]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 9
+[2020.11.17-22.38.33:682][330]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 8
+[2020.11.17-22.38.33:849][335]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 7
+[2020.11.17-22.38.33:888][336]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 6
+[2020.11.17-22.38.33:992][338]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 5
+[2020.11.17-22.38.34:208][343]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 4
+[2020.11.17-22.38.34:323][346]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 3
+[2020.11.17-22.38.34:454][350]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 2
+[2020.11.17-22.38.34:454][350]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 1
+[2020.11.17-22.38.35:125][370]MaterialEditorStats: Base pass shader: 90 instructions
+[2020.11.17-22.38.35:126][370]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 164 instructions
+[2020.11.17-22.38.35:126][370]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2020.11.17-22.38.35:126][370]MaterialEditorStats: Texture samplers: 1/16
+[2020.11.17-22.38.35:824][422]LogMaterial: Display: Missing cached shader map for material Pizza_Box, compiling. 
+[2020.11.17-22.38.35:881][423]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2020.11.17-22.38.35:881][423]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2020.11.17-22.38.35:881][423]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 7
+[2020.11.17-22.38.35:881][423]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2020.11.17-22.38.35:881][423]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2020.11.17-22.38.35:881][423]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2020.11.17-22.38.35:881][423]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2020.11.17-22.38.35:881][423]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2020.11.17-22.38.36:732][446]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 1
+[2020.11.17-22.38.37:351][468]MaterialEditorStats: Base pass shader: 90 instructions
+[2020.11.17-22.38.37:351][468]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 164 instructions
+[2020.11.17-22.38.37:351][468]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2020.11.17-22.38.37:351][468]MaterialEditorStats: Texture samplers: 1/16
+[2020.11.17-22.38.39:978][669]LogMaterial: Display: Missing cached shader map for material Pizza_Box, compiling. 
+[2020.11.17-22.38.40:108][670]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2020.11.17-22.38.40:108][670]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2020.11.17-22.38.40:108][670]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 7
+[2020.11.17-22.38.40:108][670]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2020.11.17-22.38.40:108][670]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2020.11.17-22.38.40:108][670]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2020.11.17-22.38.40:108][670]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2020.11.17-22.38.40:108][670]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2020.11.17-22.38.40:753][683]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 1
+[2020.11.17-22.38.41:319][702]MaterialEditorStats: Base pass shader: 90 instructions
+[2020.11.17-22.38.41:319][702]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 164 instructions
+[2020.11.17-22.38.41:319][702]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2020.11.17-22.38.41:319][702]MaterialEditorStats: Texture samplers: 1/16
+[2020.11.17-22.38.46:456][ 76]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2020.11.17-22.38.46:462][ 76]LogMaterial: Display: Missing cached shader map for material Pizza_Box, compiling. 
+[2020.11.17-22.38.46:468][ 76]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 13
+[2020.11.17-22.38.46:468][ 76]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 12
+[2020.11.17-22.38.46:468][ 76]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 11
+[2020.11.17-22.38.46:468][ 76]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 10
+[2020.11.17-22.38.46:468][ 76]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 9
+[2020.11.17-22.38.46:468][ 76]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 8
+[2020.11.17-22.38.46:468][ 76]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 7
+[2020.11.17-22.38.46:468][ 76]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 6
+[2020.11.17-22.38.46:468][ 76]LogSlate: Window 'Color Picker' being destroyed
+[2020.11.17-22.38.47:316][ 98]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 5
+[2020.11.17-22.38.47:316][ 98]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 4
+[2020.11.17-22.38.47:316][ 98]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2020.11.17-22.38.47:449][102]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 2
+[2020.11.17-22.38.47:486][103]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2020.11.17-22.38.48:307][133]MaterialEditorStats: Base pass shader: 90 instructions
+[2020.11.17-22.38.48:307][133]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 164 instructions
+[2020.11.17-22.38.48:307][133]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2020.11.17-22.38.48:307][133]MaterialEditorStats: Texture samplers: 1/16
+[2020.11.17-22.38.59:215][939]LogMaterial: Display: Missing cached shader map for material Pizza_Box, compiling. 
+[2020.11.17-22.38.59:251][940]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2020.11.17-22.38.59:251][940]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2020.11.17-22.38.59:251][940]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 7
+[2020.11.17-22.38.59:251][940]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2020.11.17-22.38.59:251][940]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2020.11.17-22.38.59:251][940]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2020.11.17-22.38.59:251][940]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2020.11.17-22.38.59:251][940]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2020.11.17-22.39.00:136][962]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 1
+[2020.11.17-22.39.00:807][984]MaterialEditorStats: Base pass shader: 90 instructions
+[2020.11.17-22.39.00:807][984]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 164 instructions
+[2020.11.17-22.39.00:807][984]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2020.11.17-22.39.00:807][984]MaterialEditorStats: Texture samplers: 1/16
+[2020.11.17-22.39.01:266][ 21]LogMaterial: Display: Missing cached shader map for material Pizza_Box, compiling. 
+[2020.11.17-22.39.01:308][ 22]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2020.11.17-22.39.01:309][ 22]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2020.11.17-22.39.01:309][ 22]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 7
+[2020.11.17-22.39.01:309][ 22]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2020.11.17-22.39.01:309][ 22]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2020.11.17-22.39.01:309][ 22]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2020.11.17-22.39.01:309][ 22]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2020.11.17-22.39.01:309][ 22]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2020.11.17-22.39.01:824][ 35]LogMaterial: Display: Missing cached shader map for material Pizza_Box, compiling. 
+[2020.11.17-22.39.02:083][ 41]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 9
+[2020.11.17-22.39.02:083][ 41]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 8
+[2020.11.17-22.39.02:394][ 45]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 7
+[2020.11.17-22.39.02:465][ 45]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 6
+[2020.11.17-22.39.02:598][ 48]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 5
+[2020.11.17-22.39.02:672][ 48]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 4
+[2020.11.17-22.39.02:672][ 48]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 3
+[2020.11.17-22.39.02:672][ 48]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2020.11.17-22.39.03:087][ 54]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2020.11.17-22.39.03:582][ 70]MaterialEditorStats: Base pass shader: 88 instructions
+[2020.11.17-22.39.03:582][ 70]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 156 instructions
+[2020.11.17-22.39.03:582][ 70]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2020.11.17-22.39.03:582][ 70]MaterialEditorStats: Texture samplers: 1/16
+[2020.11.17-22.39.05:051][190]LogMaterial: Display: Missing cached shader map for material Pizza_Box, compiling. 
+[2020.11.17-22.39.05:171][190]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2020.11.17-22.39.05:171][190]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2020.11.17-22.39.05:171][190]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 7
+[2020.11.17-22.39.05:171][190]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2020.11.17-22.39.05:171][190]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2020.11.17-22.39.05:171][190]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2020.11.17-22.39.05:171][190]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2020.11.17-22.39.05:171][190]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2020.11.17-22.39.05:224][191]LogMaterial: Display: Missing cached shader map for material Material_1, compiling. 
+[2020.11.17-22.39.05:853][203]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 5
+[2020.11.17-22.39.05:891][204]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2020.11.17-22.39.06:087][209]LogMaterial: Display: Missing cached shader map for material Pizza_Box, compiling. 
+[2020.11.17-22.39.06:175][210]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 12
+[2020.11.17-22.39.06:314][213]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 11
+[2020.11.17-22.39.06:406][213]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 10
+[2020.11.17-22.39.06:406][213]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 9
+[2020.11.17-22.39.06:441][215]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 8
+[2020.11.17-22.39.06:441][215]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 7
+[2020.11.17-22.39.06:469][216]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 6
+[2020.11.17-22.39.06:610][221]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 5
+[2020.11.17-22.39.07:039][230]LogMaterial: Display: Missing cached shader map for material Pizza_Box, compiling. 
+[2020.11.17-22.39.07:130][231]LogMaterial: Display: Missing cached shader map for material Material_2, compiling. 
+[2020.11.17-22.39.07:261][232]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 16
+[2020.11.17-22.39.07:270][232]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 15
+[2020.11.17-22.39.07:307][232]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 14
+[2020.11.17-22.39.07:385][235]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 13
+[2020.11.17-22.39.07:663][242]LogMaterial: Display: Missing cached shader map for material Pizza_Box, compiling. 
+[2020.11.17-22.39.07:806][244]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 16
+[2020.11.17-22.39.07:806][244]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 15
+[2020.11.17-22.39.07:866][245]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 14
+[2020.11.17-22.39.07:866][245]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 13
+[2020.11.17-22.39.08:127][251]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 12
+[2020.11.17-22.39.08:392][253]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 11
+[2020.11.17-22.39.08:565][258]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 10
+[2020.11.17-22.39.08:613][259]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 9
+[2020.11.17-22.39.08:650][260]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 8
+[2020.11.17-22.39.08:832][264]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 7
+[2020.11.17-22.39.09:063][268]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 6
+[2020.11.17-22.39.09:101][269]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2020.11.17-22.39.09:102][269]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 4
+[2020.11.17-22.39.09:382][276]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 3
+[2020.11.17-22.39.09:383][276]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 2
+[2020.11.17-22.39.09:509][278]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 1
+[2020.11.17-22.39.09:836][286]MaterialEditorStats: Base pass shader: 88 instructions
+[2020.11.17-22.39.09:836][286]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 156 instructions
+[2020.11.17-22.39.09:836][286]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2020.11.17-22.39.09:836][286]MaterialEditorStats: Texture samplers: 1/16
+[2020.11.17-22.40.32:353][699]LogMaterial: Display: Missing cached shader map for material Pizza_Box, compiling. 
+[2020.11.17-22.40.32:359][699]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2020.11.17-22.40.32:359][699]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2020.11.17-22.40.32:360][699]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 7
+[2020.11.17-22.40.32:360][699]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2020.11.17-22.40.32:360][699]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2020.11.17-22.40.32:360][699]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2020.11.17-22.40.32:360][699]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2020.11.17-22.40.32:360][699]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2020.11.17-22.40.32:360][699]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2020.11.17-22.40.33:422][731]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 5
+[2020.11.17-22.40.33:422][731]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 4
+[2020.11.17-22.40.33:874][741]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 3
+[2020.11.17-22.40.33:875][741]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 2
+[2020.11.17-22.40.33:958][742]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 1
+[2020.11.17-22.40.34:265][751]MaterialEditorStats: Base pass shader: 88 instructions
+[2020.11.17-22.40.34:265][751]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 156 instructions
+[2020.11.17-22.40.34:265][751]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2020.11.17-22.40.34:265][751]MaterialEditorStats: Texture samplers: 1/16
+[2020.11.17-22.40.34:410][757]LogMaterial: Display: Missing cached shader map for material Pizza_Box, compiling. 
+[2020.11.17-22.40.34:419][757]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2020.11.17-22.40.34:419][757]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 8
+[2020.11.17-22.40.34:419][757]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 7
+[2020.11.17-22.40.34:419][757]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 6
+[2020.11.17-22.40.34:419][757]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 5
+[2020.11.17-22.40.34:431][757]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2020.11.17-22.40.34:569][760]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 8
+[2020.11.17-22.40.34:634][762]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 7
+[2020.11.17-22.40.34:670][763]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 6
+[2020.11.17-22.40.35:253][777]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2020.11.17-22.40.35:407][781]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 4
+[2020.11.17-22.40.35:510][784]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 3
+[2020.11.17-22.40.35:884][794]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 2
+[2020.11.17-22.40.35:921][795]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2020.11.17-22.40.36:197][802]MaterialEditorStats: Base pass shader: 88 instructions
+[2020.11.17-22.40.36:197][802]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 156 instructions
+[2020.11.17-22.40.36:197][802]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2020.11.17-22.40.36:197][802]MaterialEditorStats: Texture samplers: 1/16
+[2020.11.17-22.40.37:633][903]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2020.11.17-22.40.37:639][903]LogMaterial: Display: Missing cached shader map for material Pizza_Box, compiling. 
+[2020.11.17-22.40.37:644][903]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 4
+[2020.11.17-22.40.37:644][903]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 3
+[2020.11.17-22.40.37:645][903]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 2
+[2020.11.17-22.40.37:645][903]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 1
+[2020.11.17-22.40.37:646][903]LogSlate: Window 'Color Picker' being destroyed
+[2020.11.17-22.40.37:670][904]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 9
+[2020.11.17-22.40.37:670][904]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 8
+[2020.11.17-22.40.37:670][904]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 7
+[2020.11.17-22.40.37:670][904]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 6
+[2020.11.17-22.40.38:491][927]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 5
+[2020.11.17-22.40.38:534][928]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 4
+[2020.11.17-22.40.38:534][928]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 3
+[2020.11.17-22.40.38:776][935]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 2
+[2020.11.17-22.40.38:776][935]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 1
+[2020.11.17-22.40.39:543][963]MaterialEditorStats: Base pass shader: 88 instructions
+[2020.11.17-22.40.39:543][963]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 156 instructions
+[2020.11.17-22.40.39:543][963]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2020.11.17-22.40.39:543][963]MaterialEditorStats: Texture samplers: 1/16
+[2020.11.17-22.41.54:626][263]LogMaterial: Display: Missing cached shader map for material Pizza_Box, compiling. 
+[2020.11.17-22.41.54:632][263]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.11.17-22.41.54:774][264]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2020.11.17-22.41.54:774][264]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2020.11.17-22.41.54:774][264]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 7
+[2020.11.17-22.41.54:774][264]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2020.11.17-22.41.54:774][264]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2020.11.17-22.41.54:774][264]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2020.11.17-22.41.54:774][264]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2020.11.17-22.41.54:774][264]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2020.11.17-22.41.55:551][284]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 1
+[2020.11.17-22.41.56:247][309]MaterialEditorStats: Base pass shader: 88 instructions
+[2020.11.17-22.41.56:247][309]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 156 instructions
+[2020.11.17-22.41.56:247][309]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2020.11.17-22.41.56:247][309]MaterialEditorStats: Texture samplers: 1/16
+[2020.11.17-22.41.56:487][327]LogMaterial: Display: Missing cached shader map for material Pizza_Box, compiling. 
+[2020.11.17-22.41.56:520][328]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2020.11.17-22.41.56:520][328]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2020.11.17-22.41.56:520][328]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 7
+[2020.11.17-22.41.56:520][328]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2020.11.17-22.41.56:520][328]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2020.11.17-22.41.56:520][328]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2020.11.17-22.41.56:520][328]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2020.11.17-22.41.56:520][328]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2020.11.17-22.41.57:346][352]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 1
+[2020.11.17-22.41.57:944][373]MaterialEditorStats: Base pass shader: 88 instructions
+[2020.11.17-22.41.57:944][373]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 156 instructions
+[2020.11.17-22.41.57:944][373]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2020.11.17-22.41.57:944][373]MaterialEditorStats: Texture samplers: 1/16
+[2020.11.17-22.41.59:081][465]LogMaterial: Display: Missing cached shader map for material Pizza_Box, compiling. 
+[2020.11.17-22.41.59:081][465]LogMaterial: Warning: /Engine/Transient.Pizza_Box (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.11.17-22.41.59:081][465]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.11.17-22.41.59:091][465]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.11.17-22.41.59:094][465]MaterialEditorStats: Error: [SM5] (Node TextureSample) Texture Sample> Missing input texture
+[2020.11.17-22.42.24:862][691]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/TEAMXX_ASSETS/Trashets/chip/ChipBag_lambert1_BaseColor_Mat.ChipBag_lambert1_BaseColor_Mat
+[2020.11.17-22.42.24:863][691]LogMaterial: Display: Missing cached shader map for material ChipBag_lambert1_BaseColor_Mat, compiling. 
+[2020.11.17-22.42.25:062][691]LogMaterial: Display: Missing cached shader map for material ChipBag_lambert1_BaseColor_Mat, compiling. 
+[2020.11.17-22.42.25:076][691]LogMaterial: Display: Missing cached shader map for material ChipBag_lambert1_BaseColor_Mat, compiling. 
+[2020.11.17-22.42.25:088][691]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 27
+[2020.11.17-22.42.25:088][691]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 26
+[2020.11.17-22.42.25:088][691]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 25
+[2020.11.17-22.42.25:088][691]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 24
+[2020.11.17-22.42.25:088][691]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 23
+[2020.11.17-22.42.25:093][691]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 22
+[2020.11.17-22.42.25:093][691]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 21
+[2020.11.17-22.42.25:093][691]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 20
+[2020.11.17-22.42.25:095][691]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.11.17-22.42.25:844][712]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 23
+[2020.11.17-22.42.26:061][718]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 22
+[2020.11.17-22.42.26:104][719]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 21
+[2020.11.17-22.42.26:250][723]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 20
+[2020.11.17-22.42.26:395][727]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 19
+[2020.11.17-22.42.26:432][728]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 18
+[2020.11.17-22.42.26:432][728]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 17
+[2020.11.17-22.42.26:508][730]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 16
+[2020.11.17-22.42.26:541][731]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 15
+[2020.11.17-22.42.26:831][739]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 14
+[2020.11.17-22.42.26:943][742]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 13
+[2020.11.17-22.42.27:011][744]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 12
+[2020.11.17-22.42.27:238][750]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 11
+[2020.11.17-22.42.27:445][755]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 10
+[2020.11.17-22.42.27:591][757]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2020.11.17-22.42.27:591][757]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 8
+[2020.11.17-22.42.27:591][757]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 7
+[2020.11.17-22.42.27:628][759]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2020.11.17-22.42.28:132][771]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2020.11.17-22.42.28:132][771]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 4
+[2020.11.17-22.42.28:363][778]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 3
+[2020.11.17-22.42.28:410][778]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 2
+[2020.11.17-22.42.28:670][780]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 1
+[2020.11.17-22.42.28:848][783]MaterialEditorStats: Base pass shader: 91 instructions
+[2020.11.17-22.42.28:848][783]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 165 instructions
+[2020.11.17-22.42.28:848][783]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2020.11.17-22.42.28:848][783]MaterialEditorStats: Base pass vertex shader: 87 instructions
+[2020.11.17-22.42.28:848][783]MaterialEditorStats: Texture samplers: 2/16
+[2020.11.17-22.42.28:848][783]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2020.11.17-22.42.28:848][783]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.11.17-22.43.08:046][724]LogMaterial: Display: Missing cached shader map for material Pizza_Box, compiling. 
+[2020.11.17-22.43.08:058][724]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2020.11.17-22.43.08:058][724]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2020.11.17-22.43.08:058][724]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 7
+[2020.11.17-22.43.08:058][724]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2020.11.17-22.43.08:058][724]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2020.11.17-22.43.08:058][724]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2020.11.17-22.43.08:058][724]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2020.11.17-22.43.08:058][724]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2020.11.17-22.43.08:059][724]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.11.17-22.43.08:065][724]LogMaterial: Display: Missing cached shader map for material Pizza_Box, compiling. 
+[2020.11.17-22.43.09:119][755]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 13
+[2020.11.17-22.43.09:159][756]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 12
+[2020.11.17-22.43.09:402][762]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 11
+[2020.11.17-22.43.09:574][766]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 10
+[2020.11.17-22.43.09:725][770]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 9
+[2020.11.17-22.43.09:725][770]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 8
+[2020.11.17-22.43.09:796][772]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 7
+[2020.11.17-22.43.09:833][773]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 6
+[2020.11.17-22.43.10:003][778]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 5
+[2020.11.17-22.43.10:180][782]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2020.11.17-22.43.10:389][787]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 3
+[2020.11.17-22.43.10:430][788]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 2
+[2020.11.17-22.43.10:623][793]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 1
+[2020.11.17-22.43.11:550][824]MaterialEditorStats: Base pass shader: 91 instructions
+[2020.11.17-22.43.11:550][824]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 165 instructions
+[2020.11.17-22.43.11:550][824]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2020.11.17-22.43.11:550][824]MaterialEditorStats: Texture samplers: 2/16
+[2020.11.17-22.43.11:550][824]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2020.11.17-22.43.11:550][824]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.11.17-22.43.12:718][923]LogMaterial: Display: Missing cached shader map for material Pizza_Box, compiling. 
+[2020.11.17-22.43.12:726][923]LogMaterial: Display: Missing cached shader map for material Pizza_Box, compiling. 
+[2020.11.17-22.43.12:741][924]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2020.11.17-22.43.12:741][924]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2020.11.17-22.43.12:741][924]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 7
+[2020.11.17-22.43.12:741][924]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2020.11.17-22.43.12:741][924]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2020.11.17-22.43.12:741][924]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2020.11.17-22.43.12:742][924]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2020.11.17-22.43.12:742][924]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2020.11.17-22.43.13:645][952]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 1
+[2020.11.17-22.43.14:288][974]MaterialEditorStats: Base pass shader: 91 instructions
+[2020.11.17-22.43.14:288][974]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 165 instructions
+[2020.11.17-22.43.14:288][974]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2020.11.17-22.43.14:288][974]MaterialEditorStats: Texture samplers: 2/16
+[2020.11.17-22.43.14:288][974]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2020.11.17-22.43.14:288][974]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.11.17-22.43.15:950][114]LogMaterialEditor: Saving and Compiling material Pizza_Box
+[2020.11.17-22.43.17:518][114]LogMaterial: Display: Missing cached shader map for material Pizza_Box, compiling. 
+[2020.11.17-22.43.17:563][114]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2020.11.17-22.43.17:563][114]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2020.11.17-22.43.17:563][114]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 7
+[2020.11.17-22.43.17:563][114]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2020.11.17-22.43.17:563][114]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2020.11.17-22.43.17:563][114]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2020.11.17-22.43.17:563][114]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2020.11.17-22.43.17:563][114]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2020.11.17-22.43.17:580][114]LogMaterial: Display: Missing cached shader map for material Pizza_Box, compiling. 
+[2020.11.17-22.43.17:647][114]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2020.11.17-22.43.17:735][114]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.11.17-22.43.18:326][114]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 18
+[2020.11.17-22.43.18:326][114]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 17
+[2020.11.17-22.43.18:326][114]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 16
+[2020.11.17-22.43.18:665][114]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 15
+[2020.11.17-22.43.18:665][114]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 13
+[2020.11.17-22.43.18:665][114]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 11
+[2020.11.17-22.43.18:665][114]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 9
+[2020.11.17-22.43.18:665][114]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 7
+[2020.11.17-22.43.18:665][114]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 6
+[2020.11.17-22.43.18:665][114]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 5
+[2020.11.17-22.43.18:665][114]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 4
+[2020.11.17-22.43.18:696][114]TextureStreamingBuild: Display: Compiling optional shaders took 0.995 seconds.
+[2020.11.17-22.43.18:777][114]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2020.11.17-22.43.19:716][114]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 3
+[2020.11.17-22.43.19:716][114]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 2
+[2020.11.17-22.43.19:716][114]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 1
+[2020.11.17-22.43.19:905][114]LogSavePackage: Moving 'C:/Users/13307/Documents/GitHub/Trash_King/TrashKingProto_2_0/Saved/Pizza_Box411893FD432162854D4CCC93EBF90A83.tmp' to 'C:/Users/13307/Documents/GitHub/Trash_King/TrashKingProto_2_0/Content/TEAMXX_ASSETS/Trashets/BIZZA_BOX/Pizza_Box.uasset'
+[2020.11.17-22.43.20:102][114]AssetCheck: New page: Asset Save: Pizza_Box
+[2020.11.17-22.43.20:102][114]LogContentValidation: Display: Validating Material /Game/TEAMXX_ASSETS/Trashets/BIZZA_BOX/Pizza_Box.Pizza_Box
+[2020.11.17-22.43.20:106][114]MaterialEditorStats: Base pass shader: 91 instructions
+[2020.11.17-22.43.20:106][114]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 165 instructions
+[2020.11.17-22.43.20:106][114]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2020.11.17-22.43.20:106][114]MaterialEditorStats: Texture samplers: 3/16
+[2020.11.17-22.43.20:106][114]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2020.11.17-22.43.20:106][114]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.11.17-22.43.20:636][150]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2020.11.17-22.43.20:637][150]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.17-22.43.21:722][238]LogSlate: Window 'Pizza_Box' being destroyed
+[2020.11.17-22.43.21:808][238]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2020.11.17-22.43.21:808][238]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.17-22.43.27:041][708]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/TEAMXX_ASSETS/Trashets/Boogie_King_BOX/BurgerBox.BurgerBox
+[2020.11.17-22.43.27:042][708]LogMaterial: Display: Missing cached shader map for material BurgerBox, compiling. 
+[2020.11.17-22.43.27:190][708]LogMaterial: Display: Missing cached shader map for material BurgerBox, compiling. 
+[2020.11.17-22.43.27:196][708]LogMaterial: Display: Missing cached shader map for material BurgerBox, compiling. 
+[2020.11.17-22.43.27:206][708]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2020.11.17-22.43.27:206][708]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2020.11.17-22.43.27:206][708]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 7
+[2020.11.17-22.43.27:206][708]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2020.11.17-22.43.27:206][708]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2020.11.17-22.43.27:206][708]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2020.11.17-22.43.27:206][708]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2020.11.17-22.43.27:206][708]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2020.11.17-22.43.27:209][708]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2020.11.17-22.43.28:028][724]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 5
+[2020.11.17-22.43.28:072][725]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 4
+[2020.11.17-22.43.28:343][732]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 3
+[2020.11.17-22.43.28:581][738]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2020.11.17-22.43.28:707][741]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 1
+[2020.11.17-22.43.28:917][747]MaterialEditorStats: Base pass shader: 90 instructions
+[2020.11.17-22.43.28:917][747]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 164 instructions
+[2020.11.17-22.43.28:917][747]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2020.11.17-22.43.28:917][747]MaterialEditorStats: Texture samplers: 1/16
+[2020.11.17-22.43.31:642][955]LogMaterial: Display: Missing cached shader map for material BurgerBox, compiling. 
+[2020.11.17-22.43.31:680][956]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2020.11.17-22.43.31:681][956]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2020.11.17-22.43.31:681][956]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 7
+[2020.11.17-22.43.31:681][956]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2020.11.17-22.43.31:681][956]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2020.11.17-22.43.31:681][956]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2020.11.17-22.43.31:681][956]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2020.11.17-22.43.31:681][956]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2020.11.17-22.43.32:442][976]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 1
+[2020.11.17-22.43.32:995][994]MaterialEditorStats: Base pass shader: 88 instructions
+[2020.11.17-22.43.32:996][994]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 156 instructions
+[2020.11.17-22.43.32:996][994]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2020.11.17-22.43.32:996][994]MaterialEditorStats: Texture samplers: 1/16
+[2020.11.17-22.43.48:706][146]LogMaterial: Display: Missing cached shader map for material BurgerBox, compiling. 
+[2020.11.17-22.43.48:712][146]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.11.17-22.43.48:747][147]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2020.11.17-22.43.48:747][147]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2020.11.17-22.43.48:747][147]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 7
+[2020.11.17-22.43.48:747][147]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2020.11.17-22.43.48:747][147]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2020.11.17-22.43.48:747][147]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2020.11.17-22.43.48:748][147]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2020.11.17-22.43.48:748][147]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2020.11.17-22.43.49:557][169]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 1
+[2020.11.17-22.43.50:108][187]MaterialEditorStats: Base pass shader: 88 instructions
+[2020.11.17-22.43.50:108][187]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 156 instructions
+[2020.11.17-22.43.50:108][187]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2020.11.17-22.43.50:108][187]MaterialEditorStats: Texture samplers: 1/16
+[2020.11.17-22.43.50:402][212]LogMaterial: Display: Missing cached shader map for material BurgerBox, compiling. 
+[2020.11.17-22.43.50:403][212]LogMaterial: Warning: /Engine/Transient.BurgerBox (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.11.17-22.43.50:403][212]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.11.17-22.43.50:407][212]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.11.17-22.43.50:410][212]MaterialEditorStats: Error: [SM5] (Node TextureSample) Texture Sample> Missing input texture
+[2020.11.17-22.43.54:999][558]LogMaterial: Display: Missing cached shader map for material BurgerBox, compiling. 
+[2020.11.17-22.43.55:009][558]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.11.17-22.43.55:012][558]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2020.11.17-22.43.55:012][558]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2020.11.17-22.43.55:012][558]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 7
+[2020.11.17-22.43.55:012][558]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2020.11.17-22.43.55:012][558]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2020.11.17-22.43.55:012][558]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2020.11.17-22.43.55:012][558]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2020.11.17-22.43.55:012][558]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2020.11.17-22.43.55:015][558]LogMaterial: Display: Missing cached shader map for material BurgerBox, compiling. 
+[2020.11.17-22.43.55:851][581]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 13
+[2020.11.17-22.43.55:888][582]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 12
+[2020.11.17-22.43.56:186][590]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 11
+[2020.11.17-22.43.56:306][593]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 10
+[2020.11.17-22.43.56:525][599]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 9
+[2020.11.17-22.43.56:525][599]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 8
+[2020.11.17-22.43.56:564][600]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 7
+[2020.11.17-22.43.56:603][601]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 6
+[2020.11.17-22.43.56:738][605]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 5
+[2020.11.17-22.43.56:930][610]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2020.11.17-22.43.57:212][617]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 3
+[2020.11.17-22.43.57:299][619]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 2
+[2020.11.17-22.43.57:416][621]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 1
+[2020.11.17-22.43.58:036][639]LogMaterialEditor: Saving and Compiling material BurgerBox
+[2020.11.17-22.43.58:499][639]LogMaterial: Display: Missing cached shader map for material BurgerBox, compiling. 
+[2020.11.17-22.43.58:544][639]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2020.11.17-22.43.58:544][639]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2020.11.17-22.43.58:544][639]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 7
+[2020.11.17-22.43.58:544][639]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2020.11.17-22.43.58:544][639]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2020.11.17-22.43.58:544][639]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2020.11.17-22.43.58:544][639]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2020.11.17-22.43.58:544][639]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2020.11.17-22.43.58:563][639]LogMaterial: Display: Missing cached shader map for material BurgerBox, compiling. 
+[2020.11.17-22.43.58:783][639]LogUObjectHash: Compacting FUObjectHashTables data took   6.76ms
+[2020.11.17-22.43.58:839][639]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.11.17-22.43.59:401][639]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 18
+[2020.11.17-22.43.59:401][639]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 17
+[2020.11.17-22.43.59:401][639]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 16
+[2020.11.17-22.43.59:401][639]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 15
+[2020.11.17-22.43.59:699][639]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 13
+[2020.11.17-22.43.59:699][639]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 11
+[2020.11.17-22.43.59:699][639]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 9
+[2020.11.17-22.43.59:699][639]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 7
+[2020.11.17-22.43.59:699][639]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 6
+[2020.11.17-22.43.59:699][639]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 5
+[2020.11.17-22.43.59:699][639]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 4
+[2020.11.17-22.43.59:710][639]TextureStreamingBuild: Display: Compiling optional shaders took 0.879 seconds.
+[2020.11.17-22.43.59:751][639]LogUObjectHash: Compacting FUObjectHashTables data took   3.11ms
+[2020.11.17-22.44.00:577][639]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 3
+[2020.11.17-22.44.00:577][639]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2020.11.17-22.44.00:577][639]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 1
+[2020.11.17-22.44.00:971][639]LogSavePackage: Moving 'C:/Users/13307/Documents/GitHub/Trash_King/TrashKingProto_2_0/Saved/BurgerBox734EA1BE4FF910A655199E9C2797712F.tmp' to 'C:/Users/13307/Documents/GitHub/Trash_King/TrashKingProto_2_0/Content/TEAMXX_ASSETS/Trashets/Boogie_King_BOX/BurgerBox.uasset'
+[2020.11.17-22.44.00:999][639]AssetCheck: New page: Asset Save: BurgerBox
+[2020.11.17-22.44.00:999][639]LogContentValidation: Display: Validating Material /Game/TEAMXX_ASSETS/Trashets/Boogie_King_BOX/BurgerBox.BurgerBox
+[2020.11.17-22.44.01:000][639]MaterialEditorStats: Base pass shader: 91 instructions
+[2020.11.17-22.44.01:000][639]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 165 instructions
+[2020.11.17-22.44.01:000][639]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2020.11.17-22.44.01:000][639]MaterialEditorStats: Texture samplers: 3/16
+[2020.11.17-22.44.01:000][639]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2020.11.17-22.44.01:000][639]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.11.17-22.44.08:672][274]LogSlate: Window 'BurgerBox' being destroyed
+[2020.11.17-22.44.08:718][274]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2020.11.17-22.44.08:718][274]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.17-22.44.40:153][742]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 E:/SCHOOL HW FALL 2020/Trashking/Models/BOTTLE/Bottle.fbx)
+[2020.11.17-22.44.40:162][742]LogFbx: Loading FBX Scene from E:/SCHOOL HW FALL 2020/Trashking/Models/BOTTLE/Bottle.fbx
+[2020.11.17-22.44.40:195][742]LogFbx: FBX Scene Loaded Succesfully
+[2020.11.17-22.44.41:470][742]LogSlate: Window 'FBX Import Options' being destroyed
+[2020.11.17-22.44.41:493][742]LogMaterial: Display: Missing cached shader map for material B_Cap, compiling. 
+[2020.11.17-22.44.41:509][742]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 15
+[2020.11.17-22.44.41:509][742]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 13
+[2020.11.17-22.44.41:509][742]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 11
+[2020.11.17-22.44.41:509][742]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 9
+[2020.11.17-22.44.41:509][742]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 7
+[2020.11.17-22.44.41:509][742]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 5
+[2020.11.17-22.44.41:509][742]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2020.11.17-22.44.41:509][742]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 1
+[2020.11.17-22.44.41:518][742]LogMaterial: Display: Missing cached shader map for material lambert7, compiling. 
+[2020.11.17-22.44.41:531][742]LogFbx: Display: Triangulating static mesh Bottle
+[2020.11.17-22.44.41:576][742]LogStaticMesh: Building static mesh Bottle...
+[2020.11.17-22.44.41:586][742]LogStaticMesh: Built static mesh [0.01s] /Game/TEAMXX_ASSETS/Trashets/Bottle.Bottle
+[2020.11.17-22.44.41:707][742]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.11.17-22.44.41:930][744]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 15
+[2020.11.17-22.44.42:900][762]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 13
+[2020.11.17-22.44.43:521][776]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 11
+[2020.11.17-22.44.43:549][777]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 9
+[2020.11.17-22.44.43:619][780]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 7
+[2020.11.17-22.44.43:619][780]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 6
+[2020.11.17-22.44.43:759][786]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 5
+[2020.11.17-22.44.44:238][802]LogSlate: Window 'Message Log' being destroyed
+[2020.11.17-22.44.44:275][802]LogSlate: Window 'Message Log' being destroyed
+[2020.11.17-22.44.44:308][803]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 4
+[2020.11.17-22.44.44:435][807]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 3
+[2020.11.17-22.44.44:686][813]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 2
+[2020.11.17-22.44.44:769][815]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 1
+[2020.11.17-22.45.08:949][554]LogMetaData: Removing '/Game/TEAMXX_ASSETS/Trashets/Bottle/Bottle.Bottle' ref from Metadata '/Game/TEAMXX_ASSETS/Trashets/Bottle.PackageMetaData'
+[2020.11.17-22.45.09:081][554]LogSavePackage: Moving 'C:/Users/13307/Documents/GitHub/Trash_King/TrashKingProto_2_0/Saved/Bottle933E0D7C4209310F3173C3B5C058DC84.tmp' to 'C:/Users/13307/Documents/GitHub/Trash_King/TrashKingProto_2_0/Content/TEAMXX_ASSETS/Trashets/Bottle/Bottle.uasset'
+[2020.11.17-22.45.09:251][554]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TEAMXX_ASSETS/Trashets/Bottle/B_Cap" FILE="C:/Users/13307/Documents/GitHub/Trash_King/TrashKingProto_2_0/Content/TEAMXX_ASSETS/Trashets/Bottle/B_Cap.uasset" SILENT=true
+[2020.11.17-22.45.09:257][554]LogSavePackage: Moving 'C:/Users/13307/Documents/GitHub/Trash_King/TrashKingProto_2_0/Saved/B_Cap27EE11124800AE3F3A47578E376B44A8.tmp' to 'C:/Users/13307/Documents/GitHub/Trash_King/TrashKingProto_2_0/Content/TEAMXX_ASSETS/Trashets/Bottle/B_Cap.uasset'
+[2020.11.17-22.45.09:447][554]LogSavePackage: Moving 'C:/Users/13307/Documents/GitHub/Trash_King/TrashKingProto_2_0/Saved/lambert7A3B059004E1B1FB35B4FF78193A1EED7.tmp' to 'C:/Users/13307/Documents/GitHub/Trash_King/TrashKingProto_2_0/Content/TEAMXX_ASSETS/Trashets/Bottle/lambert7.uasset'
+[2020.11.17-22.45.10:167][554]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2020.11.17-22.45.10:231][554]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2020.11.17-22.45.10:255][554]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2020.11.17-22.45.10:277][554]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2020.11.17-22.45.10:293][554]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2020.11.17-22.45.10:394][554]AssetCheck: New page: Asset Save: multiple assets
+[2020.11.17-22.45.10:394][554]LogContentValidation: Display: Validating StaticMesh /Game/TEAMXX_ASSETS/Trashets/Bottle/Bottle.Bottle
+[2020.11.17-22.45.10:394][554]LogContentValidation: Display: Validating Material /Game/TEAMXX_ASSETS/Trashets/Bottle/B_Cap.B_Cap
+[2020.11.17-22.45.10:394][554]LogContentValidation: Display: Validating Material /Game/TEAMXX_ASSETS/Trashets/Bottle/lambert7.lambert7
+[2020.11.17-22.46.20:739][443]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_26)
+[2020.11.17-22.50.27:712][159]EditorErrors: New page: Actor attachment
+[2020.11.17-22.51.11:131][266]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2020.11.17-22.51.11:245][266]LogSavePackage: Moving 'C:/Users/13307/Documents/GitHub/Trash_King/TrashKingProto_2_0/Saved/ApartmentComplexEF16E18D440C5FE5C02C829F9ECDD02D.tmp' to 'C:/Users/13307/Documents/GitHub/Trash_King/TrashKingProto_2_0/Content/Levels/ApartmentComplex.umap'
+[2020.11.17-22.51.11:597][266]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/ApartmentComplex_BuiltData" FILE="C:/Users/13307/Documents/GitHub/Trash_King/TrashKingProto_2_0/Content/Levels/ApartmentComplex_BuiltData.uasset" SILENT=true
+[2020.11.17-22.51.12:153][266]LogSavePackage: Moving 'C:/Users/13307/Documents/GitHub/Trash_King/TrashKingProto_2_0/Saved/ApartmentComplex_BuiltDataBBD033194350607F4B08818B9FBE295B.tmp' to 'C:/Users/13307/Documents/GitHub/Trash_King/TrashKingProto_2_0/Content/Levels/ApartmentComplex_BuiltData.uasset'
+[2020.11.17-22.51.12:174][266]AssetCheck: New page: Asset Save: multiple assets
+[2020.11.17-22.51.12:174][266]LogContentValidation: Display: Validating World /Game/Levels/ApartmentComplex.ApartmentComplex
+[2020.11.17-22.51.12:174][266]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/ApartmentComplex_BuiltData.ApartmentComplex_BuiltData
+[2020.11.17-23.24.34:816][368]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_26)
+[2020.11.17-23.24.37:384][624]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (FOUNDATION_STATIC)
+[2020.11.17-23.24.58:696][576]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/ApartmentComplex.ApartmentComplex:PersistentLevel.ModelComponent_386' invalid (4388 verts, 0 indices).
+[2020.11.17-23.24.58:696][576]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/ApartmentComplex.ApartmentComplex:PersistentLevel.ModelComponent_386.BodySetup_0 when we are unable to.
+[2020.11.17-23.24.58:697][576]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/ApartmentComplex.ApartmentComplex:PersistentLevel.ModelComponent_387' invalid (4388 verts, 0 indices).
+[2020.11.17-23.24.58:697][576]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/ApartmentComplex.ApartmentComplex:PersistentLevel.ModelComponent_387.BodySetup_0 when we are unable to.
+[2020.11.17-23.24.58:697][576]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/ApartmentComplex.ApartmentComplex:PersistentLevel.ModelComponent_389' invalid (4388 verts, 0 indices).
+[2020.11.17-23.24.58:697][576]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/ApartmentComplex.ApartmentComplex:PersistentLevel.ModelComponent_389.BodySetup_0 when we are unable to.
+[2020.11.17-23.24.58:697][576]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/ApartmentComplex.ApartmentComplex:PersistentLevel.ModelComponent_390' invalid (4388 verts, 0 indices).
+[2020.11.17-23.24.58:697][576]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/ApartmentComplex.ApartmentComplex:PersistentLevel.ModelComponent_390.BodySetup_0 when we are unable to.
+[2020.11.17-23.24.58:698][576]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/ApartmentComplex.ApartmentComplex:PersistentLevel.ModelComponent_393' invalid (4388 verts, 0 indices).
+[2020.11.17-23.24.58:698][576]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/ApartmentComplex.ApartmentComplex:PersistentLevel.ModelComponent_393.BodySetup_0 when we are unable to.
+[2020.11.17-23.25.04:097][932]LogActorFactory: Actor Factory created WallFloor1_12
+[2020.11.17-23.25.05:340][ 26]LogActorFactory: Actor Factory created WallFloor1_12
+[2020.11.17-23.25.05:829][ 52]Cmd: TRANSACTION UNDO
+[2020.11.17-23.25.05:829][ 52]LogEditorTransaction: Undo Create Actors
+[2020.11.17-23.25.05:887][ 52]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/ApartmentComplex.ApartmentComplex:PersistentLevel.ModelComponent_386' invalid (4388 verts, 0 indices).
+[2020.11.17-23.25.05:887][ 52]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/ApartmentComplex.ApartmentComplex:PersistentLevel.ModelComponent_386.BodySetup_0 when we are unable to.
+[2020.11.17-23.25.05:888][ 52]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/ApartmentComplex.ApartmentComplex:PersistentLevel.ModelComponent_387' invalid (4388 verts, 0 indices).
+[2020.11.17-23.25.05:888][ 52]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/ApartmentComplex.ApartmentComplex:PersistentLevel.ModelComponent_387.BodySetup_0 when we are unable to.
+[2020.11.17-23.25.05:888][ 52]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/ApartmentComplex.ApartmentComplex:PersistentLevel.ModelComponent_389' invalid (4388 verts, 0 indices).
+[2020.11.17-23.25.05:888][ 52]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/ApartmentComplex.ApartmentComplex:PersistentLevel.ModelComponent_389.BodySetup_0 when we are unable to.
+[2020.11.17-23.25.05:888][ 52]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/ApartmentComplex.ApartmentComplex:PersistentLevel.ModelComponent_390' invalid (4388 verts, 0 indices).
+[2020.11.17-23.25.05:888][ 52]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/ApartmentComplex.ApartmentComplex:PersistentLevel.ModelComponent_390.BodySetup_0 when we are unable to.
+[2020.11.17-23.25.05:889][ 52]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/ApartmentComplex.ApartmentComplex:PersistentLevel.ModelComponent_393' invalid (4388 verts, 0 indices).
+[2020.11.17-23.25.05:889][ 52]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/ApartmentComplex.ApartmentComplex:PersistentLevel.ModelComponent_393.BodySetup_0 when we are unable to.
+[2020.11.17-23.25.06:474][ 68]LogStaticMesh: Building static mesh WallFloor1_08...
+[2020.11.17-23.25.06:538][ 68]LogStaticMesh: Built static mesh [0.06s] /Game/LowPolyInterior/Meshes/Walls/WallFloor1_08.WallFloor1_08
+[2020.11.17-23.25.06:564][ 68]LogActorFactory: Actor Factory created WallFloor1_08
+[2020.11.17-23.25.12:839][627]LogActorFactory: Actor Factory created WallFloor1_08
+[2020.11.17-23.25.15:333][766]Cmd: TRANSACTION UNDO
+[2020.11.17-23.25.15:333][766]LogEditorTransaction: Undo Create Actors
+[2020.11.17-23.25.15:391][766]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/ApartmentComplex.ApartmentComplex:PersistentLevel.ModelComponent_386' invalid (4388 verts, 0 indices).
+[2020.11.17-23.25.15:391][766]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/ApartmentComplex.ApartmentComplex:PersistentLevel.ModelComponent_386.BodySetup_0 when we are unable to.
+[2020.11.17-23.25.15:391][766]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/ApartmentComplex.ApartmentComplex:PersistentLevel.ModelComponent_387' invalid (4388 verts, 0 indices).
+[2020.11.17-23.25.15:391][766]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/ApartmentComplex.ApartmentComplex:PersistentLevel.ModelComponent_387.BodySetup_0 when we are unable to.
+[2020.11.17-23.25.15:391][766]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/ApartmentComplex.ApartmentComplex:PersistentLevel.ModelComponent_389' invalid (4388 verts, 0 indices).
+[2020.11.17-23.25.15:392][766]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/ApartmentComplex.ApartmentComplex:PersistentLevel.ModelComponent_389.BodySetup_0 when we are unable to.
+[2020.11.17-23.25.15:392][766]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/ApartmentComplex.ApartmentComplex:PersistentLevel.ModelComponent_390' invalid (4388 verts, 0 indices).
+[2020.11.17-23.25.15:392][766]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/ApartmentComplex.ApartmentComplex:PersistentLevel.ModelComponent_390.BodySetup_0 when we are unable to.
+[2020.11.17-23.25.15:392][766]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/ApartmentComplex.ApartmentComplex:PersistentLevel.ModelComponent_393' invalid (4388 verts, 0 indices).
+[2020.11.17-23.25.15:392][766]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/ApartmentComplex.ApartmentComplex:PersistentLevel.ModelComponent_393.BodySetup_0 when we are unable to.
+[2020.11.17-23.25.18:236][912]LogStaticMesh: Building static mesh Wall_04...
+[2020.11.17-23.25.18:309][912]LogStaticMesh: Built static mesh [0.07s] /Game/LowPolyInterior/Meshes/Walls/Wall_04.Wall_04
+[2020.11.17-23.25.18:341][912]LogActorFactory: Actor Factory created Wall_04
+[2020.11.17-23.25.19:405][999]LogActorFactory: Actor Factory created Wall_04
+[2020.11.17-23.25.23:333][396]Cmd: TRANSACTION UNDO
+[2020.11.17-23.25.23:333][396]LogEditorTransaction: Undo Rotate Actors
+[2020.11.17-23.25.27:800][664]Cmd: TRANSACTION UNDO
+[2020.11.17-23.25.27:800][664]LogEditorTransaction: Undo Create Actors
+[2020.11.17-23.25.27:845][664]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/ApartmentComplex.ApartmentComplex:PersistentLevel.ModelComponent_386' invalid (4388 verts, 0 indices).
+[2020.11.17-23.25.27:845][664]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/ApartmentComplex.ApartmentComplex:PersistentLevel.ModelComponent_386.BodySetup_0 when we are unable to.
+[2020.11.17-23.25.27:845][664]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/ApartmentComplex.ApartmentComplex:PersistentLevel.ModelComponent_387' invalid (4388 verts, 0 indices).
+[2020.11.17-23.25.27:845][664]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/ApartmentComplex.ApartmentComplex:PersistentLevel.ModelComponent_387.BodySetup_0 when we are unable to.
+[2020.11.17-23.25.27:846][664]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/ApartmentComplex.ApartmentComplex:PersistentLevel.ModelComponent_389' invalid (4388 verts, 0 indices).
+[2020.11.17-23.25.27:846][664]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/ApartmentComplex.ApartmentComplex:PersistentLevel.ModelComponent_389.BodySetup_0 when we are unable to.
+[2020.11.17-23.25.27:846][664]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/ApartmentComplex.ApartmentComplex:PersistentLevel.ModelComponent_390' invalid (4388 verts, 0 indices).
+[2020.11.17-23.25.27:846][664]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/ApartmentComplex.ApartmentComplex:PersistentLevel.ModelComponent_390.BodySetup_0 when we are unable to.
+[2020.11.17-23.25.27:847][664]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/ApartmentComplex.ApartmentComplex:PersistentLevel.ModelComponent_393' invalid (4388 verts, 0 indices).
+[2020.11.17-23.25.27:847][664]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/ApartmentComplex.ApartmentComplex:PersistentLevel.ModelComponent_393.BodySetup_0 when we are unable to.
+[2020.11.17-23.25.58:655][148]LogStaticMesh: Building static mesh WallFloor2_08...
+[2020.11.17-23.25.58:703][148]LogStaticMesh: Built static mesh [0.05s] /Game/LowPolyInterior/Meshes/Walls/WallFloor2_08.WallFloor2_08
+[2020.11.17-23.25.59:071][148]LogActorFactory: Actor Factory created WallFloor2_08
+[2020.11.17-23.26.00:506][262]LogActorFactory: Actor Factory created WallFloor2_08
+[2020.11.17-23.26.32:310][220]LogStaticMesh: Building static mesh WallFloor2_01...
+[2020.11.17-23.26.32:347][220]LogStaticMesh: Built static mesh [0.04s] /Game/LowPolyInterior/Meshes/Walls/WallFloor2_01.WallFloor2_01
+[2020.11.17-23.26.32:378][220]LogActorFactory: Actor Factory created WallFloor2_01
+[2020.11.17-23.26.35:249][458]LogActorFactory: Actor Factory created WallFloor2_01
+[2020.11.17-23.26.54:702][203]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Bar_01)
+[2020.11.17-23.26.56:143][313]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallFloor2_01)
+[2020.11.17-23.26.59:738][621]Cmd: DELETE
+[2020.11.17-23.26.59:738][621]Cmd: ACTOR DELETE
+[2020.11.17-23.26.59:749][621]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.11.17-23.27.00:134][621]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2020.11.17-23.27.00:147][621]LogEditorActor: Deleted 1 Actors (0.409 secs)
+[2020.11.17-23.27.07:336][226]LogStaticMesh: Building static mesh WallFloor2_05...
+[2020.11.17-23.27.07:386][226]LogStaticMesh: Built static mesh [0.05s] /Game/LowPolyInterior/Meshes/Walls/WallFloor2_05.WallFloor2_05
+[2020.11.17-23.27.07:500][233]LogActorFactory: Actor Factory created WallFloor2_05
+[2020.11.17-23.27.14:694][936]LogActorFactory: Actor Factory created WallFloor2_05
+[2020.11.17-23.27.44:005][841]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallFloor2_08)
+[2020.11.17-23.27.50:156][289]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallFloor2_05)
+[2020.11.17-23.28.02:210][123]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallFloor2_08)
+[2020.11.17-23.28.04:024][279]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallFloor2_05)
+[2020.11.17-23.28.32:032][646]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Light_04)
+[2020.11.17-23.28.32:518][653]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Light_04)
+[2020.11.17-23.28.35:664][943]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallFloor2_05)
+[2020.11.17-23.28.38:036][144]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallFloor2_08)
+[2020.11.17-23.28.39:016][238]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallFloor2_05)
+[2020.11.17-23.28.44:367][606]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (WallFloor2_05)
+[2020.11.17-23.28.44:767][629]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Bar_01)
+[2020.11.17-23.28.50:785][152]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallFloor2_05)
+[2020.11.17-23.29.22:958][893]LogStaticMesh: Building static mesh WallFloor2_24...
+[2020.11.17-23.29.23:021][893]LogStaticMesh: Built static mesh [0.06s] /Game/LowPolyInterior/Meshes/Walls/WallFloor2_24.WallFloor2_24
+[2020.11.17-23.29.23:173][895]LogActorFactory: Actor Factory created WallFloor2_24
+[2020.11.17-23.29.24:408][995]LogActorFactory: Actor Factory created WallFloor2_24
+[2020.11.17-23.29.25:060][ 50]LogActorFactory: Actor Factory created WallFloor2_24
+[2020.11.17-23.29.27:081][226]Cmd: TRANSACTION UNDO
+[2020.11.17-23.29.27:081][226]LogEditorTransaction: Undo Create Actors
+[2020.11.17-23.29.35:959][716]LogStaticMesh: Building static mesh WallFloor2_16...
+[2020.11.17-23.29.36:000][716]LogStaticMesh: Built static mesh [0.04s] /Game/LowPolyInterior/Meshes/Walls/WallFloor2_16.WallFloor2_16
+[2020.11.17-23.29.36:027][716]LogActorFactory: Actor Factory created WallFloor2_16
+[2020.11.17-23.29.40:516][102]LogActorFactory: Actor Factory created WallFloor2_16
+[2020.11.17-23.29.54:010][367]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallFloor2_05)
+[2020.11.17-23.29.55:892][511]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallFloor2_16)
+[2020.11.17-23.29.59:888][790]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallFloor2_05)
+[2020.11.17-23.30.08:791][521]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallFloor2_16)
+[2020.11.17-23.30.22:176][607]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Bed1_01)
+[2020.11.17-23.30.31:071][427]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallFloor2_05)
+[2020.11.17-23.30.34:261][684]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (KitchenTabletop2_6)
+[2020.11.17-23.30.42:910][425]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_13)
+[2020.11.17-23.30.51:402][183]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Bar_01)
+[2020.11.17-23.31.30:409][443]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallFloor2_16)
+[2020.11.17-23.31.38:516][145]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Bed1_01)
+[2020.11.17-23.31.42:515][501]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallFloor2_16)
+[2020.11.17-23.31.49:038][ 30]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Bed1_01)
+[2020.11.17-23.31.51:647][279]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallFloor2_16)
+[2020.11.17-23.31.55:968][686]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Bed1_01)
+[2020.11.17-23.32.00:024][ 73]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallFloor2_16)
+[2020.11.17-23.32.03:786][426]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Bed1_01)
+[2020.11.17-23.32.04:314][456]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallFloor2_16)
+[2020.11.17-23.32.12:002][143]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Bed1_01)
+[2020.11.17-23.32.19:057][841]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallFloor2_16)
+[2020.11.17-23.32.20:538][962]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallFloor2_05)
+[2020.11.17-23.32.23:189][238]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallFloor2_16)
+[2020.11.17-23.32.30:282][787]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallFloor2_05)
+[2020.11.17-23.32.32:992][ 63]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallFloor2_16)
+[2020.11.17-23.32.37:076][486]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallFloor2_05)
+[2020.11.17-23.32.50:488][749]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallFloor2_16)
+[2020.11.17-23.32.56:726][194]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Bed1_01)
+[2020.11.17-23.32.57:849][281]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallFloor2_16)
+[2020.11.17-23.33.03:324][671]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Bed1_01)
+[2020.11.17-23.33.05:329][850]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallFloor2_16)
+[2020.11.17-23.33.12:659][410]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Bed1_01)
+[2020.11.17-23.33.32:884][262]LogActorFactory: Actor Factory created WallFloor2_05
+[2020.11.17-23.33.34:627][398]LogActorFactory: Actor Factory created WallFloor2_05
+[2020.11.17-23.33.38:030][719]Cmd: TRANSACTION UNDO
+[2020.11.17-23.33.38:030][719]LogEditorTransaction: Undo Create Actors
+[2020.11.17-23.33.39:609][758]LogActorFactory: Actor Factory created WallFloor2_05
+[2020.11.17-23.33.40:995][874]LogActorFactory: Actor Factory created WallFloor2_05
+[2020.11.17-23.34.01:551][683]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallFloor2_16)
+[2020.11.17-23.34.02:150][737]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallFloor2_6)
+[2020.11.17-23.34.28:428][136]LogStaticMesh: Building static mesh WallFloor2_07...
+[2020.11.17-23.34.28:479][136]LogStaticMesh: Built static mesh [0.05s] /Game/LowPolyInterior/Meshes/Walls/WallFloor2_07.WallFloor2_07
+[2020.11.17-23.34.28:535][137]LogActorFactory: Actor Factory created WallFloor2_07
+[2020.11.17-23.34.30:420][307]LogActorFactory: Actor Factory created WallFloor2_07
+[2020.11.17-23.34.50:976][174]Cmd: DELETE
+[2020.11.17-23.34.50:976][174]Cmd: ACTOR DELETE
+[2020.11.17-23.34.50:984][174]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.11.17-23.34.50:998][174]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2020.11.17-23.34.51:106][174]LogEditorActor: Deleted 1 Actors (0.130 secs)
+[2020.11.17-23.34.52:577][292]LogActorFactory: Actor Factory created WallFloor2_06
+[2020.11.17-23.34.54:478][500]LogActorFactory: Actor Factory created WallFloor2_06
+[2020.11.17-23.35.20:836][755]LogActorFactory: Actor Factory created WallFloor2_05
+[2020.11.17-23.35.21:795][841]LogActorFactory: Actor Factory created WallFloor2_05
+[2020.11.17-23.35.26:444][164]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallFloor2_7)
+[2020.11.17-23.35.32:898][814]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallFloor2_06)
+[2020.11.17-23.35.36:791][140]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallFloor2_7)
+[2020.11.17-23.35.41:046][443]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallFloor2_06)
+[2020.11.17-23.35.43:741][642]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallFloor2_7)
+[2020.11.17-23.36.00:765][197]LogActorFactory: Actor Factory created WallFloor2_06
+[2020.11.17-23.36.02:473][353]LogActorFactory: Actor Factory created WallFloor2_06
+[2020.11.17-23.36.04:425][535]Cmd: TRANSACTION UNDO
+[2020.11.17-23.36.04:425][535]LogEditorTransaction: Undo Create Actors
+[2020.11.17-23.36.05:130][564]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallFloor2_06)
+[2020.11.17-23.36.06:724][723]Cmd: EDIT COPY
+[2020.11.17-23.36.06:957][746]Cmd: EDIT PASTE
+[2020.11.17-23.36.28:223][847]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallFloor2_6)
+[2020.11.17-23.36.47:515][625]LogActorFactory: Actor Factory created WallFloor2_05
+[2020.11.17-23.36.49:033][749]LogActorFactory: Actor Factory created WallFloor2_05
+[2020.11.17-23.36.55:072][242]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallFloor2_8)
+[2020.11.17-23.36.56:458][372]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallFloor2_9)
+[2020.11.17-23.38.05:020][687]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallFloor2_8)
+[2020.11.17-23.38.08:018][911]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallFloor2_9)
+[2020.11.17-23.38.33:672][319]LogActorFactory: Actor Factory created WallFloor2_08
+[2020.11.17-23.38.36:713][621]LogActorFactory: Actor Factory created WallFloor2_08
+[2020.11.17-23.38.46:133][302]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallFloor2_11)
+[2020.11.17-23.39.14:205][845]Cmd: ACTOR HIDE SELECTED
+[2020.11.17-23.39.17:585][110]Cmd: ACTOR HIDE SELECTED
+[2020.11.17-23.39.27:902][176]Cmd: ACTOR HIDE SELECTED
+[2020.11.17-23.39.32:656][602]LogActorFactory: Actor Factory created WallFloor2_05
+[2020.11.17-23.39.33:661][699]LogActorFactory: Actor Factory created WallFloor2_05
+[2020.11.17-23.39.52:071][211]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallFloor2_11)
+[2020.11.17-23.39.58:187][800]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallFloor2_12)
+[2020.11.17-23.40.02:786][136]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallFloor2_11)
+[2020.11.17-23.40.08:391][631]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_20)
+[2020.11.17-23.40.26:342][ 60]Cmd: ACTOR HIDE SELECTED
+[2020.11.17-23.40.47:690][379]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallFloor2_11)
+[2020.11.17-23.40.53:894][917]Cmd: TRANSACTION UNDO
+[2020.11.17-23.40.53:894][917]LogEditorTransaction: Undo Move Actors
+[2020.11.17-23.40.56:146][ 18]LogActorFactory: Actor Factory created WallFloor2_08
+[2020.11.17-23.40.57:005][ 84]LogActorFactory: Actor Factory created WallFloor2_08
+[2020.11.17-23.41.22:735][ 84]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_16)
+[2020.11.17-23.41.36:193][250]Cmd: ACTOR HIDE SELECTED
+[2020.11.17-23.41.41:899][785]LogActorFactory: Actor Factory created WallFloor2_08
+[2020.11.17-23.41.44:465][ 35]LogActorFactory: Actor Factory created WallFloor2_08
+[2020.11.17-23.41.54:702][855]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Door_05)
+[2020.11.17-23.42.00:538][355]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Door_05)
+[2020.11.17-23.42.04:207][722]Cmd: DELETE
+[2020.11.17-23.42.04:207][722]Cmd: ACTOR DELETE
+[2020.11.17-23.42.04:216][722]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.11.17-23.42.04:230][722]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2020.11.17-23.42.04:236][722]LogEditorActor: Deleted 1 Actors (0.028 secs)
+[2020.11.17-23.42.09:004][ 51]LogStaticMesh: Building static mesh Door_03...
+[2020.11.17-23.42.09:053][ 51]LogStaticMesh: Built static mesh [0.05s] /Game/LowPolyInterior/Meshes/Walls/Door_03.Door_03
+[2020.11.17-23.42.09:146][ 57]LogActorFactory: Actor Factory created Door_03
+[2020.11.17-23.42.10:700][209]LogActorFactory: Actor Factory created Door_03
+[2020.11.17-23.42.11:752][307]Cmd: TRANSACTION UNDO
+[2020.11.17-23.42.11:752][307]LogEditorTransaction: Undo Create Actors
+[2020.11.17-23.42.12:419][326]LogStaticMesh: Building static mesh Door_04...
+[2020.11.17-23.42.12:477][326]LogStaticMesh: Built static mesh [0.06s] /Game/LowPolyInterior/Meshes/Walls/Door_04.Door_04
+[2020.11.17-23.42.12:517][326]LogActorFactory: Actor Factory created Door_04
+[2020.11.17-23.42.14:699][543]LogActorFactory: Actor Factory created Door_04
+[2020.11.17-23.42.15:458][585]Cmd: TRANSACTION UNDO
+[2020.11.17-23.42.15:458][585]LogEditorTransaction: Undo Create Actors
+[2020.11.17-23.42.15:844][592]LogStaticMesh: Building static mesh Door_01...
+[2020.11.17-23.42.15:987][592]LogStaticMesh: Built static mesh [0.14s] /Game/LowPolyInterior/Meshes/Walls/Door_01.Door_01
+[2020.11.17-23.42.16:022][592]LogActorFactory: Actor Factory created Door_01
+[2020.11.17-23.42.17:746][760]LogActorFactory: Actor Factory created Door_01
+[2020.11.17-23.42.18:613][809]Cmd: TRANSACTION UNDO
+[2020.11.17-23.42.18:613][809]LogEditorTransaction: Undo Create Actors
+[2020.11.17-23.42.21:067][929]LogStaticMesh: Building static mesh Door_02...
+[2020.11.17-23.42.21:128][929]LogStaticMesh: Built static mesh [0.06s] /Game/LowPolyInterior/Meshes/Walls/Door_02.Door_02
+[2020.11.17-23.42.21:156][929]LogActorFactory: Actor Factory created Door_02
+[2020.11.17-23.42.22:583][ 65]LogActorFactory: Actor Factory created Door_02
+[2020.11.17-23.42.22:895][ 87]Cmd: TRANSACTION UNDO
+[2020.11.17-23.42.22:895][ 87]LogEditorTransaction: Undo Create Actors
+[2020.11.17-23.42.23:649][100]LogActorFactory: Actor Factory created Door_04
+[2020.11.17-23.42.27:142][465]LogActorFactory: Actor Factory created Door_04
+[2020.11.17-23.42.46:682][299]Cmd: ACTOR HIDE SELECTED
+[2020.11.17-23.42.50:430][643]Cmd: DELETE
+[2020.11.17-23.42.50:430][643]Cmd: ACTOR DELETE
+[2020.11.17-23.42.50:809][643]LogEditorActor: Deleted Actor: Brush
+[2020.11.17-23.42.50:846][643]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2020.11.17-23.42.50:881][643]LogEditorActor: Deleted 1 Actors (0.451 secs)
+[2020.11.17-23.42.52:389][804]Cmd: DELETE
+[2020.11.17-23.42.52:389][804]Cmd: ACTOR DELETE
+[2020.11.17-23.42.52:400][804]LogEditorActor: Deleted Actor: Brush
+[2020.11.17-23.42.52:413][804]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2020.11.17-23.42.52:447][804]LogEditorActor: Deleted 1 Actors (0.058 secs)
+[2020.11.17-23.42.53:789][948]Cmd: DELETE
+[2020.11.17-23.42.53:789][948]Cmd: ACTOR DELETE
+[2020.11.17-23.42.53:800][948]LogEditorActor: Deleted Actor: Brush
+[2020.11.17-23.42.53:814][948]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2020.11.17-23.42.53:848][948]LogEditorActor: Deleted 1 Actors (0.059 secs)
+[2020.11.17-23.42.55:430][102]Cmd: DELETE
+[2020.11.17-23.42.55:430][102]Cmd: ACTOR DELETE
+[2020.11.17-23.42.55:445][102]LogEditorActor: Deleted Actor: Brush
+[2020.11.17-23.42.55:469][102]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2020.11.17-23.42.55:498][102]LogEditorActor: Deleted 1 Actors (0.067 secs)
+[2020.11.17-23.43.10:400][165]LogStaticMesh: Building static mesh WallFloor2_09...
+[2020.11.17-23.43.10:447][165]LogStaticMesh: Built static mesh [0.05s] /Game/LowPolyInterior/Meshes/Walls/WallFloor2_09.WallFloor2_09
+[2020.11.17-23.43.10:572][172]LogActorFactory: Actor Factory created WallFloor2_09
+[2020.11.17-23.43.11:527][260]LogActorFactory: Actor Factory created WallFloor2_09
+[2020.11.17-23.43.19:559][954]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallFloor2_09)
+[2020.11.17-23.43.34:427][178]LogActorFactory: Actor Factory created WallFloor2_05
+[2020.11.17-23.43.35:599][274]LogActorFactory: Actor Factory created WallFloor2_05
+[2020.11.17-23.43.49:225][345]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallFloor2_09)
+[2020.11.17-23.43.51:539][562]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallFloor2_15)
+[2020.11.17-23.43.53:900][790]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallFloor2_09)
+[2020.11.17-23.43.59:953][263]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallFloor2_14)
+[2020.11.17-23.44.00:558][313]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallFloor2_15)
+[2020.11.17-23.44.01:573][402]Cmd: EDIT COPY
+[2020.11.17-23.44.01:849][426]Cmd: EDIT PASTE
+[2020.11.17-23.44.23:386][185]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallFloor2_15)
+[2020.11.17-23.44.43:339][955]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_15)
+[2020.11.17-23.45.11:342][281]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight4)
+[2020.11.17-23.45.21:636][ 58]Cmd: ACTOR HIDE SELECTED
+[2020.11.17-23.45.24:758][248]LogActorFactory: Actor Factory created WallFloor2_05
+[2020.11.17-23.45.25:978][351]LogActorFactory: Actor Factory created WallFloor2_05
+[2020.11.17-23.46.06:237][ 54]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallFloor2_18)
+[2020.11.17-23.46.17:070][689]LogActorFactory: Actor Factory created WallFloor2_16
+[2020.11.17-23.46.21:180][986]LogActorFactory: Actor Factory created WallFloor2_16
+[2020.11.17-23.46.27:814][439]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallFloor2_19)
+[2020.11.17-23.46.42:950][702]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallFloor2_18)
+[2020.11.17-23.47.11:811][110]Cmd: ACTOR HIDE SELECTED
+[2020.11.17-23.47.15:641][396]LogActorFactory: Actor Factory created WallFloor2_05
+[2020.11.17-23.47.16:795][501]LogActorFactory: Actor Factory created WallFloor2_05
+[2020.11.17-23.47.17:159][519]Cmd: TRANSACTION UNDO
+[2020.11.17-23.47.17:159][519]LogEditorTransaction: Undo Create Actors
+[2020.11.17-23.47.19:100][616]LogActorFactory: Actor Factory created WallFloor2_05
+[2020.11.17-23.47.20:177][711]LogActorFactory: Actor Factory created WallFloor2_05
+[2020.11.17-23.47.32:956][657]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallFloor2_20)
+[2020.11.17-23.48.03:208][238]LogRenderer: Reallocating scene render targets to support 720x640 Format 9 NumSamples 1 (Frame:888612).
+[2020.11.17-23.48.03:250][239]LogRenderer: Reallocating scene render targets to support 744x640 Format 9 NumSamples 1 (Frame:888614).
+[2020.11.17-23.48.03:294][240]LogRenderer: Reallocating scene render targets to support 816x640 Format 9 NumSamples 1 (Frame:888616).
+[2020.11.17-23.48.03:334][241]LogRenderer: Reallocating scene render targets to support 844x640 Format 9 NumSamples 1 (Frame:888618).
+[2020.11.17-23.48.03:374][242]LogRenderer: Reallocating scene render targets to support 872x640 Format 9 NumSamples 1 (Frame:888620).
+[2020.11.17-23.48.03:774][243]LogRenderer: Reallocating scene render targets to support 892x640 Format 9 NumSamples 1 (Frame:888622).
+[2020.11.17-23.48.03:818][244]LogRenderer: Reallocating scene render targets to support 1024x640 Format 9 NumSamples 1 (Frame:888623).
+[2020.11.17-23.48.06:624][492]LogRenderer: Reallocating scene render targets to support 1028x640 Format 9 NumSamples 1 (Frame:888873).
+[2020.11.17-23.48.06:763][493]LogRenderer: Reallocating scene render targets to support 1040x640 Format 9 NumSamples 1 (Frame:888875).
+[2020.11.17-23.48.06:804][494]LogRenderer: Reallocating scene render targets to support 1196x640 Format 9 NumSamples 1 (Frame:888877).
+[2020.11.17-23.48.06:852][495]LogRenderer: Reallocating scene render targets to support 1228x640 Format 9 NumSamples 1 (Frame:888879).
+[2020.11.17-23.48.06:895][496]LogRenderer: Reallocating scene render targets to support 1252x640 Format 9 NumSamples 1 (Frame:888881).
+[2020.11.17-23.48.06:935][497]LogRenderer: Reallocating scene render targets to support 1268x640 Format 9 NumSamples 1 (Frame:888883).
+[2020.11.17-23.48.06:980][498]LogRenderer: Reallocating scene render targets to support 1288x640 Format 9 NumSamples 1 (Frame:888885).
+[2020.11.17-23.48.07:019][499]LogRenderer: Reallocating scene render targets to support 1304x640 Format 9 NumSamples 1 (Frame:888887).
+[2020.11.17-23.48.07:061][500]LogRenderer: Reallocating scene render targets to support 1328x640 Format 9 NumSamples 1 (Frame:888889).
+[2020.11.17-23.48.07:109][501]LogRenderer: Reallocating scene render targets to support 1376x640 Format 9 NumSamples 1 (Frame:888891).
+[2020.11.17-23.48.07:156][502]LogRenderer: Reallocating scene render targets to support 1428x640 Format 9 NumSamples 1 (Frame:888893).
+[2020.11.17-23.48.32:102][489]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallFloor2_20)
+[2020.11.17-23.48.34:715][703]Cmd: TRANSACTION UNDO
+[2020.11.17-23.48.34:715][703]LogEditorTransaction: Undo Move Actors
+[2020.11.17-23.48.45:975][606]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Bar_01)
+[2020.11.17-23.49.03:264][934]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallFloor2_16)
+[2020.11.17-23.49.12:699][660]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallFloor2_16)
+[2020.11.17-23.49.14:697][812]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_21)
+[2020.11.17-23.49.30:749][885]LogActorFactory: Actor Factory created WallFloor2_08
+[2020.11.17-23.49.31:804][940]LogActorFactory: Actor Factory created WallFloor2_08
+[2020.11.17-23.49.53:724][173]LogActorFactory: Actor Factory created WallFloor2_05
+[2020.11.17-23.49.54:740][232]LogActorFactory: Actor Factory created WallFloor2_05
+[2020.11.17-23.50.02:268][603]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallFloor2_08)
+[2020.11.17-23.50.07:549][869]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallFloor2_22)
+[2020.11.17-23.50.17:939][369]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallFloor2_22)
+[2020.11.17-23.50.35:844][446]Cmd: EDIT COPY
+[2020.11.17-23.50.36:042][457]Cmd: EDIT PASTE
+[2020.11.17-23.50.37:858][549]Cmd: EDIT PASTE
+[2020.11.17-23.50.39:283][624]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallFloor2_05)
+[2020.11.17-23.50.41:669][728]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallFloor2_23)
+[2020.11.17-23.50.52:651][317]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallFloor2_21)
+[2020.11.17-23.50.59:440][703]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallFloor2_24)
+[2020.11.17-23.51.00:932][788]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallFloor2_21)
+[2020.11.17-23.51.05:553][995]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallFloor2_22)
+[2020.11.17-23.51.07:035][ 79]Cmd: EDIT COPY
+[2020.11.17-23.51.07:478][104]Cmd: EDIT PASTE
+[2020.11.17-23.51.12:685][399]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_28)
+[2020.11.17-23.54.02:191][192]LogActorFactory: Actor Factory created WallFloor2_08
+[2020.11.17-23.54.04:382][358]LogActorFactory: Actor Factory created WallFloor2_08
+[2020.11.17-23.54.22:582][751]LogActorFactory: Actor Factory created WallFloor2_05
+[2020.11.17-23.54.24:851][902]LogActorFactory: Actor Factory created WallFloor2_05
+[2020.11.17-23.54.36:515][563]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallFloor2_27)
+[2020.11.17-23.54.42:663][ 30]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallFloor2_26)
+[2020.11.17-23.54.47:206][277]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallFloor2_27)
+[2020.11.17-23.54.49:095][392]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallFloor2_26)
+[2020.11.17-23.55.02:318][269]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallFloor2_26)
+[2020.11.17-23.55.06:688][559]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallFloor2_25)
+[2020.11.17-23.55.07:881][651]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallFloor2_21)
+[2020.11.17-23.55.12:558][  5]Cmd: TRANSACTION UNDO
+[2020.11.17-23.55.12:559][  5]LogEditorTransaction: Undo Scale Actors
+[2020.11.17-23.55.13:657][ 64]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Prop_Door_2)
+[2020.11.17-23.55.24:011][771]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Prop_Door_3)
+[2020.11.17-23.55.42:858][198]LogActorFactory: Actor Factory created WallFloor2_08
+[2020.11.17-23.55.44:068][279]LogActorFactory: Actor Factory created WallFloor2_08
+[2020.11.17-23.56.17:546][318]Cmd: EDIT COPY
+[2020.11.17-23.56.17:828][340]Cmd: EDIT PASTE
+[2020.11.17-23.56.23:753][741]LogActorFactory: Actor Factory created WallFloor2_05
+[2020.11.17-23.56.24:784][806]LogActorFactory: Actor Factory created WallFloor2_05
+[2020.11.17-23.56.36:004][497]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallFloor2_30)
+[2020.11.17-23.56.40:704][851]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallFloor2_29)
+[2020.11.17-23.56.43:990][110]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallFloor2_30)
+[2020.11.17-23.56.54:511][822]Cmd: EDIT COPY
+[2020.11.17-23.56.54:756][840]Cmd: EDIT PASTE
+[2020.11.17-23.57.01:028][268]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2020.11.17-23.57.01:152][268]LogSavePackage: Moving 'C:/Users/13307/Documents/GitHub/Trash_King/TrashKingProto_2_0/Saved/ApartmentComplex1A3CA5EA4CCCCEFABD7CDCA0E7248363.tmp' to 'C:/Users/13307/Documents/GitHub/Trash_King/TrashKingProto_2_0/Content/Levels/ApartmentComplex.umap'
+[2020.11.17-23.57.01:477][268]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/ApartmentComplex_BuiltData" FILE="C:/Users/13307/Documents/GitHub/Trash_King/TrashKingProto_2_0/Content/Levels/ApartmentComplex_BuiltData.uasset" SILENT=true
+[2020.11.17-23.57.02:246][268]LogSavePackage: Moving 'C:/Users/13307/Documents/GitHub/Trash_King/TrashKingProto_2_0/Saved/ApartmentComplex_BuiltData6E57DF7F4A268082B77B02835820C545.tmp' to 'C:/Users/13307/Documents/GitHub/Trash_King/TrashKingProto_2_0/Content/Levels/ApartmentComplex_BuiltData.uasset'
+[2020.11.17-23.57.02:296][268]AssetCheck: New page: Asset Save: multiple assets
+[2020.11.17-23.57.02:296][268]LogContentValidation: Display: Validating World /Game/Levels/ApartmentComplex.ApartmentComplex
+[2020.11.17-23.57.02:296][268]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/ApartmentComplex_BuiltData.ApartmentComplex_BuiltData
+[2020.11.17-23.57.03:713][347]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2020.11.17-23.57.04:132][347]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FOUNDATION_STATIC" FILE="C:/Users/13307/Documents/GitHub/Trash_King/TrashKingProto_2_0/Content/FOUNDATION_STATIC.uasset" SILENT=true
+[2020.11.17-23.57.04:140][347]LogSavePackage: Moving 'C:/Users/13307/Documents/GitHub/Trash_King/TrashKingProto_2_0/Saved/FOUNDATION_STATICA92BF83946470F5C22C3B2BF99475627.tmp' to 'C:/Users/13307/Documents/GitHub/Trash_King/TrashKingProto_2_0/Content/FOUNDATION_STATIC.uasset'
+[2020.11.17-23.57.04:372][347]LogSavePackage: Moving 'C:/Users/13307/Documents/GitHub/Trash_King/TrashKingProto_2_0/Saved/PizzaBoxEB44A8954019B60C8E408590C21F7DD7.tmp' to 'C:/Users/13307/Documents/GitHub/Trash_King/TrashKingProto_2_0/Content/TEAMXX_ASSETS/Trashets/BIZZA_BOX/PizzaBox.uasset'
+[2020.11.17-23.57.04:669][347]LogSavePackage: Moving 'C:/Users/13307/Documents/GitHub/Trash_King/TrashKingProto_2_0/Saved/PizzaBox_lambert1_BaseColor35FC16FF4BD15299EA6CFB90A6BBA5BD.tmp' to 'C:/Users/13307/Documents/GitHub/Trash_King/TrashKingProto_2_0/Content/TEAMXX_ASSETS/Trashets/BIZZA_BOX/PizzaBox_lambert1_BaseColor.uasset'
+[2020.11.17-23.57.04:916][347]AssetCheck: New page: Asset Save: multiple assets
+[2020.11.17-23.57.04:916][347]LogContentValidation: Display: Validating StaticMesh /Game/FOUNDATION_STATIC.FOUNDATION_STATIC
+[2020.11.17-23.57.04:916][347]LogContentValidation: Display: Validating StaticMesh /Game/TEAMXX_ASSETS/Trashets/BIZZA_BOX/PizzaBox.PizzaBox
+[2020.11.17-23.57.04:916][347]LogContentValidation: Display: Validating Texture2D /Game/TEAMXX_ASSETS/Trashets/BIZZA_BOX/PizzaBox_lambert1_BaseColor.PizzaBox_lambert1_BaseColor
+[2020.11.17-23.57.09:033][618]Cmd: EDIT COPY
+[2020.11.17-23.57.09:269][636]Cmd: EDIT PASTE
+[2020.11.17-23.57.36:013][670]LogActorFactory: Actor Factory created WallFloor2_09
+[2020.11.17-23.57.36:716][710]LogActorFactory: Actor Factory created WallFloor2_09
+[2020.11.17-23.57.37:082][726]Cmd: TRANSACTION UNDO
+[2020.11.17-23.57.37:083][726]LogEditorTransaction: Undo Create Actors
+[2020.11.17-23.57.37:836][743]LogActorFactory: Actor Factory created WallFloor2_08
+[2020.11.17-23.57.39:634][861]LogActorFactory: Actor Factory created WallFloor2_08
+[2020.11.17-23.57.51:112][591]LogActorFactory: Actor Factory created WallFloor2_05
+[2020.11.17-23.57.52:380][676]LogActorFactory: Actor Factory created WallFloor2_05
+[2020.11.17-23.57.58:597][  0]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallFloor2_34)
+[2020.11.17-23.58.01:424][208]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallFloor2_33)
+[2020.11.17-23.58.05:068][498]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallFloor2_34)
+[2020.11.17-23.58.15:972][201]Cmd: EDIT COPY
+[2020.11.17-23.58.16:208][217]Cmd: EDIT PASTE
+[2020.11.17-23.58.23:480][704]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_26)
+[2020.11.18-00.01.42:271][870]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SmartHome3)
+[2020.11.18-00.02.08:306][792]Cmd: ACTOR HIDE SELECTED
+[2020.11.18-00.02.14:674][215]LogActorFactory: Actor Factory created WallFloor2_08
+[2020.11.18-00.02.16:142][326]LogActorFactory: Actor Factory created WallFloor2_08
+[2020.11.18-00.02.38:422][644]LogStaticMesh: Building static mesh WallFloor2_13...
+[2020.11.18-00.02.38:489][644]LogStaticMesh: Built static mesh [0.07s] /Game/LowPolyInterior/Meshes/Walls/WallFloor2_13.WallFloor2_13
+[2020.11.18-00.02.38:523][644]LogActorFactory: Actor Factory created WallFloor2_13
+[2020.11.18-00.02.39:696][707]LogActorFactory: Actor Factory created WallFloor2_13
+[2020.11.18-00.02.40:911][776]Cmd: TRANSACTION UNDO
+[2020.11.18-00.02.40:911][776]LogEditorTransaction: Undo Create Actors
+[2020.11.18-00.02.43:123][853]LogActorFactory: Actor Factory created WallFloor2_16
+[2020.11.18-00.02.44:226][917]LogActorFactory: Actor Factory created WallFloor2_16
+[2020.11.18-00.02.44:830][952]LogActorFactory: Actor Factory created WallFloor2_16
+[2020.11.18-00.02.50:910][407]Cmd: TRANSACTION UNDO
+[2020.11.18-00.02.50:910][407]LogEditorTransaction: Undo Rotate Actors
+[2020.11.18-00.02.51:794][451]Cmd: TRANSACTION UNDO
+[2020.11.18-00.02.51:794][451]LogEditorTransaction: Undo Create Actors
+[2020.11.18-00.03.06:608][208]LogActorFactory: Actor Factory created WallFloor2_05
+[2020.11.18-00.03.07:390][255]LogActorFactory: Actor Factory created WallFloor2_05
+[2020.11.18-00.03.26:231][234]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallFloor2_37)
+[2020.11.18-00.04.00:828][325]LogActorFactory: Actor Factory created WallFloor2_05
+[2020.11.18-00.04.01:478][357]LogActorFactory: Actor Factory created WallFloor2_05
+[2020.11.18-00.04.13:771][ 89]Cmd: TRANSACTION UNDO
+[2020.11.18-00.04.13:771][ 89]LogEditorTransaction: Undo Move Actors
+[2020.11.18-00.04.20:214][468]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallFloor2_36)
+[2020.11.18-00.04.23:187][653]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallFloor2_38)
+[2020.11.18-00.04.31:833][293]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallFloor2_37)
+[2020.11.18-00.05.03:149][ 47]Cmd: ACTOR HIDE SELECTED
+[2020.11.18-00.05.06:698][381]LogActorFactory: Actor Factory created WallFloor2_05
+[2020.11.18-00.05.08:160][514]LogActorFactory: Actor Factory created WallFloor2_05
+[2020.11.18-00.05.13:892][899]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallFloor2_39)
+[2020.11.18-00.05.28:553][ 46]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_04)
+[2020.11.18-00.05.30:533][171]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallFloor2_39)
+[2020.11.18-00.05.45:658][255]Cmd: ACTOR HIDE SELECTED
+[2020.11.18-00.05.48:715][453]Cmd: ACTOR HIDE SELECTED
+[2020.11.18-00.05.51:886][607]LogActorFactory: Actor Factory created WallFloor2_08
+[2020.11.18-00.05.53:018][674]LogActorFactory: Actor Factory created WallFloor2_08
+[2020.11.18-00.06.24:293][998]LogActorFactory: Actor Factory created WallFloor2_16
+[2020.11.18-00.06.25:257][ 56]LogActorFactory: Actor Factory created WallFloor2_16
+[2020.11.18-00.06.32:194][532]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallFloor2_41)
+[2020.11.18-00.06.33:099][596]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallFloor2_41)
+[2020.11.18-00.06.38:350][ 18]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallFloor2_39)
+[2020.11.18-00.06.39:169][ 81]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallFloor2_41)
+[2020.11.18-00.06.52:991][993]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallFloor2_40)
+[2020.11.18-00.07.08:087][161]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_7)
+[2020.11.18-00.07.32:302][975]LogActorFactory: Actor Factory created WallFloor2_05
+[2020.11.18-00.07.33:059][ 29]LogActorFactory: Actor Factory created WallFloor2_05
+[2020.11.18-00.07.36:696][360]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallFloor2_40)
+[2020.11.18-00.07.45:118][ 64]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallFloor2_42)
+[2020.11.18-00.07.50:164][444]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallFloor2_42)
+[2020.11.18-00.11.53:230][136]Cmd: ACTOR HIDE SELECTED
+[2020.11.18-00.11.58:288][458]LogActorFactory: Actor Factory created WallFloor2_06
+[2020.11.18-00.12.01:510][725]LogActorFactory: Actor Factory created WallFloor2_06
+[2020.11.18-00.12.13:378][607]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallFloor2_43)
+[2020.11.18-00.12.25:186][431]Cmd: DELETE
+[2020.11.18-00.12.25:186][431]Cmd: ACTOR DELETE
+[2020.11.18-00.12.25:198][431]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.11.18-00.12.25:213][431]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2020.11.18-00.12.25:222][431]LogEditorActor: Deleted 1 Actors (0.036 secs)
+[2020.11.18-00.12.27:169][539]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallFloor2_06)
+[2020.11.18-00.12.28:726][616]Cmd: EDIT COPY
+[2020.11.18-00.12.29:462][652]Cmd: EDIT PASTE
+[2020.11.18-00.12.40:931][211]Cmd: EDIT COPY
+[2020.11.18-00.12.41:121][219]Cmd: EDIT PASTE
+[2020.11.18-00.13.02:159][663]LogActorFactory: Actor Factory created WallFloor2_05
+[2020.11.18-00.13.03:211][733]LogActorFactory: Actor Factory created WallFloor2_05
+[2020.11.18-00.13.03:472][751]Cmd: TRANSACTION UNDO
+[2020.11.18-00.13.03:472][751]LogEditorTransaction: Undo Create Actors
+[2020.11.18-00.13.05:552][861]LogActorFactory: Actor Factory created WallFloor2_05
+[2020.11.18-00.13.06:709][942]LogActorFactory: Actor Factory created WallFloor2_05
+[2020.11.18-00.13.22:533][840]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallFloor2_45)
+[2020.11.18-00.13.29:019][320]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallFloor2_44)
+[2020.11.18-00.13.35:475][851]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallFloor2_45)
+[2020.11.18-00.13.44:362][445]Cmd: EDIT COPY
+[2020.11.18-00.13.44:698][472]Cmd: EDIT PASTE
+[2020.11.18-00.13.48:575][767]Cmd: EDIT COPY
+[2020.11.18-00.13.48:815][786]Cmd: EDIT PASTE
+[2020.11.18-00.13.59:623][547]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Curtains_3)
+[2020.11.18-00.14.05:100][979]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Curtains_3)
+[2020.11.18-00.14.13:120][590]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Bed1_02)
+[2020.11.18-00.14.24:150][296]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallFloor2_47)
+[2020.11.18-00.14.25:482][355]Cmd: EDIT COPY
+[2020.11.18-00.14.25:743][366]Cmd: EDIT PASTE
+[2020.11.18-00.14.38:399][932]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallFloor2_48)
+[2020.11.18-00.15.21:028][ 31]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallFloor2_48)
+[2020.11.18-00.15.24:359][210]Cmd: TRANSACTION UNDO
+[2020.11.18-00.15.24:359][210]LogEditorTransaction: Undo Scale Actors
+[2020.11.18-00.15.30:410][544]Cmd: EDIT COPY
+[2020.11.18-00.15.30:639][566]Cmd: EDIT PASTE
+[2020.11.18-00.15.54:299][961]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_8)
+[2020.11.18-00.15.55:603][ 24]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallFloor2_49)
+[2020.11.18-00.16.19:474][809]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (KitchenTabletop2_04)
+[2020.11.18-00.16.45:102][574]LogClient: High resolution screenshot saved as C:/Users/13307/Documents/GitHub/Trash_King/TrashKingProto_2_0/Saved/Screenshots/Windows/HighresScreenshot00008.png
+[2020.11.18-00.17.09:457][875]LogClient: High resolution screenshot saved as C:/Users/13307/Documents/GitHub/Trash_King/TrashKingProto_2_0/Saved/Screenshots/Windows/HighresScreenshot00009.png
+[2020.11.18-00.18.52:353][299]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallFloor2_49)
+[2020.11.18-00.19.04:675][331]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallFloor2_32)
+[2020.11.18-00.19.18:084][275]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallFloor2_29)
+[2020.11.18-00.19.31:813][191]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallFloor2_32)
+[2020.11.18-00.19.39:671][724]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallFloor2_26)
+[2020.11.18-00.19.47:841][319]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallFloor2_27)
+[2020.11.18-00.19.50:453][502]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallFloor2_26)
+[2020.11.18-00.19.54:599][783]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Prop_Door_3)
+[2020.11.18-00.20.11:686][313]LogSlate: Window 'High Resolution Screenshot' being destroyed
+[2020.11.18-00.20.13:234][408]LogActorFactory: Actor Factory created WallFloor2_05
+[2020.11.18-00.20.15:034][578]LogActorFactory: Actor Factory created WallFloor2_05
+[2020.11.18-00.20.32:096][159]Cmd: ACTOR HIDE SELECTED
+[2020.11.18-00.20.33:362][287]Cmd: ACTOR HIDE SELECTED
+[2020.11.18-00.20.34:066][363]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.11.18-00.20.34:414][363]Cmd: ACTOR HIDE SELECTED
+[2020.11.18-00.20.37:712][676]Cmd: ACTOR HIDE SELECTED
+[2020.11.18-00.20.38:872][791]Cmd: ACTOR HIDE SELECTED
+[2020.11.18-00.20.40:094][919]Cmd: ACTOR HIDE SELECTED
+[2020.11.18-00.20.41:666][ 33]LogActorFactory: Actor Factory created WallFloor2_09
+[2020.11.18-00.20.42:998][142]LogActorFactory: Actor Factory created WallFloor2_09
+[2020.11.18-00.21.06:821][918]LogActorFactory: Actor Factory created WallFloor2_05
+[2020.11.18-00.21.08:119][ 32]LogActorFactory: Actor Factory created WallFloor2_05
+[2020.11.18-00.21.19:047][770]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallFloor2_52)
+[2020.11.18-00.21.39:258][305]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallFloor2_51)
+[2020.11.18-00.21.44:213][711]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallFloor2_52)
+[2020.11.18-00.21.48:431][ 28]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallFloor2_52)
+[2020.11.18-00.22.01:087][155]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2020.11.18-00.22.01:207][155]LogSavePackage: Moving 'C:/Users/13307/Documents/GitHub/Trash_King/TrashKingProto_2_0/Saved/ApartmentComplexF82CC09240D95A378351F0ABA18B6E1E.tmp' to 'C:/Users/13307/Documents/GitHub/Trash_King/TrashKingProto_2_0/Content/Levels/ApartmentComplex.umap'
+[2020.11.18-00.22.01:529][155]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/ApartmentComplex_BuiltData" FILE="C:/Users/13307/Documents/GitHub/Trash_King/TrashKingProto_2_0/Content/Levels/ApartmentComplex_BuiltData.uasset" SILENT=true
+[2020.11.18-00.22.02:064][155]LogSavePackage: Moving 'C:/Users/13307/Documents/GitHub/Trash_King/TrashKingProto_2_0/Saved/ApartmentComplex_BuiltData2B47EE7A45A4420F0A7840ABD23CC41E.tmp' to 'C:/Users/13307/Documents/GitHub/Trash_King/TrashKingProto_2_0/Content/Levels/ApartmentComplex_BuiltData.uasset'
+[2020.11.18-00.22.02:080][155]AssetCheck: New page: Asset Save: multiple assets
+[2020.11.18-00.22.02:080][155]LogContentValidation: Display: Validating World /Game/Levels/ApartmentComplex.ApartmentComplex
+[2020.11.18-00.22.02:080][155]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/ApartmentComplex_BuiltData.ApartmentComplex_BuiltData
+[2020.11.18-00.22.04:196][267]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2020.11.18-00.22.09:597][718]LogActorFactory: Actor Factory created WallFloor2_05
+[2020.11.18-00.22.11:318][859]LogActorFactory: Actor Factory created WallFloor2_05
+[2020.11.18-00.22.12:416][945]Cmd: TRANSACTION UNDO
+[2020.11.18-00.22.12:416][945]LogEditorTransaction: Undo Create Actors
+[2020.11.18-00.22.13:689][985]LogActorFactory: Actor Factory created WallFloor2_05
+[2020.11.18-00.22.14:845][ 74]LogActorFactory: Actor Factory created WallFloor2_05
+[2020.11.18-00.22.15:165][102]Cmd: TRANSACTION UNDO
+[2020.11.18-00.22.15:165][102]LogEditorTransaction: Undo Create Actors
+[2020.11.18-00.22.17:834][304]LogActorFactory: Actor Factory created WallFloor2_05
+[2020.11.18-00.22.18:505][359]LogActorFactory: Actor Factory created WallFloor2_05
+[2020.11.18-00.22.36:071][651]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallFloor2_51)
+[2020.11.18-00.22.46:811][684]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallFloor2_53)
+[2020.11.18-00.22.48:406][835]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallFloor2_51)
+[2020.11.18-00.22.51:214][ 89]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallFloor2_53)
+[2020.11.18-00.22.52:521][212]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallFloor2_51)
+[2020.11.18-00.22.55:108][388]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallFloor2_53)
+[2020.11.18-00.23.00:748][793]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_7)
+[2020.11.18-00.23.00:916][805]Cmd: TRANSACTION UNDO
+[2020.11.18-00.23.00:916][805]LogEditorTransaction: Undo Clicking on Actors
+[2020.11.18-00.23.01:302][813]Cmd: TRANSACTION UNDO
+[2020.11.18-00.23.01:302][813]LogEditorTransaction: Undo Set Location
+[2020.11.18-00.23.02:511][915]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallFloor2_51)
+[2020.11.18-00.23.03:103][959]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallFloor2_53)
+[2020.11.18-00.23.06:828][235]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallFloor2_51)
+[2020.11.18-00.23.14:554][857]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallFloor2_53)
+[2020.11.18-00.23.27:656][825]Cmd: ACTOR HIDE SELECTED
+[2020.11.18-00.23.28:411][872]Cmd: ACTOR HIDE SELECTED
+[2020.11.18-00.23.33:350][147]LogStaticMesh: Building static mesh WallFloor2_04...
+[2020.11.18-00.23.33:411][147]LogStaticMesh: Built static mesh [0.06s] /Game/LowPolyInterior/Meshes/Walls/WallFloor2_04.WallFloor2_04
+[2020.11.18-00.23.33:440][147]LogActorFactory: Actor Factory created WallFloor2_04
+[2020.11.18-00.23.35:091][259]LogActorFactory: Actor Factory created WallFloor2_04
+[2020.11.18-00.24.13:467][989]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallFloor2_50)
+[2020.11.18-00.24.21:818][495]Cmd: TRANSACTION UNDO
+[2020.11.18-00.24.21:818][495]LogEditorTransaction: Undo Move Actors
+[2020.11.18-00.24.46:541][761]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallFloor2_37)
+[2020.11.18-00.25.20:367][593]Cmd: ACTOR HIDE SELECTED
+[2020.11.18-00.25.29:181][ 86]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallFloor2_37)
+[2020.11.18-00.25.30:352][138]Cmd: EDIT COPY
+[2020.11.18-00.25.30:636][152]Cmd: EDIT PASTE
+[2020.11.18-00.26.16:270][361]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallFloor2_52)
+[2020.11.18-00.26.19:166][620]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (WallFloor2_54)
+[2020.11.18-00.26.19:983][686]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallFloor2_52)
+[2020.11.18-00.26.28:463][398]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallFloor2_10)
+[2020.11.18-00.26.29:344][484]Cmd: DELETE
+[2020.11.18-00.26.29:344][484]Cmd: ACTOR DELETE
+[2020.11.18-00.26.29:356][484]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.11.18-00.26.29:370][484]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2020.11.18-00.26.29:375][484]LogEditorActor: Deleted 1 Actors (0.030 secs)
+[2020.11.18-00.26.32:100][781]Cmd: ACTOR HIDE SELECTED
+[2020.11.18-00.26.41:914][790]LogActorFactory: Actor Factory created WallFloor2_09
+[2020.11.18-00.26.44:441][ 21]LogActorFactory: Actor Factory created WallFloor2_09
+[2020.11.18-00.26.45:301][111]Cmd: TRANSACTION UNDO
+[2020.11.18-00.26.45:301][111]LogEditorTransaction: Undo Create Actors
+[2020.11.18-00.26.47:592][269]LogActorFactory: Actor Factory created WallFloor2_09
+[2020.11.18-00.26.48:078][311]LogActorFactory: Actor Factory created WallFloor2_09
+[2020.11.18-00.27.00:278][117]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_12)
+[2020.11.18-00.27.00:974][189]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallFloor2_52)
+[2020.11.18-00.27.04:567][487]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallFloor2_10)
+[2020.11.18-00.27.08:826][816]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallFloor2_10)
+[2020.11.18-00.27.09:564][889]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallFloor2_10)
+[2020.11.18-00.27.32:875][114]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_19)
+[2020.11.18-00.27.56:472][699]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (FOUNDATION_STATIC)
+[2020.11.18-00.27.56:653][712]Cmd: TRANSACTION UNDO
+[2020.11.18-00.27.56:654][712]LogEditorTransaction: Undo Clicking on Actors
+[2020.11.18-00.27.57:042][719]Cmd: TRANSACTION UNDO
+[2020.11.18-00.27.57:042][719]LogEditorTransaction: Undo Set Location
+[2020.11.18-00.28.48:193][586]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallFloor2_10)
+[2020.11.18-00.29.03:221][770]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_19)
+[2020.11.18-00.29.17:660][954]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Sofa_03)
+[2020.11.18-00.29.23:103][374]LogActorFactory: Actor Factory created WallFloor2_08
+[2020.11.18-00.29.25:604][555]LogActorFactory: Actor Factory created WallFloor2_08
+[2020.11.18-00.29.32:243][ 24]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallFloor2_55)
+[2020.11.18-00.29.36:280][364]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Door_6)
+[2020.11.18-00.29.37:341][456]Cmd: DELETE
+[2020.11.18-00.29.37:342][456]Cmd: ACTOR DELETE
+[2020.11.18-00.29.37:352][456]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.11.18-00.29.37:457][456]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2020.11.18-00.29.37:461][456]LogEditorActor: Deleted 1 Actors (0.120 secs)
+[2020.11.18-00.29.40:693][776]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallFloor2_55)
+[2020.11.18-00.29.59:722][369]LogActorFactory: Actor Factory created Door_04
+[2020.11.18-00.30.02:152][568]LogActorFactory: Actor Factory created Door_04
+[2020.11.18-00.30.14:825][583]LogActorFactory: Actor Factory created WallFloor1_08
+[2020.11.18-00.30.16:570][703]LogActorFactory: Actor Factory created WallFloor1_08
+[2020.11.18-00.30.40:640][413]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallFloor2_55)
+[2020.11.18-00.30.55:718][513]LogStaticMesh: Building static mesh WallFloor1_09...
+[2020.11.18-00.30.55:769][513]LogStaticMesh: Built static mesh [0.05s] /Game/LowPolyInterior/Meshes/Walls/WallFloor1_09.WallFloor1_09
+[2020.11.18-00.30.56:134][513]LogActorFactory: Actor Factory created WallFloor1_09
+[2020.11.18-00.30.56:939][569]LogActorFactory: Actor Factory created WallFloor1_09
+[2020.11.18-00.30.57:259][595]Cmd: TRANSACTION UNDO
+[2020.11.18-00.30.57:259][595]LogEditorTransaction: Undo Create Actors
+[2020.11.18-00.30.58:070][621]LogStaticMesh: Building static mesh WallFloor2_14...
+[2020.11.18-00.30.58:121][621]LogStaticMesh: Built static mesh [0.05s] /Game/LowPolyInterior/Meshes/Walls/WallFloor2_14.WallFloor2_14
+[2020.11.18-00.30.58:175][622]LogActorFactory: Actor Factory created WallFloor2_14
+[2020.11.18-00.31.00:320][773]LogActorFactory: Actor Factory created WallFloor2_14
+[2020.11.18-00.31.00:569][792]Cmd: TRANSACTION UNDO
+[2020.11.18-00.31.00:569][792]LogEditorTransaction: Undo Create Actors
+[2020.11.18-00.31.04:444][966]LogActorFactory: Actor Factory created WallFloor2_05
+[2020.11.18-00.31.05:067][  9]LogActorFactory: Actor Factory created WallFloor2_05
+[2020.11.18-00.31.21:808][ 27]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallFloor2_56)
+[2020.11.18-00.31.25:834][315]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallFloor1_08)
+[2020.11.18-00.31.28:514][520]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallFloor2_56)
+[2020.11.18-00.32.00:788][661]LogStaticMesh: Building static mesh Wall_01...
+[2020.11.18-00.32.00:850][661]LogStaticMesh: Built static mesh [0.06s] /Game/LowPolyInterior/Meshes/Walls/Wall_01.Wall_01
+[2020.11.18-00.32.00:880][661]LogActorFactory: Actor Factory created Wall_01
+[2020.11.18-00.32.01:865][720]LogActorFactory: Actor Factory created Wall_01
+[2020.11.18-00.32.05:100][883]Cmd: TRANSACTION UNDO
+[2020.11.18-00.32.05:100][883]LogEditorTransaction: Undo Create Actors
+[2020.11.18-00.32.10:118][109]LogStaticMesh: Building static mesh Wall_09...
+[2020.11.18-00.32.10:174][109]LogStaticMesh: Built static mesh [0.05s] /Game/LowPolyInterior/Meshes/Walls/Wall_09.Wall_09
+[2020.11.18-00.32.10:236][110]LogActorFactory: Actor Factory created Wall_09
+[2020.11.18-00.32.10:748][146]LogActorFactory: Actor Factory created Wall_09
+[2020.11.18-00.32.11:321][179]Cmd: TRANSACTION UNDO
+[2020.11.18-00.32.11:321][179]LogEditorTransaction: Undo Create Actors
+[2020.11.18-00.32.12:369][204]LogActorFactory: Actor Factory created WallFloor2_01
+[2020.11.18-00.32.12:710][225]LogActorFactory: Actor Factory created WallFloor2_01
+[2020.11.18-00.32.14:979][331]Cmd: TRANSACTION UNDO
+[2020.11.18-00.32.14:979][331]LogEditorTransaction: Undo Create Actors
+[2020.11.18-00.32.16:062][360]LogActorFactory: Actor Factory created WallFloor2_05
+[2020.11.18-00.32.16:454][379]LogActorFactory: Actor Factory created WallFloor2_05
+[2020.11.18-00.32.17:166][418]Cmd: TRANSACTION UNDO
+[2020.11.18-00.32.17:166][418]LogEditorTransaction: Undo Create Actors
+[2020.11.18-00.32.19:996][553]LogStaticMesh: Building static mesh WallFloor2_23...
+[2020.11.18-00.32.20:047][553]LogStaticMesh: Built static mesh [0.05s] /Game/LowPolyInterior/Meshes/Walls/WallFloor2_23.WallFloor2_23
+[2020.11.18-00.32.20:082][553]LogActorFactory: Actor Factory created WallFloor2_23
+[2020.11.18-00.32.20:418][572]LogActorFactory: Actor Factory created WallFloor2_23
+[2020.11.18-00.32.20:979][604]Cmd: TRANSACTION UNDO
+[2020.11.18-00.32.20:979][604]LogEditorTransaction: Undo Create Actors
+[2020.11.18-00.32.23:288][687]LogStaticMesh: Building static mesh WallFloor2_12...
+[2020.11.18-00.32.23:351][687]LogStaticMesh: Built static mesh [0.06s] /Game/LowPolyInterior/Meshes/Walls/WallFloor2_12.WallFloor2_12
+[2020.11.18-00.32.23:380][687]LogActorFactory: Actor Factory created WallFloor2_12
+[2020.11.18-00.32.23:660][701]LogActorFactory: Actor Factory created WallFloor2_12
+[2020.11.18-00.32.25:204][772]Cmd: TRANSACTION UNDO
+[2020.11.18-00.32.25:204][772]LogEditorTransaction: Undo Create Actors
+[2020.11.18-00.32.28:295][888]LogStaticMesh: Building static mesh WallFloor2_15...
+[2020.11.18-00.32.28:337][888]LogStaticMesh: Built static mesh [0.04s] /Game/LowPolyInterior/Meshes/Walls/WallFloor2_15.WallFloor2_15
+[2020.11.18-00.32.28:394][889]LogActorFactory: Actor Factory created WallFloor2_15
+[2020.11.18-00.32.28:604][898]LogActorFactory: Actor Factory created WallFloor2_15
+[2020.11.18-00.32.28:960][917]Cmd: TRANSACTION UNDO
+[2020.11.18-00.32.28:960][917]LogEditorTransaction: Undo Create Actors
+[2020.11.18-00.32.32:723][ 55]LogActorFactory: Actor Factory created WallFloor2_05
+[2020.11.18-00.32.33:256][ 80]LogActorFactory: Actor Factory created WallFloor2_05
+[2020.11.18-00.33.18:520][202]LogActorFactory: Actor Factory created WallFloor2_13
+[2020.11.18-00.33.19:189][243]LogActorFactory: Actor Factory created WallFloor2_13
+[2020.11.18-00.33.25:713][839]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.11.18-00.33.41:056][843]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallFloor2_57)
+[2020.11.18-00.33.48:085][209]LogActorFactory: Actor Factory created WallFloor2_13
+[2020.11.18-00.33.49:350][280]LogActorFactory: Actor Factory created WallFloor2_13
+[2020.11.18-00.33.50:474][350]Cmd: TRANSACTION UNDO
+[2020.11.18-00.33.50:474][350]LogEditorTransaction: Undo Create Actors
+[2020.11.18-00.34.04:020][879]LogActorFactory: Actor Factory created WallFloor2_16
+[2020.11.18-00.34.05:459][959]LogActorFactory: Actor Factory created WallFloor2_16
+[2020.11.18-00.34.11:277][313]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallFloor1_08)
+[2020.11.18-00.34.13:505][457]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallFloor2_59)
+[2020.11.18-00.34.17:960][727]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallFloor1_08)
+[2020.11.18-00.34.20:485][848]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallFloor2_59)
+[2020.11.18-00.34.30:307][334]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallFloor2_59)
+[2020.11.18-00.34.31:014][367]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallFloor1_08)
+[2020.11.18-00.34.32:897][459]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallFloor2_59)
+[2020.11.18-00.34.47:720][267]LogActorFactory: Actor Factory created WallFloor2_05
+[2020.11.18-00.34.48:596][326]LogActorFactory: Actor Factory created WallFloor2_05
+[2020.11.18-00.35.42:042][915]LogActorFactory: Actor Factory created WallFloor2_05
+[2020.11.18-00.35.42:584][940]LogActorFactory: Actor Factory created WallFloor2_05
+[2020.11.18-00.36.25:808][ 38]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallFloor2_59)
+[2020.11.18-00.36.38:650][902]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Sofa_03)
+[2020.11.18-00.36.47:486][472]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallFloor2_58)
+[2020.11.18-00.36.48:366][529]Cmd: DELETE
+[2020.11.18-00.36.48:367][529]Cmd: ACTOR DELETE
+[2020.11.18-00.36.48:377][529]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.11.18-00.36.48:392][529]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2020.11.18-00.36.48:397][529]LogEditorActor: Deleted 1 Actors (0.030 secs)
+[2020.11.18-00.36.53:081][830]LogActorFactory: Actor Factory created WallFloor2_05
+[2020.11.18-00.36.53:813][872]LogActorFactory: Actor Factory created WallFloor2_05
+[2020.11.18-00.37.23:957][174]LogActorFactory: Actor Factory created WallFloor2_13
+[2020.11.18-00.37.26:568][296]LogActorFactory: Actor Factory created WallFloor2_13
+[2020.11.18-00.37.28:606][370]Cmd: TRANSACTION UNDO
+[2020.11.18-00.37.28:606][370]LogEditorTransaction: Undo Create Actors
+[2020.11.18-00.37.29:199][379]LogActorFactory: Actor Factory created WallFloor2_16
+[2020.11.18-00.37.30:121][417]LogActorFactory: Actor Factory created WallFloor2_16
+[2020.11.18-00.37.37:402][743]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallFloor2_62)
+[2020.11.18-00.37.43:490][964]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallFloor2_62)
+[2020.11.18-00.37.52:415][337]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_23)
+[2020.11.18-00.37.59:362][720]Cmd: ACTOR HIDE SELECTED
+[2020.11.18-00.38.00:621][789]Cmd: ACTOR HIDE SELECTED
+[2020.11.18-00.38.02:764][957]Cmd: ACTOR HIDE SELECTED
+[2020.11.18-00.38.08:523][360]LogActorFactory: Actor Factory created WallFloor2_09
+[2020.11.18-00.38.09:612][440]LogActorFactory: Actor Factory created WallFloor2_09
+[2020.11.18-00.38.21:741][274]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallFloor2_63)
+[2020.11.18-00.38.44:262][841]LogActorFactory: Actor Factory created WallFloor2_05
+[2020.11.18-00.38.46:801][ 30]LogActorFactory: Actor Factory created WallFloor2_05
+[2020.11.18-00.38.59:793][869]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallFloor2_63)
+[2020.11.18-00.39.05:072][219]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallFloor2_64)
+[2020.11.18-00.39.08:858][447]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallFloor2_64)
+[2020.11.18-00.39.10:476][570]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallFloor2_64)
+[2020.11.18-00.39.23:637][591]Cmd: EDIT COPY
+[2020.11.18-00.39.23:788][602]Cmd: EDIT PASTE
+[2020.11.18-00.40.58:836][638]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2020.11.18-00.40.58:958][638]LogSavePackage: Moving 'C:/Users/13307/Documents/GitHub/Trash_King/TrashKingProto_2_0/Saved/ApartmentComplex7546CA4A488830D8376BEB9446239953.tmp' to 'C:/Users/13307/Documents/GitHub/Trash_King/TrashKingProto_2_0/Content/Levels/ApartmentComplex.umap'
+[2020.11.18-00.40.59:297][638]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/ApartmentComplex_BuiltData" FILE="C:/Users/13307/Documents/GitHub/Trash_King/TrashKingProto_2_0/Content/Levels/ApartmentComplex_BuiltData.uasset" SILENT=true
+[2020.11.18-00.40.59:793][638]LogSavePackage: Moving 'C:/Users/13307/Documents/GitHub/Trash_King/TrashKingProto_2_0/Saved/ApartmentComplex_BuiltData8F2528F5408D4B38EBE9D4AB95E22331.tmp' to 'C:/Users/13307/Documents/GitHub/Trash_King/TrashKingProto_2_0/Content/Levels/ApartmentComplex_BuiltData.uasset'
+[2020.11.18-00.40.59:806][638]AssetCheck: New page: Asset Save: multiple assets
+[2020.11.18-00.40.59:806][638]LogContentValidation: Display: Validating World /Game/Levels/ApartmentComplex.ApartmentComplex
+[2020.11.18-00.40.59:806][638]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/ApartmentComplex_BuiltData.ApartmentComplex_BuiltData
+[2020.11.18-00.41.02:544][772]LogRenderer: Reallocating scene render targets to support 1252x616 Format 9 NumSamples 1 (Frame:1110361).
+[2020.11.18-00.41.02:605][773]LogRenderer: Reallocating scene render targets to support 1316x616 Format 9 NumSamples 1 (Frame:1110363).
+[2020.11.18-00.41.02:651][774]LogRenderer: Reallocating scene render targets to support 1344x616 Format 9 NumSamples 1 (Frame:1110365).
+[2020.11.18-00.41.10:603][208]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2020.11.18-00.41.15:145][455]SourceControl: fatal: D:/UNREAL/UE_4.25/Engine/Content: 'D:/UNREAL/UE_4.25/Engine/Content' is outside repository at 'C:/Users/13307/Documents/GitHub/Trash_King'
+[2020.11.18-00.41.15:145][455]SourceControl: fatal: D:/UNREAL/UE_4.25/Engine/Plugins/2D/Paper2D/Content: 'D:/UNREAL/UE_4.25/Engine/Plugins/2D/Paper2D/Content' is outside repository at 'C:/Users/13307/Documents/GitHub/Trash_King'
+[2020.11.18-00.41.15:145][455]SourceControl: fatal: D:/UNREAL/UE_4.25/Engine/Plugins/Developer/AnimationSharing/Content: 'D:/UNREAL/UE_4.25/Engine/Plugins/Developer/AnimationSharing/Content' is outside repository at 'C:/Users/13307/Documents/GitHub/Trash_King'
+[2020.11.18-00.41.15:145][455]SourceControl: fatal: D:/UNREAL/UE_4.25/Engine/Plugins/Editor/GeometryMode/Content: 'D:/UNREAL/UE_4.25/Engine/Plugins/Editor/GeometryMode/Content' is outside repository at 'C:/Users/13307/Documents/GitHub/Trash_King'
+[2020.11.18-00.41.15:145][455]SourceControl: fatal: D:/UNREAL/UE_4.25/Engine/Plugins/Enterprise/DatasmithContent/Content: 'D:/UNREAL/UE_4.25/Engine/Plugins/Enterprise/DatasmithContent/Content' is outside repository at 'C:/Users/13307/Documents/GitHub/Trash_King'
+[2020.11.18-00.41.15:145][455]SourceControl: fatal: D:/UNREAL/UE_4.25/Engine/Plugins/Experimental/ChaosClothEditor/Content: 'D:/UNREAL/UE_4.25/Engine/Plugins/Experimental/ChaosClothEditor/Content' is outside repository at 'C:/Users/13307/Documents/GitHub/Trash_King'
+[2020.11.18-00.41.15:145][455]SourceControl: fatal: D:/UNREAL/UE_4.25/Engine/Plugins/Experimental/ChaosNiagara/Content: 'D:/UNREAL/UE_4.25/Engine/Plugins/Experimental/ChaosNiagara/Content' is outside repository at 'C:/Users/13307/Documents/GitHub/Trash_King'
+[2020.11.18-00.41.15:145][455]SourceControl: fatal: D:/UNREAL/UE_4.25/Engine/Plugins/Experimental/ChaosSolverPlugin/Content: 'D:/UNREAL/UE_4.25/Engine/Plugins/Experimental/ChaosSolverPlugin/Content' is outside repository at 'C:/Users/13307/Documents/GitHub/Trash_King'
+[2020.11.18-00.41.15:145][455]SourceControl: fatal: D:/UNREAL/UE_4.25/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content: 'D:/UNREAL/UE_4.25/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content' is outside repository at 'C:/Users/13307/Documents/GitHub/Trash_King'
+[2020.11.18-00.41.15:145][455]SourceControl: fatal: D:/UNREAL/UE_4.25/Engine/Plugins/Experimental/GeometryProcessing/Content: 'D:/UNREAL/UE_4.25/Engine/Plugins/Experimental/GeometryProcessing/Content' is outside repository at 'C:/Users/13307/Documents/GitHub/Trash_King'
+[2020.11.18-00.41.15:145][455]SourceControl: fatal: D:/UNREAL/UE_4.25/Engine/Plugins/FX/Niagara/Content: 'D:/UNREAL/UE_4.25/Engine/Plugins/FX/Niagara/Content' is outside repository at 'C:/Users/13307/Documents/GitHub/Trash_King'
+[2020.11.18-00.41.15:145][455]SourceControl: fatal: D:/UNREAL/UE_4.25/Engine/Plugins/Lumin/MagicLeap/Content: 'D:/UNREAL/UE_4.25/Engine/Plugins/Lumin/MagicLeap/Content' is outside repository at 'C:/Users/13307/Documents/GitHub/Trash_King'
+[2020.11.18-00.41.15:145][455]SourceControl: fatal: D:/UNREAL/UE_4.25/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content: 'D:/UNREAL/UE_4.25/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content' is outside repository at 'C:/Users/13307/Documents/GitHub/Trash_King'
+[2020.11.18-00.41.15:145][455]SourceControl: fatal: D:/UNREAL/UE_4.25/Engine/Plugins/Media/MediaCompositing/Content: 'D:/UNREAL/UE_4.25/Engine/Plugins/Media/MediaCompositing/Content' is outside repository at 'C:/Users/13307/Documents/GitHub/Trash_King'
+[2020.11.18-00.41.15:145][455]SourceControl: fatal: D:/UNREAL/UE_4.25/Engine/Plugins/MovieScene/MovieRenderPipeline/Content: 'D:/UNREAL/UE_4.25/Engine/Plugins/MovieScene/MovieRenderPipeline/Content' is outside repository at 'C:/Users/13307/Documents/GitHub/Trash_King'
+[2020.11.18-00.41.15:145][455]SourceControl: fatal: D:/UNREAL/UE_4.25/Engine/Plugins/Runtime/Oculus/OculusVR/Content: 'D:/UNREAL/UE_4.25/Engine/Plugins/Runtime/Oculus/OculusVR/Content' is outside repository at 'C:/Users/13307/Documents/GitHub/Trash_King'
+[2020.11.18-00.41.15:145][455]SourceControl: fatal: D:/UNREAL/UE_4.25/Engine/Plugins/Runtime/PostSplashScreen/Content: 'D:/UNREAL/UE_4.25/Engine/Plugins/Runtime/PostSplashScreen/Content' is outside repository at 'C:/Users/13307/Documents/GitHub/Trash_King'
+[2020.11.18-00.41.15:145][455]SourceControl: fatal: D:/UNREAL/UE_4.25/Engine/Plugins/Runtime/Steam/SteamVR/Content: 'D:/UNREAL/UE_4.25/Engine/Plugins/Runtime/Steam/SteamVR/Content' is outside repository at 'C:/Users/13307/Documents/GitHub/Trash_King'
+[2020.11.18-00.41.32:276][455]LogSlate: Window 'Submit Files' being destroyed
+[2020.11.18-00.41.36:171][455]LogSourceControl: commit successful: [master 14f88ed] Interior Walls in Apartment done
+[2020.11.18-00.41.36:482][455]SourceControl: [master 14f88ed] Interior Walls in Apartment done
+[2020.11.18-00.41.36:482][455]SourceControl:  12 files changed, 0 insertions(+), 0 deletions(-)
+[2020.11.18-00.41.36:482][455]SourceControl:  create mode 100644 TrashKingProto_2_0/Content/FOUNDATION_STATIC.uasset
+[2020.11.18-00.41.36:482][455]SourceControl:  create mode 100644 TrashKingProto_2_0/Content/TEAMXX_ASSETS/Trashets/BIZZA_BOX/PizzaBox.uasset
+[2020.11.18-00.41.36:482][455]SourceControl:  create mode 100644 TrashKingProto_2_0/Content/TEAMXX_ASSETS/Trashets/BIZZA_BOX/PizzaBox_lambert1_BaseColor.uasset
+[2020.11.18-00.41.36:482][455]SourceControl:  create mode 100644 TrashKingProto_2_0/Content/TEAMXX_ASSETS/Trashets/BIZZA_BOX/Pizza_Box.uasset
+[2020.11.18-00.41.36:482][455]SourceControl:  create mode 100644 TrashKingProto_2_0/Content/TEAMXX_ASSETS/Trashets/Boogie_King_BOX/BoogieKingBox.uasset
+[2020.11.18-00.41.36:482][455]SourceControl:  create mode 100644 TrashKingProto_2_0/Content/TEAMXX_ASSETS/Trashets/Boogie_King_BOX/BoogieKingBox_lambert1_BaseColor.uasset
+[2020.11.18-00.41.36:482][455]SourceControl:  create mode 100644 TrashKingProto_2_0/Content/TEAMXX_ASSETS/Trashets/Boogie_King_BOX/BurgerBox.uasset
+[2020.11.18-00.41.36:482][455]SourceControl:  create mode 100644 TrashKingProto_2_0/Content/TEAMXX_ASSETS/Trashets/Bottle/B_Cap.uasset
+[2020.11.18-00.41.36:482][455]SourceControl:  create mode 100644 TrashKingProto_2_0/Content/TEAMXX_ASSETS/Trashets/Bottle/Bottle.uasset
+[2020.11.18-00.41.36:482][455]SourceControl:  create mode 100644 TrashKingProto_2_0/Content/TEAMXX_ASSETS/Trashets/Bottle/lambert7.uasset
+[2020.11.18-00.41.36:487][455]SourceControl: Commited [master 14f88ed] Interior Walls in Apartment done.
